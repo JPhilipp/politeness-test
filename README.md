@@ -13,4 +13,4 @@ Based on this test with 1000 tries of non-polite/ normal variant and a polite on
 
 If we count story text character count, it's a bit higher for the polite version, which isn't necessarily provable good or bad (and may simply follow the vibe of Please and Thanks generally resulting in a longer prompt).
 
-PS: This test notwithstanding, I will personally keep using Please and Thanks. For one thing, it may yield improvements in hard-to-test creative areas, or complex tasks (neither of which this test doesn't measure). On top, it's simply more polite to our LLM friend!
+PS: This test notwithstanding, I will personally keep using Please and Thanks. For one thing, it may yield improvements in hard-to-test creative areas, or complex tasks (neither of which this test measures). On top, it's simply more polite to our LLM friend!
