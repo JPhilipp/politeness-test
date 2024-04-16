@@ -1,0 +1,46 @@
+{
+  "title": "The Chronicles of Oscar Thompson: Planner Extraordinaire",
+  "summary": "Oscar Thompson discovers his ability to manipulate time through his planning skills, resolving crises and saving lives over the course of a week.",
+  "summaryGerman": "Oscar Thompson entdeckt seine Fähigkeit, durch seine Planungsfähigkeiten die Zeit zu manipulieren, löst Krisen und rettet im Laufe einer Woche Leben.",
+  "summaryDutch": "Oscar Thompson ontdekt zijn vermogen om tijd te manipuleren door zijn planningsvaardigheden, lost crises op en redt levens gedurende een week.",
+  "summaryFrench": "Oscar Thompson découvre sa capacité à manipuler le temps grâce à ses compétences en planification, résolvant des crises et sauvant des vies au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "As he organized his weekly agenda, Oscar felt a strange surge of energy. Unknown to him, his meticulous planning was setting the stage for discovering his unique powers.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While scheduling the local community event, Oscar accidentally stumbled on a time anomaly. This revelation piqued his curiosity and excitement.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesay",
+      "text": "Using his newfound ability, Oscar cautiously experimented, managing to undo a small but potentially hazardous incident at the event, feeling utterly triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Challenges arose as Oscar tried to refine his time-altering skills, leading to several near misses that left him feeling both exhilarated and slightly sad.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Embracing his role as a protector, Oscar planned a sequence of actions that prevented a major crisis, feeling the weight of his responsibilities but also the joy of success.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A romantic interest in the community noticed Oscar's secretive acts of heroism. Their support and admiration sparked a new, tender connection.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his extraordinary week, Oscar felt peaceful, knowing he had made his world a better place, and pondered the future possibilities of his powers.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "With every plan, Oscar shaped not only time but futures, discovering that true heroism lies in the intent behind each action.",
+  "moral": "Great power not only comes with great responsibility but also requires thoughtful planning and consideration."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Sue Morris: The Guiding Light",
+  "summary": "Sue Morris, a retired counselor aged 67, discovers her ability to see the future which guides her town through a week of challenges, using her wisdom to avert disasters and mend old conflicts.",
+  "summaryGerman": "Sue Morris, eine pensionierte Beraterin im Alter von 67 Jahren, entdeckt ihre Fähigkeit, die Zukunft zu sehen, die sie dazu benutzt, ihre Stadt durch eine Woche voller Herausforderungen zu führen, indem sie ihre Weisheit nutzt, um Katastrophen zu verhindern und alte Konflikte zu lösen.",
+  "summaryDutch": "Sue Morris, een gepensioneerde counselor van 67 jaar, ontdekt haar vermogen om de toekomst te zien, wat haar in staat stelt haar stad door een week van uitdagingen te leiden door haar wijsheid te gebruiken om rampen te voorkomen en oude conflicten te herstellen.",
+  "summaryFrench": "Sue Morris, une conseillère retraitée âgée de 67 ans, découvre sa capacité à voir l'avenir, ce qui lui permet de guider sa ville à travers une semaine de défis, en utilisant sa sagesse pour éviter les désastres et réparer les vieux conflits.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "On Monday morning, while walking in the park, Sue Morris helped a lost child find her parents. Her ability to guide others on the right path fills her day with a peaceful feeling.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "On Tuesday afternoon, Sue received a vision of a minor car accident happening at the town's busiest intersection. She managed to organize the traffic flow and prevent the accident, feeling triumphant for saving the day.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "After a strange, unsettling dream, Sue spends Wednesday helping old friends reconcile after years of misunderstanding, her ability to foresee the outcomes creating an eerie sense of power over future events.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Thursday finds Sue feeling energetic, using her newfound energy to organize a community event that builds stronger neighborhood bonds and brings joy to many.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "On Friday, Sue felt a surge of romance as she rekindled a long-forgotten love with a childhood sweetheart, her visions showing her that it was the perfect time to act.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Sue's visions on Saturday portrayed a great storm approaching. Her coordination with local authorities helped mitigate its impact, her actions felt nothing short of epic.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "As the week wound down, Sue, feeling happy and content, spent Sunday reflecting on her achievements and the lives she touched. She realized that her guiding had improved not only her life but those around her.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Sue Morris learned that even in retirement, one's abilities can profoundly impact the community, affirming that wisdom truly comes with age.",
+  "moral": "Never underestimate the power of experience and the wisdom it brings; it can transform lives and communities."
+}

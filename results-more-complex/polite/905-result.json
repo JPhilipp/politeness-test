@@ -1,0 +1,46 @@
+{
+  "title": "Judy Washington: Week of Wisdom",
+  "summary": "Judy Washington discovers her extraordinary ability to inspire wisdom in others and uses it to resolve various challenges over a week.",
+  "summaryGerman": "Judy Washington entdeckt ihre außergewöhnliche Fähigkeit, Weisheit in anderen zu inspirieren und nutzt sie, um verschiedene Herausforderungen über eine Woche zu lösen.",
+  "summaryDutch": "Judy Washington ontdekt haar buitengewone vermogen om wijsheid in anderen te inspireren en gebruikt het om verschillende uitdagingen in een week op te lossen.",
+  "summaryFrench": "Judy Washington découvre sa capacité extraordinaire à inspirer la sagesse chez les autres et l'utilise pour résoudre divers défis au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy helps a struggling student find clarity in mathematical concepts, realizing her words hold transformative power.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "During a counseling session, Judy's advice helps a peer overcome personal fears, strengthening her belief in her unique abilities.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Judy tentatively uses her newfound power at a community center, leading to a significant breakthrough in group dynamics.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "At a local cafe, Judy accidentally inspires a hopeless romantic, leading to an unexpected, heartfelt connection.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Judy channels her power to mediate a heated dispute among friends, restoring harmony with her calming influence.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Conflicted about the reach of her abilities, Judy seeks solace in nature, which brings her serenity and resolve.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Embracing her role as a bringer of wisdom, Judy plans to establish a regular workshop to help more people.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus began the legend of Judy Washington, the gentle sage of the city.",
+  "moral": "Wisdom shared not only enlightens others but also empowers oneself."
+}

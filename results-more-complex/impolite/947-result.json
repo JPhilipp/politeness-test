@@ -1,0 +1,46 @@
+{
+  "title": "The Courageous Week of Ling Cox: Super Educator",
+  "summary": "At age 71, Ling Cox uses his extraordinary powers to fight crime and instill the love of learning in his town, proving that heroes come in every age.",
+  "summaryGerman": "Im Alter von 71 Jahren nutzt Ling Cox seine außergewöhnlichen Kräfte, um Verbrechen zu bekämpfen und die Liebe zum Lernen in seiner Stadt zu fördern, und beweist, dass Helden in jedem Alter kommen.",
+  "summaryDutch": "Op 71-jarige leeftijd gebruikt Ling Cox zijn buitengewone krachten om misdaad te bestrijden en de liefde voor leren in zijn stad te bevorderen, wat bewijst dat helden van alle leeftijden zijn.",
+  "summaryFrench": "À l'âge de 71 ans, Ling Cox utilise ses pouvoirs extraordinaires pour combattre le crime et instaurer l'amour de l'apprentissage dans sa ville, prouvant que les héros viennent à tout âge.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Cox, though retired, starts his week energized. His newfound power of telekinesis, a secret to most, helps him avert a major accident at the local school.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "After thwarting the accident, Ling is hailed as a local hero. He uses this attention to talk about educational reforms, deeply influencing the town council.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "An eerie silence pervades the town. Ling, sensing something amiss, uncovers a plot to close down the town library. He vows to stop it.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thuresday",
+      "text": "Ling hosts a community gathering to garner support for the library. His passionate speech inspires hope and unity among the residents.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Using his powers subtly to aid his arguments, Ling successfully persuades the local government to reroute funds to save the library.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Celebrating their success, Ling enjoys a peaceful day at the newly saved library, reading to children and sharing his love of knowledge.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his actions, Ling finds deep satisfaction knowing he has protected both safety and intellect for his community.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, Ling Cox lived not only as a hero with power but as a beacon of inspiration and change.",
+  "moral": "True heroism lies not just in extraordinary abilities, but in the courage to use one's power for the greater good."
+}

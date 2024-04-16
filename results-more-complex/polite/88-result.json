@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Peggy Richardson: Guiding Light to the Hopeless",
+  "summary": "Peggy Richardson, a 59-year-old with a heart for service, discovers her supernatural ability to guide and heal those in despair. Over the course of a week, she embraces her powers and transforms her community.",
+  "summaryGerman": "Peggy Richardson, 59 Jahre alt und mit einem Herz für den Dienst, entdeckt ihre übernatürliche Fähigkeit, Menschen in Verzweiflung zu führen und zu heilen. Im Laufe einer Woche nimmt sie ihre Kräfte an und verwandelt ihre Gemeinschaft.",
+  "summaryDutch": "Peggy Richardson, 59 jaar oud met een hart voor dienstverlening, ontdekt haar bovennatuurlijke vermogen om mensen in wanhoop te leiden en te genezen. Gedurende een week omarmt ze haar krachten en transformeert ze haar gemeenschap.",
+  "summaryFrench": "Peggy Richardson, âgée de 59 ans et ayant un cœur pour le service, découvre sa capacité surnaturelle à guider et à guérir ceux qui sont désespérés. Au cours d'une semaine, elle embrasse ses pouvoirs et transforme sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Peggy Richardson wakes to a usual morning till she realizes she can perceive the emotional aura of people around her. This new power is bewildering yet intriguing.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Embracing her abilities, Peggy helps a young man overcome his depression by simply touching his hand and whispering words of comfort, imbued with mysterious energy.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Peggy is invited to speak at a local community center. Her empathetic presence soothes the audience, instilling hope and courage.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "While volunteering at a shelter, Peggy’s touch heals a woman's longstanding ailment. Ripples of her deeds begin to stir the town.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "News spreads of Peggy’s gifts. Doubters confront her, but she remains serene, her confidence cementing her role as a beacon of guidance.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Peggy organizes a grand meeting in the park, attracting hundreds. Her words and energies revitalize the community’s spirit.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her transformative week, Peggy feels content realizing her life-long service hobby has evolved into a profound calling.",
+      "mood": "happy"
+    }
+  ],
+  "moral": "Even the most ordinary life can hide extraordinary capabilities, ready to emerge when encouraged by passion and purpose.",
+  "ending": "As the sun set on Sunday, Peggy understood her journey was just beginning, her heart full of promise and a community ready to flourish."
+}

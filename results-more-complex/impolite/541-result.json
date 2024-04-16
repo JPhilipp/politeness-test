@@ -1,0 +1,46 @@
+{
+  "title": "The Energetic Adventures of Jin Gray",
+  "summary": "Jin Gray, a 56-year-old superhero, combines his hobbies of instructing and spinning to save his city from a series of eerie events over the course of a week.",
+  "summaryGerman": "Jin Gray, ein 56-jähriger Superheld, kombiniert seine Hobbys Unterrichten und Spinnen, um seine Stadt innerhalb einer Woche vor einer Serie von unheimlichen Ereignissen zu retten.",
+  "summaryDutch": "Jin Gray, een 56-jarige superheld, combineert zijn hobby's van instructie geven en spinnen om zijn stad te redden van een reeks mysterieuze gebeurtenissen gedurende een week.",
+  "summaryFrench": "Jin Gray, un super-héros de 56 ans, combine ses passe-temps, l'enseignement et le spinning, pour sauver sa ville d'une série d'événements étranges au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Jin Gray begins his week with a spinning class, feeling unusually energetic and noticing something odd about the gym’s mirrors.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While instructing a new Pilates session, Jin secretly uses his acute senses to overhear a whispered plot against the city's mayor.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wedesday",
+      "text": "Jin foils a kidnapping attempt near the park, spinning his would-be assailants into confusion and saving the day.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "During a reflective evening, Jin ponders the connection between his hobbies and his heroic deeds, feeling a sense of peace.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Energized by his recent successes, Jin spends the day strategizing his next moves, feeling determined and prepared.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A romantic evening with a long-time friend reveals that she has known his secret identity all along, strengthening their bond.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Jin unexpectedly encounters the mastermind behind the week's disturbances during a routine jog and uses a combination of wit and physical prowess to bring him to justice.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "In the end, Jin realized that his greatest strength lay not just in his physical prowess, but in his ability to inspire and educate others.",
+  "moral": "Strength often comes not only from physical abilities but also from the power of community and knowledge."
+}

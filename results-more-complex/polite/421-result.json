@@ -1,0 +1,46 @@
+{
+  "title": "The Harmonious Heroism of Hubert Peterson",
+  "summary": "Hubert Peterson, a 49-year-old with hobbies in singing and advising, discovers his powers of emotional influence through song and uses them to resolve community disputes.",
+  "summaryGerman": "Hubert Peterson, ein 49-jähriger mit Hobbys im Singen und Beraten, entdeckt seine Kräfte der emotionalen Beeinflussung durch Gesang und verwendet sie, um Gemeinschaftskonflikte zu lösen.",
+  "summaryDutch": "Hubert Peterson, een 49-jarige met hobby's in zingen en adviseren, ontdekt zijn krachten van emotionele invloed door zang en gebruikt ze om gemeenschapsconflicten op te lossen.",
+  "summaryFrench": "Hubert Peterson, un homme de 49 ans qui aime chanter et conseiller, découvre ses pouvoirs d'influence émotionnelle par le chant et les utilise pour résoudre les conflits communautaires.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Hubert Peterson began his week as usual with a morning choir practice. Unknown to him, his voice carried a mysterious, soothing power that calmed his fellow choir members' anxieties, rendering the atmosphere unusually serene.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While advising at the local community center, Hubert unintentionally resolved a heated debate among community members by humming a tune. The quarrelling parties suddenly felt a rush of empathy towards each other.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "Hubert, now curious about his newfound ability, started experimenting with different musical genres to see their effects on people’s moods. His rendition of a lively jazz piece energized a sluggish morning meeting.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Emboldened by his success, Hubert used a romantic ballad to help a young couple in his neighborhood reconcile after a misunderstanding, witnessing the emotional barriers between them melt away.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "On Friday, Hubert sang a triumphant anthem at a community fundraiser, uplifting everyone's spirits and significantly boosting donations, proving his voice could truly make a difference.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Hubert spent Saturday reflecting on his week's journey and composed a song about his experiences. That evening, he performed it at a local café, capturing the hearts of all present.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "In a peaceful conclusion to his week, Hubert led his church choir in a powerful performance that left the congregation feeling hopeful and reinvigorated for the challenges ahead.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And so, Hubert Peterson learned that the greatest power lies in bringing harmony to the hearts of those around him.",
+  "moral": "The power of music and empathy can transform and unite communities."
+}

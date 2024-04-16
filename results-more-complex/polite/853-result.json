@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Yvonne Collins: Advisor by Day, Hero by Night",
+  "summary": "Yvonne Collins, a 37-year-old with a passion for advising, discovers her supernatural ability to foresee crises. Over the course of a week, she transforms from an average advisor into a lifesaving superhero, navigating daily challenges and using her powers to avert disasters.",
+  "summaryGerman": "Yvonne Collins, eine 37-jährige mit einer Leidenschaft für Beratung, entdeckt ihre übernatürliche Fähigkeit, Krisen vorherzusehen. Im Laufe einer Woche verwandelt sie sich von einer durchschnittlichen Beraterin in eine lebensrettende Superheldin, meistert tägliche Herausforderungen und nutzt ihre Kräfte, um Katastrophen zu verhindern.",
+  "summaryDutch": "Yvonne Collins, 37 jaar oud met een passie voor adviseren, ontdekt haar bovennatuurlijke vermogen om crises te voorzien. Gedurende een week transformeert ze van een gemiddelde adviseur in een levensreddende superheld, navigeert ze door dagelijkse uitdagingen en gebruikt ze haar krachten om rampen af te wenden.",
+  "summaryFrench": "Yvonne Collins, 37 ans et passionnée de conseil, découvre son pouvoir surnaturel de prévoir les crises. Au cours d'une semaine, elle se transforme d'une conseillère moyenne en une super-héroïne qui sauve des vies, navigue à travers les défis quotidiens et utilise ses pouvoirs pour éviter des désastres.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Discovering her powers after a vivid dream, Yvonne feels an eerie sense of destiny awaiting her.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Testing her precognitive abilities, Yvonne averts a small office accident, feeling a mix of excitement and responsibility.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Yvonne confidentially advises her CEO on a critical decision, preventing a corporate scandal.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "She faces skepticism from a colleague, which casts a shadow over her day, making her question her role.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Reenergized, Yvonne saves a neighborhood event from disaster, becoming the unspoken hero of the community.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A romantic interest offers support and believes in her heroics, deepening their bond.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Yvonne feels peace in her new identity, ready to embrace whatever comes next.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the sun set on Sunday, Yvonne smiled, ready for her next adventure, knowing her journey was just beginning.",
+  "moral": "Embrace your unique abilities; they could lead you to a life greater than imagined."
+}

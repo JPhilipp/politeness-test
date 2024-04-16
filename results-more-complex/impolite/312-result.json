@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Ling Davis: The Heartfelt Hero",
+  "summary": "Ling Davis discovers their unique ability to sense and alter emotions, using it to bring peace and harmony to their city, while balancing their passions for counseling and sports.",
+  "summaryGerman": "Ling Davis entdeckt ihre einzigartige Fähigkeit, Emotionen zu spüren und zu verändern, und verwendet sie, um Frieden und Harmonie in ihrer Stadt zu bringen, während sie ihre Leidenschaften für Beratung und Sport ausgleicht.",
+  "summaryDutch": "Ling Davis ontdekt hun unieke vermogen om emoties te voelen en te veranderen, en gebruikt het om vrede en harmonie in hun stad te brengen, terwijl ze hun passies voor counseling en sport in evenwicht houden.",
+  "summaryFrench": "Ling Davis découvre leur capacité unique à ressentir et modifier les émotions, l'utilisant pour apporter la paix et l'harmonie dans leur ville, tout en équilibrant leurs passions pour le conseil et le sport.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Davis starts their week counseling a troubled teen. During the session, Ling discovers the ability to sense the teen's deep sadness and subtly shift it to hope.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "With excitement, Ling experiments with their new found powers in a friendly basketball game, lifting teammates' spirits to secure a win.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednedsay",
+      "text": "A confrontation occurs when Ling's powers accidentally amplify a rival's anger during a match. Ling learns to control and balance the use of their gift.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Ling spends the day applying their power at a city workshop on mental health. Many leave feeling lighter and empowered, marking a small victory for Ling.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "News of Ling's heroic deeds spread. They cautiously handle the newfound attention while helping a depressed community park group feel reinvigorated.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Taking a quiet day off, Ling reflects on their week, realizing the potential impact they can have and their responsibilities.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Inspired, Ling hosts a large multi-sport event that brings different communities together, ending the week on a note of unity and joy.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "In just one week, Ling Davis transformed from an ordinary counselor into a true superhero, understanding that true strength lies in lifting others.",
+  "moral": "Empathy and compassion are superpowers in their own right."
+}

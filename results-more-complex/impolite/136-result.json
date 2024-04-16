@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Triumphs of Romeo Young",
+  "summary": "Romeo Young, a 47-year-old instructor by day, discovers his hidden powers and faces his fears throughout a week filled with unexpected challenges and heroic deeds.",
+  "summaryGerman": "Romeo Young, ein 47-jähriger Lehrer tagsüber, entdeckt seine verborgenen Kräfte und stellt sich im Laufe einer Woche voller unerwarteter Herausforderungen und heldenhafter Taten seinen Ängsten.",
+  "summaryDutch": "Romeo Young, overdag een 47-jarige instructeur, ontdekt zijn verborgen krachten en gaat zijn angsten te lijf gedurende een week vol onverwachte uitdagingen en heldendaden.",
+  "summaryFrench": "Romeo Young, un instructeur de 47 ans le jour, découvre ses pouvoirs cachés et affronte ses peurs tout au long d'une semaine remplie de défis inattendus et d'actes héroïques.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "At a local sports field, while coaching, Romeo accidentally discovers his ability to control objects with his mind, throwing a soccer ball across the field without touching it.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Inspired by his new abilities, Romeo rescues a cat stuck high in a tree, feeling newfound courage and the joy of helping.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Wedneday",
+      "text": "Romeo confronts a band of local thieves; using his telekinesis, he disarms them and waits for the police, feeling victorious.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Haunted by doubts about his capability and the implications of his powers, Romeo wanders the city at night, pondering his future.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Meeting with a retired superhero who offers guidance, Romeo feels energized and ready to embrace his role as a protector of his city.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a local marathon, a sudden bridge collapse threatens runners. Romeo swiftly uses his power to avert disaster, saving many lives.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Romeo spends a peaceful day with his family, embracing his dual life and feeling at peace with his responsibilities.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so Romeo Young found his purpose, not just in the daylight of coaching, but in the shadows where heroes are truly made.",
+  "moral": "Even unasked, great responsibility comes with great power."
+}

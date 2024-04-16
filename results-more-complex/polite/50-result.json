@@ -1,0 +1,46 @@
+{
+  "title": "The Sewing Sentinel: The Week of Hubert Russell",
+  "summary": "A retired sewing enthusiast and instructor, Hubert Russell, uncovers a hidden talent for stitching not just fabric, but the fabric of reality, using his skills to mend unusual problems in his town over the course of a week.",
+  "summaryGerman": "Ein pensionierter Nähbegeisterter und Lehrer, Hubert Russell, entdeckt eine verborgene Fähigkeit, nicht nur Stoff, sondern das Gefüge der Realität zu nähen, indem er seine Fähigkeiten nutzt, um ungewöhnliche Probleme in seiner Stadt im Laufe einer Woche zu lösen.",
+  "summaryDutch": "Een gepensioneerde naai-enthousiast en instructeur, Hubert Russell, ontdekt een verborgen talent om niet alleen stof, maar het weefsel van de realiteit te naaien, gebruik makend van zijn vaardigheden om ongewone problemen in zijn stad gedurende een week op te lossen.",
+  "summaryFrench": "Un passionné de couture à la retraite et instructeur, Hubert Russell, découvre un talent caché pour coudre non seulement du tissu, mais le tissu de la réalité, utilisant ses compétences pour résoudre des problèmes inhabituels dans sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Hubert discovers an old, enchanted sewing machine in his attic, which sews beautiful patterns by itself.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "A mysterious tear appears in the sky, reminiscent of torn fabric. Hubert uses his enchanted machine to stitch it closed, preventing chaos.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Emboldened, Hubert starts a sewing class to share his knowledge and secretly pass on the magic of his new tool.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thusday",
+      "text": "A pupil of his accidentally creates a portal to another dimension with a mishap stitch. Hubert calmly resolves the situation.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Hubert's story spreads, attracting mysterious figures interested in his abilities. He must protect his secrets.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With a clever plan, Hubert traps the intruders in a fabric of illusion, using his mastery over sewing to outsmart them.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Hubert reflects on his week, realizing how sewing has changed his life forever and how he's saved the town.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Hubert Russell continues stitching, ever watchful, forever the guardian of his town's woven fate.",
+  "moral": "Even the most ordinary hobbies can reveal extraordinary destinies."
+}

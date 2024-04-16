@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Linda Bell: Editor by Day, Hero by Night",
+  "summary": "Linda Bell, a 38-year-old with a knack for convincing and editing, discovers her superpowers and over the course of a week rises to confront a mysterious threat tormenting her city.",
+  "summaryGerman": "Linda Bell, eine 38-jährige mit einem Talent für Überzeugen und Editieren, entdeckt ihre Superkräfte und stellt sich im Laufe einer Woche einer mysteriösen Bedrohung, die ihre Stadt heimsucht.",
+  "summaryDutch": "Linda Bell, een 38-jarige met een talent voor overtuigen en redigeren, ontdekt haar superkrachten en gaat in de loop van een week de confrontatie aan met een mysterieuze bedreiging die haar stad teistert.",
+  "summaryFrench": "Linda Bell, âgée de 38 ans et douée pour la persuasion et l'édition, découvre ses superpouvoirs et, au cours d'une semaine, affronte une menace mystérieuse qui tourmente sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Linda discovers her ability to influence reality with her words while editing a complex scientific paper.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "She experiments with her powers, subtly convincing her neighbor to return her long-lost garden tools.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "News of bizarre occurrences across the city reach Linda, hinting that she might not be alone in having superpowers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Linda meets a group of individuals like her, learning she's part of a lineage of 'Word Weavers'.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The group discovers a sinister plot to use a powerful word spell to control the city.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Leveraging her editing skills, Linda decisively revises the malevolent spell, averting the crisis.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The city breathes a sigh of relief as normalcy returns, with Linda now vigilant and ready.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Linda Bell stood watch over her city, always ready to edit the wrongs into rights.",
+  "moral": "The power of words is the greatest tool, and in the right hands, it can create reality itself."
+}

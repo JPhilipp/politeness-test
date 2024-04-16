@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Trent Foster: Hero of Harmony",
+  "summary": "Trent Foster discovers his ability to empathize with and calm the emotions of those around him as he encounters various challenges throughout the week, ultimately using his powers to avert a community crisis.",
+  "summaryGerman": "Trent Foster entdeckt seine Fähigkeit, sich in die Emotionen der Menschen um ihn herum einzufühlen und diese zu beruhigen, als er im Laufe der Woche auf verschiedene Herausforderungen stößt und letztendlich seine Kräfte nutzt, um eine Gemeinschaftskrise zu verhindern.",
+  "summaryDutch": "Trent Foster ontdekt zijn vermogen om te empathiseren met en de emoties van de mensen om hem heen te kalmeren terwijl hij gedurende de week verschillende uitdagingen tegenkomt, uiteindelijk zijn krachten gebruikt om een gemeenschapscrisis te voorkomen.",
+  "summaryFrench": "Trent Foster découvre sa capacité à empathiser avec et à calmer les émotions de ceux qui l'entourent alors qu'il rencontre divers défis tout au long de la semaine, utilisant finalement ses pouvoirs pour éviter une crise communautaire.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Trent Foster starts his week feeling energetic as he volunteers at a local counseling center, soothing troubled minds with his newly discovered empathetic powers.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Feeling peaceful, Trent spends the evening at a worship service, where his ability to harmonize emotions helps diffuse an escalating argument between two congregation members.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "An eerie sense takes over Trent as he feels a deep disturbance in his community. His efforts to investigate lead him to a group of distressed teenagers in need of guidance.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Driven by a triumphant spirit, Trent successfully mediates a peaceful resolution among the teens, teaching them the value of understanding and communication.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Trent’s day turns romantic when he meets a fellow counselor who shares his passions. Together, they brainstorm ways to expand the reach of their calming influence.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The week’s tensions climax in an epic confrontation at a local festival, where Trent uses his powers to quell a potentially violent outbreak, earning him the community’s admiration.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ending his week reflecting on the serene outcomes of his actions, Trent feels fulfilled, ready to face whatever new challenges may come.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "In a world often torn by conflict, Trent Foster proved that peace could be a superpower.",
+  "moral": "The greatest strength lies in the power to bring peace."
+}

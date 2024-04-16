@@ -1,0 +1,46 @@
+{
+  "title": "Ivan Hall: The Spinmaster of Fate",
+  "summary": "Ivan Hall discovers his ability to manipulate probabilities through his hobbies of trading and spinning, using his powers to thwart a dark conspiracy over the span of one week.",
+  "summaryGerman": "Ivan Hall entdeckt seine Fähigkeit, Wahrscheinlichkeiten durch seine Hobbys Handeln und Spinnen zu manipulieren, und nutzt seine Kräfte, um innerhalb einer Woche eine dunkle Verschwörung zu vereiteln.",
+  "summaryDutch": "Ivan Hall ontdekt zijn vermogen om waarschijnlijkheden te manipuleren via zijn hobby's van handelen en spinnen, en gebruikt zijn krachten om in de loop van een week een duister complot te dwarsbomen.",
+  "summaryFrench": "Ivan Hall découvre sa capacité à manipuler les probabilités à travers ses passe-temps, le trading et le spinning, utilisant ses pouvoirs pour contrecarrer une sombre conspiration sur une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ivan discovers that his exceptional luck at market trading is actually a supernatural ability to manipulate probabilities.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While practicing spinning, he narrowly escapes an accident, sensing danger just in time. This confirms his powers.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "Ivan uses his abilities to uncover the network of a sinister group manipulating local politics.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Confronting his fears, Ivan spies on a secret meeting and gathers crucial information about their plans.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With clever market maneuvers, Ivan disrupts the group's financial resources, weakening their influence.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Aided by new allies, Ivan plans a bold move to expose the conspiracy to the public, ensuring safety in numbers.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The plan succeeds spectacularly. The culprits are arrested amidst public outcry, and Ivan becomes a local hero.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "As the city celebrates, Ivan Hall stands quietly, knowing his journey as The Spinmaster has just begun.",
+  "moral": "Even the most ordinary of us can have extraordinary impacts when we embrace our unique gifts."
+}

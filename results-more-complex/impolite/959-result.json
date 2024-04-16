@@ -1,0 +1,46 @@
+{
+  "title": "The Baking Guiding Light of Yvonne Sanders",
+  "summary": "Yvonne Sanders, a 43-year-old baker and enthusiastic guide, discovers her superpowers of persuasion and healing which she uses to solve local conflicts and bring the community together.",
+  "summaryGerman": "Yvonne Sanders, eine 43-jährige Bäckerin und begeisterte Führerin, entdeckt ihre Superkräfte der Überzeugung und Heilung, die sie verwendet, um lokale Konflikte zu lösen und die Gemeinschaft zu vereinen.",
+  "summaryDutch": "Yvonne Sanders, een 43-jarige bakker en enthousiaste gids, ontdekt haar superkrachten van overreding en genezing die ze gebruikt om lokale conflicten op te lossen en de gemeenschap samen te brengen.",
+  "summaryFrench": "Yvonne Sanders, une boulangère de 43 ans et guide enthousiaste, découvre ses super pouvoirs de persuasion et de guérison, qu'elle utilise pour résoudre des conflits locaux et unir la communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Yvonne Sanders spends her mornings baking for her small café. On her way to deliver fresh pastries to a local charity event, she unwittingly stops a petty theft with soothing words alone. It leaves her feeling eerie, sensing a change within her.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "At the bakery, Yvonne experiments with new recipes. She notices people are exceptionally responsive to her today, almost mesmerized. Later, she calms an escalating argument in the park with a few gentle words—her influence over others growing.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Wednedsay",
+      "text": "Sensing her powers, Yvonne begins to consciously use her newfound abilities. She guides a lost child back to their parents, feeling happy and fulfilled at her ability to help.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Convinced she must use her powers for good, Yvonne mediates a local dispute that threatened to escalate. Her timely intervention and calm persuasion win the day.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Yvonne holds a baking workshop, subtly using her powers to foster peace and understanding between differing community groups. The day is energetic and full of positive exchanges.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a guided tour of her historical town, Yvonne tells mesmerizing tales that inspire love and respect for local history, realizing her powers extend into storytelling as well.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "At a community potluck, Yvonne brings everyone together, using both her culinary and newfound persuasive skills to enhance the communal spirit. The atmosphere is peaceful and uplifting.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Yvonne Sanders realized that true superpowers lie not in strength, but in uniting people.",
+  "moral": "The greatest strength lies in the ability to bring people together peacefully."
+}

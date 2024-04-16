@@ -1,0 +1,46 @@
+{
+  "title": "The Spectacular Week of Grace Cook",
+  "summary": "Grace Cook, a sales coach with a passion for helping others, discovers she has the power to influence people's emotions and uses this ability to thwart a corporate espionage plot over the course of a week.",
+  "summaryGerman": "Grace Cook, eine Verkaufstrainerin mit einer Leidenschaft für die Hilfe an anderen, entdeckt, dass sie die Fähigkeit hat, die Emotionen der Menschen zu beeinflussen, und nutzt diese Fähigkeit, um eine Spionageaktion in einem Unternehmen innerhalb einer Woche zu vereiteln.",
+  "summaryDutch": "Grace Cook, een verkoopcoach met een passie voor het helpen van anderen, ontdekt dat ze de macht heeft om mensen hun emoties te beïnvloeden en gebruikt deze vaardigheid om een spionagecomplot in een bedrijf gedurende een week te dwarsbomen.",
+  "summaryFrench": "Grace Cook, une coach de vente passionnée par l'aide aux autres, découvre qu'elle a le pouvoir d'influencer les émotions des gens et utilise cette capacité pour déjouer un complot d'espionnage d'entreprise au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Grace Cook starts her week with usual enthusiasm, unaware that she will soon discover her unique powers. While coaching a nervous client, she inadvertently calms his anxiety, revealing her ability to influence emotions.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tueday",
+      "text": "Detecting something amiss at her workplace, Grace begins to feel an eerie sense that someone is siphoning confidential data. Her senses heighten as she casually but keenly observes her colleagues.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Armed with mounting suspicions, Grace uses her empathy to discern who might be involved in the corporate espionage. Her skills lead her to a few unpredictable interactions, where she subtly probes her suspects.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Grace confronts one of her colleagues, whose emotions reveal their guilt. Using her powers, she gently extracts the truth in a peaceful manner, ensuring the situation remains under control.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Turning the situation to her advantage, Grace devises a clever plan to capture the corporate spy. By day's end, she succeeds spectacularly, ensuring the protection of her company's secrets.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After a week of highs and lows, Grace spends a quiet day reflecting on her newfound abilities and the responsibilities they entail.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Celebrating her success and the return of normalcy at her coaching sessions, Grace feels happy and content, optimistic about her future as both a coach and a guardian of her community.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And so, Grace Cook learned that true power lies not just in strength, but in the empathy and understanding of those around her.",
+  "moral": "The real strength of a hero isn't always visible; it often resides in the heart and mind."
+}

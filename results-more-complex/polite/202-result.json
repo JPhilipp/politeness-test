@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Vigilante: Mallory Edwards' Heroic Week",
+  "summary": "At age 80, Mallory Edwards discovers her unique power to inspire and protect her community through her love for sports, over a week filled with challenges and achievements.",
+  "summaryGerman": "Mit 80 Jahren entdeckt Mallory Edwards ihre einzigartige Fähigkeit, ihre Gemeinde durch ihre Liebe zum Sport zu inspirieren und zu schützen, in einer Woche voller Herausforderungen und Erfolge.",
+  "summaryDutch": "Op 80-jarige leeftijd ontdekt Mallory Edwards haar unieke kracht om haar gemeenschap te inspireren en te beschermen door haar liefde voor sport, gedurende een week vol uitdagingen en prestaties.",
+  "summaryFrench": "À l'âge de 80 ans, Mallory Edwards découvre son pouvoir unique d'inspirer et de protéger sa communauté grâce à son amour pour le sport, au cours d'une semaine remplie de défis et de réalisations.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Mallory Edwards starts her week with an exhilarating tennis match against local teenagers, showcasing her unbeatable skills and energy. Her legendary status in the community grows.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "After a late night prowling the neighborhood, Mallory helps to peacefully resolve a dispute among young skateboarders at the park, using her wise words and calm demeanor.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednesady",
+      "text": "Mallory receives a mysterious letter suggesting she has special abilities that can serve greater purposes. She feels curious yet determined to explore this further.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "While practicing her tennis serves, Mallory suddenly stops a fleeing pickpocket with a precise tennis ball shot. The crowd cheers for her surprising act of heroism.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Mallory is interviewed by the local news, sharing her story and inspiring countless viewers to stay active and vigilant. Her following in the town skyrockets.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Facing skepticism from some, Mallory organizes a community sports day to unite everyone. The event is a massive success, boosting morale and community spirit.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her impactful week, Mallory writes in her journal, feeling thankful and fulfilled. She vows to continue her missions of inspiration and protection.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Thus, even at 80, Mallory Edwards proved that true heroes don't just exist in stories; they're in every neighborhood, waiting to reveal their might.",
+  "moral": "No matter your age, you can always make a significant impact on your community and the world."
+}

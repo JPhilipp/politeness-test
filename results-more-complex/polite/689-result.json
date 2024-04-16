@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Oscar Diaz: The Knitting Trader",
+  "summary": "Oscar Diaz, a 28-year-old with a passion for knitting and trading, discovers he can manipulate textile threads with his mind. Over a week, he evolves from an everyday trader to a superhero, preventing a financial crisis and thwarting a robbery.",
+  "summaryGerman": "Oscar Diaz, ein 28-jähriger mit einer Leidenschaft für Stricken und Handeln, entdeckt, dass er Textilfäden mit seinem Verstand manipulieren kann. Über eine Woche entwickelt er sich von einem alltäglichen Händler zu einem Superhelden, der eine Finanzkrise verhindert und einen Raub vereitelt.",
+  "summaryDutch": "Oscar Diaz, een 28-jarige met een passie voor breien en handelen, ontdekt dat hij textieldraden met zijn geest kan manipuleren. Gedurende een week evolueert hij van een alledaagse handelaar naar een superheld, die een financiële crisis voorkomt en een overval verijdelt.",
+  "summaryFrench": "Oscar Diaz, 28 ans, passionné de tricot et de trading, découvre qu'il peut manipuler les fils textiles avec son esprit. En une semaine, il passe d'un simple commerçant à un super-héros, empêchant une crise financière et déjouant un vol.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar Diaz starts his week at the stock exchange, feeling energetic. Suddenly, he senses an unusual pattern in the market data that reminds him of his knitting patterns.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While knitting a scarf, Oscar accidentally discovers his ability to control the yarn with his thoughts. Intrigued and excited, he practices his new-found powers.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Oscar uses his powers at the exchange to untangle a disastrous trading knot, preventing a financial meltdown. He realizes the potential of his powers for greater good.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "At a local cafe, Oscar overhears a planned heist at the bank across the street. Feeling a mix of tension and responsibility, he prepares to intervene.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Using his mastery over textile threads, Oscar thwarts the bank robbery by ensnaring the robbers in a web of yarn until the police arrive. His actions make headlines.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Reflecting on his week, Oscar feels peaceful as he knits at home, contemplating how his unique skills can serve the community in more ways than he ever imagined.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Walking through the city, the community expresses their gratitude towards Oscar. He feels a deep connection and commitment to his new role as a protector.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Thus began the legend of Oscar Diaz, the gentle guardian whose threads stitched the safety of his city.",
+  "moral": "Small talents, when discovered and nurtured, can weave significant changes."
+}

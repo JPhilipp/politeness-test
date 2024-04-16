@@ -1,0 +1,46 @@
+{
+  "title": "The Eerie Adventures of Walter Alexander",
+  "summary": "Walter Alexander, a 36-year-old advertising professional with a strong passion for worship, stumbles upon mystical powers that transform his ordinary life over the course of a week. Each day reveals new challenges and powers that lead him to confront a hidden world of supernatural forces.",
+  "summaryGerman": "Walter Alexander, ein 36-jähriger Werbefachmann mit einer starken Leidenschaft für den Gottesdienst, stolpert über mystische Kräfte, die sein gewöhnliches Leben im Laufe einer Woche verwandeln. Jeder Tag offenbart neue Herausforderungen und Kräfte, die ihn dazu bringen, sich einer verborgenen Welt übernatürlicher Kräfte zu stellen.",
+  "summaryDutch": "Walter Alexander, een 36-jarige reclameprofessional met een sterke passie voor aanbidding, stuit op mystieke krachten die zijn gewone leven in de loop van een week transformeren. Elke dag onthullen nieuwe uitdagingen en krachten die hem confronteren met een verborgen wereld van bovennatuurlijke krachten.",
+  "summaryFrench": "Walter Alexander, un professionnel de la publicité de 36 ans avec une forte passion pour le culte, tombe sur des pouvoirs mystiques qui transforment sa vie ordinaire au cours d'une semaine. Chaque jour révèle de nouveaux défis et pouvoirs qui le conduisent à affronter un monde caché de forces surnaturelles.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Walter discovers an ancient relic buried beneath his new office’s basement during a late night working session. It grants him visions of swirling auras around people, revealing their intentions.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Using his new ability uncontrollably, Walter sees harm coming to a close colleague. He saves her, gaining confidence in his powers.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Walter's visions grow stronger, now revealing not just intentions but snippets of future events. He can prevent a subway accident through this foresight.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Conflicted emotions wash over Walter as he wrestles with the ethics of using his powers, especially after observing a future betrayal by a friend.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "An enigmatic figure who understands the relic’s origins approaches Walter. They discuss the balance between power and responsibility, leaving Walter enlightened.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A menacing group seeks the relic’s power. Walter learns to harness his powers fully to protect the relic during an epic showdown.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Walter decides to use his powers on a broader scale, fighting injustices while balancing his advertising career and fulfilling his worshiping passions.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, Walter Alexander’s life was forever changed as he embraced his dual role with a heart both vigilant and virtuous.",
+  "moral": "With great power comes great responsibility."
+}

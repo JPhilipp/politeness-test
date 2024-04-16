@@ -1,0 +1,46 @@
+{
+  "title": "The Unstoppable Peggy Carter: A Week of Unexpected Heroism",
+  "summary": "At 75, Peggy Carter discovers unexpected superpowers during her weekly activities, saving her community and finding new purpose as a senior superhero.",
+  "summaryGerman": "Mit 75 entdeckt Peggy Carter unerwartete Superkräfte während ihrer wöchentlichen Aktivitäten, rettet ihre Gemeinschaft und findet eine neue Bestimmung als Superheldin im Seniorenalter.",
+  "summaryDutch": "Op 75-jarige leeftijd ontdekt Peggy Carter onverwachte superkrachten tijdens haar wekelijkse activiteiten, redt ze haar gemeenschap en vindt ze een nieuwe doel als senior superheld.",
+  "summaryFrench": "À 75 ans, Peggy Carter découvre des superpouvoirs inattendus lors de ses activités hebdomadaires, sauve sa communauté et trouve un nouveau but en tant que super-héroïne senior.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Peggy begins her week with a leisurely walk in the park, feeling peaceful as she prepares for her weekly guiding group of local history tours.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While playing her favorite sport, lawn bowls, Peggy's ball unexpectedly zooms off with incredible speed, knocking down a tree that was about to fall on a group of children.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesdya",
+      "text": "Peggy experiments with her new powers in secret, managing to lift her own lawn bowls with just her thoughts. The sense of power is both thrilling and a little eerie.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Peggy saves a cat stuck in a tree using her telekinetic powers, becoming a silent hero amongst the local community, who are curious about the mysterious occurrences.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "News spreads about the 'miracles' around town, and Peggy, feeling energetic, decides to more actively use her powers for good, cautiously revealing her abilities to a trusted friend.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Inspired by superhero movies, Peggy crafts a makeshift costume and spends the day righting small wrongs and helping where she can, her actions filled with unprecedented excitement.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "As the week closes, Peggy reflects on her new role and responsibilities with a sense of fulfillment, realizing that age is just a number when it comes to making a difference.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "At the week's end, the legend of Peggy Carter begins to spread, promising more adventures to come.",
+  "moral": "Never underestimate the power within, no matter the age."
+}

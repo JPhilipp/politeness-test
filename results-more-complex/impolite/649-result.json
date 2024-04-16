@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Zelda Bryant: Advertiser and Tutor",
+  "summary": "Zelda Bryant, a 60-year-old superhero with a dual passion for advertising and tutoring, discovers her ability to manipulate time during a pivotal week, using her powers to balance her work, help her students, and thwart a local robbery.",
+  "summaryGerman": "Zelda Bryant, eine 60-jährige Superheldin mit einer Doppelleidenschaft für Werbung und Nachhilfe, entdeckt während einer entscheidenden Woche ihre Fähigkeit, die Zeit zu manipulieren, nutzt ihre Kräfte, um ihre Arbeit auszugleichen, ihren Schülern zu helfen und einen lokalen Raub zu vereiteln.",
+  "summaryDutch": "Zelda Bryant, een 60-jarige superheldin met een dubbele passie voor reclame en tutoring, ontdekt haar vermogen om tijdens een cruciale week de tijd te manipuleren, gebruikt haar krachten om haar werk te balanceren, haar studenten te helpen en een lokale overval te dwarsbomen.",
+  "summaryFrench": "Zelda Bryant, une super-héroïne de 60 ans avec une double passion pour la publicité et le tutorat, découvre sa capacité à manipuler le temps lors d'une semaine cruciale, utilisant ses pouvoirs pour équilibrer son travail, aider ses élèves et déjouer un vol local.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda Bryant starts her week feeling energetic, ready to juggle her advertising projects and tutoring sessions. However, during a tutoring session, she accidentally discovers her ability to reverse small pockets of time, making her rethink her routine.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "With a mix of curiosity and worry, Zelda tests her newfound power in private. She manages to undo a minor mistake in her advertising draft triumphantly. Realizing the potential, she feels more confident about her unique abilities.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "Zelda decides to openly use her power to help a student who struggles with deadlines, looping moments to give extra tutoring. The day feels almost romantic as she connects deeply with her student’s challenges.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "While feeling peaceful, Zelda uses her morning to refine her advertising campaign with no rush, thanks to her time control. In the afternoon, she tutors peacefully, appreciating the calm her powers bring.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Zelda’s day turns eerie when she notices a group of suspicious figures planning a robbery near her office. She uses her time manipulation to alert the police without revealing her presence, thwarting the crime.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Feeling epic, Zelda reflects on her actions from the day before. She decides to embrace her role as a guardian of her community, planning ways to utilize her advertising skills and tutoring to further help others.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Zelda spends a quiet day with her family, sharing insights but keeping her secret. The week has brought new purpose and a happy sense of responsibility to her life.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, Zelda Bryant became not just a hero in her advertisements and tutoring sessions, but a real-life guardian of time and justice in her community.",
+  "moral": "Discovering and embracing one's unique abilities can lead to newfound purpose and a way to contribute positively to society."
+}

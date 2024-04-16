@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Guardian: The Tale of Frank Jackson",
+  "summary": "Frank Jackson, a 38-year-old counselor and tutor, discovers his ability to become invisible, using it to secretly help his community overcome challenges and dangers throughout one transformative week.",
+  "summaryGerman": "Frank Jackson, ein 38-jähriger Berater und Tutor, entdeckt seine Fähigkeit, unsichtbar zu werden, und nutzt sie, um seiner Gemeinde dabei zu helfen, Herausforderungen und Gefahren während einer transformativen Woche heimlich zu überwinden.",
+  "summaryDutch": "Frank Jackson, een 38-jarige counselor en tutor, ontdekt zijn vermogen om onzichtbaar te worden en gebruikt dit om zijn gemeenschap stiekem te helpen uitdagingen en gevaren te overwinnen gedurende één transformerende week.",
+  "summaryFrench": "Frank Jackson, un conseiller et tuteur de 38 ans, découvre sa capacité à devenir invisible, l'utilisant pour aider secrètement sa communauté à surmonter les défis et les dangers tout au long d'une semaine transformatrice.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "While tutoring, Frank accidentally discovers his power of invisibility. He tests this discovery at home, filled with excitement and a bit of confusion.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Frank experiments with his new skill, using it to stop a shoplifting incident unnoticed. He feels a rush of positive energy knowing he can make a difference.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "He learns that with great power comes responsibility; spends the day refining his control without misusing his capabilities.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Frank overhears a student in distress about an upcoming exam. By staying invisible, he guides her to find her own answers, ensuring she leaves confident and prepared.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Frank prevents a potential bullying incident at the school where he tutors, feeling a strong sense of justice as he steers the bullies away with unseen whispers.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "His actions go unnoticed, but the effects of his interventions spread joy and safety in the community. He reflects on his secret impact, feeling content.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Frank organizes a community event as a visible figure this time, promoting unity and care, realizing his dual role in both the seen and unseen worlds.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Frank Jackson continued to guard his community, becoming a legend no one knew they had.",
+  "moral": "True heroes are not always in the spotlight; sometimes, they are the unseen guardians making a difference."
+}

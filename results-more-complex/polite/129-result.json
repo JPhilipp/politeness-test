@@ -1,0 +1,39 @@
+{
+  "title": "The Week of Nancy Lewis, Hero of the City",
+  "summary": "Nancy Lewis, a young director and publicist, discovers her ability to control public opinion and uses it to save her city from a corrupt politician, experiencing a range of emotions and adapting her new abilities over a week's time.",
+  "summaryGerman": "Nancy Lewis, eine junge Regisseurin und Publizistin, entdeckt ihre Fähigkeit, die öffentliche Meinung zu kontrollieren, und nutzt sie, um ihre Stadt vor einem korrupten Politiker zu retten, wobei sie eine Reihe von Emotionen erlebt und ihre neuen Fähigkeiten innerhalb einer Woche anpasst.",
+  "summaryDutch": "Nancy Lewis, een jonge regisseur en publicist, ontdekt haar vermogen om de publieke opinie te beheersen en gebruikt dit om haar stad te redden van een corrupte politicus, waarbij ze een reeks emoties ervaart en haar nieuwe vaardigheden in de loop van een week aanpast.",
+  "summaryFrench": "Nancy Lewis, une jeune réalisatrice et publiciste, découvre sa capacité à contrôler l'opinion publique et l'utilise pour sauver sa ville d'un politicien corrompu, en faisant l'expérience d'une gamme d'émotions et en adaptant ses nouvelles capacités sur une période d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Nancy Lewis, excited about her upcoming promotional campaign, discovers she can profoundly influence others' thoughts through her presentations. Mood: energetic."
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Working late, Nancy feels an eerie sense of being watched but channels this energy to create a powerful and mysterious promotional video. Mood: eerie."
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Nancy uses her newfound skills to expose a corrupt politician, gaining support from the community. Mood: triumphant."
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Media backlash from powerful enemies makes her day tough, but Nancy holds firm to her ideals. Mood: sad."
+    },
+    {
+      "weekday": "Fiursday",
+      "text": "Nancy realizes the extent of her powers and begins to question the ethical implications. Mood: romantic."
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After consulting with trusted mentors, Nancy feels more peaceful about her responsibilities. Mood: peaceful."
+    },
+    {
+      "weekday": "Sunday",
+      "text": "A massive rally led by Nancy changes public opinion, defeating the politician's schemes. Mood: epic."
+    }
+  ],
+  "ending": "As the city cheered, Nancy stood proud, realizing that her greatest productions were still to come.",
+  "moral": "With great power comes great responsibility and the need for ethical reflection."
+}

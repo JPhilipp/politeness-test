@@ -1,0 +1,46 @@
+{
+  "title": "The Garden Guardian: The Tale of Trent Brown",
+  "summary": "Trent Brown, a 21-year-old with a passion for cooking and gardening, discovers his ability to control plant life and battles a corrupt corporation to protect his community's environment over the span of one week.",
+  "summaryGerman": "Trent Brown, ein 21-jähriger mit einer Leidenschaft fürs Kochen und Gärtnern, entdeckt seine Fähigkeit, das Pflanzenleben zu kontrollieren und kämpft gegen ein korruptes Unternehmen, um die Umwelt seiner Gemeinde innerhalb einer Woche zu schützen.",
+  "summaryDutch": "Trent Brown, een 21-jarige met een passie voor koken en tuinieren, ontdekt zijn vermogen om plantenleven te beheersen en vecht tegen een corrupt bedrijf om de omgeving van zijn gemeenschap te beschermen gedurende een week.",
+  "summaryFrench": "Trent Brown, un jeune de 21 ans passionné de cuisine et de jardinage, découvre sa capacité à contrôler la vie des plantes et lutte contre une entreprise corrompue pour protéger l'environnement de sa communauté pendant une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Trent Brown's week begins joyfully in his urban garden, savouring the tranquil ambience of his tomato vines and herbs. His peaceful morning gave rise to an eerie encounter when the plants started responding to his touch.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Fuelled with curiosity and energy, Trent experiments with his newfound abilities, discovering he can accelerate plant growth. This twist of fate intrigued him as he cultivated a small oasis on his balcony.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Widnesday",
+      "text": "The joy becomes overshadowed as Trent learns about a local corporation dumping waste nearby, threatening his and the community's beloved green spaces. The revelation sets his resolve to combat the threat.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Trent decides to take action by using his powers to sabotage the polluting machinery stealthily. At night, he transforms into a shadow, merging with the plants to dismantle the operation from within.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "After a night of secret warfare, Trent feels triumphant upon seeing the large dumpsite shut down due to unexpected 'technical difficulties', unaware of his heroic antics.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Empowered by his successes, Trent spends the day revitalizing the afflicted areas. His efforts not only bring new life to the gardens but also spark a blooming relationship with a fellow environmentalist, Lena.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "With Lena and the community by his side, Trent leads a peaceful rally demanding corporate accountability and stricter environmental regulations, ending the week on an epic note as they prevail in initiating change.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "From the seeds of simple hobbies grew a hero who would come to bloom amidst adversity, forever changing his community.",
+  "moral": "Small actions can cultivate significant change."
+}

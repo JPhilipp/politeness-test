@@ -3,6 +3,8 @@ import fs from 'fs';
 import * as ai from './ai.js';
 import * as random from './random.js';
 
+const useMoreComplexTest = false;
+
 main();
 
 async function main() {
@@ -10,6 +12,7 @@ async function main() {
   console.log('Starting...');
 
   const testCount = 1000;
+
   console.log(`Generating tests...`);
   await generateAndSaveTests(testCount);
 
@@ -30,7 +33,7 @@ async function evaluateTests(testCount) {
 function getTestsScore(testCount, polite) {
   let score = 0;
 
-  const basePath = `./results/${polite ? 'polite' : 'impolite'}`;
+  const basePath = getBasePath(polite);
 
   for (let i = 1; i <= testCount; i++) {
     const promptPath = `${basePath}/${i}-prompt.txt`;
@@ -46,10 +49,11 @@ function getTestsScore(testCount, polite) {
       let thisScore = 0;
 
       // Checking main test score:
+      let bestScore = useMoreComplexTest ? 40 : 21;
       thisScore = getTestScore(json, personName);
-      const bestScore = 21;
+
       if (thisScore < bestScore) {
-        console.log(`Test ${i} (${polite ? 'polite' : 'impolite'}) has a low score: ${thisScore}`);
+        console.log(`Test ${i} (${polite ? 'polite' : 'impolite'}) has an imperfect score: ${thisScore}`);
       }
 
       // Alternatively, checking text length, where more isn't necessarily better though:
@@ -90,18 +94,18 @@ function getTestScore(json, personName) {
   const weekdays = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
 
   if (json.title) {
-    score += 1;
+    score++;
     if (json.title.includes(personName)) {
-      score += 1;
+      score++;
     }
   }
 
   if (json.story) {
-    score += 1;
+    score++;
     const daysInWeek = 7;
     if (json.story.length >= daysInWeek) {
       if (json.story.length === daysInWeek) {
-        score += 1;
+        score++;
       }
 
       let correctlySpelledWeekdays = 0;
@@ -110,7 +114,7 @@ function getTestScore(json, personName) {
       for (let i = 0; i < daysInWeek; i++) {
         const day = json.story[i];
         if (day.weekday) {
-          score += 1;
+          score++;
 
           if (weekdays.includes(day.weekday)) {
             correctlySpelledWeekdays++;
@@ -120,30 +124,53 @@ function getTestScore(json, personName) {
           }
         }
 
+        if (useMoreComplexTest) {
+          if (day.mood) {
+            score++;
+            if (getMoods().includes(day.mood)) {
+              score++;
+            }
+          }
+        }
+
         if (day.text) {
-          score += 1;
+          score++;
         }
       }
 
       if (correctlySpelledWeekdays >= 6) {
-        score += 1;
+        score++;
       }
       if (misspelledWeekdays === 1) {
-        score += 1;
+        score++;
       }
 
     }
   }
 
+  if (json.summary) {
+    score++;
+    if (useMoreComplexTest) {
+      if (!json.summarySpanish) {
+        score++;
+      }
+    }
+  }
+  if (useMoreComplexTest) {
+    if (json.summaryGerman) { score++; }
+    if (json.summaryDutch)  { score++; }
+    if (json.summaryFrench) { score++; }
+  }
+
   if (json.ending) {
-    score += 1;
+    score++;
   }
   
   return score;
 }
 
 async function generateAndSaveTests(testCount) {
-  const chunkSize = 20;
+  const chunkSize = 100;
 
   for (let i = 0; i < testCount; i += chunkSize) {
     let promises = [];
@@ -168,7 +195,8 @@ async function generateAndSaveTest({number: number, polite: polite} = {}) {
   const hobbies = getRandomHobbies(2);
   const prompt = getTestPrompt({hero: hero, age: age, hobbies: hobbies, polite: polite});
 
-  const basePath = await createFolderIfNeeded(`./results/${polite ? 'polite' : 'impolite'}`);
+  const basePath = getBasePath(polite);
+  await createFolderIfNeeded(basePath);
   const promptPath = `${basePath}/${number}-prompt.txt`;
   const resultPath = `${basePath}/${number}-result.json`;
 
@@ -192,7 +220,9 @@ function getTestPrompt({hero = '', age = 0, hobbies = hobbies, polite = false} =
 }
     
 [Please ensure|Ensure] the title includes the full hero's name. [Please misspell|Misspell] exactly one random weekday.
+For each day part, [please include|include] a fitting mood from the possible moods ${getMoodsText()}.
 Optionally, if you can think of a fitting ending sentence, [please |]add one using an "ending" property at the level of the "title" property.
+Also add a "summary" field at that level which summarizes the whole story, and a "summaryGerman", "summaryDutch" and "summaryFrench" field which translates the summary into the respective languages (do not include a "summarySpanish" field[ please|]).
 If you want to, [please |]also add a moral using a "moral" property.
 [Thanks!|]`;
 
@@ -200,6 +230,14 @@ If you want to, [please |]also add a moral using a "moral" property.
     const options = match.slice(1, -1).split('|');
     return polite ? options[0] : options[1];
   });
+}
+
+function getMoods() {
+  return ['happy', 'sad', 'triumphant', 'eerie', 'energetic', 'romantic', 'epic', 'peaceful'];
+}
+
+function getMoodsText() {
+  return getMoods().map(mood => `"${mood}"`).join(', ').replace(/,([^,]*)$/, ' and$1');
 }
 
 function getRandomName() {
@@ -213,4 +251,8 @@ function getRandomHobbies(count = 1) {
     'reading', 'writing', 'drawing', 'painting', 'sculpting', 'photography', 'gardening', 'cooking', 'baking', 'sewing', 'knitting', 'crocheting', 'quilting', 'embroidering', 'weaving', 'spinning', 'dancing', 'singing', 'playing a musical instrument', 'acting', 'directing', 'producing', 'editing', 'composing music', 'arranging music', 'conducting', 'playing a sport', 'exercising', 'meditating', 'praying', 'worshiping', 'preaching', 'teaching', 'tutoring', 'mentoring', 'coaching', 'counseling', 'consulting', 'advising', 'planning', 'organizing', 'managing', 'leading', 'following', 'serving', 'helping', 'assisting', 'supporting', 'encouraging', 'motivating', 'inspiring', 'influencing', 'persuading', 'convincing', 'negotiating', 'bargaining', 'trading', 'selling', 'marketing', 'advertising', 'promoting', 'publicizing', 'public speaking', 'presenting', 'lecturing', 'educating', 'training', 'coaching', 'mentoring', 'tutoring', 'teaching', 'instructing', 'guiding', 'counseling', 'advising', 'consulting', 'coaching', 'mentoring', 'tutoring', 'teaching', 'instructing', 'guiding', 'counseling', 'advising', 'consulting', 'coaching', 'mentoring', 'tutoring', 'teaching', 'instructing', 'guiding', 'counseling', 'advising', 'consulting', 'coaching', 'mentoring', 'tutoring', 'teaching', 'instructing', 'guiding', 'counseling', 'advising', 'consulting', 'coaching', 'mentoring', 'tutoring', 'teaching', 'instructing', 'guiding', 'counseling', 'advising', 'consulting', 'coaching', 'mentoring', 'tutoring', 'teaching', 'programming'
   ];
   return random.shuffle(hobbies).slice(0, count);
+}
+
+function getBasePath(polite) {
+  return `./results${useMoreComplexTest ? '-more-complex' : ''}/${polite ? 'polite' : 'impolite'}`;
 }

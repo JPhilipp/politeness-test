@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Wisdom with Pit Green",
+  "summary": "Pit Green, a 61-year-old with a passion for counseling and consulting, uses his wisdom to navigate various challenges throughout a week, each day revealing a new aspect of his hidden abilities and culminating in a community festival where he is celebrated.",
+  "summaryGerman": "Pit Green, ein 61-Jähriger mit einer Leidenschaft für Beratung und Consulting, nutzt seine Weisheit, um verschiedene Herausforderungen während einer Woche zu meistern. Jeder Tag offenbart eine neue Facette seiner verborgenen Fähigkeiten, die in einem Gemeindefest gipfeln, bei dem er gefeiert wird.",
+  "summaryDutch": "Pit Green, een 61-jarige met een passie voor counseling en consulting, gebruikt zijn wijsheid om gedurende een week verschillende uitdagingen aan te gaan. Elke dag onthult een nieuw aspect van zijn verborgen vaardigheden, uitmondend in een gemeenschapsfestival waar hij wordt gevierd.",
+  "summaryFrench": "Pit Green, un passionné de conseil et de consultation de 61 ans, utilise sa sagesse pour naviguer à travers divers défis tout au long d'une semaine, chaque jour révélant un nouvel aspect de ses capacités cachées et culminant dans un festival communautaire où il est célébré.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "While counseling a distressed couple, Pit unexpectedly reveals his ability to literally absorb and alleviate their emotional pain, leaving them relieved and his session more successful than usual.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Tuesdau",
+      "text": "Inspired by yesterday's discovery, Pit attempts to use his powers in a consulting session with a struggling business but realizes not all problems can be solved supernaturally. The session ends with a thoughtful planning session.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "During a walk in the park, Pit helps a lost child find her parents. He utilizes a sudden, mysterious ability to communicate with birds who saw where the parents went, guiding them safely back together.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Pit meets an old friend who is unaware of Pit's new powers. They discuss life's oddities and reminisce over past adventures. Pit feels normal for a day, finding joy in simple friendship and laughter.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A crisis emerges at a local school, and Pit is called upon. His ability to influence emotions calms a tense hostage situation, resulting in a peaceful resolution. He starts to feel the weight of being a hero.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Needing a break, Pit spends the day consulting for a charity event. He ends up using his abilities to enhance the team's mood, ensuring the event's success and discovering the joy in using his powers for indirect help.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "At the community festival, Pit is honored for his contributions. While he enjoys the limelight, he secretly longs for the normalcy of his previous life. Yet, he acknowledges the benefits his powers bring to others.",
+      "mood": "romantic"
+    }
+  ],
+  "moral": "True wisdom involves knowing when to use one's gifts and when to step back and let things unfold naturally.",
+  "ending": "And so, Pit Green learned to balance heroism with humility, transforming his ordinary week into a journey of self-discovery and communal harmony."
+}

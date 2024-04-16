@@ -1,0 +1,46 @@
+{
+  "title": "The Sculpted Guardian: Ivan Nelson's Week of Valor",
+  "summary": "Ivan Nelson, a sculptor by profession, discovers a mystical clay that grants him superpowers. Throughout one week, he navigates challenges and ultimately saves his city from impending disaster.",
+  "summaryGerman": "Ivan Nelson, ein Bildhauer von Beruf, entdeckt einen mystischen Ton, der ihm Superkräfte verleiht. Im Laufe einer Woche meistert er Herausforderungen und rettet letztendlich seine Stadt vor einer drohenden Katastrophe.",
+  "summaryDutch": "Ivan Nelson, professioneel beeldhouwer, ontdekt een mystieke klei die hem superkrachten geeft. Gedurende één week gaat hij uitdagingen aan en redt uiteindelijk zijn stad van een dreigende ramp.",
+  "summaryFrench": "Ivan Nelson, sculpteur de profession, découvre une argile mystique qui lui donne des superpouvoirs. Tout au long d'une semaine, il relève des défis et sauve finalement sa ville d'une catastrophe imminente.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ivan Nelson, while exploring an old warehouse to find materials for his sculpting class, discovers a mystical clay that radiates an eerie glow.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Experimenting with the clay, Ivan shapes a small figurine and unexpectedly gains the ability to manipulate earth and stone.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wenesday",
+      "text": "Ivan uses his powers to repair a crumbling historic building in his neighborhood, earning the admiration of the local community.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Rumors of his abilities attract the interest of a mysterious figure who seeks to harness Ivan's powers for nefarious purposes.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The mysterious figure confronts Ivan, demanding the mystical clay. Ivan refuses, leading to a dramatic showdown.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "In the aftermath of the confrontation, Ivan realizes the potential dangers his powers could attract and decides to train harder.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Now fully aware of the responsibilities his powers entail, Ivan vows to use his abilities to protect his city and teach others through his art and heroism.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "With every sculpture he crafts, Ivan Nelson shapes a safer future for his beloved city.",
+  "moral": "With great power comes great responsibility."
+}

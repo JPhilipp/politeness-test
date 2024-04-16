@@ -1,0 +1,46 @@
+{
+  "title": "The Glowing Guide: The Adventures of Judy Alexander",
+  "summary": "Judy Alexander, a 22-year-old with a passion for guiding, discovers her power to emit light and uses it to save her city from darkness while uncovering personal strengths.",
+  "summaryGerman": "Judy Alexander, eine 22-Jährige mit einer Leidenschaft für das Führen, entdeckt ihre Fähigkeit, Licht auszustrahlen und verwendet es, um ihre Stadt vor der Dunkelheit zu retten, während sie persönliche Stärken aufdeckt.",
+  "summaryDutch": "Judy Alexander, een 22-jarige met een passie voor gidsen, ontdekt haar vermogen om licht uit te stralen en gebruikt het om haar stad te redden van de duisternis terwijl ze persoonlijke krachten onthult.",
+  "summaryFrench": "Judy Alexander, 22 ans, passionnée par le guidage, découvre son pouvoir d'émettre de la lumière et l'utilise pour sauver sa ville de l'obscurité tout en découvrant des forces personnelles.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy Alexander starts her week uneventfully, guiding tourists through the city museums. Little does she know, her life is about to change.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Teusday",
+      "text": "While demonstrating parts of an unlit historical tunnel, Judy accidentally discovers she can emit beams of light from her hands, illuminating the dark path.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Judy practices her newfound abilities, learning to control the intensity and direction of the light. She feels a mix of excitement and nervousness.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A citywide blackout thrusts Judy into action. Using her powers, she guides people to safety, becoming a beacon in the literal darkness.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "News of her deeds spreads. Judy meets a group of supportive fellow heroes who share their experiences with their own powers.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Training with her new friends, Judy learns about her limits and potentials, growing stronger and more confident in her abilities.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Judy writes in her journal, realizing she has found her true calling in helping others with her extraordinary gifts.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "From guiding tours to guiding hope, Judy Alexander shines a light on the power within us all.",
+  "moral": "Discover your inner strengths, and use them to illuminate the world."
+}

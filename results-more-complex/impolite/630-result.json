@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Editor: The Tale of Oscar Rogers",
+  "summary": "Oscar Rogers discovers his ability to manipulate reality through editing video and plans to save his city from an impending disaster.",
+  "summaryGerman": "Oscar Rogers entdeckt seine Fähigkeit, die Realität durch Videobearbeitung zu manipulieren und plant, seine Stadt vor einer bevorstehenden Katastrophe zu retten.",
+  "summaryDutch": "Oscar Rogers ontdekt zijn vermogen om de realiteit te manipuleren door het bewerken van video en plant zijn stad te redden van een naderende ramp.",
+  "summaryFrench": "Oscar Rogers découvre sa capacité à manipuler la réalité en éditant des vidéos et planifie de sauver sa ville d'une catastrophe imminente.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar discovers he can change small elements of reality by editing videos of events around him.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesdsay",
+      "text": "Excited, Oscar tests his powers by averting a minor accident, editing the event's outcome before it occurs.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Realizing the potential, Oscar spends the day planning how to use his abilities for greater good.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A news report forecasts a terrible storm approaching; Oscar prepares to edit a crucial video.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "He works tirelessly, editing multiple scenarios to divert the storm's path away from the city.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The storm is successfully redirected. The city celebrates, unaware of Oscar’s role in their salvation.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Oscar feels content, knowing his secret editing saved countless lives, committing to remain the unseen guardian.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "In the quiet of his editing room, Oscar Rogers smiled, his city safe once more.",
+  "moral": "The greatest heroes are often the ones we never see."
+}

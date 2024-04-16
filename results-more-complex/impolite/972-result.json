@@ -1,0 +1,46 @@
+{
+  "title": "Heidi Bailey: The Guiding Light of Astro City",
+  "summary": "In Astro City, Heidi Bailey, a 44-year-old with a passion for coaching, discovers her ability to influence positive outcomes by guiding people through their daily crises. Over one week, she realizes her potential as a superhero by resolving various challenging situations and ultimately embracing her identity as 'The Guiding Light'.",
+  "summaryGerman": "In Astro City entdeckt Heidi Bailey, eine 44-jährige leidenschaftliche Trainerin, ihre Fähigkeit, positive Ergebnisse zu beeinflussen, indem sie Menschen durch ihre täglichen Krisen führt. Im Laufe einer Woche erkennt sie ihr Potenzial als Superheldin, indem sie verschiedene herausfordernde Situationen löst und letztendlich ihre Identität als 'Das führende Licht' annimmt.",
+  "summaryDutch": "In Astro City ontdekt Heidi Bailey, een 44-jarige gepassioneerde coach, haar vermogen om positieve resultaten te beïnvloeden door mensen door hun dagelijkse crises te leiden. Gedurende een week realiseert ze zich haar potentieel als superheld door verschillende uitdagende situaties op te lossen en uiteindelijk haar identiteit als 'Het Guidende Licht' te omarmen.",
+  "summaryFrench": "À Astro City, Heidi Bailey, une passionnée de coaching âgée de 44 ans, découvre sa capacité à influencer les résultats positifs en guidant les gens à travers leurs crises quotidiennes. Au cours d'une semaine, elle réalise son potentiel en tant que super-héroïne en résolvant diverses situations difficiles et en finalement embrassant son identité de 'La Lumière Guide'.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "While coaching at a local community center, Heidi stumbles upon a heated argument outside. Her calm and thoughtful advice helps resolve the conflict peacefully.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Heidi notices someone struggling with personal issues. Offering guidance, she learns she can subtly influence emotions, turning the person’s day from dismal to hopeful.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesdy",
+      "text": "Heidi successfully coaches a young athlete facing a major competition. Her insights seem to magically enhance the athlete's performance. Realizing her powers, Heidi feels a mix of awe and excitement.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Encouraged by her recent discoveries, Heidi spends the day experimenting with her ability, guiding strangers and observing positive changes almost immediately.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The local news begins to catch wind of a mysterious 'good Samaritan' transforming lives. Heidi feels a mix of pride and fear about her newfound attention.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Facing a major crisis at a community event, Heidi manages to de-escalate a dangerous situation. This further cements her role as a positive force within the town.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Heidi decides to embrace her role as Astro City’s 'Guiding Light', vowing to use her powers to make a lasting difference.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, Heidi Bailey embraced her powers, ensuring peace and guidance flowed through the veins of Astro City.",
+  "moral": "Even the seemingly ordinary among us can hold extraordinary potential for good."
+}

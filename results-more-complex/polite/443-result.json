@@ -1,0 +1,46 @@
+{
+  "title": "The Incredible Week of Frank Brown: The Counselor Hero",
+  "summary": "Frank Brown uses his extraordinary empathic powers to sense and alleviate emotional distress in his city, ultimately discovering a plot to spread negativity and stopping it, strengthening his community.",
+  "summaryGerman": "Frank Brown nutzt seine außergewöhnlichen empathischen Kräfte, um emotionale Not in seiner Stadt zu erkennen und zu lindern, entdeckt schließlich eine Verschwörung zur Verbreitung von Negativität und stoppt sie, wodurch er seine Gemeinschaft stärkt.",
+  "summaryDutch": "Frank Brown gebruikt zijn buitengewone empathische krachten om emotionele nood in zijn stad te detecteren en te verlichten, ontdekt uiteindelijk een complot om negativiteit te verspreiden en stopt het, waardoor hij zijn gemeenschap versterkt.",
+  "summaryFrench": "Frank Brown utilise ses pouvoirs empathiques extraordinaires pour détecter et soulager la détresse émotionnelle dans sa ville, découvre finalement un complot pour répandre la négativité et l'arrête, renforçant ainsi sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank learns of a sudden increase in sadness and isolation among his peers at university.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tursday",
+      "text": "Using his empathic abilities, Frank talks to distressed students, discovering a pattern linked to a new social media app.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Frank organizes a workshop on mental health that encourages attendees to express their feelings and share experiences.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Frank connects with local therapists to provide support for those affected by the negativity linked to the app.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Using his counseling skills, Frank helps develop a positive campaign against the harmful effects of the app.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The campaign gains traction; Frank sees a vibrant change in community mood and cohesiveness.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Frank reflects on his impact and vows to continue fighting for emotional wellness in his community.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And thus, Frank Brown learned that even in a world overshadowed by digital distress, one person’s empathy and action can bring light.",
+  "moral": "Empathy and proactive involvement in community concerns can lead to significant positive changes."
+}

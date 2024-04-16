@@ -1,0 +1,46 @@
+{
+  "title": "The Melodic Guardian: The Week Jin Scott Saved Music City",
+  "summary": "Jin Scott discovers her superpowers related to controlling sound waves during a week of tutoring and music, committing to defend Music City against rising threats.",
+  "summaryGerman": "Jin Scott entdeckt ihre Superkräfte, die sich auf die Kontrolle von Schallwellen beziehen, während einer Woche des Tutorings und der Musik, und verpflichtet sich, Music City gegen aufkommende Bedrohungen zu verteidigen.",
+  "summaryDutch": "Jin Scott ontdekt haar superkrachten gerelateerd aan het beheersen van geluidsgolven gedurende een week van bijles en muziek, en zet zich in om Music City te verdedigen tegen opkomende dreigingen.",
+  "summaryFrench": "Jin Scott découvre ses super-pouvoirs liés au contrôle des ondes sonores pendant une semaine de tutorat et de musique, s'engageant à défendre Music City contre les menaces émergentes.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Jin Scott begins her week by giving a tutoring session in the local library, feeling peaceful as she helps students master complex subjects. Unbeknownst to her, her serene use of sound while drumming fingers sets the tempo for the week.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "At a city park, Jin practices her violin, the notes weaving an eerie melody that unknowingly thwarts a nearby burglary. She senses something extraordinary about her musical influence.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "While tutoring, Jin accidentally projects sound waves in reaction to a disruptive student, pushing objects away. She realizes her abilities are growing stronger and actively starts experimenting with them.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Intrigued by her new powers, Jin spends the day mastering control over sound waves, discovering she can amplify, mute, and bend sounds. Her excitement and determination grow.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Jin intervenes in a street conflict by harmonizing aggressive sounds into calming symphonies, calming the heated crowd. Recognized as a hero, she feels deeply satisfied yet aware of the responsibility she now holds.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Taking a break, Jin performs at a local charity event, her music inspired and touched with newfound heroism. The community gathers, enchanted and inspired by her dedication.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Planning further steps, Jin meets with community leaders to discuss how her powers could further benefit Music City, feeling happy and ready to embrace her role as 'The Melodic Guardian.'",
+      "mood": "happy"
+    }
+  ],
+  "ending": "With every note and every sound, Jin Scott pledged to protect the symphony of life in Music City.",
+  "moral": "Embrace your unique talents; they might just be your superpower."
+}

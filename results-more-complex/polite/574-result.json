@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Trent Baker",
+  "summary": "Over one week, Trent Baker discovers his superpowers during his coaching sessions, thwarts a crime spree, and learns the responsibility that comes with great power.",
+  "summaryGerman": "Über eine Woche entdeckt Trent Baker seine Superkräfte während seiner Coaching-Sitzungen, vereitelt eine Verbrechensserie und lernt die Verantwortung, die mit großer Macht einhergeht.",
+  "summaryDutch": "Gedurende een week ontdekt Trent Baker zijn superkrachten tijdens zijn coachingssessies, verijdelt een misdaadgolf en leert de verantwoordelijkheid die bij grote macht hoort.",
+  "summaryFrench": "Pendant une semaine, Trent Baker découvre ses superpouvoirs lors de ses séances de coaching, déjoue une série de crimes et apprend la responsabilité qui accompagne un grand pouvoir.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Trent Baker, a passionate coach, suddenly discovers he can manipulate time during a training session. He's taken aback but ecstatic about his newfound ability.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thesday",
+      "text": "Trent uses his time-manipulation skills to rewind a few moments and prevent an accident during practice. His confidence grows.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "News of an unknown hero in town spreads, giving Trent an eerie feeling of both excitement and uncertainty about his secret.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Deciding to embrace his powers, Trent stops a robbery in progress. He feels a rush of adrenaline and a sense of duty towards his community.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Trent meets Emily, a journalist keen on discovering the identity of the new hero. There's a spark between them, turning their professional meeting somewhat romantic.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a major crisis involving a bridge collapse, Trent saves dozens, revealing his identity to Emily who promises to keep his secret.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week’s events at his favorite quiet spot, Trent feels peaceful and ready to handle the responsibilities of his new role.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus, Trent Baker embraced his role as a protector, balancing his life of coaching with his duties as a superhero, always aware that every day could require the hero within him.",
+  "moral": "With great power comes great responsibility."
+}

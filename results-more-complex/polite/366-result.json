@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Heroism: The Adventures of Nancy Garcia",
+  "summary": "Nancy Garcia, a 19-year-old with a passion for coaching and advising, discovers her superpower of influencing emotions. Across a week, she uses her abilities to tackle challenges in her community, culminating in a dramatic rescue on Sunday.",
+  "summaryGerman": "Nancy Garcia, eine 19-jährige mit einer Leidenschaft für Coaching und Beratung, entdeckt ihre Superkraft, Emotionen zu beeinflussen. Über eine Woche hinweg nutzt sie ihre Fähigkeiten, um Herausforderungen in ihrer Gemeinschaft zu bewältigen, die in einer dramatischen Rettung am Sonntag gipfeln.",
+  "summaryDutch": "Nancy Garcia, een 19-jarige met een passie voor coaching en adviseren, ontdekt haar superkracht om emoties te beïnvloeden. Gedurende een week gebruikt ze haar vaardigheden om uitdagingen in haar gemeenschap aan te gaan, uitmondend in een dramatische redding op zondag.",
+  "summaryFrench": "Nancy Garcia, une jeune femme de 19 ans passionnée par le coaching et le conseil, découvre son superpouvoir d'influencer les émotions. Tout au long de la semaine, elle utilise ses capacités pour relever des défis dans sa communauté, aboutissant à un sauvetage dramatique le dimanche.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Nancy discovers she can sense and manipulate emotions while coaching her local youth soccer team, inspiring them to a surprising win against a stronger team.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Empowered by her new abilities, Nancy aids a friend feeling down, lifting her spirits with a combination of empathy and encouragement.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednedsay",
+      "text": "Nancy encounters a strange aura at the local park. Investigating, she senses a lost child's fear and leads the parents directly to him.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Nancy uses her powers at a community meeting, subtly steering the mood to ensure a peaceful and productive discussion about a controversial development plan.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Feeling the emotional toll of constantly sensing others' feelings, Nancy spends a day training her mind to balance her powers, growing stronger and more adept.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Nancy harnesses her matured powers to resolve a standoff between feuding neighbors, ending the week on an optimistic note as they shake hands.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "A fire breaks out at a community hall during an event. Nancy feels the collective panic and fear, but uses her powers to calm the crowd, paving the way for a safe evacuation.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus, through trials and triumphs, Nancy Garcia learned to balance her gift, using it to weave peace and positivity through her community.",
+  "moral": "With great power comes great responsibility, and the true test of strength is in the service of others."
+}

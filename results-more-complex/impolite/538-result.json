@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Weaver: The Tale of Ivan Harris",
+  "summary": "Ivan Harris, a 46-year-old weaver and sculptor, discovers his superpower of manipulating materials, which he uses to battle a mysterious force threatening his city over the course of a week.",
+  "summaryGerman": "Ivan Harris, ein 46-jähriger Weber und Bildhauer, entdeckt seine Superkraft, Materialien zu manipulieren, die er einsetzt, um eine mysteriöse Kraft zu bekämpfen, die seine Stadt im Laufe einer Woche bedroht.",
+  "summaryDutch": "Ivan Harris, een 46-jarige wever en beeldhouwer, ontdekt zijn superkracht om materialen te manipuleren, die hij gebruikt om een mysterieuze kracht te bestrijden die zijn stad gedurende een week bedreigt.",
+  "summaryFrench": "Ivan Harris, un tisseur et sculpteur de 46 ans, découvre son superpouvoir de manipulation des matériaux, qu'il utilise pour lutter contre une force mystérieuse menaçant sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ivan Harris was weaving a new tapestry in his workshop when he accidentally dropped a metal rod, which inexplicably bent into an intricate shape at his command. He realized he could manipulate materials with his thoughts.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Filled with a newfound energy, Ivan experimented with his powers, turning clay into delicate sculptures without touching them.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "News of a strange, shadowy force wreaking havoc downtown reached Ivan. Sensing a connection between his powers and the disturbances, he decided to investigate.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Using his abilities, Ivan sculpted defensive barriers from street debris to protect civilians, battling the shadow creatures emerging from the chaos.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "As the week progressed, Ivan refined his control over his powers, weaving a giant net from the city's materials to capture the shadow entity orchestrating the week's terror.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Realizing the shadow was feeding off negative human emotions, Ivan created inspiring sculptures around the city, lifting citizens' spirits and weakening the shadow.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "With the city restored and the threat subdued, Ivan Harris returned to his workshop, understanding his true potential not just as an artist but as a protector of his city.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, Ivan Harris wove not only threads and clay but also the fate of his city, binding peace once more into its very foundations.",
+  "moral": "Even undervalued skills, like weaving and sculpting, can hold great power when given purpose."
+}

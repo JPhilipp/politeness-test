@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Victor Jenkins, the Persuasive Tutor",
+  "summary": "Victor Jenkins finds himself embroiled in an eerie mystery involving vanishing knowledge at the local library, using his skills in convincing and tutoring to unravel secrets and restore balance.",
+  "summaryGerman": "Victor Jenkins findet sich in einem unheimlichen Geheimnis um das Verschwinden von Wissen in der örtlichen Bibliothek verwickelt und nutzt seine Fähigkeiten im Überzeugen und Unterrichten, um Geheimnisse zu entschlüsseln und das Gleichgewicht wiederherzustellen.",
+  "summaryDutch": "Victor Jenkins raakt verwikkeld in een griezelig mysterie met verdwijnende kennis in de lokale bibliotheek, waarbij hij zijn vaardigheden in overtuigen en tutoreren gebruikt om geheimen te ontrafelen en de balans te herstellen.",
+  "summaryFrench": "Victor Jenkins se retrouve impliqué dans un mystère effrayant concernant la disparition de connaissances à la bibliothèque locale, utilisant ses compétences en persuasion et en tutorat pour dévoiler les secrets et rétablir l'équilibre.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Victor Jenkins spends his evening tutoring students at the local library when he notices books mysteriously disappearing from the shelves.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Determined, Victor uses his unique skill of persuasion to gather information from the library staff and patrons.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "Victor uncovers hints of a secret society trying to control the flow of knowledge in the community.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Using his knowledge from tutoring history, Victor deciphers cryptic messages left in the missing books' places.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Victor devises a clever plan to persuade the secret society members to reveal themselves during a staged book reading.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The plan goes into action; the conspirators are caught red-handed, and the stolen knowledge is recovered.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The town honors Victor for his bravery and wisdom, and peace is restored to the library.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the sun set on a peaceful Sunday, Victor Jenkins smiled, knowing knowledge was once again free for all.",
+  "moral": "The power of knowledge should never be underestimated, nor should the resolve of those who seek to defend it."
+}

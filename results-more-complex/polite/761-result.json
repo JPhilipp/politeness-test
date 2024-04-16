@@ -1,0 +1,46 @@
+{
+  "title": "The Chronicles of Grace Howard: Counselor by Day, Hero by Night",
+  "summary": "Grace Howard, a 47-year-old counselor, discovers her superpowers and uses them to combat evil while maintaining her everyday life, empowering her community over a transformative week.",
+  "summaryGerman": "Grace Howard, eine 47-jährige Beraterin, entdeckt ihre Superkräfte und nutzt sie, um das Böse zu bekämpfen, während sie ihr alltägliches Leben aufrechterhält und ihre Gemeinschaft über eine transformative Woche stärkt.",
+  "summaryDutch": "Grace Howard, een 47-jarige counselor, ontdekt haar superkrachten en gebruikt deze om het kwaad te bestrijden terwijl ze haar dagelijks leven behoudt, haar gemeenschap versterkend over een transformerende week.",
+  "summaryFrench": "Grace Howard, une conseillère de 47 ans, découvre ses superpouvoirs et les utilise pour lutter contre le mal tout en maintenant sa vie quotidienne, renforçant sa communauté au cours d'une semaine transformative.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Grace Howard starts her week at the community center, offering advice and training. Unbeknownst to her, a strange meteorite nearby imbues her with mysterious powers overnight.",
+      "mood": "eerie"
+    },
+    {
+      "wednesday": "Tuesday",
+      "text": "Feeling unusually energetic, Grace realizes she can hear people's thoughts during her counseling sessions, using this new ability to better address their concerns.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Grace rescues a train from a derailment, discovering her super strength. Initially, she's fearful of her new abilities but decides to use them for good.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Troubled by the implications of her powers, Grace seeks advice from an old friend who encourages her to embrace her gifts and become the hero her city needs.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Putting her powers to work, Grace stops a bank robbery, bringing peace back to her neighborhood and earning the community’s heartfelt gratitude.",
+      "mood": "heroic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With a newfound sense of responsibility, Grace spends the day training, honing her skills to better serve her community.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "On a peaceful morning walk, Grace reflects on her week and plans to balance her life as a counselor and a superhero, hopeful about her new dual life.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "By the end of the week, Grace Howard had fully embraced her dual identity, ready to serve her community in ways she never imagined.",
+  "moral": "Embrace your unique gifts, they might be just what the world needs."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Energetic Week of Victor Jenkins: Urban Hero",
+  "summary": "Victor Jenkins, a 27-year-old who loves coaching and tutoring, discovers his superpowers and uses them to protect his community from danger over the span of a week.",
+  "summaryGerman": "Victor Jenkins, ein 27-jähriger, der es liebt zu coachen und zu unterrichten, entdeckt seine Superkräfte und nutzt sie, um seine Gemeinde eine Woche lang vor Gefahren zu schützen.",
+  "summaryDutch": "Victor Jenkins, een 27-jarige die houdt van coachen en tutor zijn, ontdekt zijn superkrachten en gebruikt ze om zijn gemeenschap een week lang te beschermen tegen gevaar.",
+  "summaryFrench": "Victor Jenkins, 27 ans, qui adore l'encadrement et le tutorat, découvre ses superpouvoirs et les utilise pour protéger sa communauté du danger pendant une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Victor Jenkins felt a surge of unknown energy while coaching his local basketball team. Little did he know, this burst would soon reveal his hidden superpowers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "During a tutoring session, Victor inadvertently moved a chair with his mind, startling himself and his student. His curiosity about his new abilities grew.",
+      "mood": "surprised"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Victor decided to test his powers further. He stopped a moving car from hitting a stray cat, confirming his telekinetic abilities are real and powerful.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Armed with confidence in his powers, Victor thwarted a burglary in progress using his telekinesis, to the shock and admiration of the local community.",
+      "mood": "heroic"
+    },
+    {
+      "weekday": "Firday",
+      "text": "Taking his role as a protector more seriously, Victor started patrol routines. His city felt safer with him watching over, and the community's support was palpable.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Victor spent the day perfecting the use of his powers and helping out where needed, saving a child from a burning building in a daring rescue that made headlines.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week's events, Victor committed himself to use his powers for the greater good, becoming a full-fledged superhero in the eyes of his beloved city.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Victor Jenkins, ordinary citizen turned savior, embraced his destiny as the guardian of his city.",
+  "moral": "With great power comes great responsibility."
+}

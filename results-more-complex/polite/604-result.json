@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Oscar Young: Saving Skylight City",
+  "summary": "Over one week, Oscar Young discovers his power to manipulate time, which he uses to stop a disaster and bring down a crime syndicate, all while balancing his normal life of serving and trading.",
+  "summaryGerman": "Innerhalb einer Woche entdeckt Oscar Young seine Fähigkeit, die Zeit zu manipulieren, die er nutzt, um eine Katastrophe zu stoppen und ein Verbrechersyndikat zu zerschlagen, während er sein normales Leben als Kellner und Händler weiterführt.",
+  "summaryDutch": "In één week ontdekt Oscar Young zijn kracht om tijd te manipuleren, die hij gebruikt om een ramp te stoppen en een misdaadsyndicaat neer te halen, terwijl hij zijn normale leven van bedienen en handelen in evenwicht houdt.",
+  "summaryFrench": "En une semaine, Oscar Young découvre son pouvoir de manipuler le temps, qu'il utilise pour arrêter une catastrophe et démanteler un syndicat du crime, tout en équilibrant sa vie normale de serveur et de commerçant.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar Young begins his week normally, trading stocks and serving at the local café. That night, he rescues a child from a car accident using unexplainable speed, leaving him both puzzled and intrigued.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Intrigued by the previous day’s events, Oscar tries to replicate the experience. He successfully freezes time for a moment. Amazed by his newfound ability, he decides to learn more about it.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Oscar practices his time-manipulating abilities secretly. He uses his power to extend time to help complete more tasks at work, but he feels the strain of keeping his secret.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News breaks of a planned attack on Skylight City. Oscar knows he must intervene. He spends the day planning how he could use his abilities to stop the attack.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Oscar uses his powers in a public spectacle, stopping the attack and capturing the criminals. The city is safe, yet Oscar worries about his exposure.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The city hails Oscar as a hero. He wrestles with his new identity publically known. He decides to embrace his role and promises to protect the city.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the events, Oscar continues to balance his life of trading and serving while adjusting to being Skylight City’s new guardian.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "In a world that needed a hero, it was Oscar Young, a humble server and trader, who rose to become the beacon of hope for Skylight City.",
+  "moral": "Everyday roles can conceal extraordinary heroes."
+}

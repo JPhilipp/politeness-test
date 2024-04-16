@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Redemption: The Pit Martin Chronicles",
+  "summary": "In this story, Pit Martin, a man whose hobbies include praying and consulting, discovers his unique abilities to perceive and solve supernatural problems. Throughout the week, he confronts eerie threats menacing his city, culminating in a triumphant battle to restore peace.",
+  "summaryGerman": "In dieser Geschichte entdeckt Pit Martin, ein Mann, dessen Hobbys Beten und Beraten umfassen, seine einzigartigen Fähigkeiten, übernatürliche Probleme wahrzunehmen und zu lösen. Über die Woche hinweg stellt er sich unheimlichen Bedrohungen, die seine Stadt bedrohen, und gipfelt in einem triumphalen Kampf, um den Frieden wiederherzustellen.",
+  "summaryDutch": "In dit verhaal ontdekt Pit Martin, een man wiens hobby's bidden en adviseren omvatten, zijn unieke vaardigheden om bovennatuurlijke problemen waar te nemen en op te lossen. Gedurende de week confronteert hij onheilspellende bedreigingen die zijn stad bedreigen, uitmondend in een triomfantelijke strijd om de vrede te herstellen.",
+  "summaryFrench": "Dans cette histoire, Pit Martin, un homme dont les passe-temps incluent la prière et le conseil, découvre ses capacités uniques à percevoir et résoudre les problèmes surnaturels. Tout au long de la semaine, il confronte des menaces étranges menaçant sa ville, aboutissant à une bataille triomphante pour restaurer la paix.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "The day starts peaceful for Pit Martin as he dedicates his morning to prayer, sensing an unease in the spiritual realm.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Eerie snippets of overheard conversations lead Pit to a consulting gig at an old, supposedly haunted library.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Investigating noises and shadows, Pit sees his first apparition, escalating his concerns. He spends the night researching ancient protection seals.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Armed with knowledge and holy artifacts, Pit confronts the dark presence, feeling an immense surge of energy.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The struggle intensifies. Pit's spiritual strength is tested, battling not just for the library but for his own soul.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Triumphant and exhausted, Pit eradicates the malevolent spirit, finally bringing silence and peace back to the library.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "After a week of turmoil, Pit returns to his church to give thanks, feeling a happiness that transcends ordinary joy.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, Pit Martin learned that true power lies in balancing darkness with the light of faith and knowledge.",
+  "moral": "Courage and faith are your greatest allies in confronting the unseen."
+}

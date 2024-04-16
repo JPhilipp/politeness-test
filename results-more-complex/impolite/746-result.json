@@ -1,0 +1,46 @@
+{
+  "title": "The Melodic Adventures of Heidi Wright",
+  "summary": "Heidi Wright, a 77-year-old music guide and arranger, discovers her supernatural ability to manipulate emotions through melodies, thwarting a plan to sow discord in her town over the course of a week.",
+  "summaryGerman": "Heidi Wright, eine 77 Jahre alte Musikleiterin und Arrangeurin, entdeckt ihre übernatürliche Fähigkeit, Emotionen durch Melodien zu manipulieren, und vereitelt einen Plan, innerhalb einer Woche Unruhe in ihrer Stadt zu stiften.",
+  "summaryDutch": "Heidi Wright, een 77-jarige muziekgids en arrangeur, ontdekt haar bovennatuurlijke vermogen om emoties te manipuleren door middel van melodieën, en verijdelt een plan om in de loop van een week onenigheid in haar stad te zaaien.",
+  "summaryFrench": "Heidi Wright, une guide et arrangeuse de musique de 77 ans, découvre son pouvoir surnaturel de manipuler les émotions à travers les mélodies, déjouant un plan visant à semer la discorde dans sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Heidi Wright begins her week by guiding a local choir. While conducting, she notices her ability to influence the choir's emotions, seeing them reflect the mood of each piece more intensely than ever before.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Intrigued by her newfound powers, Heidi experiments by arranging an old, somber folk tune into something brighter. Her neighbors start to feel inexplicably cheerful and more connected.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesady",
+      "text": "Heidi becomes aware of an eerie mood spreading through town, linked to discordant street music played by strangers. She counters it by composing a peaceful symphony played through town speakers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "As Heidi's compositions gain fame, she attracts larger groups to her performances in the park, wielding her melodies like a conductor's baton against malaise.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Discovering a plot by a tech mogul to control the town's mood through dissonant sound waves, Heidi crafts an epic counter-melody that envelops the town, breaking the mogul's influence.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With the mogul's plan thwarted, Heidi holds a celebratory concert, filling the air with romantic and joyful tunes that mend old rifts and deepen bonds within the community.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her role as both a musician and a protector, Heidi spends a peaceful day composing a new piece dedicated to the resilience and spirit of her town.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "In the symphony of life, Heidi Wright played the notes that brought harmony back to her world.",
+  "moral": "With great power comes great responsibility, and sometimes, that power lies in the art we create and share with others."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Quilted Guidance of Peggy Powell",
+  "summary": "Peggy Powell discovers her unique ability to manipulate fabrics while guiding a local community group, using her newfound powers to battle a mysterious threat over the course of a week.",
+  "summaryGerman": "Peggy Powell entdeckt ihre einzigartige Fähigkeit, Stoffe zu manipulieren, während sie eine lokale Gemeinschaftsgruppe führt und ihre neu entdeckten Kräfte verwendet, um eine mysteriöse Bedrohung im Laufe einer Woche zu bekämpfen.",
+  "summaryDutch": "Peggy Powell ontdekt haar unieke vermogen om stoffen te manipuleren terwijl ze een lokale gemeenschapsgroep begeleidt, en gebruikt haar nieuw ontdekte krachten om gedurende een week een mysterieuze dreiging te bestrijden.",
+  "summaryFrench": "Peggy Powell découvre sa capacité unique à manipuler les tissus tout en guidant un groupe communautaire local, utilisant ses nouveaux pouvoirs pour combattre une menace mystérieuse au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "mood": "peaceful",
+      "text": "Peggy Powell, a 58-year-old quilt enthusiast, spends her peaceful Monday guiding a group of local hikers through the scenic trails of her hometown. As she explains the history of the area, her hands unconsciously weave the leaves and twigs into intricate patterns."
+    },
+    {
+      "weekday": "Tuesday",
+      "mood": "eerie",
+      "text": "While quilting with her friends, Peggy feels an odd shift in the fabric of reality. The room grows cold and the lights flicker as her quilts begin to radiate a strange, glowing light, hinting at powers beyond her understanding."
+    },
+    {
+      "weekday": "Wedneday",
+      "mood": "energetic",
+      "text": "Emboldened by her mysterious encounter, Peggy experiments with her quilting, discovering she can animate the fabrics. Her quilts turn into dynamic maps that not only depict but seem to predict local changes and events."
+    },
+    {
+      "weekday": "Thursday",
+      "mood": "sad",
+      "text": "Peggy grows concerned as her powers reveal a looming disaster depicted vividly in her quilt. She feels overwhelmed and unsure if she can affect real change or if her powers are a curse rather than a gift."
+    },
+    {
+      "weekday": "Friday",
+      "mood": "triumphant",
+      "text": "Peggy decides to use her unique abilities to help her community. Using her animated quilts, she guides her town away from the predicted areas of danger, directing them to safety with confidence and precision."
+    },
+    {
+      "weekday": "Saturday",
+      "mood": "epic",
+      "text": "As the threat manifests—a severe storm altering the landscape—Peggy coordinates with local leaders, using her quilts as real-time maps to mitigate damage and assist in the evacuation, becoming a hero in everyone's eyes."
+    },
+    {
+      "weekday": "Sunday",
+      "mood": "happy",
+      "text": "The community gathers to thank Peggy, celebrating her bravery and unique talents. Realizing the potential of her powers, Peggy feels fulfilled, knowing she can both pursue her hobbies and protect those around her."
+    }
+  ],
+  "ending": "Peggy Powell continues to explore her powers, ensuring every stitch in her fabric holds the strength and guidance needed for whatever challenges may come.",
+  "moral": "Embrace your unique talents; they may be just what the world needs."
+}

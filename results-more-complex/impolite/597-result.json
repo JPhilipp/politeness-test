@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Eve Hayes: A Superhero at 72",
+  "summary": "Eve Hayes, a 72-year-old with hobbies of praying and advertising, discovers her late-blooming superpower of influencing people’s will through prayer, fighting local crime and facing personal challenges over a dramatic week.",
+  "summaryGerman": "Eve Hayes, eine 72-jährige mit den Hobbys Beten und Werbung, entdeckt ihre spätblühende Superkraft, den Willen der Menschen durch Gebet zu beeinflussen, bekämpft lokale Kriminalität und steht persönlichen Herausforderungen über eine dramatische Woche gegenüber.",
+  "summaryDutch": "Eve Hayes, een 72-jarige met hobby's van bidden en adverteren, ontdekt haar laatbloeier superkracht om mensen's wil te beïnvloeden door gebed, bestrijdt lokale criminaliteit en staat voor persoonlijke uitdagingen tijdens een dramatische week.",
+  "summaryFrench": "Eve Hayes, 72 ans, dont les hobbies sont la prière et la publicité, découvre son superpouvoir tardif d'influencer la volonté des gens par la prière, lutte contre la criminalité locale et fait face à des défis personnels au cours d'une semaine dramatique.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Eve Hayes begins her week with a serene morning prayer, feeling peaceful but unaware that her prayers now carry a mystical power that can alter reality. During breakfast, she reads about a spree of petty thefts in her neighborhood.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Disturbed by the news, Eve visits her local church to pray for safety and justice. As she prays, she notices more people seem drawn to the church, feeling an inexplicable urge to right their wrongs.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wedsnesday",
+      "text": "Eve discovers her unique power when a known small-time crook approaches her, confessing past misdeeds and seeking redemption. Inspired, she decides to dedicate her week to advertising righteousness through prayer.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "With her new mission, Eve spends the day creating captivating ads for the church’s community board, promoting themes of justice and peace, while secretly embedding her prayers within them.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Her efforts begin to pay off. The local news reports a surprising drop in crime rates. The community praises the mysterious shift towards morality. Eve, knowing her impact, feels a mixture of pride and humility.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a community gathering, Eve meets a man who claims to have felt her spiritual influence. He shares his story of transformation, which touches Eve deeply, and they discuss faith’s role in everyday life.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Eve reflects on her extraordinary week at her church’s Sunday service. The pastor speaks of a wave of positivity overtaking their community, and unknowingly credits Eve's behind-the-scenes activities for this change.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "As she sits quietly in her pew, Eve Hayes smiles subtly, knowing her prayers will continue to shape her world in ways she never imagined.",
+  "moral": "The quietest prayers can lead to the loudest changes."
+}

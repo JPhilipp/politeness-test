@@ -1,0 +1,46 @@
+{
+  "title": "The Rise of Mallory Wilson: A Hero in Disguise",
+  "summary": "Over a week, Mallory Wilson, a 53-year-old passionate about coaching and tutoring, discovers her hidden powers after an eerie encounter. She uses her newfound abilities to thwart a series of neighborhood crimes, embodying the spirit of a true hero.",
+  "summaryGerman": "Im Laufe einer Woche entdeckt Mallory Wilson, eine 53-jährige, die sich leidenschaftlich für Coaching und Nachhilfe begeistert, ihre verborgenen Kräfte nach einer unheimlichen Begegnung. Sie nutzt ihre neu gefundenen Fähigkeiten, um eine Reihe von Verbrechen in der Nachbarschaft zu vereiteln und verkörpert den Geist eines wahren Helden.",
+  "summaryDutch": "Gedurende een week ontdekt Mallory Wilson, een 53-jarige gepassioneerd over coaching en bijles, haar verborgen krachten na een griezelige ontmoeting. Ze gebruikt haar nieuw gevonden vaardigheden om een reeks misdrijven in de buurt te dwarsbomen, en belichaamt de geest van een ware held.",
+  "summaryFrench": "Au cours d'une semaine, Mallory Wilson, 53 ans, passionnée de coaching et de tutorat, découvre ses pouvoirs cachés après une rencontre étrange. Elle utilise ses nouvelles capacités pour contrecarrer une série de crimes dans son quartier, incarnant l'esprit d'un véritable héros.",
+  "moral": "Even the quietest among us can harbor the most powerful of strengths.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "While taking a usual evening stroll, Mallory encounters a strange glowing object. When she touches it, she starts feeling unusually energetic.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Mallory finds she can move objects with her mind at her tutoring session, preventing a bookshelf from collapsing onto a student.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesdat",
+      "text": "Confused but determined, Mallory decides to embrace her powers. She begins training herself in secret, feeling increasingly energetic.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Local news spreads of minor thefts. Mallory feels a pull to use her new abilities for good and foils a burglary using her telekinesis.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Her powers strengthening, Mallory successfully coaches her basketball team to victory, subtly using her abilities to guide the ball.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Word gets around about a mysterious 'guardian' in town. Mallory smiles, feeling peaceful and connected to her community like never before.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "As she prepares for the coming week, Mallory resolves to keep her secret, protecting her neighborhood quietly as its unsung hero.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "And so, Mallory Wilson continued her double life, a tutor by day and a guardian by night, always watching over her beloved town."
+}

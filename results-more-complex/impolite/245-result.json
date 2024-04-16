@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of David Alexander: From Coach to Champion",
+  "summary": "David Alexander, a devoted coach, discovers his superpowers over the course of a week and uses them to avert a disaster during a local sports event, learning the importance of embracing one's true potential.",
+  "summaryGerman": "David Alexander, ein engagierter Trainer, entdeckt im Laufe einer Woche seine Superkräfte und nutzt sie, um während eines lokalen Sportereignisses eine Katastrophe zu verhindern, und lernt die Bedeutung, sein wahres Potenzial anzunehmen.",
+  "summaryDutch": "David Alexander, een toegewijde coach, ontdekt zijn superkrachten gedurende een week en gebruikt ze om een ramp te voorkomen tijdens een lokaal sportevenement, en leert het belang van het omarmen van zijn ware potentieel.",
+  "summaryFrench": "David Alexander, un entraîneur dévoué, découvre ses superpouvoirs au cours d'une semaine et les utilise pour éviter une catastrophe lors d'un événement sportif local, apprenant l'importance d'embrasser son véritable potentiel.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "David Alexander starts his week feeling energetic as he plans the training schedules for his athletes. Unbeknownst to him, an unusual surge of energy during a routine demonstrates his nascent superpowers.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Feeling slightly eerie, David notices his powers grow stronger. He can now manipulate physical objects around him, causing confusion and awe among his trainees.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "David confides in an old mentor, who advises him to harness his abilities for good. Inspired, he spend the day mastering his control over these powers.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "While coaching, a sudden crisis unfolds as equipment malfunctions dangerously. David reacts swiftly, using his powers to prevent any injuries, feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The news of his heroic act spreads, and David becomes a local hero. He continues his day normally, but with a new, subtle confidence in his step.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "David decides to formally integrate his powers into his coaching, using them to help train in innovative ways. He feels epic, reshaping the way sports are approached.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, David feels peaceful, ready to face new challenges with his unique abilities, knowing he has much to offer both as a coach and a protector.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Embracing his role as both coach and guardian, David Alexander looked to the future, ready for the next challenge.",
+  "moral": "Embrace your unique traits; they are what may turn you into a hero."
+}

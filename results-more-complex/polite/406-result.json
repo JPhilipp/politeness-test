@@ -1,0 +1,46 @@
+{
+  "title": "The Rise of Eve Allen: A Week in the Life of a Super Consultant",
+  "summary": "Eve Allen discovers her supernatural ability to influence people through consulting and teaching, using it to fight corporate corruption over a week.",
+  "summaryGerman": "Eve Allen entdeckt ihre übernatürliche Fähigkeit, Menschen durch Beratung und Unterricht zu beeinflussen, und nutzt sie, um über eine Woche hinweg gegen Unternehmenskorruption zu kämpfen.",
+  "summaryDutch": "Eve Allen ontdekt haar bovennatuurlijke vermogen om mensen te beïnvloeden via consulting en onderwijs, en gebruikt dit om gedurende een week bedrijfscorruptie te bestrijden.",
+  "summaryFrench": "Eve Allen découvre sa capacité surnaturelle à influencer les gens par le consulting et l'enseignement, l'utilisant pour lutter contre la corruption d'entreprise pendant une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Eve Allen starts her week feeling energetic as she prepares a series of workshops aimed at ethical business practices.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tueesday",
+      "text": "During a consulting session, Eve uncovers evidence of corruption in a client's company, feeling an eerie sense of danger as she decides to investigate further.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Eve feels triumphant when she discreetly gathers more incriminating evidence against the corrupt executives.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Using her unique persuasive skills, Eve coaches a whistleblower on how to expose the wrongdoing, fostering a romantic bond with this brave soul.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "News breaks out about the corruption scam, and Eve is sad but determined as she supports her whistleblower friend amidst public backlash.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With the corrupt executives now facing legal actions, Eve feels peaceful, spending her day teaching kids about morality and integrity.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her achievements, Eve feels happy knowing she's made a significant difference, using her powers for the greater good.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And thus, Eve Allen learned that true power lies in the courage to speak up and the strength to guide others on the right path.",
+  "moral": "Power is not just what you have, but what you do with it to make a positive difference."
+}

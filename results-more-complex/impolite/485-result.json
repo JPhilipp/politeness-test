@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Yvonne Jones: Educator by Day, Hero by Night",
+  "summary": "This story follows Yvonne Jones, a 24-year-old with a penchant for educating and advertising, who discovers her superpowers and uses them to thwart a citywide crisis, learning about her true potential and the impact of courageous actions on her community.",
+  "summaryGerman": "Diese Geschichte folgt Yvonne Jones, einer 24-Jährigen mit einer Vorliebe für Bildung und Werbung, die ihre Superkräfte entdeckt und verwendet, um eine stadtweite Krise zu vereiteln, wobei sie ihre wahres Potenzial und den Einfluss mutiger Aktionen auf ihre Gemeinschaft erfährt.",
+  "summaryDutch": "Dit verhaal volgt Yvonne Jones, een 24-jarige met een voorliefde voor onderwijs en reclame, die haar superkrachten ontdekt en gebruikt om een stedelijke crisis te dwarsbomen, en leert over haar ware potentieel en de impact van moedige acties op haar gemeenschap.",
+  "summaryFrench": "Cette histoire suit Yvonne Jones, 24 ans, passionnée par l’éducation et la publicité, qui découvre ses superpouvoirs et les utilise pour contrecarrer une crise urbaine, apprenant ainsi son véritable potentiel et l’impact de ses actions courageuses sur sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Yvonne Jones starts her week energized, ready to unveil her latest educational campaign at work. Unbeknownst to her, a glowing meteorite fragment in her bag begins to empower her with extraordinary abilities.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tueday",
+      "text": "Feeling strangely powerful after her encounter with the meteorite, Yvonne stops a robbery effortlessly on her way to work, puzzling over how she managed it. Her sense of responsibility grows.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Inspired, Yvonne uses her lunch break to secretly help rebuild a local playground using her newfound strength and speed. The community starts to whisper about a mysterious new hero.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News of the 'Silent Guardian' spreads as Yvonne, cloaked in anonymity, fixes broken infrastructure at night. Her days, however, remain focused on her educational campaigns.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Yvonne faces her greatest challenge yet: a nefarious plot to take control of the city's media. Using her advertising savvy and superpowers, she crafts a message of hope and resilience.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The city rallies behind the messages spread by Yvonne, unknowingly empowered by their unknown hero. Yvonne feels a profound connection to her city, satisfied yet humbled by her secret influence.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "As the week closes, Yvonne reflects on her actions and their consequences, realizing that true heroism comes in many forms. She vows to continue protecting her city, balancing her dual life with new determination.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "With her secret safe, Yvonne Jones knew she was just getting started.",
+  "moral": "The essence of being a hero lies not just in the grandioise acts, but in the quiet moments of courage and dedication."
+}

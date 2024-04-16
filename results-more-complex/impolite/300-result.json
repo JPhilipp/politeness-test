@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Journey of Kevin Nelson: Mentor by Day, Hero by Night",
+  "summary": "Kevin Nelson, a dedicated teacher, discovers his ability to manipulate time during a week-long adventure, using it to save his town from disaster, and learning the true potential that lies within his passion for mentoring.",
+  "summaryGerman": "Kevin Nelson, ein engagierter Lehrer, entdeckt während eines einwöchigen Abenteuers seine Fähigkeit, die Zeit zu manipulieren. Er nutzt sie, um seine Stadt vor einer Katastrophe zu retten und erkennt das wahre Potenzial, das in seiner Leidenschaft für das Mentoring liegt.",
+  "summaryDutch": "Kevin Nelson, een toegewijde leraar, ontdekt zijn vermogen om tijd te manipuleren tijdens een week lang avontuur, gebruikt het om zijn stad te redden van een ramp en leert het ware potentieel dat in zijn passie voor mentoring ligt.",
+  "summaryFrench": "Kevin Nelson, un enseignant dévoué, découvre sa capacité à manipuler le temps au cours d'une aventure d'une semaine, l'utilisant pour sauver sa ville d'une catastrophe, et apprenant le véritable potentiel qui réside dans sa passion pour le mentorat.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "As another week begins, Kevin Nelson is greeted with peculiar glitches in his classroom clock. Initially amused, he brushes off the anomalies, immersed in his lessons on history.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "The glitches continue, growing increasingly pronounced. Kevin finishes a session of tutoring, feeling the seconds tick unusually. This odd sensation ignites a spark of curiosity.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesay",
+      "text": "After experiencing a moment where time seems to stop during a school fire drill, Kevin experiments, discovering he can control these pauses. His sense of responsibility grows as he contemplates this new ability.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Kevin uses his newfound powers cautiously, helping to avert minor accidents around town, feeling a mix of thrill and apprehension about his potential.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "As news of inexplicable rescues spread, Kevin remains anonymous, mentoring his students with a deeper connection, realizing his teachings now stretch beyond textbooks.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Danger looms when a bridge begins to collapse during a local marathon. Kevin, carefully manipulating time, ensures every runner's safety, truly embodying a hero.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Basking in the quiet aftermath, Kevin reflects on his ventures. He commits to using his powers for community protection, merging his passion for teaching with heroism.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, in a merge of passion and newfound powers, Kevin turned pages of ordinary life into lessons of heroism and dedication.",
+  "moral": "Embrace your unique abilities, and use them to make a difference in your world."
+}

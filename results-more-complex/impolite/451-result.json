@@ -1,0 +1,46 @@
+{
+  "title": "The Week Sue White Saved the Town",
+  "summary": "Over a week, Sue White, a 47-year-old fitness enthusiast and coach, discovers her superhuman abilities, battles a mysterious fog, and uses her newfound strength to save her town.",
+  "summaryGerman": "Über eine Woche hinweg entdeckt Sue White, eine 47-jährige Fitnessbegeisterte und Trainerin, ihre übermenschlichen Fähigkeiten, bekämpft einen geheimnisvollen Nebel und nutzt ihre neu gewonnene Stärke, um ihre Stadt zu retten.",
+  "summaryDutch": "Gedurende een week ontdekt Sue White, een 47-jarige fitnessliefhebber en coach, haar bovenmenselijke vaardigheden, gaat ze de strijd aan met een mysterieuze mist, en gebruikt ze haar nieuw gevonden kracht om haar stad te redden.",
+  "summaryFrench": "Au cours d'une semaine, Sue White, une passionnée de fitness et entraîneuse de 47 ans, découvre ses capacités surhumaines, combat un brouillard mystérieux et utilise sa nouvelle force pour sauver sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Sue White, while coaching her local sports team, begins to notice an unusual surge of strength and speed.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "The strange fog rolls into town. Sue feels uneasy but decides to investigate by jogging through it, feeling surprisingly energetic.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "Sue discovers she can dissipate the fog with her heightened abilities. Her confidence grows as she clears her neighborhood.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Sue trains herself in a secluded area, understanding the extent of her new powers. Her mood is peaceful, surrounded by nature.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The fog thickens, causing chaos. Sue, feeling responsible, uses her powers publicly for the first time to help her fellow citizens.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Rumors about a new hero spread, bringing hope to the town. Sue feels happy seeing the community uplifted.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "With the town cleared, Sue returns to coaching, secretly using her abilities to encourage and inspire her athletes.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "As the new week began, Sue resumed her regular life, knowing she'd always be ready to protect her town.",
+  "moral": "True heroism lies not only in great deeds but also in the courage to use one's powers for the common good."
+}

@@ -1,0 +1,50 @@
+{
+  "title": "The Heroic Week of David Jackson: Stage and Shadows",
+  "summary": "David Jackson, a young producer and actor, discovers his ability to manipulate shadows, which he uses to fight crime and protect his city over the course of a week.",
+  "summaryGerman": "David Jackson, ein junger Produzent und Schauspieler, entdeckt seine Fähigkeit, Schatten zu manipulieren, die er nutzt, um Verbrechen zu bekämpfen und seine Stadt im Laufe einer Woche zu schützen.",
+  "summaryDutch": "David Jackson, een jonge producer en acteur, ontdekt zijn vermogen om schaduwen te manipuleren, die hij gebruikt om misdaad te bestrijden en zijn stad te beschermen gedurende een week.",
+  "summaryFrench": "David Jackson, un jeune producteur et acteur, découvre sa capacité à manipuler les ombres, qu'il utilise pour lutter contre le crime et protéger sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "David stumbles upon an ancient artifact while renovating an old theater, discovering his newfound power to control shadows.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Testing his powers, David prevents a burglary using his shadow manipulation, feeling a mix of thrill and responsibility.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "David designs a costume and creates a superhero alias, 'ShadowMaster', to keep his identity secret.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wedneday",
+      "text": "On his first patrol as ShadowMaster, he stops a street fight and rescues a child from danger, gaining the public's attention.",
+      "mood": "heroic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "During a special charity event he organized, David uses his acting skills to promote his cause while subtly using his powers to mesmerize the audience.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Rumors of his deeds spread, attracting the attention of a mysterious villain who threatens the peace of the city.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "David faces the villain in a dramatic showdown at the theater where he first found his powers. Using clever light and shadow tricks, he captures the criminal.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week's adventures, David feels a deep sense of duty to protect his city, embracing his role as ShadowMaster.",
+      "mood": "peaceful"
+    }
+  ],
+  "moral": "With great power comes great responsibility. Embrace your talents and use them to make a positive impact in the world."
+}

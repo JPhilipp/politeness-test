@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Yousef Sanchez, The Negotiator Hero",
+  "summary": "Yousef Sanchez uses his negotiating skills to save his city from a dire threat over the span of one week, culminating in a peaceful restoration of order.",
+  "summaryGerman": "Yousef Sanchez verwendet seine Verhandlungsfähigkeiten, um seine Stadt im Laufe einer Woche vor einer ernsten Bedrohung zu retten, die mit einer friedlichen Wiederherstellung der Ordnung endet.",
+  "summaryDutch": "Yousef Sanchez gebruikt zijn onderhandelingsvaardigheden om zijn stad te redden van een ernstige bedreiging gedurende een week, wat resulteert in een vreedzame herstel van orde.",
+  "summaryFrench": "Yousef Sanchez utilise ses compétences de négociation pour sauver sa ville d'une menace grave sur une semaine, aboutissant à un rétablissement paisible de l'ordre.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "At 58, Yousef Sanchez begins his week with an unexpected call from the mayor, seeking his help to negotiate with a group causing civic disturbances.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Yousef meets with the disruptive group leaders, using his negotiating nous and offers of community service to forge a tentative agreement.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "With doubts creeping in, Yousef spends the day smoothing over the skeptics within the city council, ensuring the agreement holds.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The agreement begins to take shape, as Yousef helps organize community restoration projects, embodying his love for serving.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The visible improvements in the community foster a newfound respect among the citizens, rewarding Yousef’s days of hard negotiation.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "As the city begins to celebrate the peaceful outcome, Yousef shares a quiet moment with friends, reflecting on the week’s success.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "A reflective and serene day for Yousef. His city is peaceful again, proving the power of dialogue and service.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the sun set on a peaceful Sunday, Yousef Sanchez knew the true strength of words combined with action.",
+  "moral": "Patience and persistent dialogue can overcome the toughest adversities."
+}

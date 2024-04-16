@@ -1,0 +1,45 @@
+{
+  "title": "The Adventures of Ling Wilson: Marketing Maven and Hero",
+  "summary": "Ling Wilson, a 29-year-old marketing expert and hobbyist assistant, discovers her superpowers and uses them to thraw evil plans throughout a week, learning about her strengths and the power of good marketing.",
+  "summaryGerman": "Ling Wilson, eine 29-jährige Marketingexpertin und Hobby-Assistentin, entdeckt ihre Superkräfte und nutzt sie, um im Laufe einer Woche böse Pläne zu durchkreuzen, wobei sie ihre Stärken und die Macht des guten Marketings kennenlernt.",
+  "summaryDutch": "Ling Wilson, een 29-jarige marketingexpert en hobby-assistente, ontdekt haar superkrachten en gebruikt ze om gedurende een week kwaadaardige plannen te dwarsbomen, waarbij ze leert over haar krachten en de kracht van goede marketing.",
+  "summaryFrench": "Ling Wilson, une experte en marketing de 29 ans et assistante amateur, découvre ses superpouvoirs et les utilise pour contrer des plans maléfiques tout au long d'une semaine, apprenant ses forces et le pouvoir d'un bon marketing.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Wilson starts her week at the marketing firm with a mysterious email hinting at an internal crisis. Her curiosity piqued, she feels energetic as she plans to investigate.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Discovering her ability to hear distant conversations, Ling overhears a plot to sabotage a major marketing campaign. Determined, she prepares to expose the saboteurs.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Weednesday",
+      "text": "Utilizing her newly discovered super-hearing, Ling gathers evidence against the culprits and reveals their plot to the company, saving the campaign and feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "After her heroics, Ling is tasked with leading the restored campaign. She feels happy and confident as she successfully steers the marketing efforts.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "As the campaign concludes, rivals attempt to lure Ling away with lucrative offers. She remains peaceful and loyal to her current company, turning them down.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Ling spends the day volunteering, helping local startups maximize their visibility. She enjoys sharing her skills, feeling romantic about contributing to others' dreams.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Ling feels epic knowing she not only averted a crisis but also helped many. She vows to use her powers for good.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Ling Wilson knew that with great marketing power comes great responsibility."
+}

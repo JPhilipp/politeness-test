@@ -1,0 +1,46 @@
+{
+  "title": "The Symphony of Justice - Yvonne Wright's Harmonic Rescue",
+  "summary": "Yvonne Wright, a 42-year-old counselor and orchestra conductor, discovers her ability to manipulate sounds to fight crime, saving her city from a week-long spree of high-stakes robberies.",
+  "summaryGerman": "Yvonne Wright, eine 42-jährige Beraterin und Orchesterdirigentin, entdeckt ihre Fähigkeit, Klänge zu manipulieren, um Verbrechen zu bekämpfen, und rettet ihre Stadt vor einer einwöchigen Serie von hochriskanten Überfällen.",
+  "summaryDutch": "Yvonne Wright, een 42-jarige adviseur en orkestdirigent, ontdekt haar vermogen om geluiden te manipuleren om misdaad te bestrijden, en redt haar stad van een weeklange reeks van riskante overvallen.",
+  "summaryFrench": "Yvonne Wright, une conseillère et chef d'orchestre de 42 ans, découvre sa capacité à manipuler les sons pour lutter contre le crime, sauvant sa ville d'une série de cambriolages à haut risque qui dure une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Yvonne Wright conducts a rehearsal with local musicians when she notices a strange resonance. This cues her discovery of her superpower: to wield sound waves.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Testing her new abilities in a secluded park, Yvonne learns to amplify, mute, and bend sound waves, practicing by redirecting birdsongs and altering their melodies.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Yvonne stops a robbery by incapacitating thieves with a deafening sonic boom, then calming the startled crowd with a soothing melody.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thurday",
+      "text": "Word of a 'Sonic Saver' spreads. Yvonne embraces her role, balancing her daily life with secret night patrols, using her powers to disrupt criminal activities silently.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A major heist at the city bank escalates as the criminals come prepared. Utilizing harmonic frequencies, Yvonne disrupts their gadgets, leading to their capture.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Local authorities officially recognize Yvonne's heroics. She gives an inspiring speech about community and vigilance at a city hall ceremony.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Back at her quiet home, Yvonne reflects on her week, realizing her life symphony now includes not just music but justice.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "In the still evening, the city slept safer than ever, under the watchful ears of Yvonne Wright, the melodious guardian.",
+  "moral": "Every skill has the potential to create harmony and combat chaos in the world."
+}

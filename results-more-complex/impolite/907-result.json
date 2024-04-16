@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Alice Cook: The Advising Avenger",
+  "summary": "Alice Cook discovers her superpower of infallible advice over a week, using it to solve crimes and help the city while overcoming her own struggles.",
+  "summaryGerman": "Alice Cook entdeckt ihre Superkraft des unfehlbaren Ratschlags über eine Woche hinweg, nutzt sie, um Verbrechen zu lösen und der Stadt zu helfen, während sie ihre eigenen Schwierigkeiten überwindet.",
+  "summaryDutch": "Alice Cook ontdekt haar superkracht van onfeilbaar advies gedurende een week, gebruikt het om misdaden op te lossen en de stad te helpen terwijl ze haar eigen worstelingen overwint.",
+  "summaryFrench": "Alice Cook découvre son superpouvoir de conseil infaillible au cours d'une semaine, l'utilisant pour résoudre des crimes et aider la ville tout en surmontant ses propres luttes.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Alice Cook starts her week feeling unusually insightful after a strange dream about guiding others through a maze. She feels energetic.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Driven by her newfound prowess, Alice prevents a bank heist by advising the would-be robbers on the long-term pitfalls of their plans. The mood is triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Her powers seem to grow; even random bystanders seek her advice. But Alice senses a sinister figure watching her, leaving an eerie feeling.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The mysterious observer confronts Alice, revealing himself as a villain who harnesses chaos. Alice advises him on the emptiness of his path, stirring a romantic shift in the air.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Alice guides her adversary towards redemption. The city celebrates her, the mood being epic. She feels like a true superhero now.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Reflecting on her week, Alice realizes the importance of her role. The city feels peaceful, and so does she.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Preparing for the challenges ahead, Alice feels happy about the lives she touched and the evil she transformed.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As the sun set on Sunday, Alice knew she was ready for whatever the next challenge might be, with her powerful advice as her guide.",
+  "moral": "The right advice at the right time can change lives and alter destinies."
+}

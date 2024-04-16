@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Ling Green: Consulting Hero",
+  "summary": "Over the course of one week, Ling Green discovers her unique superpowers amidst her everyday consulting job, battles injustice, and ultimately saves her city.",
+  "summaryGerman": "Im Laufe einer Woche entdeckt Ling Green ihre einzigartigen Superkräfte inmitten ihres alltäglichen Beratungsberufes, bekämpft Ungerechtigkeit und rettet letztendlich ihre Stadt.",
+  "summaryDutch": "In de loop van een week ontdekt Ling Green haar unieke superkrachten te midden van haar dagelijkse advieswerk, bestrijdt onrecht en redt uiteindelijk haar stad.",
+  "summaryFrench": "Au cours d'une semaine, Ling Green découvre ses superpouvoirs uniques au milieu de son emploi quotidien de consultante, combat l'injustice et finit par sauver sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Green, a 45-year-old consultant, starts her week feeling energetic after discovering she can communicate telepathically during a routine client meeting.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesady",
+      "text": "Intrigued by her new power, Ling uses it to unearth hidden corruption at a major corporation she is consulting for. She feels a mix of triumph and unease.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Ling spends the day strategizing how to use her powers for good. She feels peaceful as she formulates a plan to expose the corrupt executives without causing alarm.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Using her telepathy, Ling discreetly gathers more evidence. The situation takes an eerie turn as she senses a dangerous secret that could impact the whole city.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Ling decides to go public. She orchestrates a clever reveal of the corruption to the media, feeling utterly triumphant as the news breaks nationwide.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "In the aftermath, Ling is celebrated as a hero. She realizes her life's passion merges her consulting acumen with her superpower, creating a unique role in society.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her extraordinary week, Ling feels an epic sense of destiny. She pledges to use her powers to champion fairness and truth, wherever her consulting takes her.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus, every consulting problem henceforth had a secret weapon: Ling Green, the Consulting Hero.",
+  "moral": "Your greatest power lies in using your unique skills to make the world a better place."
+}

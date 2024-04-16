@@ -1,0 +1,46 @@
+{
+  "title": "The Serene Strength of Ling Bryant",
+  "summary": "Ling Bryant, a 72-year-old with hobbies in tutoring and painting, discovers her unique power to bring peace and healing through her art, embarking on a week-long journey of self-discovery and heroism.",
+  "summaryGerman": "Ling Bryant, eine 72-jährige mit Hobbys in Nachhilfe und Malerei, entdeckt ihre einzigartige Fähigkeit, durch ihre Kunst Frieden und Heilung zu bringen, auf einer einwöchigen Reise der Selbstentdeckung und des Heldentums.",
+  "summaryDutch": "Ling Bryant, een 72-jarige met hobby's in bijles en schilderen, ontdekt haar unieke kracht om vrede en genezing te brengen door haar kunst, en begint aan een weeklange reis van zelfontdekking en heldendom.",
+  "summaryFrench": "Ling Bryant, âgée de 72 ans, passionnée par le tutorat et la peinture, découvre son pouvoir unique d'apporter la paix et la guérison par son art, commençant ainsi un voyage d'une semaine de découverte de soi et d'héroïsme.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Bryant begins her week feeling energetic as she plans an outdoor painting session in the local park, inspired by the vibrant autumn colors.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesady",
+      "text": "While tutoring a young student in mathematics, Ling sketches a calming scene on the corner of her notepad, inadvertently discovering her power to radiate peace through her artwork.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "With curiosity, Ling experiments with her new-found ability, spending the day creating artworks that visually echo the emotions she wishes to convey, noticing the calming effect on her neighbors.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News of Ling's unusual gift spreads, and she is invited to a local gallery to showcase her 'healing arts'. The community begins to gather, drawn by the soothing aura of her paintings.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Amidst the gallery's bustling event, Ling feels a profound sense of serenity. She helps resolve a long-standing feud between two local artists, using a mural that depicts their reconciliation.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Ling's story reaches a young filmmaker, who proposes a documentary about her life and art. Ling agrees, hoping her story will inspire others to find their own paths to peace.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Ling spends a quiet day at home, painting a self-portrait that captures her transformative journey, feeling both content and ready for her next adventure.",
+      "mood": "sad"
+    }
+  ],
+  "ending": "And so, Ling Bryant continued touching lives, proving that heroism comes in many forms, and sometimes, the most profound strength lies in the peaceful stroke of a paintbrush.",
+  "moral": "True power lies not in strength of arms, but often in the quiet depths of creative expression."
+}

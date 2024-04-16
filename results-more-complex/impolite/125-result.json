@@ -1,0 +1,46 @@
+{
+  "title": "The Extraordinary Adventures of Bob Jackson, The Listener",
+  "summary": "In a week of unusual events, Bob Jackson discovers his ability to solve mysteries in his community through his deep listening skills, gained from his hobbies in counseling and consulting.",
+  "summaryGerman": "In einer Woche ungewöhnlicher Ereignisse entdeckt Bob Jackson seine Fähigkeit, durch seine ausgeprägten Zuhörfähigkeiten, die er durch seine Hobbys in Beratung und Consulting erworben hat, Geheimnisse in seiner Gemeinschaft zu lösen.",
+  "summaryDutch": "In een week van ongebruikelijke gebeurtenissen ontdekt Bob Jackson zijn vermogen om mysteries in zijn gemeenschap op te lossen door zijn diepgaande luistervaardigheden, verkregen door zijn hobby's in counseling en consulting.",
+  "summaryFrench": "Au cours d'une semaine d'événements inhabituels, Bob Jackson découvre sa capacité à résoudre des mystères dans sa communauté grâce à ses compétences d'écoute approfondie, acquises grâce à ses passe-temps dans le conseil et le consulting.",
+  "story": [
+    {
+      "weekday": "Munday",
+      "text": "Bob Jackson, a young enthusiast in the realm of counseling, finds the community garden vandalized, feeling the urge to investigate.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Bob talks to local gardeners and compiles their stories, feeling energized by the chance to help.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Utilizing his consulting skills, Bob devises a plan to set up surveillance to catch the vandal.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The camera captures a blurry figure. Bob feels a mix of anticipation and eeriness as he works to enhance the image.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Bob recognizes the vandal as a known troubled teen in his counseling group. He plans a peaceful approach to confront him.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Bob meets with the teen, listens to his troubles, and steers him towards making amends with the community.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The community gathers to restore the garden. Inspired by Bob’s leadership, the mood is both happy and triumphant.",
+      "mood": "happy, triumphant"
+    }
+  ],
+  "ending": "With his unique abilities, Bob not only solved the mystery but also strengthened his community.",
+  "moral": "Listening well can turn problems into opportunities for growth and unity."
+}

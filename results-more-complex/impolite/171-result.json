@@ -1,0 +1,46 @@
+{
+  "title": "The Unlikely Heroics of Kevin Coleman",
+  "summary": "Kevin Coleman, an 80-year-old with a passion for programming and knitting, discovers his unique superpowers, faces challenges, and saves his community over the span of a week.",
+  "summaryGerman": "Kevin Coleman, ein 80-jähriger mit einer Leidenschaft für Programmieren und Stricken, entdeckt seine einzigartigen Superkräfte, stellt sich Herausforderungen und rettet innerhalb einer Woche seine Gemeinde.",
+  "summaryDutch": "Kevin Coleman, een 80-jarige met een passie voor programmeren en breien, ontdekt zijn unieke superkrachten, gaat uitdagingen aan en redt zijn gemeenschap in de loop van een week.",
+  "summaryFrench": "Kevin Coleman, un octogénaire passionné de programmation et de tricot, découvre ses superpouvoirs uniques, fait face à des défis et sauve sa communauté en l'espace d'une semaine.",
+  "story": [
+    {
+      "weekday": "Mondday",
+      "text": "Kevin discovers he can manipulate yarn with his mind while knitting a scarf.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Intrigued by his newfound powers, Kevin experiments by coding a program to enhance his control.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Kevin uses his skills to quietly fix local issues, like patching potholes with magically knitted asphalt.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Rumors of a 'Knitting Wizard' begin to circulate, making Kevin both excited and nervous.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A local news crew tries to uncover the identity of the mysterious hero, putting Kevin under unwanted spotlight.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Determined to remain anonymous, Kevin cleverly avoids detection by creating decoys with his knitting.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Embracing his role, Kevin hosts a community event teaching kids to knit, secretly integrating life lessons on goodness and humility.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "With yarn and code, Kevin weaved not only materials but also the hearts of his community.",
+  "moral": "No matter the age, you can still make a significant impact on the world around you."
+}

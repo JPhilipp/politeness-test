@@ -1,0 +1,46 @@
+{
+  "title": "The Melodic Crusader: The Adventures of Walter Johnson",
+  "summary": "Follow the journey of Walter Johnson, a young music teacher with the power to manipulate sound, as he battles a series of mystical threats to his city over the course of a week, learning about the true essence of harmony.",
+  "summaryGerman": "Begleiten Sie Walter Johnson, einen jungen Musiklehrer mit der Fähigkeit, Klang zu manipulieren, auf seinem Weg, innerhalb einer Woche eine Reihe mystischer Bedrohungen für seine Stadt zu bekämpfen, und erfahren Sie die wahre Essenz der Harmonie.",
+  "summaryDutch": "Volg de reis van Walter Johnson, een jonge muziekleraar met de kracht om geluid te manipuleren, terwijl hij gedurende een week een reeks mystieke bedreigingen voor zijn stad bestrijdt en de ware essentie van harmonie leert kennen.",
+  "summaryFrench": "Suivez le parcours de Walter Johnson, un jeune professeur de musique doté du pouvoir de manipuler le son, alors qu'il combat une série de menaces mystiques pour sa ville au cours d'une semaine, apprenant la véritable essence de l'harmonie.",
+  "story": [
+    {
+      "weekday": "Mondy",
+      "text": "Walter discovers his ability to control sound while teaching a music class, feeling uneasy as the notes bend to his will.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "He saves a group of students from a collapsing stage set, using his abilities to buffer the sound waves, leaving him feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "An enigmatic villain challenges him, using sound waves to create chaos; Walter feels energetic as he strategizes a response.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Walter spends a peaceful day composing a special symphony that calms the hostile energies in the city, feeling content and serene.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The villain strikes back, inciting fear with dissonant sounds; Walter is sad as he sees the effect on his friends.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a dramatic confrontation, Walter ingeniously uses his symphony to neutralize the villain's powers, feeling both happy and epic.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "As the city returns to normal, Walter feels uplifted, enjoying a romantic walk with his best friend who's always believed in him.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "As the sun set, Walter Johnson smiled, knowing that harmony had been restored, not just in sound, but in spirit.",
+  "moral": "True power lies not in strength, but in how harmoniously one can wield it."
+}

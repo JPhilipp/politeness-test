@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Pit Robinson: A Week of Heroic Teaching",
+  "summary": "Pit Robinson, a dedicated instructor by day, becomes a local superhero by night, tackling crime and teaching values throughout a tumultuous week.",
+  "summaryGerman": "Pit Robinson, tagsüber ein engagierter Lehrer, wird nachts zum lokalen Superhelden, der Kriminalität bekämpft und im Laufe einer turbulenten Woche Werte vermittelt.",
+  "summaryDutch": "Pit Robinson, overdag een toegewijde instructeur, wordt 's nachts een lokale superheld die criminaliteit bestrijdt en gedurende een turbulente week waarden bijbrengt.",
+  "summaryFrench": "Pit Robinson, formateur dévoué le jour, devient un super-héros local la nuit, luttant contre le crime et enseignant des valeurs tout au long d'une semaine tumultueuse.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Pit Robinson starts his week energetically, teaching a self-defense class to local youths, unaware of the adventure that awaits him.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuestday",
+      "text": "Pit’s evening patrol uncovers a secretive meeting among local criminals. Using his skills, he disrupts their plans, feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Touched by the plight of one troubled youth, Pit offers extra lessons, turning the day into an unexpected but rewarding teaching moment.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "An eerie silence grips the city. Pit investigates and thwarts an attempt to hack the city’s security systems, keeping everyone safe.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Receiving accolades for his bravery, Pit feels inspired to develop a community safety program, marking a day of planning and dreaming.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "As the program kicks off, locals gather, feeling the communal spirit. Pit, peaceful and content, watches a new wave of hope rise.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Pit feels satisfied with his dual life, knowing he’s made a real difference both in and out of the classroom.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Thus, Pit Robinson lived not just as a hero in disguise, but as a true hero of the community.",
+  "moral": "True heroism lies not just in fighting evils, but also in empowering and educating others."
+}

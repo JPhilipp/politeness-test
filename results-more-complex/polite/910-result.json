@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Sculptor: Bob Morgan's Heroic Week",
+  "summary": "Bob Morgan, a sculptor by hobby, discovers his ability to manipulate reality as if sculpting clay, using this power to thwart a looming city threat.",
+  "summaryGerman": "Bob Morgan, ein Bildhauer aus Leidenschaft, entdeckt seine Faehigkeit, die Realitaet zu manipulieren, als waere sie Ton, und nutzt diese Kraft, um eine drohende Bedrohung fuer die Stadt abzuwenden.",
+  "summaryDutch": "Bob Morgan, een beeldhouwer van hobby, ontdekt zijn vermogen om de realiteit te manipuleren alsof het klei is, en gebruikt deze kracht om een dreigende stadsbedreiging te verijdelen.",
+  "summaryFrench": "Bob Morgan, un sculpteur amateur, deecouvre son aptitude a manipuler la realite comme s'il sculptait de l'argile, utilisant ce pouvoir pour contrecarrer une menace imminente sur la ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Bob Morgan, after a long night of sculpting, noticed his finished sculpture slightly altered its pose overnight. Shocked yet intrigued, he began experimenting with his newly discovered powers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Bob spent the day honing his powers at his studio. While spinning clay, he found he could accelerate objects' motion without touching them, adding to his unique abilities.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Testing his limits, Bob ventured into an abandoned warehouse to practice. He sculpted large-scale illusions out of thin air, mastering the art of creation and destruction.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News of minor miracles around town began to spread—a broken bridge fixed overnight, a dry public fountain now flowing. The community whispered about a guardian angel, unaware of Bob's role.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Bob encountered his first real challenge: a chemical spill threatening the river nearby. With precision and calm, he sculpted a barrier that redirected the spill away from any harm.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Feeling the burden of his secret, Bob confided in his childhood friend, Lisa, who encouraged him to embrace his role as a protector. Their bond deepened, marked by mutual respect and newfound awe.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Under Lisa's guidance, Bob prepared a public art display in the park, subtly demonstrating his powers. The city marveled at the moving sculptures, praising the anonymous artist's genius.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus, Bob Morgan, the Unseen Sculptor, continued to guard his city, his identity a mystery, and his sculptures a beacon of hope.",
+  "moral": "Embrace your unique abilities and use them to make a positive difference in your community."
+}

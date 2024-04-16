@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Ursula White: Ageless Guardian",
+  "summary": "Ursula White, a retired consultant turned superhero, uses her wisdom and unique powers to mentor young heroes and save her city from a mysterious threat over the course of a week.",
+  "summaryGerman": "Ursula White, eine pensionierte Beraterin, die zur Superheldin wurde, nutzt ihre Weisheit und einzigartigen Fähigkeiten, um junge Helden zu betreuen und ihre Stadt im Laufe einer Woche vor einer mysteriösen Bedrohung zu retten.",
+  "summaryDutch": "Ursula White, een gepensioneerde consultant die superheldin is geworden, gebruikt haar wijsheid en unieke krachten om jonge helden te begeleiden en haar stad te redden van een mysterieuze dreiging in de loop van een week.",
+  "summaryFrench": "Ursula White, une consultante à la retraite devenue superhéroïne, utilise sa sagesse et ses pouvoirs uniques pour encadrer de jeunes héros et sauver sa ville d'une menace mystérieuse au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ursula White starts her week with a mentoring session at a local high school, inspiring young minds with her life stories mixed with subtle superhero lessons, making everyone feel energetic.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While walking in the park, Ursula senses an eerie vibe; she later discovers a hidden underground lab where experiments on telepathy are conducted.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednasday",
+      "text": "Ursula uses her powers to outwit the scientists and frees the individuals trapped in the lab, feeling triumphant as she watches them reunite with their families.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "After a quiet day of introspection and recovery, Ursula feels peaceful as she realizes her impact on the world continues to grow beyond her consulting work.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A mysterious figure approaches Ursula, thanking her for her actions on Wednesday; he invites her to a secret gathering of seasoned superheroes.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During the gathering, Ursula is filled with happiness as she exchanges stories, strategies, and skills with her peers, feeling part of a larger, epic narrative.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ursula spends her day back in mentoring mode, advising young aspiring heroes and feeling happy that she can contribute to shaping the future superheroes.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And so, Ursula White realized that her journey was not just about fights and days saved, but about the seeds sown in the hearts of tomorrow's protectors.",
+  "moral": "True heroism lies not just in the grand deeds but in the wisdom shared and the futures shaped."
+}

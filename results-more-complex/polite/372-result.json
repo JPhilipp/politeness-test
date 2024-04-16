@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Heroism: The Story of Hubert Adams",
+  "summary": "At 63, Hubert Adams, a retired coach and programmer, discovers his latent ability to manipulate digital devices with his mind. Over a week, he uses this power to solve problems, fight crime, and inspire his community.",
+  "summaryGerman": "Mit 63 entdeckt Hubert Adams, ein pensionierter Trainer und Programmierer, seine latente Fähigkeit, digitale Geräte mit seinem Verstand zu manipulieren. Innerhalb einer Woche nutzt er diese Kraft, um Probleme zu lösen, Verbrechen zu bekämpfen und seine Gemeinde zu inspirieren.",
+  "summaryDutch": "Op 63-jarige leeftijd ontdekt Hubert Adams, een gepensioneerde coach en programmeur, zijn latente vermogen om digitale apparaten met zijn geest te manipuleren. Gedurende een week gebruikt hij deze kracht om problemen op te lossen, misdaad te bestrijden en zijn gemeenschap te inspireren.",
+  "summaryFrench": "À 63 ans, Hubert Adams, un entraîneur et programmeur à la retraite, découvre sa capacité latente à manipuler les appareils numériques avec son esprit. Pendant une semaine, il utilise ce pouvoir pour résoudre des problèmes, combattre le crime et inspirer sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Hubert discovers his ability to interact with digital devices while troubleshooting his old computer. As he thinks about fixing a bug, the code magically corrects itself!",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Inspired by yesterday's discovery, Hubert cautiously experiments with his new power, successfully averting a bank's computer glitch remotely, feeling a mix of excitement and responsibility.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Using his programming skills and new powers, Hubert stops a cybersecurity threat at a local hospital, ensuring patient data remains safe. News of his heroism begins to spread.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Hubert spends the day coaching Little League, secretly using his powers to fix a glitchy scoreboard. His double life as a community coach and a digital hero deepens.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friady",
+      "text": "The local newspaper runs a front-page story on 'The Digital Wizard.' Hubert feels proud but wary of the new attention. He reflects on how to balance his public life and his secret identity.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Hubert tutors young coders at a community center, subtly using his powers to demonstrate the magic of programming, fostering a new generation of technology enthusiasts.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Hubert realizes the potential of his powers to do good. He commits to using them wisely and maintaining his serene life alongside.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus, Hubert Adams, at 63, transforms from a simple retiree to an inspiring hero, proving it's never too late to make a difference.",
+  "moral": "No matter the stage of life, one's unique abilities can still contribute meaningfully to society."
+}

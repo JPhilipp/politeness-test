@@ -1,0 +1,46 @@
+{
+  "title": "The Courageous Chronicles of Frank Nelson: Counselor by Day, Hero Always",
+  "summary": "Frank Nelson, a 60-year-old counselor with a passion for encouraging others, discovers his latent powers of empathy and persuasion, using them to solve various problems in his community over a week, ultimately thwarting a major crisis.",
+  "summaryGerman": "Frank Nelson, ein 60-jähriger Berater mit einer Leidenschaft für das Ermutigen anderer, entdeckt seine latenten Kräfte der Empathie und Überzeugung und verwendet sie, um innerhalb einer Woche verschiedene Probleme in seiner Gemeinde zu lösen und letztendlich eine große Krise zu verhindern.",
+  "summaryDutch": "Frank Nelson, een 60-jarige raadgever met een passie voor het aanmoedigen van anderen, ontdekt zijn latente krachten van empathie en overreding. Hij gebruikt ze om verschillende problemen in zijn gemeenschap in de loop van een week op te lossen, waardoor uiteindelijk een grote crisis wordt afgewend.",
+  "summaryFrench": "Frank Nelson, un conseiller de 60 ans passionné par l'encouragement des autres, découvre ses pouvoirs latents d'empathie et de persuasion, qu'il utilise pour résoudre divers problèmes dans sa communauté sur une semaine, déjouant finalement une crise majeure.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank discovers his unusual ability to vividly feel others' emotions after a touching counseling session, sparking the beginning of his heroic week.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Empowered, Frank calmly resolves a heated community dispute, ensuring peace with his newfound persuasive powers.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Using his gift, Frank encourages a disheartened young artist, reigniting her passion for the arts.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thurdsay",
+      "text": "Frank thwarts a potential scam targeting elderly citizens through a community meeting, bolstering his role as a local hero.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "At a local school, Frank gives an inspiring talk about resilience and empathy, deeply moving both staff and students.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Frank spends a quiet day reflecting on his experiences, understanding more deeply the impact of his actions.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The community holds a small celebration for Frank's contributions, filled with gratitude and joy, ending his week on a high note.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, Frank Nelson lived not just as a counselor, but as a true hero, proving that real powers lie within one’s spirit and actions.",
+  "moral": "True heroism is not found in superpowers, but in everyday acts of kindness and courage."
+}

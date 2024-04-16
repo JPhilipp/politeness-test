@@ -1,0 +1,46 @@
+{
+  "title": "The Spinning Wisdom of Heidi Smith",
+  "summary": "Over the course of a week, Heidi Smith, a retired consultant and spinning enthusiast, discovers her extraordinary powers to change the world around her through yarn and wisdom.",
+  "summaryGerman": "Im Laufe einer Woche entdeckt Heidi Smith, eine pensionierte Beraterin und Spinning-Enthusiastin, ihre außergewöhnlichen Fähigkeiten, die Welt um sie herum durch Garn und Weisheit zu verändern.",
+  "summaryDutch": "Gedurende een week ontdekt Heidi Smith, een gepensioneerde consultant en spinning liefhebber, haar buitengewone krachten om de wereld om haar heen te veranderen met garen en wijsheid.",
+  "summaryFrench": "Au cours d'une semaine, Heidi Smith, consultante à la retraite et passionnée de filage, découvre ses pouvoirs extraordinaires pour changer le monde autour d'elle grâce au fil et à la sagesse.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Heidi discovers her yarns glow when she spins them, each thread shining with possibilities.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "She consults her old books and learns this phenomenon might be linked to her innermost desires to aid others.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "Using her glowing yarn, Heidi knits warmth-enriched blankets for the homeless, their happiness warming her heart.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News of her glowing garments spreads. Doubt creeps in as public scrutiny heightens.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A child thanks Heidi for her magical blanket. Her confidence is restored, and her mission becomes clear.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Heidi holds a community class, teaching others to spin and knit with empowered yarn, spreading her newfound gift.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Heidi feels peaceful knowing she's made a real impact, deciding to continue her unique mission.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Heidi Smith continued to spin yarns not just of wool but of hope and warmth, weaving a brighter future.",
+  "moral": "You never know what simple hobbies can lead to until you explore them with all your heart."
+}

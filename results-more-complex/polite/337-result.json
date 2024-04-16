@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Adventures of Hubert Richardson",
+  "summary": "Hubert Richardson, a 38-year-old writer with a penchant for advising, discovers his latent powers and saves the city from a malevolent force over the course of one week, learning the true importance of courage and community.",
+  "summaryGerman": "Hubert Richardson, ein 38-jähriger Schriftsteller mit einer Vorliebe für Beratung, entdeckt seine verborgenen Kräfte und rettet die Stadt innerhalb einer Woche vor einer bösen Macht, wobei er die wahre Bedeutung von Mut und Gemeinschaft lernt.",
+  "summaryDutch": "Hubert Richardson, een 38-jarige schrijver met een passie voor adviseren, ontdekt zijn verborgen krachten en redt de stad van een kwaadaardige kracht in de loop van een week, en leert de ware betekenis van moed en gemeenschap.",
+  "summaryFrench": "Hubert Richardson, un écrivain de 38 ans passionné de conseil, découvre ses pouvoirs latents et sauve la ville d'une force malveillante au cours d'une semaine, apprenant ainsi la véritable importance du courage et de la communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Hubert Richardson starts his week feeling slightly restless, an unusual sensation that leads him to scribble mysterious symbols uncontrollably. These symbols hint at a hidden power within him.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Hubert cautiously tests the limits of his newfound abilities. With a simple gesture, he stops a small kitchen fire in his neighbor’s apartment. The realization that he can actually manipulate elements fills him with awe.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Driven by curiosity, Hubert ventures into an ancient library in search of answers. There, he meets a wise old man who reveals Hubert’s lineage as a guardian of the city, destined to protect it from an imminent threat.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The foretold threat emerges: a dark cloud that spreads despair. Hubert, though initially overwhelmed, rallies his spirit and prepares to confront the challenge.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Hubert engages with the dark force directly. The battle is fierce, tapping into every ounce of his strength and newly acquired magical knowledge. He ultimately disperses the cloud, saving countless lives.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The city celebrates Hubert as a hero. He spends the day relishing his quiet return to advising and writing, reflecting on his adventures and responsibilities.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "At peace, Hubert publishes a new book inspired by his experiences. It advocates courage and community spirit, instantly hitting bestseller lists citywide.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus, Hubert Richardson not only saved his city but also enriched its literary world, never forgetting the power of the pen and the might of the unknown.",
+  "moral": "Courage is not the absence of fear, but the triumph over it. Embrace your unique abilities to make a positive difference in the world."
+}

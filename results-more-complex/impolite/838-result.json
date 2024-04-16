@@ -1,0 +1,46 @@
+{
+  "title": "The Unlikely Hero: The Story of Walter Phillips",
+  "summary": "Walter Phillips, a 67-year-old retired teacher, finds himself gaining unusual powers after a mysterious meteor shower. Over a week, he transitions from a simple instructor to a local superhero, saving his town from various threats.",
+  "summaryGerman": "Walter Phillips, ein 67-jähriger pensionierter Lehrer, entdeckt nach einem mysteriösen Meteoritenschauer ungewöhnliche Kräfte. Innerhalb einer Woche verwandelt er sich von einem einfachen Lehrer in einen lokalen Superhelden, der seine Stadt vor verschiedenen Bedrohungen rettet.",
+  "summaryDutch": "Walter Phillips, een 67-jarige gepensioneerde leraar, ontdekt ongewone krachten na een mysterieuze meteorenregen. In de loop van een week verandert hij van een simpele leraar in een lokale superheld, die zijn stad redt van verschillende bedreigingen.",
+  "summaryFrench": "Walter Phillips, un enseignant retraité de 67 ans, découvre des pouvoirs inhabituels après une pluie de météores mystérieuse. En une semaine, il passe d'un simple instructeur à un super-héros local, sauvant sa ville de diverses menaces.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Walter Phillips, while walking his dog, notices a bright light streaking across the sky. It lands nearby, and on investigation, Walter feels a surge of energy. He can now lift objects ten times his size!",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesdau",
+      "text": "With his newfound strength, Walter stops a runaway bus headed towards a busy street corner, saving pedestrians and earning the town's adoration.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Curious scholars and people flock to Walter, asking for guidance and protection. Walter teaches them about responsibility and courage.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Walter uses his powers to help reconstruct a local school destroyed in a recent storm, feeling content that he can still teach and influence positively.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A confrontation with a group of stubborn looters tests Walter’s moral fiber and combat skills, which despite his age, he handles adeptly.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Walter’s story spreads, inspiring other seniors in his community to believe that it is never too late to make a difference.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "As the week closes, Walter sits under the very tree the meteor had hit, reflecting on his unexpected journey and its implications for the future.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "In the quiet twilight, Walter knew he had just begun his journey as a protector.",
+  "moral": "True heroism comes not from superhuman powers, but from the heart’s desire to help and teach others."
+}

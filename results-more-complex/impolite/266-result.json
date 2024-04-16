@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Transformation: Yousef Thomas, The Advisor",
+  "summary": "Yousef Thomas, a dedicated teacher and advisor, discovers hidden powers over a course of a week that changes his life and impacts those around him.",
+  "summaryGerman": "Yousef Thomas, ein engagierter Lehrer und Berater, entdeckt im Laufe einer Woche verborgene Kräfte, die sein Leben und das seiner Mitmenschen verändern.",
+  "summaryDutch": "Yousef Thomas, een toegewijde leraar en adviseur, ontdekt verborgen krachten gedurende een week die zijn leven en dat van de mensen om hem heen veranderen.",
+  "summaryFrench": "Yousef Thomas, un enseignant et conseiller dévoué, découvre des pouvoirs cachés au cours d'une semaine qui changent sa vie et impactent ceux qui l'entourent.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "At a university seminar, Yousef helps a student overcome a personal crisis, feeling an unusual surge of energy.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While advising a troubled youth group, Yousef notices his words hold more weight than usual, inspiring confidence and change.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesaday",
+      "text": "Yousef senses a mysterious presence observing him at his office, hinting at challenges yet to be uncovered.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "During a lecture, Yousef unconsciously levitates a book, which a student spots, spreading awe and rumors.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Yousef confirms his newfound abilities but struggles with the responsibility they entail, feeling both empowered and burdened.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Seeking guidance, Yousef visits an old mentor who helps him understand that his power lies in his intent to help and teach.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Harnessing his powers, Yousef orchestrates a community event that repairs a fractured neighborhood, feeling thoroughly victorious.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "With great power comes great responsibility, and Yousef embraced his duty with the wisdom of a teacher and the heart of a hero.",
+  "moral": "The true measure of power is how you use it to benefit others."
+}

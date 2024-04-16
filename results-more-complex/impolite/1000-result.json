@@ -1,0 +1,46 @@
+{
+  "title": "The Courage of Judy White: A Week of Unforeseen Heroism",
+  "summary": "Judy White, a 40-year-old sports enthusiast, unexpectedly gains superpowers and saves her town from a mysterious threat, learning the importance of courage and community in the process.",
+  "summaryGerman": "Judy White, eine 40-jährige Sportbegeisterte, erlangt unerwartet Superkräfte und rettet ihre Stadt vor einer mysteriösen Bedrohung, wobei sie die Bedeutung von Mut und Gemeinschaft lernt.",
+  "summaryDutch": "Judy White, een 40-jarige sportliefhebber, krijgt onverwacht superkrachten en redt haar stad van een mysterieuze dreiging, waarbij ze het belang van moed en gemeenschap leert.",
+  "summaryFrench": "Judy White, une passionnée de sport de 40 ans, acquiert soudainement des superpouvoirs et sauve sa ville d'une menace mystérieuse, apprenant l'importance du courage et de la communauté dans le processus.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy White discovers an ancient relic while jogging through the local park and unexpectedly gains super strength and agility. She spends the day experimenting with her new abilities, feeling both exhilarated and uneasy.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "As she plans her routine, Judy halts a robbery with her newfound powers, earning praise but attracting unwanted attention. The thrill and fear mix as she realizes the responsibilities her powers entail.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedenesday",
+      "text": "Judy's story hits the news, and people flock to her for help. Overwhelmed but determined, she assists in various minor emergencies around her community. Her day ends feeling more accepting of her role.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A mysterious figure confronts Judy, warning her of a greater threat to the town. Uncertain of the figure's intentions, she spends the day strategizing and preparing for potential dangers.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The threat reveals itself as a sinister energy storm approaching the town. Judy, using tactics from her sport planning, coordinates the town's evacuation, leading the charge against the storm.",
+      "mood": "heroic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With the help of her community, Judy confronts the storm. They manage to dissipate it using a combination of her powers and the relics from the park. The town is safe at last, and Judy is celebrated as a hero.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Judy spends a peaceful day reflecting on her week. She realizes that her powers are not just for show but a means to make a difference. She vows to continue using them for good.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus, Judy found not only her power but her purpose, forever changing her life and that of her beloved town.",
+  "moral": "With great power comes great responsibility, and the courage to accept it can make a true hero."
+}

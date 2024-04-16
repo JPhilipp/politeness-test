@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Counsel: Ivan Phillips' Unexpected Journey",
+  "summary": "Ivan Phillips, a 51-year old counselor, discovers his superpowers through a week of helping others, leading to a battle against crime in his community.",
+  "summaryGerman": "Ivan Phillips, ein 51-jähriger Berater, entdeckt seine Superkräfte während einer Woche der Hilfe für andere, was zu einem Kampf gegen das Verbrechen in seiner Gemeinde führt.",
+  "summaryDutch": "Ivan Phillips, een 51-jarige counselor, ontdekt zijn superkrachten tijdens een week van anderen helpen, leidend tot een strijd tegen criminaliteit in zijn gemeenschap.",
+  "summaryFrench": "Ivan Phillips, un conseiller de 51 ans, découvre ses superpouvoirs au cours d'une semaine d'aide aux autres, menant à une lutte contre le crime dans sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "mood": "epic",
+      "text": "Ivan Phillips begins his week feeling ordinary, unaware that his innate ability to empathize will soon evolve into mind-reading powers. As he counsels a troubled youth, he accidentally reads the boy's thoughts and helps him confront deep fears."
+    },
+    {
+      "weekday": "Tueday",
+      "mood": "eerie",
+      "text": "Ivan realizes his new abilities when he hears thoughts from people passing by on the street. Overwhelmed and intrigued, he seeks solitude to understand this unexpected gift, which is both a blessing and a burden."
+    },
+    {
+      "weekday": "Wednesday",
+      "mood": "energetic",
+      "text": "Feeling more in control, Ivan uses his powers to better connect with his mentees, resolving conflicts and providing deep insights. His reputation as a counselor grows, as does his understanding of his new powers."
+    },
+    {
+      "weekday": "Thursday",
+      "mood": "triumphant",
+      "text": "Ivan successfully helps solve a local mystery involving stolen property. His ability to read the culprit's mind leads to a peaceful resolution and recovery of the stolen items, making him a local hero."
+    },
+    {
+      "weekday": "Friday",
+      "mood": "romantic",
+      "text": "In a surprising twist, Ivan's newfound sensitivity brings him closer to a fellow volunteer, Anna. They share a heartfelt conversation about life, love, and the responsibilities that come with great power."
+    },
+    {
+      "weekday": "Saturday",
+      "mood": "epic",
+      "text": "News of Ivan's deeds spread throughout the community. Inspired by Ivan's courage and wisdom, residents start a neighborhood watch program, asking him to lead. Ivan vows to protect and mentor others, using his powers for good."
+    },
+    {
+      "weekday": "Sunday",
+      "mood": "peaceful",
+      "text": "Reflecting on a week full of unexpected events and personal growth, Ivan spends a quiet day with Anna. They discuss plans for the future and the impact they hope to make together."
+    }
+  ],
+  "ending": "And so, Ivan Phillips became not just a counselor, but a guardian of his community, proving that every person has the potential to be a hero.",
+  "moral": "Great power arises from the desire to help others, transforming everyday moments into extraordinary impacts."
+}

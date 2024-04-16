@@ -1,0 +1,46 @@
+{
+  "title": "The Ageless Adventures of Heidi Baker",
+  "summary": "At 76, Heidi Baker discovers a magical pencil that lets her bring her drawings to life, which she uses to solve community problems and give sage advice.",
+  "summaryGerman": "Mit 76 entdeckt Heidi Baker einen magischen Bleistift, mit dem sie ihre Zeichnungen zum Leben erwecken kann, die sie verwendet, um Probleme in der Gemeinde zu lösen und weise Ratschläge zu geben.",
+  "summaryDutch": "Op 76-jarige leeftijd ontdekt Heidi Baker een magische potlood waarmee ze haar tekeningen tot leven kan brengen, die ze gebruikt om problemen in de gemeenschap op te lossen en wijze adviezen te geven.",
+  "summaryFrench": "À 76 ans, Heidi Baker découvre un crayon magique qui lui permet de donner vie à ses dessins, qu'elle utilise pour résoudre les problèmes de la communauté et donner des conseils avisés.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Heidi Baker discovers a peculiar, glowing pencil among her sketching tools. Intrigued, she draws a cat, which astonishingly leaps off the paper, vibrant and alive.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuensday",
+      "text": "Empowered by her newfound ability, Heidi sketches a beautiful community garden. By noon, it materializes in the town square, filled with flowers and visitors.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "A child's lost dog issue runs rampant in the news. Using her magical pencil, Heidi draws the child being reunited with the dog, which manifests into reality, bringing joy and relief.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Facing doubt from a local skeptic, Heidi advises him through a drawing of a bridge connecting opposing cliffs, symbolizing new understanding. Next day, the skeptic publicly apologizes and praises her wisdom.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The town faces a budget crisis affecting local schools. Heidi draws a generous benefactor, who then appears, donating enough to keep the programs running.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Heidi spends a quiet day by the lake, drawing the scenery. Her peaceful artwork sells at a local exhibition, the money going to further community projects.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Heidi reflects on her week, realizing her greatest power was always her creativity and passion for helping others. Her story becomes a legacy depicted in murals across town.",
+      "mood": "energetic"
+    }
+  ],
+  "ending": "And thus, with pencil in hand, Heidi Baker illustrated that true heroism knows no age.",
+  "moral": "Creativity, combined with a desire to help others, can lead to extraordinary consequences."
+}

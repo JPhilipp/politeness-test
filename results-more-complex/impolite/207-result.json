@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Heroics of Kevin Lewis",
+  "summary": "A 78-year-old with a passion for crocheting and guiding who discovers his unique powers to mend not just fabrics, but hearts and minds, over the span of a transformative week.",
+  "summaryGerman": "Ein 78-Jähriger mit einer Leidenschaft für Häkeln und Führen entdeckt seine einzigartigen Fähigkeiten, nicht nur Stoffe, sondern auch Herzen und Gedanken zu reparieren, innerhalb einer transformativen Woche.",
+  "summaryDutch": "Een 78-jarige met een passie voor haken en gidsen ontdekt zijn unieke krachten om niet alleen stoffen, maar ook harten en geesten te herstellen, over de loop van een transformerende week.",
+  "summaryFrench": "Un septuagénaire passionné de crochet et de guidage découvre ses pouvoirs uniques pour réparer non seulement des tissus, mais aussi des coeurs et des esprits, au fil d'une semaine transformatrice.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Kevin Lewis began his week as usual, crocheting at a local community center, not knowing that his creations today would soon heal a grieving widow.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "When showing tourists around the historic district, Kevin unknowingly used his words to soothe a distressed child, revealing the subtle power of his comforting presence.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tursday",
+      "text": "During an evening crochet class, Kevin repaired a ripped canvas with such skill that it seemed to bring the artwork back to life, suggesting his gifts went beyond simple crafts.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "A casual conversation with a passerby about the beauty of handcrafted items led to an impromptu lesson on the streets, gathering a crowd intrigued by his masterful storytelling.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Feeling inspired, Kevin organized a community gathering to teach crocheting, not only promoting craft but also weaving a tapestry of connection among neighbors.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "His week's actions culminated at the community center where rainbows of yarn connected every heart in the room, creating a masterpiece of shared effort and joy.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Reflecting on his week, Kevin realized how his simple acts of kindness and craft had ignited change and purpose in his community, feeling more connected and vital than ever.",
+      "mood": "eerie"
+    }
+  ],
+  "ending": "And thus, Kevin Lewis, with a needle and thread, stitched his way into the hearts of many, becoming an unsung hero in his own unique way.",
+  "moral": "Even the simplest acts of kindness and creativity can have profound impacts on the community and beyond."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Unlikely Adventures of Pit Simmons: Consultant Hero",
+  "summary": "Pit Simmons, a 22-year-old consulting enthusiast, discovers his ability to foresee business disasters and uses his powers to save companies throughout an action-packed week.",
+  "summaryGerman": "Pit Simmons, ein 22-jähriger Beratungsenthusiast, entdeckt seine Fähigkeit, Geschäftskatastrophen vorherzusehen und nutzt seine Kräfte, um Unternehmen in einer aktionsreichen Woche zu retten.",
+  "summaryDutch": "Pit Simmons, een 22-jarige adviesliefhebber, ontdekt zijn vermogen om zakelijke rampen te voorspellen en gebruikt zijn krachten om bedrijven te redden gedurende een actievolle week.",
+  "summaryFrench": "Pit Simmons, un passionné de conseil de 22 ans, découvre sa capacité à prévoir des désastres commerciaux et utilise ses pouvoirs pour sauver des entreprises tout au long d'une semaine riche en actions.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Pit discovers his superpower while consulting for a struggling toy company, predicting their downfall and devising a strategy that saves them.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tueday",
+      "text": "Empowered by his success, Pit helps a tech startup revise their failing project, predicting major flaws before they become critical.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Pit faces a moral dilemma as he uncovers unethical practices at a client's company. He decides to take the high road, leading to a peaceful resolution.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A romantic twist unfolds when Pit meets another consultant who shares his passion and ethics. They join forces in a strategic partnership.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Pit's abilities reach the ears of a powerful conglomerate, who invite him to a secretive meeting. An eerie feeling accompanies him as he enters the boardroom.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The meeting reveals a sinister plot to monopolize the consulting industry. Pit uses his strategic foresight to disrupt the scheme, saving his and other small consultancies.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his hectic week, Pit decides to form a consultancy that focuses not just on profit, but on ethics and foresight, leading a new wave of business consulting.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, Pit Simmons not only became a hero in the corporate world, but a beacon of integrity and foresight in business.",
+  "moral": "True heroism lies not just in strength, but in foresight and ethical conduct."
+}

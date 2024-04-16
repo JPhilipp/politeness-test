@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Judy Thompson: The Wisdom Whisperer",
+  "summary": "Judy Thompson, a 69-year-old counselor, discovers her ability to influence people's decisions with her sage advice, transforming her neighborhood's conflicts over a week.",
+  "summaryGerman": "Judy Thompson, eine 69-jährige Beraterin, entdeckt ihre Fähigkeit, die Entscheidungen der Menschen mit ihrem weisen Rat zu beeinflussen und die Konflikte in ihrer Nachbarschaft innerhalb einer Woche zu verwandeln.",
+  "summaryDutch": "Judy Thompson, een 69-jarige counselor, ontdekt haar vermogen om de beslissingen van mensen te beïnvloeden met haar wijze advies, waardoor ze de conflicten in haar buurt in een week tijd transformeert.",
+  "summaryFrench": "Judy Thompson, une conseillère de 69 ans, découvre sa capacité à influencer les décisions des gens avec ses sages conseils, transformant les conflits de son quartier en une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy Thompson, while tending her garden, overhears her neighbors arguing over property boundaries. Her calm and wise interjection eases their anger, leaving them in a thoughtful, peaceful mood.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Feeling energetic, Judy arranges a community meeting at the local center, advising on various personal and communal issues. Her effective, heartfelt advice lifts spirits, crafting a happier community.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Judy feels an eerie sense her advice might be more powerful than she realized. She discovers she can subtly influence decisions with mere suggestions, using this newfound ability to resolve a dispute at the grocery store.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "During her advising session, Judy helps a young couple overcome their romantic troubles. Inspired by her wisdom, they openly show their renewed love, creating an aura of romance around the community hall.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Judy feels triumphant as news of her mediation skills spreads. More people seek her out, enhancing her influence and helping the community unite to plan a local festival.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "As she prepares her speech for the festival, Judy reflects on her week. She crafts a message that highlights the power of unity and mutual support, sharing her experience in an epic way with everyone attending.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The festival is a big success, Judy feels incredibly happy seeing her neighborhood flourish due to the seeds of wisdom she planted throughout the week.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As the sun sets on a joyful festival, Judy smiled, realizing that even the smallest words can lead to the greatest change.",
+  "moral": "Wisdom shared with kindness fosters community harmony and growth."
+}

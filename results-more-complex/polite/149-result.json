@@ -1,0 +1,46 @@
+{
+  "title": "The Courageous Week of Alice Watson, Hero Counselor",
+  "summary": "Alice Watson, a 37-year-old counselor and teacher, discovers her ability to absorb fears and anxieties from others and uses it to fight a looming darkness in her city over a week.",
+  "summaryGerman": "Alice Watson, eine 37-jährige Beraterin und Lehrerin, entdeckt ihre Fähigkeit, Ängste und Sorgen von anderen zu absorbieren und verwendet diese, um eine drohende Dunkelheit in ihrer Stadt über eine Woche hinweg zu bekämpfen.",
+  "summaryDutch": "Alice Watson, een 37-jarige counselor en leraar, ontdekt haar vermogen om angsten en zorgen van anderen te absorberen en gebruikt dit om een dreigende duisternis in haar stad gedurende een week te bestrijden.",
+  "summaryFrench": "Alice Watson, une conseillère et enseignante de 37 ans, découvre sa capacité à absorber les peurs et les anxiétés des autres et l'utilise pour lutter contre une obscurité menaçante dans sa ville pendant une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Alice feels a sudden surge of energy as she comforts a distraught student, inadvertently absorbing the student's anxiety. She finishes the day feeling strangely energetic and empowered.",
+      "mood": "energetic"
+    },
+    {
+      "wednesday": "Tuesday",
+      "text": "Empowered by her new ability, Alice helps a group therapy session end with everyone feeling unusually peaceful. She starts to suspect her power might be real.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Alice prevents a fight at school by calming a furious parent, noticing her ability also lessens anger in others. Late night, her peaceful neighborhood seems disturbingly eerie.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Investigating the eerie feeling, Alice encounters a shadowy figure emanating despair. She confronts it, using her power to disperse the darkness, feeling a mix of fear and excitement.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "After a restless night, Alice learns of increased calmness in her city. Inspired, she decides to train and refine her ability to help even more people.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a city meeting about recent improvements in communal mental health, Alice privately counsels the mayor, ensuring his support.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Alice spends a peaceful day reflecting on her heroics, ensuring she remains grounded and ready to teach the coming week. She feels part of something much larger and more important.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus ends the week where Alice Watson became not only a hero to her city, but also to herself.",
+  "moral": "Even the smallest acts of kindness can wield great power over darkness."
+}

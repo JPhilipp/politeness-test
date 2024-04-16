@@ -1,0 +1,46 @@
+{
+  "title": "The Sewing Sentinel: The Adventures of Sue Miller",
+  "summary": "Sue Miller, a 26-year-old consultant with a passion for sewing, discovers she can manipulate fabric at will. Throughout one week, she uses her newfound powers to solve crimes, eventually thwarting a major heist.",
+  "summaryGerman": "Sue Miller, eine 26-jährige Beraterin mit einer Leidenschaft für Nähen, entdeckt, dass sie Stoff nach Belieben manipulieren kann. Innerhalb einer Woche nutzt sie ihre neu entdeckten Kräfte, um Verbrechen zu lösen und schließlich einen großen Raub zu vereiteln.",
+  "summaryDutch": "Sue Miller, een 26-jarige consultant met een passie voor naaien, ontdekt dat ze stof naar wil kan manipuleren. Gedurende een week gebruikt ze haar nieuwgevonden krachten om misdaden op te lossen, uiteindelijk een grote overval verijdelen.",
+  "summaryFrench": "Sue Miller, consultante de 26 ans passionnée de couture, découvre qu'elle peut manipuler le tissu à volonté. Au cours d'une semaine, elle utilise ses pouvoirs nouvellement découverts pour résoudre des crimes, finissant par déjouer un grand cambriolage.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Sue discovers her ability to manipulate textiles when she accidentally unravels a thread from her blouse and it weaves itself into a new pattern. Shocked and curious, she begins experimenting.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Empowered by her new skill, Sue uses her sewing prowess at a local charity event, quickly repairing torn garments and crafting new outfits on the spot, making the event a huge success.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "A local news outlet catches wind of Sue's talents, dubbing her 'The Sewing Sentinel.' They film her at work, captivating the city with her swift, magical fabric manipulation.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Using her abilities, Sue starts noticing patterns in garments that link a series of small thefts in the area. She stitches together clues and identifies a suspect.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Sue follows the suspect discreetly, confirming her suspicions. She gathers enough evidence to inform the police, who then make the arrest based on her lead, thwarting a planned major heist.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "News of Sue’s heroic deeds spreads further, enhancing her reputation as a protector. She spends the day sewing at the park, where admirers come to meet her and learn sewing tips.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her incredible week, Sue feels content with her new role as a local hero. She continues to balance her consulting work with her vigilantism, feeling more fulfilled than ever.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Sue Miller, the Sewing Sentinel, became an unexpected hero, threading justice through the fabric of her city.",
+  "moral": "Embrace your unique talents; they may weave more impact than you imagine."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Zelda Hayes: Tutor and Hero",
+  "summary": "Over a week, Zelda Hayes, a retired teacher, discovers her superpowers and helps her community solve a mysterious problem.",
+  "summaryGerman": "Über eine Woche entdeckt Zelda Hayes, eine pensionierte Lehrerin, ihre Superkräfte und hilft ihrer Gemeinschaft, ein mysteriöses Problem zu lösen.",
+  "summaryDutch": "Gedurende een week ontdekt Zelda Hayes, een gepensioneerde lerares, haar superkrachten en helpt ze haar gemeenschap een mysterieus probleem op te lossen.",
+  "summaryFrench": "Au cours d'une semaine, Zelda Hayes, une enseignante à la retraite, découvre ses superpouvoirs et aide sa communauté à résoudre un problème mystérieux.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda Hayes smiles as she prepares her tutoring materials. She feels a strange sensation while organizing her books—each feels lighter than air.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Continuing her tutoring, Zelda accidentally moves a heavy desk with a mere touch. Astonished, she realizes she might have super strength.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "Zelda decides to test her new abilities at night. She stops a robbery effortlessly, feeling an adrenaline rush and responsibility.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Word of her deeds spreads, and her phone rings non-stop with people asking for help. Zelda feels overwhelmed but committed.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Zelda balances her day between tutoring and heroics. She saves a cat from a tree and helps resolve a local dispute, feeling content and useful.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The community shows its gratitude with a small ceremony. Zelda feels loved and valued, realizing her dual impact.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Zelda vows to continue her dual life, enriching her community with knowledge and protection.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus began the dual life of Zelda Hayes: dedicated tutor by day, unsung hero by night.",
+  "moral": "No matter the age, everyone can make a significant difference in their community."
+}

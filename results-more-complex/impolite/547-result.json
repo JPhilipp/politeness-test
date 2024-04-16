@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Linda Hayes: Heroic Planner",
+  "summary": "Linda Hayes, a 20-year-old planner and coach, discovers her superpowers and saves her city from disaster over the span of a week.",
+  "summaryGerman": "Linda Hayes, eine 20-jährige Planerin und Trainerin, entdeckt ihre Superkräfte und rettet ihre Stadt innerhalb einer Woche vor einer Katastrophe.",
+  "summaryDutch": "Linda Hayes, een 20-jarige planner en coach, ontdekt haar superkrachten en redt haar stad van een ramp in de loop van een week.",
+  "summaryFrench": "Linda Hayes, une planificatrice et coach de 20 ans, découvre ses superpuissances et sauve sa ville d'une catastrophe au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Linda Hayes starts her week feeling energetic as she juggles her college courses and coaching responsibilities. A strange shimmer in her vision leads her to prevent a small accident at the gym, hinting at newfound abilities.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Her powers grow, and Linda feels an eerie sense as she begins to foresee minor future events. Her perfect plans help avert several small crises at her college.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wedneday",
+      "text": "Empowered and intrigued, Linda spends the day experimenting with and understanding her abilities. She successfully intervenes to prevent a major traffic accident foreseen in her visions.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Feeling romantic, Linda helps plan a surprise proposal for a friend, using her powers to ensure the evening goes flawlessly. Amidst the joy, she senses a looming threat.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "An epic showdown unfolds as Linda confronts the source of the threat— a corrupt businessman planning to demolish a historic park. Her strategic planning leads to his arrest.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "In the aftermath, Linda helps organize a community event to celebrate the park’s salvation. Her role as a new hero is solidified in her community.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Linda feels peaceful, recognizing her potential to impact lives positively. She vows to use her powers for the greater good.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Linda Hayes embraced her role as the planner-hero, ready to tactically face any future adversities.",
+  "moral": "Embrace your unique abilities to make a positive impact in your world."
+}

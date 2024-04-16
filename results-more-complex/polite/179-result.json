@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Judy Allen: Super Mentor",
+  "summary": "At the age of 70, Judy Allen discovers her unusual ability to inspire real-life change through her mentoring, as she combats negativity and spreads hope and wisdom over one transformative week.",
+  "summaryGerman": "Im Alter von 70 Jahren entdeckt Judy Allen ihre ungewöhnliche Fähigkeit, durch ihr Mentoring echte Veränderungen zu inspirieren, während sie Negativität bekämpft und über eine transformative Woche hinweg Hoffnung und Weisheit verbreitet.",
+  "summaryDutch": "Op 70-jarige leeftijd ontdekt Judy Allen haar ongewone vermogen om echte verandering te inspireren door haar mentoring, terwijl ze negativiteit bestrijdt en hoop en wijsheid verspreidt over een transformerende week.",
+  "summaryFrench": "À l'âge de 70 ans, Judy Allen découvre sa capacité inhabituelle à inspirer un changement réel à travers son mentorat, alors qu'elle combat la négativité et répand espoir et sagesse sur une semaine transformatrice.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy Allen, spry at 70, starts her week by holding a webinar on the power of positive thinking for local community leaders. She feels surprisingly energetic and eager to share her knowledge.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "After receiving numerous positive feedback from yesterday's webinar, Judy meets with a struggling small business owner and gives crucial advice. The air fills with hope.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Judy spends the day at a local high school, mentoring troubled teens. She finds a student on the brink of dropping out and convinces him to stay in school, feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thurday",
+      "text": "An eerie feeling overcomes Judy during a late-night walk. She sees a young woman being harassed and steps in. Her courageous act changes the woman’s outlook on life.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Judy organizes a community gathering to discuss ways to improve neighborhood safety after last night's incident. Her leadership instills a sense of peace and community spirit.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Inspired by the week's events, Judy decides to write a book about her experiences. She spends the day outlining chapters, feeling a deep sense of purpose.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her extraordinary week, Judy holds a family dinner where she shares her plans for the book. Her family's support makes her feel loved and cherished.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "And so, Judy's ordinary week turned into a series of extraordinary events, proving that it’s never too late to make a difference.",
+  "moral": "No matter your age, your actions can inspire and uplift those around you."
+}

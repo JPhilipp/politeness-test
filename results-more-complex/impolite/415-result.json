@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Judy Parker: The Planner Protector",
+  "summary": "Over a week, Judy Parker, a 53-year-old with a penchant for advertising and planning, discovers her superpowers and uses them to solve a mysterious crisis in her town.",
+  "summaryGerman": "Im Laufe einer Woche entdeckt Judy Parker, eine 53-jährige mit einer Vorliebe für Werbung und Planung, ihre Superkräfte und nutzt sie, um eine mysteriöse Krise in ihrer Stadt zu lösen.",
+  "summaryDutch": "Gedurende een week ontdekt Judy Parker, een 53-jarige met een voorliefde voor reclame en planning, haar superkrachten en gebruikt ze om een mysterieuze crisis in haar stad op te lossen.",
+  "summaryFrench": "Au cours d'une semaine, Judy Parker, 53 ans, passionnée de publicité et de planification, découvre ses superpouvoirs et les utilise pour résoudre une crise mystérieuse dans sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy Parker came across a glowing artifact while sorting through old advertising archives at work. Curious, she touched it and felt a surge of energetic clarity.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesdsay",
+      "text": "Judy woke up feeling different. Her thoughts were clear, her plans more precise. At work, she effortlessly designed a promotional campaign that solved a major product issue.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Testing her newfound powers, Judy planned a community event in under an hour, earning applause from her peers. It seemed her planning ability had become superhuman.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "An eerie silence fell over the town. Judy felt unrest. Using her powers, she deduced that a crisis was brewing and swiftly gathered her team to brainstorm solutions.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Utilizing her super-planning abilities, Judy averted the crisis by organizing a city-wide emergency response overnight, saving countless lives.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Reflecting on the events, Judy realized the potential of her powers. She decided to use her abilities to continue making a positive impact.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Judy Parker was celebrated as a hero. Her story of ordinary to extraordinary inspired many, proving that anyone could make a difference.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "And so, Judy Parker, once a mere ad exec, became the Planner Protector, a true local superhero.",
+  "moral": "Great power can come from unlikely places; it's how we choose to use it that makes us heroes."
+}

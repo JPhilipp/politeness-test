@@ -1,0 +1,45 @@
+{
+  "title": "The Week of Transformation: Alice Cooper, The Guiding Light",
+  "summary": "Alice Cooper discovers her unique ability to inspire real-world change through her positive influence and intuitive guidance, transforming her city by tutoring and consulting day-to-day.",
+  "summaryGerman": "Alice Cooper entdeckt ihre einzigartige Fähigkeit, durch ihre positive Einflussnahme und intuitive Beratung reale Veränderungen zu inspirieren, und verwandelt so ihre Stadt durch tägliches Nachhilfegeben und Beratungen.",
+  "summaryDutch": "Alice Cooper ontdekt haar unieke vermogen om echte wereldverandering te inspireren door haar positieve invloed en intuïtieve begeleiding, waardoor ze haar stad transformeert door dagelijks bijles en advies te geven.",
+  "summaryFrench": "Alice Cooper découvre sa capacité unique à inspirer un changement concret grâce à son influence positive et son orientation intuitive, transformant ainsi sa ville par son tutorat et ses consultations quotidiennes.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Alice starts her week feeling energetic, unaware of the powers she is about to uncover. While tutoring local kids in science and math, she suddenly finds she can visually illustrate complex concepts by manifesting them in thin air.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tueday",
+      "text": "Alice feels triumphant as her new-found powers allow her to tailor each tutoring session to visual and interactive experiences. Her clients are thrilled with their accelerated learning",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "After a morning tutoring session, news spreads about Alice’s methods, and she receives her first consulting request from a troubled school. Alice feels increasingly confident in her abilities.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Feeling romantic, Alice meets a fellow community volunteer. They connect over shared ideals and dreams of transforming their town. Together, they brainstorm potential city-wide improvement projects.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Alice feels epic as her status as an urban hero grows; she organizes a large-scale event to help struggling students and residents improve their life skills, drawing hundreds of participants.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "It’s an eerie day when Alice faces opposition from skeptical citizens. However, using her skills and genuine care, she manages to convert doubters, proving her powers serve the greater good.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The week ends peacefully, with Alice reflecting on her journey and the changes she has made. As the sun sets, she feels content, knowing her city believes in her and the difference she can make.",
+      "mood": "peaceful"
+    }
+  ],
+  "moral": "The most profound transformations often begin with a single step of genuine intent towards bettering others' lives."
+}

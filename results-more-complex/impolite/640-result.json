@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Pit Jones: Counselor by Day, Champion by Night",
+  "summary": "Pit Jones, a 40-year-old counselor with a passion for sports, discovers his latent superpowers, using them to save his city from a mysterious threat while balancing his day job and personal hobbies.",
+  "summaryGerman": "Pit Jones, ein 40-jähriger Berater mit einer Leidenschaft für Sport, entdeckt seine verborgenen Superkräfte und verwendet sie, um seine Stadt vor einer mysteriösen Bedrohung zu retten, während er seinen Tagesjob und seine persönlichen Hobbys ausbalanciert.",
+  "summaryDutch": "Pit Jones, een 40-jarige counselor met een passie voor sport, ontdekt zijn latente superkrachten, waarmee hij zijn stad redt van een mysterieuze dreiging terwijl hij zijn dagbaan en persoonlijke hobby's in evenwicht houdt.",
+  "summaryFrench": "Pit Jones, un conseiller de 40 ans passionné de sport, découvre ses superpouvoirs latents et les utilise pour sauver sa ville d'une menace mystérieuse tout en équilibrant son travail de jour et ses hobbies personnels.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Pit Jones starts his week with dual enthusiasm—ready to tackle both counseling sessions and his evening basketball games. Little does he know, his athletic prowess is about to get a supernatural boost.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "During a challenging counseling session, Pit feels a surge of empathy unlike any before, discovering he can genuinely feel others' emotions. This intense connection helps him advise his clients with unprecedented accuracy.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "After hearing about a series of local disturbances, Pit uses his new empathic abilities to sense the fear and unrest in the city. He decides it's time to put his powers to the test outside the counseling office.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Pit prevents a robbery with his remarkable agility and a newfound strength that surprises even himself. His actions start to attract media attention, though he keeps his identity a secret.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "As tension in the city escalates with the emergence of a formidable villain, Pit dedicates his night to safeguarding his fellow citizens, feeling a heroic duty that goes beyond his daily work.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Combining counseling skills and superpowers, Pit talks down the villain, empathizing with his troubled past and helping him seek redemption. The city breathes a sigh of relief as calm is restored.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his tumultuous week, Pit feels a deep contentment knowing he has helped many, not just in his role as a counselor, but as a protector of his city. He spends a quiet day with friends and family.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As the sun sets on Sunday, Pit Jones smiles, knowing that the true power of a hero lies in the heart, not just the strength of their arms.",
+  "moral": "Embrace your unique abilities; they might be just what the world needs."
+}

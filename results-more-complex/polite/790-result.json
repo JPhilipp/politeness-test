@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Jin Torres: Editing Hero",
+  "summary": "Jin Torres, an editor by day and superhero by night, uses his unique skills to uncover and thwart a plot threatening his city over the course of a week, finding peace in his daily life.",
+  "summaryGerman": "Jin Torres, tagsüber Redakteur und nachts Superheld, nutzt seine einzigartigen Fähigkeiten, um innerhalb einer Woche eine Bedrohung für seine Stadt aufzudecken und zu vereiteln, und findet Frieden in seinem täglichen Leben.",
+  "summaryDutch": "Jin Torres, overdag redacteur en 's nachts superheld, gebruikt zijn unieke vaardigheden om in de loop van een week een complot te ontdekken en te verijdelen dat zijn stad bedreigt, en vindt vrede in zijn dagelijks leven.",
+  "summaryFrench": "Jin Torres, éditeur le jour et super-héros la nuit, utilise ses compétences uniques pour découvrir et déjouer un complot menaçant sa ville au cours d'une semaine, trouvant la paix dans sa vie quotidienne.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Jin Torres starts his week by reviewing manuscripts, but discovers a hidden code within the texts, hinting at a criminal plan.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Intrigued and cautious, Jin uses his editing skills to decode messages, confirming his suspicions about a major heist being planned.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "After gathering enough evidence, Jin shares his findings with local authorities who are initially skeptical of his theories.",
+      "mood": "triuphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Determined to prevent the crime, Jin patrolls the streets that night, blending his superhero duties with his daily life.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Jin intercepts the criminals, using his vast knowledge of the city's layout for a strategic advantage. The clash is intense but victorious.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The city celebrates Jin's bravery. Unknown to them, the mild-mannered editor silently rejoins his normal life, proud and satisfied.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Back to his routine of editing and instructing, Jin feels a deep sense of fulfillment, knowing he has safeguarded his community.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And so, through the meticulous eyes of an editor, peace was restored, line by line.",
+  "moral": "Never underestimate the power of diligence and attention to detail."
+}

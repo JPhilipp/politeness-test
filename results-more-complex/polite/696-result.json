@@ -1,0 +1,46 @@
+{
+  "title": "The Week-Long Journey of Ursula Bennett: The Counselor Hero",
+  "summary": "Ursula Bennett, an instructor and counselor, discovers her supernatural ability to absorb and alleviate the emotional turmoil of others. Throughout the week, she uses her powers to help her community, facing challenges and ultimately realizing the importance of self-care.",
+  "summaryGerman": "Ursula Bennett, eine Lehrerin und Beraterin, entdeckt ihre übernatürlichen Fähigkeiten, emotionales Leid anderer zu absorbieren und zu lindern. Über die Woche hinweg nutzt sie ihre Kräfte, um ihrer Gemeinschaft zu helfen, stellt sich Herausforderungen und erkennt letztlich die Wichtigkeit der Selbstfürsorge.",
+  "summaryDutch": "Ursula Bennett, een instructeur en counselor, ontdekt haar bovennatuurlijke vermogen om de emotionele onrust van anderen te absorberen en te verlichten. Gedurende de week gebruikt ze haar krachten om haar gemeenschap te helpen, geconfronteerd met uitdagingen en uiteindelijk het belang van zelfzorg inziend.",
+  "summaryFrench": "Ursula Bennett, une instructrice et conseillère, découvre sa capacité surnaturelle à absorber et à alléger le tumulte émotionnel des autres. Tout au long de la semaine, elle utilise ses pouvoirs pour aider sa communauté, faisant face à des défis et réalisant finalement l'importance de prendre soin de soi.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Starting her week, Ursula felt a new, unexplained energy while counseling a distressed couple. As their stress seemed to fade after talking to her, Ursula sensed their emotions absorbed into herself, leaving them visibly relieved.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Emboldened by yesterday's experience, Ursula intentionally absorbed a student’s anxiety during a guidance session. Although the student left feeling lighter, Ursula found herself grappling with the newfound emotional weight.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "As word of her abilities spread, Ursula was approached by more people seeking relief. Each encounter left her more drained but also more determined to learn how to manage her powers for the greater good.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "With her powers growing, Ursula began to understand the limitations and responsibilities they entailed. She helped a group overcome collective grief by sharing their burden, feeling a deep connection to her community.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "To counteract her emotional fatigue, Ursula sought advice from a wise elder, learning techniques to compartmentalize and even return some of the absorbed emotions without harming herself or others.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Using her newly acquired skills, Ursula facilitated a town hall meeting, turning a potentially divisive argument into a heartfelt consensus. Her ability to influence collective emotion proved invaluable.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Ursula realized the importance of balancing her personal wellbeing with her duty to help others. She spent a quiet day at home, regenerating and preparing for the challenges ahead.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Though her journey was taxing, Ursula Bennett learned to wield her powers wisely, ensuring she remained a beacon of hope and healing in her community.",
+  "moral": "With great power comes great responsibility, and the necessity to balance personal wellbeing with the needs of others."
+}

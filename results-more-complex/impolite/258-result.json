@@ -1,0 +1,46 @@
+{
+  "title": "The Enlightened Adventures of Walter Moore",
+  "summary": "Walter Moore, a 40-year-old lecturer, discovers an ancient artifact which grants him the power to manipulate time, leading him to become a superhero who guides and protects his city over the course of a week.",
+  "summaryGerman": "Walter Moore, ein 40-jähriger Dozent, entdeckt ein antikes Artefakt, das ihm die Macht verleiht, die Zeit zu manipulieren, wodurch er zum Superhelden wird, der seine Stadt im Laufe einer Woche führt und schützt.",
+  "summaryDutch": "Walter Moore, een 40-jarige lector, ontdekt een oud artefact dat hem de kracht geeft om tijd te manipuleren, waardoor hij een superheld wordt die zijn stad gedurende een week begeleidt en beschermt.",
+  "summaryFrench": "Walter Moore, un conférencier de 40 ans, découvre un artefact ancien qui lui donne le pouvoir de manipuler le temps, le conduisant à devenir un super-héros qui guide et protège sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Walter Moore discovers an ancient timepiece buried in the archives during a school renovation. It hums with a strange energy.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "He experiments with the timepiece after class and inadvertently stops time for a moment. Excitement and fear grip him.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Walter resumes time but realizes he can also fast-forward it. He prevents an accident by fast-forwarding a car past a crossing pedestrian.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thrusday",
+      "text": "Walter, feeling the responsibility of his powers, spends the day rescuing people in peril by manipulating minor moments in time.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Word begins to spread of a guardian 'Timekeeper'. Walter balances his lecturer duties while secretly using his powers.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Walter faces a dilemma when a villain learns of his power and tries to steal the timepiece. A fierce battle ensues.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "After defeating the villain, Walter decides to entrust the timepiece to a secret society for safekeeping.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "By choosing the safety of all over personal power, Walter truly became the hero he was meant to be.",
+  "moral": "With great power comes great responsibility."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Transformation for Frank Kelly: Tutor Turned Hero",
+  "summary": "Frank Kelly, a passionate tutor, discovers his supernatural abilities and uses them to protect his city from a mysterious threat, becoming a hero by the end of the week.",
+  "summaryGerman": "Frank Kelly, ein leidenschaftlicher Nachhilfelehrer, entdeckt seine übernatürlichen Fähigkeiten und nutzt sie, um seine Stadt vor einer mysteriösen Bedrohung zu schützen, und wird am Ende der Woche zum Helden.",
+  "summaryDutch": "Frank Kelly, een gepassioneerde tutor, ontdekt zijn bovennatuurlijke vermogens en gebruikt ze om zijn stad te beschermen tegen een mysterieuze dreiging, en wordt aan het einde van de week een held.",
+  "summaryFrench": "Frank Kelly, un tuteur passionné, découvre ses capacités surnaturelles et les utilise pour protéger sa ville contre une menace mystérieuse, devenant un héros à la fin de la semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank Kelly was tutoring students at the local community center when he first noticed his unnatural ability to manipulate objects with his mind. He was both exhilarated and shocked.",
+      "mood": "eerie"
+    },
+    {
+      "wednesday": "Tuesday",
+      "text": "Testing his newfound powers after hours, Frank accidentally caused a minor blackout in the neighborhood. Guilt-ridden and confused, he vowed to master his abilities responsibly.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Confiding in his closest friend, Frank began training in a secluded warehouse. His control improved, and with it, his confidence flourished.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Rumors of a mysterious figure solving petty crimes and stopping accidents started circulating in the city, making Frank a shadowy urban legend.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A massive fire broke out in a downtown skyscraper. Frank, putting his fears aside, used his telekinesis to safely evacuate everyone. His heroic act was caught on camera, gaining public attention.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With the city cheering for their new hero, Frank officially took on the mantle, promising to use his powers for the greater good. Frank spent the day helping rebuild parts of the city affected by recent events.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The city declared 'Frank Kelly Day' in honor of his bravery and kindness. Frank reflected on his journey, feeling at peace with his new role as a protector.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "From the classroom to the city streets, Frank embraced his destiny as a real-life superhero.",
+  "moral": "Embrace your unique gifts and use them to make a positive impact on the world."
+}

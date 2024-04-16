@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Romeo Roberts: The Mentor Unleashed",
+  "summary": "Over the course of a week, Romeo Roberts, a lecturer with a passion for mentoring, discovers his superpowers, saves his city from disaster, and inspires his students.",
+  "summaryGerman": "Im Laufe einer Woche entdeckt Romeo Roberts, ein Dozent mit einer Leidenschaft für das Mentoring, seine Superkräfte, rettet seine Stadt vor einer Katastrophe und inspiriert seine Studenten.",
+  "summaryDutch": "Gedurende een week ontdekt Romeo Roberts, een docent met een passie voor mentoring, zijn superkrachten, redt hij zijn stad van een ramp en inspireert hij zijn studenten.",
+  "summaryFrench": "Au cours d'une semaine, Romeo Roberts, un conférencier passionné de mentorat, découvre ses superpouvoirs, sauve sa ville d'un désastre et inspire ses étudiants.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Romeo Roberts felt a surge of energy unlike any other as he prepared his lecture notes. Little did he know, a hidden gene had been activated, granting him superhuman abilities.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "During a mentoring session, Romeo discovered he could read the unspoken concerns of his mentees, helping them overcome their fears and shine in their academics.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednezday",
+      "text": "Romeo felt an eerie calm as he intercepted a malicious email, hinting an upcoming cyber attack on his university. Using his new skills, he traced the origin to stop it.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "With his university now safe, Romeo felt a peaceful joy. He started using his powers more openly, helping not just his students but also the city around him.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The city acknowledged Romeo’s hidden heroics during a small, romantic dinner organized by his colleagues, where he realized his profound impact on the community.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Feeling epic, Romeo organized a large seminar focused on self-development and protecting the community, inspiring hundreds of attendees to be proactive in their lives.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ending his week on a high note, Romeo felt happy knowing he could maintain his role as a lecturer and a mentor while being a superhero, transforming his city for the better.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Empowered by his experiences, Romeo Roberts continued to use his powers for good, forever changing the lives he touched.",
+  "moral": "Great power comes with great responsibility, but also a great opportunity to make a difference."
+}

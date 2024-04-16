@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Ling Perry: The Maestro of Valor",
+  "summary": "Ling Perry, a 57-year-old conducting and coaching enthusiast, inadvertently discovers his superpowers during a stormy rehearsal and uses them throughout the week to successfully rescue people from various predicaments, eventually earning the city's recognition.",
+  "summaryGerman": "Ling Perry, ein 57-jähriger Begeisterter für Dirigieren und Coaching, entdeckt versehentlich seine Superkräfte während einer stürmischen Probe und nutzt sie die ganze Woche über, um Menschen erfolgreich aus verschiedenen Notlagen zu retten, was ihm letztendlich die Anerkennung der Stadt einbringt.",
+  "summaryDutch": "Ling Perry, een 57-jarige enthousiasteling voor dirigeren en coaching, ontdekt per ongeluk zijn superkrachten tijdens een stormachtige repetitie en gebruikt ze de hele week om mensen succesvol uit diverse benarde situaties te redden, waarmee hij uiteindelijk de erkenning van de stad verdient.",
+  "summaryFrench": "Ling Perry, un passionné de direction et de coaching de 57 ans, découvre par accident ses super-pouvoirs lors d'une répétition orageuse et les utilise tout au long de la semaine pour sauver avec succès des gens de diverses situations périlleuses, gagnant finalement la reconnaissance de la ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "During an eerie thunderstorm, the intense energy conducts through Ling’s baton, granting him the unexpected ability to manipulate sound waves.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Energized by his newfound powers, Ling subtly tests his abilities during a coaching session, successfully averting a potentially dangerous equipment malfunction.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "Ling rescues a cat stuck atop a tree using his sound manipulation to coax it down, feeling a mix of joy and newfound purpose.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "While coaching, Ling hears a distant cry for help; he heroically uses his sonic abilities to disperse a gang of thieves, feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "At a local concert, Ling uses his powers to enhance the orchestra's performance, creating an epic atmosphere that captivates the audience completely.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Reflecting on his week, Ling spends a peaceful day at home, considering how to use his powers for the greater good.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The city holds a ceremony in Ling's honor, where he publicly vows to protect and serve, solidifying his role as a local superhero.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "As the crowd cheered, Ling Perry stood proudly, baton in hand, ready to conduct not just music, but justice.",
+  "moral": "Unexpected powers bring great responsibilities, and even more opportunities to make a difference."
+}

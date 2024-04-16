@@ -1,0 +1,46 @@
+{
+  "title": "Heidi Harris: The Consulting Hero",
+  "summary": "Heidi Harris, a 30-year-old counselor, discovers her ability to see into the future during her counseling sessions and uses it to avert crises throughout the week.",
+  "summaryGerman": "Heidi Harris, eine 30-jährige Beraterin, entdeckt während ihrer Beratungsgespräche die Fähigkeit, in die Zukunft zu sehen, und verwendet diese, um während der Woche Krisen zu vermeiden.",
+  "summaryDutch": "Heidi Harris, een 30-jarige counselor, ontdekt haar vermogen om tijdens haar adviesgesprekken in de toekomst te kijken en gebruikt dit om crises gedurende de week af te wenden.",
+  "summaryFrench": "Heidi Harris, une conseillère de 30 ans, découvre sa capacité à voir l'avenir pendant ses séances de conseil et l'utilise pour éviter des crises tout au long de la semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Heidi feels an unusual surge of energy during a consulting session, foreseeing a client’s potential business failure. She provides advice that steers the client towards a safer path.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tueday",
+      "text": "Intrigued by her newfound powers, Heidi faces confusion when she sees a blurry vision involving another client. She decides to ramp up her self-training to control her visions.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Heidi helps a couple reconcile their differences by predicting a significant future event that would affect both of them. They leave her office thankful and more in love than ever.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Facing skepticism from a new client, Heidi predicts a minor but specific event during their session. When it happens minutes later, her credibility skyrockets.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Heidi feels the weight of her abilities; the emotional toll makes her deeply contemplative about the impacts and ethics of her actions.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Rejuvenated by support from friends, Heidi continues to refine her skills, helping community members prevent personal and professional misfortunes.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Heidi feels peaceful, knowing she has made a meaningful difference in people’s lives. She commits to using her powers wisely.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "With great power comes great responsibility, and Heidi Harris was ready to embrace both.",
+  "moral": "Embrace your unique abilities and use them to make a positive impact on those around you."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Protector: The Story of Grace King",
+  "summary": "Grace King, a 56-year-old librarian with a hidden power to manipulate time, discovers a plot to destroy her community's library and over the course of a week, uses her abilities to thwart the villainous scheme.",
+  "summaryGerman": "Grace King, eine 56-jährige Bibliothekarin mit der verborgenen Fähigkeit, die Zeit zu manipulieren, entdeckt einen Plan, die Bibliothek ihrer Gemeinde zu zerstören, und verwendet ihre Fähigkeiten, um das schändliche Vorhaben zu vereiteln.",
+  "summaryDutch": "Grace King, een 56-jarige bibliothecaresse met de verborgen kracht om tijd te manipuleren, ontdekt een complot om de bibliotheek van haar gemeenschap te vernietigen en gebruikt haar vermogens om het schurkachtige schema te dwarsbomen.",
+  "summaryFrench": "Grace King, une bibliothécaire de 56 ans dotée du pouvoir caché de manipuler le temps, découvre un complot visant à détruire la bibliothèque de sa communauté et utilise ses capacités pour contrecarrer le stratagème malveillant.",
+  "story": [
+    {
+      "weekday": "Mnday",
+      "text": "Grace found mysterious markings in a returned book, hinting at a sinister plot.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "As she deciphered the codes, Grace realized they hinted at a timed destruction of her beloved library.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "She used her powers to rewind time slightly, gathering more clues about the culprits.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Grace spent the day instructing her junior staff on emergency protocols, without revealing her powers.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Grace caught the villains in the act and froze time, foiling their plan and alerting the authorities.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The community gathered to thank the 'mysterious hero', not knowing it was Grace.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Grace enjoyed a quiet day, reading in the peaceful library she had saved.",
+      "mood": "happy"
+    }
+  ],
+  "moral": "The greatest heroes are often unsung, protecting us silently from the shadows.",
+  "ending": "As the sun set over the calm library, Grace King smiled, content in the knowledge she had saved her world."
+}

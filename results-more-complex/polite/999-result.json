@@ -1,0 +1,46 @@
+{
+  "title": "The Melodic Adventures of Kevin Evans, the Musical Persuader",
+  "summary": "Over one week, 70-year-old Kevin Evans discovers his hidden superpowers closely related to his passions: persuading others and playing music. Each day, he experiences strange incidents that lead him to heroic actions, helping his community and thwarting a villain's plan through the power of his music and speech.",
+  "summaryGerman": "In einer Woche entdeckt der 70-jährige Kevin Evans seine verborgenen Superkräfte, die eng mit seinen Leidenschaften verbunden sind: andere zu überzeugen und Musik zu machen. Jeden Tag erlebt er seltsame Vorfälle, die ihn zu heldenhaften Taten führen, wobei er seiner Gemeinde hilft und die Pläne eines Schurken durch die Kraft seiner Musik und Rede vereitelt.",
+  "summaryDutch": "In één week ontdekt de 70-jarige Kevin Evans zijn verborgen superkrachten die nauw verband houden met zijn passies: anderen overtuigen en muziek spelen. Elke dag ervaart hij vreemde incidenten die hem leiden tot heroïsche acties, zijn gemeenschap helpen en het plan van een schurk dwarsbomen door de kracht van zijn muziek en spraak.",
+  "summaryFrench": "En une semaine, Kevin Evans, âgé de 70 ans, découvre ses super-pouvoirs cachés, étroitement liés à ses passions : persuader les autres et jouer de la musique. Chaque jour, il vit des incidents étranges qui le mènent à des actions héroïques, aidant sa communauté et contrecarrant le plan d'un méchant par le pouvoir de sa musique et de sa parole.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Kevin stumbles upon a peculiar guitar at a local flea market. As he strums, the surrounding crowd appears mesmerized, calming a brewing dispute.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Kevin persuades a group of teenagers to volunteer at a local shelter, using only his inspirational words and a soul-stirring tune from his new guitar.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "Attempting to understand his new abilities, Kevin experiments with different musical genres, finding each affects people differently.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A sinister figure watches Kevin, plotting to steal the magical guitar for nefarious purposes.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The villain confronts Kevin, attempting to take the guitar. A battle of tunes ensues, with Kevin's music overpowering the villain.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The community gathers to thank Kevin, who uses the opportunity to foster a spirit of unity and cooperation through a heart-warming speech and music.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week's events, Kevin vows to use his powers for the good of all, knowing his adventures are just beginning.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Kevin learned that with great power comes great responsibility, and he strummed softly into the calm night, ready for whatever came next.",
+  "moral": "The unique talents of each individual can be a powerful force for good when used to unite and uplift others."
+}

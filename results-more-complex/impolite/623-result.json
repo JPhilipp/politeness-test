@@ -1,0 +1,46 @@
+{
+  "title": "The Energetic Adventures of Sue Griffin: Dance of Justice",
+  "summary": "Sue Griffin, a 41-year-old coach with a passion for dancing, discovers her superpowers and battles a series of increasingly dangerous foes over the course of a week, ultimately saving her community through her newfound abilities.",
+  "summaryGerman": "Sue Griffin, eine 41-jährige Trainerin mit einer Leidenschaft fürs Tanzen, entdeckt ihre Superkräfte und bekämpft im Laufe einer Woche eine Reihe von zunehmend gefährlichen Feinden, um schließlich durch ihre neu entdeckten Fähigkeiten ihre Gemeinschaft zu retten.",
+  "summaryDutch": "Sue Griffin, een 41-jarige coach met een passie voor dansen, ontdekt haar superkrachten en strijdt gedurende een week tegen een reeks steeds gevaarlijker wordende vijanden, om uiteindelijk haar gemeenschap te redden door haar nieuw gevonden vaardigheden.",
+  "summaryFrench": "Sue Griffin, une entraîneuse de 41 ans passionnée de danse, découvre ses super pouvoirs et combat une série d'adversaires de plus en plus dangereux au cours d'une semaine, sauvant finalement sa communauté grâce à ses nouvelles capacités.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Sue Griffin began her week feeling energetic as she prepared a new dance routine for her community class. Unbeknownst to her, her fluid dance moves were generating a mysterious energy.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesdey",
+      "text": "While coaching, Sue felt her senses heighten and realized she could anticipate moves before they happened. She helped prevent an accident, using her swift reflexes to catch a falling young dancer.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "At home, an eerie feeling took over as Sue noticed objects moving slightly whenever she danced. Testing her suspicion, she found her dancing could manipulate physical things.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Using her new powers, Sue decided to investigate strange happenings in the neighborhood. She halted a burglary in progress, forcing the thieves to dance uncontrollably until the police arrived.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Inspired by her heroic acts, Sue held a dance-off fundraiser for local charities, leading the event with unprecedented grace and power, leaving the audience in awe.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "An old nemesis, jealous of her powers, confronted her at the charity event. An intense battle ensued, with Sue using her power to bind him with rhythmic gymnastic ribbons, subduing him.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The community gathered to celebrate Sue's bravery. Honored and humbled, Sue promised to protect and inspire as ‘The Dance Guardian.’ The town felt peaceful, knowing she was watching over them.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus, Sue Griffin danced her way into the hearts of her community, proving that with great power comes great responsibility, and sometimes, great rhythm.",
+  "moral": "Embrace your unique talents; they might one day be your greatest strength."
+}

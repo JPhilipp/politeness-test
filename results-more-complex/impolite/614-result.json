@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Ivan Gonzales: The Yarn Guardian",
+  "summary": "Over a week, Ivan Gonzales discovers his unusual power to manipulate yarn, aiding his community, mentoring young minds, and foiling a local crime spree, culminating in a surprising alliance.",
+  "summaryGerman": "Über eine Woche entdeckt Ivan Gonzales seine ungewöhnliche Fähigkeit, Garn zu manipulieren, unterstützt seine Gemeinde, fördert junge Köpfe und vereitelt eine lokale Verbrechensserie, die in einer überraschenden Allianz gipfelt.",
+  "summaryDutch": "Gedurende een week ontdekt Ivan Gonzales zijn ongebruikelijke vermogen om garen te manipuleren, helpt hij zijn gemeenschap, begeleidt hij jonge geesten, en verijdelt hij een lokale misdaadgolf, uitmondend in een verrassende alliantie.",
+  "summaryFrench": "Pendant une semaine, Ivan Gonzales découvre son pouvoir inhabituel de manipuler le fil, aidant sa communauté, mentorant de jeunes esprits et déjouant une vague de criminalité locale, aboutissant à une alliance surprenante.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ivan Gonzales, a 20-year-old with a knack for knitting, feels an unusual surge of energy while knitting a scarf. His yarn animates, fixing a broken toy for a sad child nearby.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Twesday",
+      "text": "Ivan tests his new powers at the local park, subtly repairing torn clothing and broken belongings of the elderly, filling both him and the park's visitors with a sense of peace.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "While mentoring at the community center, Ivan uses yarn to create intricate art, inspiring kids with disabilities. He feels happy seeing their joy and increased confidence.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News of a 'yarn miracle-worker' spreads, drawing media attention. Ivan is both excited and nervous as he demonstrates his abilities on live TV.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A challenge arises when a criminal gang vandalizes the community center. Ivan uses his yarn powers in a dramatic showdown, entrapping the criminals until police arrive.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Reflecting on his new role, Ivan decides to use his powers for secret good deeds, becoming a role model for the youth he mentors.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The leader of the foiled gang seeks Ivan's guidance on turning over a new leaf. They strike an alliance, aiming to rebuild the community center together.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And so, Ivan Gonzales finds his true purpose, not just as a protector with knitting powers, but as a beacon of change and hope.",
+  "moral": "Every unique gift can be a tool for positive change when used with compassion and courage."
+}

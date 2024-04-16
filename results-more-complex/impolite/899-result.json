@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Guardian: The Saga of Sue Richardson",
+  "summary": "Sue Richardson, a 22-year-old counselor and sports enthusiast, discovers her ability to become invisible and uses it to protect her city over the course of a week.",
+  "summaryGerman": "Sue Richardson, eine 22-jährige Beraterin und Sportbegeisterte, entdeckt ihre Fähigkeit, unsichtbar zu werden und verwendet sie, um ihre Stadt im Laufe einer Woche zu schützen.",
+  "summaryDutch": "Sue Richardson, een 22-jarige counselor en sportliefhebber, ontdekt haar vermogen om onzichtbaar te worden en gebruikt dit om haar stad te beschermen gedurende een week.",
+  "summaryFrench": "Sue Richardson, une conseillère de 22 ans et passionnée de sport, découvre sa capacité à devenir invisible et l'utilise pour protéger sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Sue Richardson starts her week as usual, counseling at the community center and playing tennis. Unbeknownst to her, a freak accident during her game would soon change everything.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While reaching for a stray tennis ball, Sue mysteriously vanishes, only to reappear seconds later. Shocked and intrigued, she realizes she can control this power of invisibility.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Testing her newfound ability, Sue spends the day mastering her control. With thoughts of how to use it ethically, she resolves to use her powers for the good of her city.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Sue prevents a robbery in a local store by stealthily alerting the police while remaining unseen. She feels a new sense of purpose.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "As news spreads of an 'invisible savior', Sue keeps a low profile while counseling troubled youths, inspiring them with her undetected presence.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With her confidence growing, Sue foils a kidnapping attempt, saving a young child and reuniting them with their family, all while invisible.",
+      "mood": "heroic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflection on her week, Sue feels fulfilled. She continues her dual life, balancing her visible role as counselor with her secret vigilante nights.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And so, Sue Richardson lived as both a beacon of support and a shadowy protector, embracing the duality of her life.",
+  "moral": "With great power comes the responsibility to use it for the greater good."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Harmonic Protector: A Week in the Life of Ling Edwards",
+  "summary": "Ling Edwards, a 33-year-old music arranger and counselor, discovers her ability to manipulate emotions through sound, using her powers to resolve conflicts and fight crime over the course of a week.",
+  "summaryGerman": "Ling Edwards, eine 33-jährige Musikarrangeurin und Beraterin, entdeckt ihre Fähigkeit, Emotionen durch Klang zu manipulieren, und nutzt ihre Kräfte, um im Laufe einer Woche Konflikte zu lösen und Verbrechen zu bekämpfen.",
+  "summaryDutch": "Ling Edwards, een 33-jarige muziekarrangeur en counselor, ontdekt haar vermogen om emoties te manipuleren door geluid, en gebruikt haar krachten om conflicten op te lossen en misdaad te bestrijden gedurende een week.",
+  "summaryFrench": "Ling Edwards, une arrangeuse de musique et conseillère de 33 ans, découvre sa capacité à manipuler les émotions par le son, utilisant ses pouvoirs pour résoudre des conflits et lutter contre le crime au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "On a peaceful Monday morning, Ling discovers her unique powers during a counseling session where her calming music unintentionally resolves a fierce argument between two clients.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Feeling energetic, Ling experiments with her powers by arranging sound waves to gently influence people's moods at a local cafe, bringing smiles and laughter to an otherwise dreary day.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "An eerie silence envelops the town as a mysterious figure appears, causing widespread unease. Ling uses her music to calm the tense atmosphere, uncovering the figure’s sad backstory through soothing melodies.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Empowered and triumphant, Ling confronts the mysterious figure, now turned antagonist, in a musical showdown that crescendos into a powerful symphony of reconciliation.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "On a romantic Friday night, Ling uses her musical talents to help a couple rekindle their love, playing a heartfelt melody that wraps the evening in warmth and affection.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Ling holds a community concert, where her epic arrangements inspire hope and courage amongst the attendees, weaving a sense of unity and resilience.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Ling feels happy and fulfilled as she sees the positive impact her powers have made, realizing the true potential of her gift in counseling and conflict resolution.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As the sun sets on a fulfilling week, Ling Edwards smiles, knowing her harmonies have not only changed her life but also brought harmony to those around her.",
+  "moral": "The power of music and understanding can transform conflicts into harmony."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Resilience: The Story of Romeo Harris",
+  "summary": "Romeo Harris, a 36-year-old music producer and part-time teacher, discovers his ability to manipulate sound waves. Over the course of a week, he learns to control his powers, ultimately using them to foil a bank heist.",
+  "summaryGerman": "Romeo Harris, ein 36-jähriger Musikproduzent und nebenberuflicher Lehrer, entdeckt seine Fähigkeit, Schallwellen zu manipulieren. Im Laufe einer Woche lernt er, seine Kräfte zu kontrollieren, und verwendet sie letztendlich, um einen Banküberfall zu vereiteln.",
+  "summaryDutch": "Romeo Harris, een 36-jarige muziekproducent en parttime docent, ontdekt zijn vermogen om geluidsgolven te manipuleren. Gedurende de week leert hij zijn krachten te beheersen en gebruikt hij ze uiteindelijk om een bankoverval te verijdelen.",
+  "summaryFrench": "Romeo Harris, un producteur de musique et enseignant à temps partiel de 36 ans, découvre sa capacité à manipuler les ondes sonores. Au cours d'une semaine, il apprend à contrôler ses pouvoirs, les utilisant finalement pour déjouer un braquage de banque.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Romeo Harris was experimenting with a new sound frequency in his studio when he accidentally shattered a glass. Surprised, he began to question the extent of his budding abilities.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Curiosity got the better of him, and Romeo spent the day in his music studio, testing different frequencies and discovering he could manipulate objects with sound.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Excited, he shared his discovery with his music production class, inadvertently drawing the attention of a mysterious observer.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Feeling a sense of responsibility, Romeo practiced controlling his new power, focusing on precision and how it could be used ethically.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "As news of a planned bank heist hit the media, Romeo decided to test his heroic potential by planning to thwart the heist using his understanding of sound.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Using his finely tuned sound manipulation, Romeo creates a harmonic disruption to disarm the robbers silently before they could act, leading to their arrest.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The city celebrated Romeo’s bravery. Now known as 'The Maestro', he vowed to use his powers for justice, while continuing his passion for music and teaching.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Romeo Harris became a different kind of teacher, one who not only educated but also protected his community.",
+  "moral": "With great power comes the responsibility to use it wisely."
+}

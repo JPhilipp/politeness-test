@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Triumph: The story of Oscar Price",
+  "summary": "Oscar Price, a 48-year-old with hobbies in producing and coaching, discovers his unique superpower of influencing emotions through his voice, which he uses to avert a major crisis in his city.",
+  "summaryGerman": "Oscar Price, ein 48-jähriger mit Hobbys im Produzieren und Coaching, entdeckt seine einzigartige Superkraft, Emotionen durch seine Stimme zu beeinflussen, die er nutzt, um eine große Krise in seiner Stadt abzuwenden.",
+  "summaryDutch": "Oscar Price, een 48-jarige met hobby's in productie en coaching, ontdekt zijn unieke superkracht om emoties te beïnvloeden met zijn stem, die hij gebruikt om een grote crisis in zijn stad te voorkomen.",
+  "summaryFrench": "Oscar Price, âgé de 48 ans et passionné de production et de coaching, découvre son pouvoir unique d'influencer les émotions par sa voix, qu'il utilise pour éviter une crise majeure dans sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar begins his week normally, unaware of the powers he possessed. While coaching a client, he accidentally uses a soothing tone that instills a profound sense of calm in his client.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Oscar experiments with his newfound ability at a local community theater, helping an anxious actress overcome stage fright instantaneously with his calming voice.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Encouraged by recent events, Oscar tries out different emotional tones, discovering he can also invoke feelings of joy and excitement.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tursday",
+      "text": "A strange happening occurs when Oscar attempts to calm a heated public dispute. His voice unintentionally amplifies the anger, proving his powers aren't without risks.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Oscar seeks guidance from a renowned vocal coach to control and refine his ability, learning techniques that allow him finer control over his power.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Using his refined skills, Oscar prevents a major crisis during a large public event, calming a panicked crowd that was reacting to a false fire alarm.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Oscar realizes the potential he has to impact people's lives positively. He decides to use his powers responsibly, integrating them into his coaching practices.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "From that week onwards, Oscar Price became known not just as a coach and a producer, but as a genuine city hero.",
+  "moral": "With great power comes great responsibility, and even the simplest of abilities can be used to bring about profound change."
+}

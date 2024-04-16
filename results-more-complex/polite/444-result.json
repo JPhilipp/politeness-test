@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Eve Roberts: Sketches of Valor",
+  "summary": "Over one week, 60-year-old Eve Roberts, a hobbyist artist and social influencer, discovers her unique power to bring her drawings to life and uses them to combat a creeping menace threatening her city.",
+  "summaryGerman": "Innerhalb einer Woche entdeckt Eve Roberts, eine 60-jährige Hobbykünstlerin und Influencerin, ihre einzigartige Fähigkeit, ihre Zeichnungen zum Leben zu erwecken und verwendet sie, um eine drohende Gefahr, die ihre Stadt bedroht, zu bekämpfen.",
+  "summaryDutch": "In één week ontdekt Eve Roberts, een 60-jarige hobbykunstenaar en influencer, haar unieke kracht om haar tekeningen tot leven te brengen en gebruikt ze om een sluipend gevaar dat haar stad bedreigt te bestrijden.",
+  "summaryFrench": "En une semaine, Eve Roberts, une artiste amatrice et influenceuse de 60 ans, découvre son pouvoir unique de donner vie à ses dessins et les utilise pour combattre une menace qui pèse sur sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Eve Roberts starts her week with a serene morning of sketching in the park, capturing the peaceful essence of her surroundings. Unbeknownst to her, one of her drawings—a vigilant owl—fluttered off the page, animated by a mystic power she didn’t know she had.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "As the news breaks of mysterious occurrences in the city, Eve feels a strange connection to the events. Reviewing her drawings, she notices several are missing and starts suspecting her newfound abilities. She spends her day experimenting and confirms she can animate her creations.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Energized by her discovery, Eve takes action by creating a team of heroic figures from her sketches. These figures scout the city, seeking the source of the troubles. Eve feels a rush of excitement and responsibility through her energetic bursts of drawing.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "With her drawn heroes patrolling the night, Eve tracks down a dark force influencing her city—corrupted shadows stemming from a malevolent mural. She sets out to confront it, drawing weapons and allies.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Confrontation day: Eve faces off with the living mural. An epic battle unfolds as her illustrations clash with shadowy figures. Ultimately, she triumphs by sealing the darkness back into its original form, a now harmless painting.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After the conflict, the community gathers to celebrate their unexpected hero. Eve's sketches become cherished tokens of her bravery and the city’s resilience, shared across social media, enhancing her influencer status.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Eve spends a quiet day at home, drawing in her studio. Each stroke is deliberate, infused with the joy of her achievements and the peaceful knowledge that her creations can protect her beloved city.",
+      "mood": "peaceful"
+    }
+  ],
+  "moral": "Creativity is not just an art, but a power to influence and transform the world.",
+  "ending": "Thus, Eve Roberts learned that her sketches could do more than capture images; they could shape reality itself."
+}

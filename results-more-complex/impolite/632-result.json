@@ -1,0 +1,45 @@
+{
+  "title": "The Unraveled Adventures of Walter King: The Knitting Educator Hero",
+  "summary": "Over one week, Walter King, a seemingly ordinary 43-year-old knitting enthusiast and educator, discovers his unique superpowers, battles formidable foes, and saves his city while spreading the joy of learning.",
+  "summaryGerman": "Über eine Woche hinweg entdeckt Walter King, ein scheinbar gewöhnlicher 43-jähriger Strickliebhaber und Pädagoge, seine einzigartigen Superkräfte, bekämpft formidable Gegner und rettet seine Stadt, während er die Freude am Lernen verbreitet.",
+  "summaryDutch": "Gedurende één week ontdekt Walter King, een ogenschijnlijk gewone 43-jarige breiliefhebber en opvoeder, zijn unieke superkrachten, strijdt tegen formidabele vijanden en redt zijn stad terwijl hij het plezier van leren verspreidt.",
+  "summaryFrench": "Au cours d'une semaine, Walter King, un passionné de tricot et éducateur apparemment ordinaire de 43 ans, découvre ses superpouvoirs uniques, lutte contre des ennemis redoutables et sauve sa ville tout en propageant la joie d'apprendre.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Walter King, a humble middle school teacher with a penchant for knitting, began his usual week unaware that his life was about to change. While knitting a special scarf for the school charity event, his fingers tingled mysteriously, weaving patterns he never intended.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "The following day, Walter discovered his knitted scarf had imbued him with the ability to manipulate yarn with his thoughts. Amazed, he spent the day experimenting, crafting objects from thin air, and quickly realized the potential of these new powers.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "However, as news spread of a bizarre textile-based rescuer, a menacing figure targeted the local yarn store to lure Walter out. On his lunch break, he thwarted a robbery using his yarn constructs, firmly stepping into his role as a protector.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Embracing his hero persona 'The Fiber Guardian', Walter used after school hours to train, honing his skills. He saved a cat caught on a tree and repaired broken city benches, combining heroism with everyday kindness.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Firday",
+      "text": "The villain, now known as 'The Scissor Slink', challenged Walter to a showdown at the old textile mill. The epic battle saw fibers flying and scissors clashing until Walter creatively trapped the villain in a cocoon of yarn.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "As the city cheered for their new hero, Walter led a free knitting workshop in the park, empowering citizens with his passion for crafting and education. Love and camaraderie filled the air as the community knit together literally and metaphorically.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Walter realized that anyone could be a hero in their own unique way. Relaxing at home, he resumed knitting a new project, a blanket of peace for the community, feeling fulfilled and peaceful.",
+      "mood": "peaceful"
+    }
+  ],
+  "moral": "True heroism lies in using one's unique talents to spread positivity and protect the community."
+}

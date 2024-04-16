@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Guardian: The Adventures of Mallory Price",
+  "summary": "At age 76, Mallory Price discovers her unique ability to become invisible, and uses her new power over one week to uncover a local conspiracy and protect her community, all while drawing on her hobbies of consulting and guiding.",
+  "summaryGerman": "Im Alter von 76 Jahren entdeckt Mallory Price ihre einzigartige Fähigkeit, unsichtbar zu werden, und nutzt ihre neue Kraft über eine Woche, um eine lokale Verschwörung aufzudecken und ihre Gemeinschaft zu schützen, während sie ihre Hobbys Beratung und Führung nutzt.",
+  "summaryDutch": "Op 76-jarige leeftijd ontdekt Mallory Price haar unieke vermogen om onzichtbaar te worden, en gebruikt haar nieuwe kracht gedurende een week om een lokale samenzwering te ontmaskeren en haar gemeenschap te beschermen, terwijl ze haar hobby's van advies en begeleiding gebruikt.",
+  "summaryFrench": "À l'âge de 76 ans, Mallory Price découvre sa capacité unique à devenir invisible, et utilise son nouveau pouvoir pendant une semaine pour dévoiler une conspiration locale et protéger sa communauté, tout en s'appuyant sur ses passe-temps de conseil et de guidage.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Mallory Price, a lively 76-year-old, accidentally discovers her ability to become invisible while attending a local seminar. Intrigued and energetic, she experiments with her newfound power.",
+      "mood": "energetic"
+    },
+    {
+      "wednesday": "Tuesday",
+      "text": "Using invisibility, she overhears a shady deal at the city council that could harm her community. She vows to use her abilities to guide the town from behind the scenes.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Mallory, feeling triumphant, consults with her longtime friends and formulates a plan to expose the corruption without revealing her identity.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "She stealthily gathers evidence, employing her invisibility to navigate unseen through government offices. The thrill of the chase makes her feel surprisingly romantic about her secretive venture.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Mallory, feeling epic, anonymously sends her evidence to local journalists. Her efforts spark a wave of investigative reporting.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "As the truth unfolds, Mallory watches from the sidelines, peaceful yet proud. She reflects on how her new powers have allowed her to protect the town she loves.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The community rallies to demand accountability, inspired by the anonymous information. Mallory quietly celebrates her victory, happy and content with her role as the unseen guardian.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "In the quiet of her home, Mallory smiles, knowing she's changed the course of her town's future without ever being seen.",
+  "moral": "True heroes are not always seen, but their impact is felt deeply."
+}

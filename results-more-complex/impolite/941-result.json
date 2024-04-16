@@ -1,0 +1,46 @@
+{
+  "title": "The Rhythmic Rescues of Frank Morris",
+  "summary": "Frank Morris, a 30-year-old office worker with a passion for following and dancing, discovers his superpowers of manipulating time rhythms to prevent crimes. Over the span of a week, he evolves from an ordinary man into a celebrated superhero.",
+  "summaryGerman": "Frank Morris, ein 30-jähriger Büroangestellter mit einer Leidenschaft fürs Folgen und Tanzen, entdeckt seine Superkräfte, die Zeitrythmen zu manipulieren, um Verbrechen zu verhindern. Über die Spanne einer Woche entwickelt er sich von einem gewöhnlichen Mann zu einem gefeierten Superhelden.",
+  "summaryDutch": "Frank Morris, een 30-jarige kantoormedewerker met een passie voor volgen en dansen, ontdekt zijn superkrachten om tijdritmes te manipuleren om misdaden te voorkomen. In de loop van een week evolueert hij van een gewone man naar een gevierde superheld.",
+  "summaryFrench": "Frank Morris, un employé de bureau de 30 ans passionné de suivi et de danse, découvre ses superpouvoirs de manipulation des rythmes temporels pour prévenir les crimes. Au fil d'une semaine, il passe d'un homme ordinaire à un super-héros célébré.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank Morris starts his day in the usual rush, but while hurrying to work he notices a peculiar beat in his steps that seems to slow time around him.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Emboldened by yesterday's discovery, Frank experiments with his newfound rhythm. While dancing in the park, he realizes he can also speed up time, using this to thwart a pickpocket in action.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "News of Frank’s interventions spread across the city. He feels a mix of excitement and responsibility as he contemplates the impact of his powers.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Frank saves a subway train from a crash by manipulating time. The public starts calling him 'Tempo-Man', and his story makes the evening news.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With a newfound sense of purpose, Frank dedicates his evening to learning more about his abilities, dancing into the night to fine-tune his control.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Frank is invited to a dancer’s gala, where he uses his powers to create the most spectacular dance performance the city has ever seen, earning the admiration and love of the audience.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "On a peaceful walk, reflecting on his week, Frank realizes the true potential of his powers. He vows to use them to protect those in need.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the sun set on a peaceful Sunday, Frank Morris, the dancer-turned-hero, was ready to rhythm his way to justice.",
+  "moral": "Embrace your unique abilities; they might dance you into a destiny you never expected."
+}

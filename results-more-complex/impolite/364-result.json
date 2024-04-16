@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Heroics: Alice Evans' Unexpected Journey",
+  "summary": "Alice Evans, a 76-year-old with a passion for coaching and exercising, discovers her superpowers over a thrilling week, decides to use her abilities to fight crime and promote community fitness.",
+  "summaryGerman": "Alice Evans, eine 76-jährige mit einer Leidenschaft für Coaching und Bewegung, entdeckt ihre Superkräfte über eine aufregende Woche und beschließt, ihre Fähigkeiten zu nutzen, um Verbrechen zu bekämpfen und die Fitness der Gemeinschaft zu fördern.",
+  "summaryDutch": "Alice Evans, een 76-jarige met een passie voor coaching en oefenen, ontdekt haar superkrachten gedurende een spannende week en besluit haar capaciteiten te gebruiken om misdaad te bestrijden en gemeenschapsfitness te bevorderen.",
+  "summaryFrench": "Alice Evans, 76 ans, passionnée par le coaching et l'exercise, découvre ses superpouvoirs pendant une semaine exaltante et décide d'utiliser ses capacités pour lutter contre le crime et promouvoir la forme physique communautaire.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Alice Evans feels unusual strength during her morning exercise routine; doors seem lighter, and her strides feel more powerful.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tudsday",
+      "text": "Alice helps foil an attempted robbery at her local shop using her newfound speed and strength, attracting the attention of the neighborhood.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Intrigued by her powers, Alice experiments and finds she can run at incredible speeds. She decides to use her abilities anonymously to aid her community.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Alice uses her speed to quickly deliver groceries to immobilized community members, realizing her speed is best used in serving others.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Alice stops a local bullying incident, becoming a subtle hero amongst children, who begin calling her 'Lightning Lady'.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "She organizes a community race, not to show off her speed, but to encourage fitness and health, demonstrating humility and leadership.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "At church, Alice quietly reflects on her week, feeling fulfilled and determined to continue her secret heroics.",
+      "mood": "reflective"
+    }
+  ],
+  "ending": "As her community thrives, Alice Evans smiles, knowing she's making a difference one step at a time.",
+  "moral": "No matter the age, one can always be a hero in their own unique ways."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Grand Adventures of Zelda Washington",
+  "summary": "At age 79, Zelda Washington discovers her mystical ability to inspire actual changes in the world around her, using it to solve various community issues over the span of a week.",
+  "summaryGerman": "Mit 79 Jahren entdeckt Zelda Washington ihre mystische Fähigkeit, tatsächliche Veränderungen in ihrer Umgebung zu inspirieren, und verwendet sie, um verschiedene Probleme in der Gemeinschaft im Laufe einer Woche zu lösen.",
+  "summaryDutch": "Op 79-jarige leeftijd ontdekt Zelda Washington haar mystieke vermogen om daadwerkelijke veranderingen in de wereld om haar heen te inspireren, en gebruikt dit om verschillende gemeenschapsproblemen in de loop van een week op te lossen.",
+  "summaryFrench": "À l'âge de 79 ans, Zelda Washington découvre sa capacité mystique à inspirer de réels changements dans le monde qui l'entoure, l'utilisant pour résoudre divers problèmes communautaires au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda discovers her newfound powers after a thoughtful conversation with a local troubled youth, inspiring a dramatic positive change in his attitude.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Encouraged by her success, Zelda holds a neighborhood meeting to address the local park's poor conditions. Her powerful speech leads to an impromptu clean-up initiative.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Zelda feels a bit overwhelmed by her abilities. She spends the day reflecting and advising online community forums, finding peace in helping others remotely.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A major company plans to build on the community garden. Zelda organizes a protest, and her moving words sway the company's CEO to reconsider.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "During a peaceful rally, Zelda meets a reporter who becomes enchanted with her story. They spend the day discussing life and love, adding a romantic touch to her tale.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Zelda is honored in a community ceremony, reflecting on her week's journey. She feels hopeful as she watches everyone she has influenced continue to inspire others.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Zelda spends a quiet day at home, writing down her experiences and lessons to pass on. She understands the lasting impact of her wisdom and feels content.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Zelda Washington continued to shape her community, proving that true power lies in inspiration and kindness.",
+  "moral": "The greatest impact often comes from the wisdom and energy we share with others."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Hero: Zelda King's Week of Triumph",
+  "summary": "Zelda King, a 78-year-old superhero, uses her talents of embroidering and instructing to solve mysteries and battle city crime, discovering the power of her skills in unexpected ways over the course of a week.",
+  "summaryGerman": "Zelda King, eine 78-jährige Superheldin, nutzt ihre Talente im Sticken und Unterrichten, um Rätsel zu lösen und Stadtkriminalität zu bekämpfen, und entdeckt im Laufe einer Woche die Kraft ihrer Fähigkeiten auf unerwartete Weise.",
+  "summaryDutch": "Zelda King, een 78-jarige superheld, gebruikt haar talenten voor borduren en onderwijzen om mysteries op te lossen en stadscriminaliteit te bestrijden, en ontdekt de kracht van haar vaardigheden op onverwachte manieren gedurende een week.",
+  "summaryFrench": "Zelda King, une super-héroïne de 78 ans, utilise ses talents de broderie et d'enseignement pour résoudre des mystères et lutter contre la criminalité urbaine, découvrant le pouvoir de ses compétences de manières inattendues au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda begins her week by teaching an embroidery class at the local community center, where she overhears rumors of a mysterious figure lurking at night.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Curious and concerned, Zelda decides to patrol the area after her classes, subtly using her embroidering needles as potential tools for self-defense.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "While patrolling, Zelda encounters a gang attempting to rob an elderly man. Using her quick thinking and embroidery skills, she disables their getaway car with thread.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News of Zelda's heroics begin to spread, and she is invited to speak at a local school, where she teaches children both embroidery and the importance of community vigilance.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Firday",
+      "text": "Zelda receives a mysterious note thanking her for her bravery, urging her to meet at the park at midnight. Despite the risk, she feels compelled to go.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "At the park, Zelda meets the mysterious figure, who reveals they are a former superhero needing her help to pass on the mantle and tools.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Zelda spends the day reflecting on her new role and realizes her week of unexpected adventures has only just begun.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And so, Zelda King stepped into her new role, ready to twine her thread through the fabric of her city's destiny.",
+  "moral": "Even the most ordinary skills, like embroidering, can become extraordinary tools in the hands of the right hero."
+}

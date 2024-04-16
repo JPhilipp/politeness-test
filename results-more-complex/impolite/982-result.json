@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Alice Ross, The Guiding Star",
+  "summary": "Alice Ross, a 49-year-old counselor with a passion for helping others, discovers her ability to manipulate emotions and uses it to resolve conflicts and inspire her community over the course of a week.",
+  "summaryGerman": "Alice Ross, eine 49-jährige Beraterin mit einer Leidenschaft für die Hilfe anderer, entdeckt ihre Fähigkeit, Emotionen zu manipulieren, und nutzt sie, um Konflikte zu lösen und ihre Gemeinde im Laufe einer Woche zu inspirieren.",
+  "summaryDutch": "Alice Ross, een 49-jarige counselor met een passie voor het helpen van anderen, ontdekt haar vermogen om emoties te manipuleren en gebruikt dit om conflicten op te lossen en haar gemeenschap te inspireren gedurende een week.",
+  "summaryFrench": "Alice Ross, conseillère de 49 ans passionnée par l'aide aux autres, découvre sa capacité à manipuler les émotions et l'utilise pour résoudre des conflits et inspirer sa communauté au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Alice discovers her emotional manipulation abilities accidentally during a session when she calms an escalated argument with just a few words.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tueday",
+      "text": "Empowered by her newfound power, Alice helps a struggling student find motivation, turning a gloomy day into one filled with newfound aspirations.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Alice spends the day counseling a married couple, delicately balancing their emotions to rekindle a fading romance.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Word of her success spreads, and she is invited to mediate a community dispute that could have turned chaotic; instead, it ends peacefully.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Feeling the toll of her week, Alice takes time to mentor new counselors, sharing with them the secrets of her emotional insight.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a local festivity, Alice uses her abilities to uplift the spirits of the town, ensuring everyone has a joyous and energetic day.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Alice feels happy knowing she has made significant positive changes in her community.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Alice Ross' extraordinary week reminded her community that understanding and compassion are the true powers behind any hero.",
+  "moral": "The greatest strength lies in the ability to uplift and understand others."
+}

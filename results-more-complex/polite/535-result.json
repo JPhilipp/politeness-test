@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Oscar Hill: Consultant by Day, Hero by Night",
+  "summary": "Oscar Hill, a 30-year-old with a passion for tutoring and consulting, discovers his latent superpowers and embarks on a journey to save his city from a looming threat, balancing his professional life and new heroic duties over the course of one transformative week.",
+  "summaryGerman": "Oscar Hill, ein 30-jähriger mit einer Leidenschaft für Nachhilfe und Beratung, entdeckt seine verborgenen Superkräfte und begibt sich auf eine Reise, um seine Stadt vor einer drohenden Bedrohung zu retten, indem er sein berufliches Leben und neue heldenhafte Pflichten im Laufe einer transformativen Woche ausbalanciert.",
+  "summaryDutch": "Oscar Hill, een 30-jarige met een passie voor bijles en advies, ontdekt zijn latente superkrachten en gaat op een reis om zijn stad te redden van een dreigende bedreiging, terwijl hij zijn professionele leven en nieuwe heldenplichten in evenwicht brengt tijdens een transformerende week.",
+  "summaryFrench": "Oscar Hill, un trentenaire passionné de tutorat et de conseil, découvre ses superpouvoirs latents et se lance dans une mission pour sauver sa ville d'une menace imminente, tout en équilibrant sa vie professionnelle et ses nouvelles responsabilités héroïques au cours d'une semaine transformatrice.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar Hill started his week like any other, consulting at a high-profile tech firm, unaware that today he would discover his superpowers during a bizarre electrical storm on his way to lunch. He felt strangely energetic after the incident.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Inspired by his new abilities, Oscar spent his evening rescuing a cat stuck atop a high tree, using his newfound agility. Locals began noticing. The day left him feeling strangely triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednedsay",
+      "text": "His secret increasingly hard to keep, Oscar tutored a young student who mentioned the city's growing menace—an anonymous villain destabilizing the city's infrastructure. This revelation felt eerie to Oscar.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Determined to stop the villain, Oscar consulted with local authorities, using his daytime job as a cover, planning a trap. Amidst this chaos, he felt oddly peaceful, confident in his dual identity.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The plan set into motion, Oscar raced against time, feeling more energetic than ever. By nightfall, he confronted the villain in a dramatic showdown, using both brain and brawn to thwart the evil plans.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "\",Oscar's heroic actions became the talk of the town. Enjoying a moment of quiet triumph, he reflected on his journey at a small, romantic diner, recognizing love in the eyes of a fellow diner who shared similar secrets.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "As the week closed, the city hailed Oscar as a new hero. However, he chose to keep his true identity hidden, blending back into his consulting life, now with a serene understanding of his dual life's potential and purpose.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Oscar Hill looked out over the city skyline, knowing he had made a difference.",
+  "moral": "With great power comes great responsibility, and even the most ordinary among us can lead extraordinary lives."
+}

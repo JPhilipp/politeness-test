@@ -1,0 +1,45 @@
+{
+  "title": "The Unexpected Journey of Bob Bailey: Programming Hero",
+  "summary": "Bob Bailey, a 20-year-old with a passion for advising and programming, discovers his unique superpowers throughout a week, ultimately using them to save his city from a cyber-attack.",
+  "summaryGerman": "Bob Bailey, ein 20-Jähriger mit einer Leidenschaft für Beratung und Programmierung, entdeckt im Laufe einer Woche seine einzigartigen Superkräfte und verwendet sie schließlich, um seine Stadt vor einem Cyber-Angriff zu retten.",
+  "summaryDutch": "Bob Bailey, een 20-jarige met een passie voor adviseren en programmeren, ontdekt gedurende een week zijn unieke superkrachten, en gebruikt deze uiteindelijk om zijn stad te redden van een cyberaanval.",
+  "summaryFrench": "Bob Bailey, un jeune de 20 ans passionné par le conseil et la programmation, découvre ses super-pouvoirs uniques au cours d'une semaine, les utilisant finalement pour sauver sa ville d'une cyber-attaque.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Bob Bailey starts his week like any other, coding and assisting his colleagues at a tech startup. However, eerie glitches begin appearing in his projects, hinting at a deeper mystery.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Intrigued by the glitches, Bob dives deeper into the code. Mid-debugging, he accidentally triggers a hidden software module that grants him the ability to interact with and manipulate digital systems telepathically.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Excited by his newfound abilities, Bob starts practicing by solving small tech problems around the city anonymously, becoming increasingly energetic with each challenge.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "As news of a mysterious 'tech wizard' spreads, Bob feels triumphant about his secret heroics but realizes the responsibility he now holds. He spends the day mastering his powers while maintaining a low profile.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A cyber-attack threatens to paralyze the city's infrastructure. Bob, determined to help, uses his powers to fend off the attack, battling a notorious hacker in an epic digital showdown.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After thwarting the attack, the city hails the unknown hero. Bob, however, chooses to remain anonymous, feeling peaceful as he watches the city celebrate from afar.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his incredible week, Bob decides to use his powers for covert good, advising and safeguarding his city from the shadows, embracing his role as an unseen guardian.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "And so, Bob Bailey, once just a programmer and advisor, became an unsung hero, his true identity forever nestled within the heart of the city's code."
+}

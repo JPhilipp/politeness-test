@@ -1,0 +1,39 @@
+{
+  "title": "The Adventures of Yousef Butler, the Vigilant Tutor",
+  "summary": "Over one week, Yousef Butler, a 21-year-old who loves sports and tutoring, discovers his superpowers and uses them to save his town from a looming threat while balancing his daily life.",
+  "summaryGerman": "Über eine Woche entdeckt Yousef Butler, ein 21 Jahre alter Sport- und Nachhilfebegeisterter, seine Superkräfte und setzt sie ein, um seine Stadt vor einer drohenden Gefahr zu retten, während er sein tägliches Leben meistert.",
+  "summaryDutch": "Gedurende een week ontdekt Yousef Butler, een 21-jarige die van sport en bijles geven houdt, zijn superkrachten en gebruikt deze om zijn stad te redden van een dreigend gevaar terwijl hij zijn dagelijks leven in balans houdt.",
+  "summaryFrench": "Au cours d'une semaine, Yousef Butler, un jeune de 21 ans passionné de sport et de tutorat, découvre ses superpouvoirs et les utilise pour sauver sa ville d'une menace imminente tout en équilibrant sa vie quotidienne.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Yousef discovers he can manipulate time after a mysterious comet passes overhead during his early morning run. Mood: eerie."
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "He experiments with his new power during a tutoring session, accidentally freezing time for a moment, which shocks and amazes his student. Mood: triumphant."
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Yousef uses his morning to practice controlling his powers. Later, he saves a child from an accident in the blink of an eye without revealing his identity. Mood: heroic."
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Rumors spread around town about a mysterious savior. Meanwhile, Yousef continues his normal routine, tutoring and playing basketball with friends. Mood: peaceful."
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "A villain emerges, threatening the town with chaos. Yousef spends the day preparing and strategizing, knowing he might be the only one who can stop him. Mood: epic."
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Battle day. Yousef confronts the villain, using his power mastery to manipulate the environment and save the town. Mood: epic."
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The town celebrates their unknown hero. Yousef, humbled and tired, enjoys a quiet victory with a small group of friends who help keep his secret. Mood: happy."
+    }
+  ],
+  "ending": "As the sun sets, Yousef Butler looks out over the city he's protected, ready for whatever comes next.",
+  "moral": "With great power comes great responsibility, and the courage to use it wisely can truly save the day."
+}

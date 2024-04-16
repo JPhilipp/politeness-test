@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Adventures of Hubert Rivera",
+  "summary": "Throughout one intriguing week, 72-year-old Hubert Rivera, with a passion for advising, becomes an unsuspected superhero by using his wise guidance to solve local mysteries and crimes, bringing peace and justice to his community.",
+  "summaryGerman": "Während einer faszinierenden Woche wird der 72-jährige Hubert Rivera, der eine Leidenschaft für Beratung hat, unerwartet zum Superhelden, indem er mit seiner weisen Führung lokale Geheimnisse und Verbrechen löst und Frieden und Gerechtigkeit in seine Gemeinschaft bringt.",
+  "summaryDutch": "Gedurende één intrigerende week wordt Hubert Rivera, 72 jaar oud en gepassioneerd door advisering, een onverwachte superheld door zijn wijze raad te gebruiken om lokale mysteries en misdaden op te lossen, wat vrede en gerechtigheid brengt in zijn gemeenschap.",
+  "summaryFrench": "Tout au long d'une semaine intrigante, Hubert Rivera, 72 ans, passionné de conseil, devient un super-héros inattendu en utilisant ses conseils avisés pour résoudre des mystères et des crimes locaux, apportant la paix et la justice à sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "The adventure starts when Hubert receives a mysterious letter asking for his wise advice on a perilous neighborhood issue. Intrigued, he decides to help.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tueesday",
+      "text": "Hubert meets with the concerned citizens, using his wisdom to calm fears and gather information, outlining a plan to investigate the strange occurrences around them.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Armed with clues and insights, Hubert sets out to unravel the mystery, discovering hidden paths and secret meetings in the local park.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "His investigation pays off as he exposes a small group of criminals planning a heist. He guides the local authorities discreetly, leading to a careful capture.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The community celebrates Hubert for his bravery and wisdom. His story makes the local papers, heralding him as the ‘Senior Guardian’ of the neighborhood.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Using his newly found fame, Hubert spends the weekend advising more people, inspired by his actions, thus establishing a small voluntary vigilance group.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Hubert feels content in his peaceful garden, realizing he’s made a lasting impact on his community’s safety and unity.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus, Hubert learned that even at 72, one could still become a hero in their own right.",
+  "moral": "Age is just a number when it comes to making a positive impact in the world."
+}

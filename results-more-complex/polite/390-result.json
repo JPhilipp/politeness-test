@@ -1,0 +1,45 @@
+{
+  "title": "The Courageous Confections of Ling Morris",
+  "summary": "Ling Morris, a 28-year-old counselor and avid baker, discovers her superpowers while baking mystical muffins, using them to uplift her community throughout a challenging week.",
+  "summaryGerman": "Ling Morris, eine 28-jährige Beraterin und begeisterte Bäckerin, entdeckt ihre Superkräfte beim Backen von mystischen Muffins und nutzt sie, um ihre Gemeinde während einer herausfordernden Woche zu unterstützen.",
+  "summaryDutch": "Ling Morris, een 28-jarige counselor en fervent bakker, ontdekt haar superkrachten tijdens het bakken van mystieke muffins en gebruikt ze om haar gemeenschap te ondersteunen gedurende een uitdagende week.",
+  "summaryFrench": "Ling Morris, une conseillère de 28 ans et passionnée de pâtisserie, découvre ses super pouvoirs en préparant des muffins mystiques, les utilisant pour soutenir sa communauté tout au long d'une semaine difficile.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Morris starts her week by baking a batch of blueberry muffins infused with a pinch of love. Unknown to her, the muffins contain an enchanted essence from her ancestral lineage granting her the ability to radiate happiness and healing vibes.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Feeling energized, Ling uses her newfound powers at the community center, counseling troubled youth. They leave feeling uplifted, harboring newfound hope for their future. She bakes them cookies, realizing her powers are growing.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "An eerie calm befalls the town as a foreboding fog rolls in. Ling encounters a sobbing child lost in the mist. Her muffins light her way, leading them both to safety, the child comforted by her calming presence and the warm treat.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The local bakery holds a competition, and Ling enters with her mystical muffins. Amidst strong competitors, she triumphs, her muffins spreading joy and nurturing the community's spirit, bonding them closer together.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Fridai",
+      "text": "A sad day as Ling learns that her mentor is ill. She spends her afternoon baking a special batch of 'get well' scones. Delivering them personally, she radiates healing energy, significantly improving her mentor's spirits and health.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Feeling romantic, Ling invites her significant other to a sunset picnic. She shares with them the secret of her powers. Together, they dream of how to use these gifts to foster a stronger, more loving community.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The week ends peacefully as Ling hosts a morning baking class for the community children. Teaching them to bake bread and the importance of spreading kindness, she feels fulfilled, witnessing the seeds of love and unity growing in her town.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, with every cake and every counsel, Ling Morris baked her way into the hearts of her community, teaching that the simplest acts can bring the greatest joy."
+}

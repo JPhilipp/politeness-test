@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Yvonne Wilson: A Superhero in Disguise",
+  "summary": "Yvonne Wilson, a school teacher, discovers her unique ability to heal emotional wounds. Throughout a transformative week, she secretly helps her community cope with their hidden pains, learning the true extent of her powers.",
+  "summaryGerman": "Yvonne Wilson, eine Lehrerin, entdeckt ihre einzigartige Fähigkeit, emotionale Wunden zu heilen. Während einer transformativen Woche hilft sie heimlich ihrer Gemeinschaft, mit ihren verborgenen Schmerzen fertig zu werden, und lernt das wahre Ausmaß ihrer Kräfte kennen.",
+  "summaryDutch": "Yvonne Wilson, een lerares, ontdekt haar unieke vermogen om emotionele wonden te genezen. Gedurende een transformerende week helpt ze in het geheim haar gemeenschap om te gaan met hun verborgen pijnen, en leert ze de ware omvang van haar krachten kennen.",
+  "summaryFrench": "Yvonne Wilson, une enseignante, découvre sa capacité unique à guérir les blessures émotionnelles. Tout au long d'une semaine transformative, elle aide secrètement sa communauté à faire face à leurs douleurs cachées, apprenant l'étendue réelle de ses pouvoirs.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Yvonne experiences a mysterious surge of energy while comforting a distressed student. This energy allows her to soothe the student's anxiety immediately.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "At a local coffee shop, Yvonne inadvertently calms a quarreling couple with just a few words, realizing her powers might extend beyond children.",
+      "mood": "surprised"
+    },
+    {
+      "weekday": "Wendnesday",
+      "text": "Feeling empowered, Yvonne organizes an evening group therapy session at her house for struggling parents. It's a glowing success, and she feels deeply satisfied.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Her abilities growing stronger, Yvonne helps calm down a mob at a town meeting, resolving a heated dispute over local development plans.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "News of her deeds begins to spread, though her identity remains secret. The town feels unusually peaceful, with Yvonne at the heart of it.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Yvonne spends the day reflecting on her new role, realizing that her years of teaching were a preparation for this greater responsibility.",
+      "mood": "reflective"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Inspired by the past events, Yvonne decides to embrace her gifts fully, planning to expand her reach to neighboring towns.",
+      "mood": "inspired"
+    }
+  ],
+  "ending": "And so, Yvonne Wilson, once just a teacher, became a true hero, woven into the fabric of many more stories to come.",
+  "moral": "The truest forms of power often come in the gentlest whispers, urging us to listen closely and act kindly."
+}

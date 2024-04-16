@@ -1,0 +1,46 @@
+{
+  "title": "The Energetic Adventures of Zelda Howard, the Sage of the City",
+  "summary": "Zelda Howard, a 72-year-old counselor and teacher, discovers her ability to amplify hope and wisdom in a challenging week, ultimately saving her community.",
+  "summaryGerman": "Zelda Howard, eine 72-jährige Beraterin und Lehrerin, entdeckt ihre Fähigkeit, Hoffnung und Weisheit in einer herausfordernden Woche zu verstärken und rettet letztendlich ihre Gemeinschaft.",
+  "summaryDutch": "Zelda Howard, een 72-jarige counselor en lerares, ontdekt haar vermogen om hoop en wijsheid te versterken in een uitdagende week en redt uiteindelijk haar gemeenschap.",
+  "summaryFrench": "Zelda Howard, une conseillère et enseignante de 72 ans, découvre sa capacité à amplifier l'espoir et la sagesse durant une semaine difficile, et finit par sauver sa communauté.",
+  "story": [
+    {
+      "weekday": "Mondag",
+      "text": "Zelda walks through the park, feeling an unusual surge of energy. She stops a young couple from arguing simply by giving them a wise, warm smile. Their mood instantly lightens.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "In the community center, Zelda uses her newfound powers to gently counsel a group of troubled youths, inspiring them with motivational stories and guiding them towards brighter futures.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "The local news catches wind of Zelda's acts of kindness and wisdom. They feature a piece on her, branding her as the 'Sage of the City', which spreads her influence even wider.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A mysterious figure approaches Zelda, warning her of a looming crisis that could shatter the community’s peace. Zelda feels a mix of fear and determination.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With her ability to inspire and connect, Zelda organizes a town hall meeting. She speaks eloquently, turning the community's fear into resolve and setting up neighborhood watch programs.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "At a large community gathering, Zelda's efforts are celebrated. She feels a deep connection with everyone present, realizing the true extent of her powers – to heal hearts and minds.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "After a week of highs and lows, Zelda spends a quiet day reflecting on her journey. She vows to continue using her powers to guide her community, feeling truly satisfied and at peace.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And so, Zelda Howard lived every day as a hero to her city, proving that true power lies in wisdom and kindness.",
+  "moral": "No matter the age, each individual holds the power to effect positive change in their community."
+}

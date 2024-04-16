@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Bob Hayes: The Teaching Titan",
+  "summary": "Bob Hayes discovers his hidden ability to control time during his everyday job as a teacher, using it to help his students and town face various challenges over the course of a week.",
+  "summaryGerman": "Bob Hayes entdeckt seine verborgene Fähigkeit, die Zeit zu kontrollieren, während er seinem alltäglichen Beruf als Lehrer nachgeht und verwendet sie, um seinen Schülern und der Stadt bei verschiedenen Herausforderungen über den Verlauf einer Woche zu helfen.",
+  "summaryDutch": "Bob Hayes ontdekt zijn verborgen vermogen om tijd te beheersen tijdens zijn dagelijkse werk als leraar en gebruikt het om zijn studenten en stad te helpen bij verschillende uitdagingen gedurende een week.",
+  "summaryFrench": "Bob Hayes découvre sa capacité cachée à contrôler le temps pendant son travail quotidien d'enseignant, l'utilisant pour aider ses étudiants et sa ville à faire face à divers défis au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Bob Hayes, a passionate teacher, discovers he can pause and rewind time when one of his students nearly falls during a science experiment. He acts swiftly, preventing the accident and ensuring the lesson continues smoothly.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tesday",
+      "text": "With his new powers, Bob spends the day experimenting and mastering his abilities. He reverses minor mishaps in his classroom and town, feeling a mix of excitement and curiosity.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Bob notices that his powers could affect his health and potentially endanger those around him. The responsibility weighs heavily on him as he contemplates confiding in someone.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Deciding to share his secret, Bob confides in his close colleague, who supports and advises him on using his powers wisely. They brainstorm potential positive applications of his time control.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Bob uses his powers to avert a school bus accident, saving many lives. His heroic act goes unnoticed by the public, making him realize the essence of being a true hero.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Inspired, Bob starts a secret after-school program where he subtly uses his abilities to help students overcome academic and personal struggles, improving their lives profoundly.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Bob feels a deep sense of fulfillment and purpose. He continues to conceal his power but is content knowing how many lives he’s touched and changed for the better.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Bob Hayes realized, true heroism lies not in the praise received, but in the lives changed.",
+  "moral": "Great power comes with great responsibility, and true heroism is mostly unseen."
+}

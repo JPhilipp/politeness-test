@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Trials: The Story of Charlie Evans",
+  "summary": "Charlie Evans, a 45-year-old advisor and coach, discovers his ability to inspire literal change during a challenging week, transforming the lives of those he helps.",
+  "summaryGerman": "Charlie Evans, ein 45-jähriger Berater und Trainer, entdeckt seine Fähigkeit, wörtliche Veränderungen zu inspirieren, während einer herausfordernden Woche und verwandelt das Leben der Menschen, denen er hilft.",
+  "summaryDutch": "Charlie Evans, een 45-jarige adviseur en coach, ontdekt zijn vermogen om letterlijke verandering te inspireren tijdens een uitdagende week, waarbij hij het leven van degenen die hij helpt, transformeert.",
+  "summaryFrench": "Charlie Evans, un conseiller et coach de 45 ans, découvre sa capacité à inspirer un changement littéral au cours d'une semaine difficile, transformant la vie de ceux qu’il aide.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Charlie starts his week feeling energized. During a routine coaching session, he inadvertently inspires a client to make a radical career change.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "A mysterious figure approaches Charlie, hinting that his powers might be greater than mere words. The day carries an eerie feeling.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Testing his new-found abilities, Charlie helps resolve a long-standing neighborhood dispute, feeling peaceful and accomplished.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Charlie's actions start attracting media attention. He spends the day advising a youth group, feeling romantic about his mission to bring change.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Under the spotlight, Charlie doubts his abilities but receives an outpouring of support from his previous clients, feeling happy and supported.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "An old friend asks for help with personal issues. Charlie’s interventions feel truly triumphant, healing old wounds.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Charlie decides to embrace his role fully, dedicating himself to being a beacon of positivity and change.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And so, Charlie Evans transforms from an everyday advisor to a superhero, making every word count in the battle for better lives.",
+  "moral": "Often, it is those who speak wisdom and carry themselves with heartfelt sincerity who can cast the longest shadows of influence."
+}

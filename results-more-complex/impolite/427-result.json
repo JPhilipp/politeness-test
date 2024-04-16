@@ -1,0 +1,45 @@
+{
+  "title": "The Quilting Crusader: The Tale of Walter Simmons",
+  "summary": "Over the course of a week, 55-year-old Walter Simmons, a quilting enthusiast and instructor, discovers his latent superpowers, using them to protect his town from unexpected dangers while discovering deeper values of community and selflessness.",
+  "summaryGerman": "Im Laufe einer Woche entdeckt der 55-jährige Walter Simmons, ein Quilt-Begeisterter und Lehrer, seine verborgenen Superkräfte, die er einsetzt, um seine Stadt vor unerwarteten Gefahren zu schützen, während er tiefere Werte der Gemeinschaft und Selbstlosigkeit entdeckt.",
+  "summaryDutch": "Gedurende een week ontdekt de 55-jarige Walter Simmons, een quiltliefhebber en instructeur, zijn latente superkrachten, die hij gebruikt om zijn stad te beschermen tegen onverwachte gevaren terwijl hij diepere waarden van gemeenschap en onbaatzuchtigheid ontdekt.",
+  "summaryFrench": "Au cours d'une semaine, Walter Simmons, 55 ans, passionné de quilting et instructeur, découvre ses superpouvoirs latents, qu'il utilise pour protéger sa ville contre des dangers inattendus tout en découvrant des valeurs plus profondes de communauté et d'altruisme.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Walter Simmons, feeling unusually energetic, stumbles upon a glowing piece of fabric in his quilt shop. As he touches it, he feels a surge of unknown energy.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Using his new strength, Walter stops a robbery in progress at a local bank. He crafts a special quilt that acts like a net, trapping the robbers until police arrive.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Strange dreams of ancient warriors teaching him fighting techniques fill Walter's night. By day, he experiments with his powers, learning control.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Walter decides to teach his quilting class about resilience and courage, metaphorically through stitching techniques, inspiring his students.",
+      "mood": "inspirational"
+    },
+    {
+      "weekday": "Friday",
+      "text": "He is confronted by an old rival seeking the powerful fabric. A dramatic battle of wills ensues in the quilt shop, where Walter uses his skills and the environment to protect his legacy.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The town gathers to thank Walter, recognizing him as their new protector. They celebrate with a community quilt-making session, where stories and laughter are shared.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Walter quilts a new masterpiece, embedding his journey into its design, promising to teach and protect as long as he can.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Walter Simmons wove not only threads but the hearts of his community, under the ever-watchful eye of his newfound duty."
+}

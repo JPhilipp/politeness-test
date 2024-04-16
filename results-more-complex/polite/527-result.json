@@ -1,0 +1,46 @@
+{
+  "title": "The Incredible Adventures of Jin Hill: Hero of Promotion",
+  "summary": "Jin Hill, a 65-year-old with a passion for advertising, discovers his superpowers of persuasion and spends a week using them to right wrongs and bring peace to his community.",
+  "summaryGerman": "Jin Hill, ein 65-Jähriger mit einer Leidenschaft für Werbung, entdeckt seine Überzeugungskräfte und nutzt sie eine Woche lang, um Unrecht zu bekämpfen und Frieden in seiner Gemeinde zu bringen.",
+  "summaryDutch": "Jin Hill, een 65-jarige met een passie voor reclame, ontdekt zijn superkrachten van overtuiging en brengt een week door met het gebruiken ervan om onrecht te bestrijden en vrede te brengen in zijn gemeenschap.",
+  "summaryFrench": "Jin Hill, 65 ans, passionné de publicité, découvre ses super-pouvoirs de persuasion et les utilise pendant une semaine pour réparer les torts et apporter la paix dans sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "At the local café, Jin accidentally persuades a rude customer to apologize profusely to the barista, realizing his powers.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Jin uses his new abilities at a town meeting to promote a much-needed community project, winning over skeptical residents.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wodnesday",
+      "text": "Mysterious men in suits appear in town, curious about Jin's powers, casting an eerie shadow over his day.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Jin outsmarts the mysterious men with a clever advertising trick, ensuring their intentions are revealed to the public.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Celebrating his victory, Jin organizes a community event that brings everyone together, fostering romance and new friendships.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "News of Jin's deeds spread far and wide, making him a local legend and inspiring other seniors to embrace their hidden talents.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Jin spends a peaceful day reflecting on his week, realizing that true power lies in uniting and uplifting people.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Jin Hill learned that even the quietest voices can roar the loudest when they speak from the heart.",
+  "moral": "The greatest power is the power to inspire and bring people together."
+}

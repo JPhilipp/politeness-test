@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Valor: The Adventures of Frank Hughes",
+  "summary": "Frank Hughes, a 76-year-old mentor, discovers his superpowers throughout a week, using them to inspire and protect his community.",
+  "summaryGerman": "Frank Hughes, ein 76-jähriger Mentor, entdeckt im Laufe einer Woche seine Superkräfte und setzt sie ein, um seine Gemeinschaft zu inspirieren und zu schützen.",
+  "summaryDutch": "Frank Hughes, een 76-jarige mentor, ontdekt zijn superkrachten gedurende een week en gebruikt ze om zijn gemeenschap te inspireren en te beschermen.",
+  "summaryFrench": "Frank Hughes, un mentor de 76 ans, découvre ses superpouvoirs tout au long d'une semaine, les utilisant pour inspirer et protéger sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank Hughes starts his week normally with a mentoring session. During the session, a sudden burst of energy allows him to sense that one of his mentees is in trouble.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Frank uses his newfound sensory powers to locate his mentee, trapped in a collapsed building. He directs emergency services to the spot, saving the young man's life.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Invigorated by his heroic deed, Frank feels a surge of responsibility and decides to undertake nightly patrols in his neighborhood.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "While patrolling, Frank encounters a robbery in progress. Using his experience and quick thinking, he helps apprehend the culprits, gaining respect from the locality.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Taking a break from the excitement, Frank spends his day recounting tales of his unexpected heroism to his mentees, emphasizing the importance of quick thinking and bravery.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Frank deliberates on how to use his powers for ongoing good, consulting friends and allies on the potential ways to further benefit his community.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "To hone his abilities, Frank concentrates on enhancing his sensory skills through various types of training, preparing for whatever challenges might come next.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And so, Frank Hughes, once a simple mentor, now stands as a beacon of vigilance and virtue in his community.",
+  "moral": "No matter the age, one can always become a hero and inspire others."
+}

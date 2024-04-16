@@ -1,0 +1,46 @@
+{
+  "title": "The Energetic Adventures of Nancy Lewis",
+  "summary": "Nancy Lewis discovers her superpowers of enhanced agility and persuasive charm during an eventful week, using them to save her city from a corporate takeover.",
+  "summaryGerman": "Nancy Lewis entdeckt ihre Superkräfte der erhöhten Agilität und überzeugenden Anziehungskraft während einer ereignisreichen Woche und nutzt sie, um ihre Stadt vor einer Unternehmensübernahme zu retten.",
+  "summaryDutch": "Nancy Lewis ontdekt haar superkrachten van verhoogde wendbaarheid en overtuigende charme tijdens een bewogen week, waarin ze haar stad redt van een bedrijfsovername.",
+  "summaryFrench": "Nancy Lewis découvre ses superpouvoirs d'agilité améliorée et de charme persuasif lors d'une semaine mouvementée, les utilisant pour sauver sa ville d'une prise de contrôle d'entreprise.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Nancy's day at the advertising agency ended with a twist when she accidentally got exposed to a mysterious serum hidden in a promotional product. That night, while dancing, she felt unusually spry and irresistibly compelling.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Waking up feeling more energetic than ever, Nancy took to the streets to test her new skills. She realized she could persuade people with just a few words and decided to use her powers for good.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Discovering a corporate plot to monopolize the city's resources, Nancy used her advertising savvy to create campaigns exposing the truth, charming each person she met into supporting her cause.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tursday",
+      "text": "With the city riled up, Nancy needed help. She danced her way into a gala, winning allies from among the elite with her grace and persuasive charm.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Nancy led a peaceful march against the corporate villains. Her agility helped her dodge conflict, and her words turned many of the company’s employees to her side.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The confrontation peaked at the company's headquarters. Using a combination of dance and persuasion, Nancy and her new allies ousted the corrupt CEOs.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "With the city now safe, Nancy relaxed at a local dance studio, reflecting on her whirlwind week and the powers that she had used to protect her home.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And so, Nancy Lewis danced her way into the hearts of her city's people, proving once again that the rhythm of passion is impossible to ignore.",
+  "moral": "With great power comes great responsibility, and sometimes, an unlikely hero can save the day."
+}

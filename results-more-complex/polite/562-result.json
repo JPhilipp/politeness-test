@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Yvonne Powell: Underdog Hero",
+  "summary": "Yvonne Powell, a 54-year-old coach, discovers her superpowers amid a city crisis, using her abilities to inspire and protect her community while balancing her personal life.",
+  "summaryGerman": "Yvonne Powell, eine 54-jährige Trainerin, entdeckt ihre Superkräfte mitten in einer Stadtkrise, nutzt ihre Fähigkeiten, um ihre Gemeinschaft zu inspirieren und zu schützen, während sie ihr Privatleben im Gleichgewicht hält.",
+  "summaryDutch": "Yvonne Powell, een 54-jarige coach, ontdekt haar superkrachten te midden van een stedelijke crisis, gebruikt haar vaardigheden om haar gemeenschap te inspireren en te beschermen, terwijl ze haar persoonlijke leven in evenwicht houdt.",
+  "summaryFrench": "Yvonne Powell, une entraîneuse de 54 ans, découvre ses superpouvoirs en pleine crise urbaine, utilise ses capacités pour inspirer et protéger sa communauté tout en équilibrant sa vie personnelle.",
+  "moral": "Even the most ordinary among us can have extraordinary impact.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "At the local community center, Yvonne discovers she can manipulate time when she inadvertently rewinds a minor accident, preventing injury.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Inspired by her newfound powers, Yvonne stops a robbery in progress with a swift manipulation of time corridors, becoming a mysterious local hero.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesdya",
+      "text": "Yvonne struggles with the moral implications of her powers, fearing she might manipulate events selfishly.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "To gain control, Yvonne spends the day mastering her abilities, realizing she can use them to coach and empower her team.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The city faces a massive blackout. Yvonne coordinates with emergency teams, using her powers to rewind malfunctioning equipment, helping restore power swiftly.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Yvonne reveals her powers to her team, who rally behind her, inspired by her humility and leadership.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Yvonne vows to use her powers for good, setting up a foundation to aid those affected by urban crises.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Yvonne Powell, now known as The Time Coach, embraces her powers, understanding that real heroism comes from how those powers are used to inspire and uplift others."
+}

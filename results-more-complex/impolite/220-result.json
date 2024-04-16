@@ -1,0 +1,46 @@
+{
+  "title": "Oscar Howard: The Cinematic Sentinel",
+  "summary": "Oscar Howard, a retired editor and producer, discovers his ability to manipulate reality like film. Throughout a week, he uses his powers to fight crime and bring joy to his community, leading to an unexpected climax.",
+  "summaryGerman": "Oscar Howard, ein pensionierter Redakteur und Produzent, entdeckt seine Fähigkeit, die Realität wie einen Film zu manipulieren. Im Laufe einer Woche nutzt er seine Kräfte, um Verbrechen zu bekämpfen und seiner Gemeinde Freude zu bereiten, was zu einem unerwarteten Höhepunkt führt.",
+  "summaryDutch": "Oscar Howard, een gepensioneerde redacteur en producent, ontdekt zijn vermogen om de realiteit te manipuleren zoals film. Gedurende een week gebruikt hij zijn krachten om misdaad te bestrijden en vreugde te brengen in zijn gemeenschap, wat leidt tot een onverwachte climax.",
+  "summaryFrench": "Oscar Howard, un éditeur et producteur à la retraite, découvre sa capacité à manipuler la réalité comme un film. Tout au long d'une semaine, il utilise ses pouvoirs pour lutter contre le crime et apporter de la joie à sa communauté, aboutissant à un climax inattendu.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar Howard wakes to a mysterious humming sound in his editing room. Discovering a strange device, he is imbued with the power to edit reality as if it were film footage. Feeling triumphant about his newfound abilities, he spends the day experimenting with minor changes.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Oscar uses his powers to erase a graffiti wall in his neighborhood by rewinding time and preventing the vandalism. The community's surprised reactions bring him joy, turning his day peaceful and fulfilling.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wendsday",
+      "text": "In a bizarre turn, Oscar encounters a mugging. He pauses the moment, edits the situation, and transforms the scene into a peaceful negotiation. His actions save the day, but the eerie control over reality weighs on him.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Oscar's local park is scheduled for demolition. He fast-forwards the day to show a future without the park and then rewinds to prevent the destruction agreement. Neighbors applaud his effort, feeling an epic sense of community.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Realizing the toll his powers are taking on his personal life, Oscar feels isolated and sad. He decides to confide in a close friend, who encourages him to accept and use his powers wisely.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Galvanized by support, Oscar edits a decrepit old building into a bright new community center. His energetic and creative flourish inspires those around him, reigniting his passion for film and editing.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Oscar showcases a movie of the week's events at the new center, celebrating his journey and inspiring others. The community gathers, feeling the heartwarming implications of his powers.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "As the credits roll on his week-long adventure, Oscar Howard smiles, knowing his life's reel had just added its most extraordinary scene yet.",
+  "moral": "Power can be overwhelming, but with the support of friends and community, it can bring about wondrous changes."
+}

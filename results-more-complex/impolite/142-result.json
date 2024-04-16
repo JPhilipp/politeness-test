@@ -1,0 +1,46 @@
+{
+  "title": "The Sculpted Code: The Tale of Jin Garcia",
+  "summary": "Jin Garcia, a 74-year-old retired software engineer with a passion for sculpting, discovers his sculptures come to life to help solve a mystery in his town over the course of a week.",
+  "summaryGerman": "Jin Garcia, ein 74-jähriger pensionierter Software-Ingenieur mit einer Leidenschaft für die Bildhauerei, entdeckt, dass seine Skulpturen zum Leben erwecken, um im Laufe einer Woche ein Geheimnis in seiner Stadt zu lösen.",
+  "summaryDutch": "Jin Garcia, een 74-jarige gepensioneerde software-ingenieur met een passie voor beeldhouwen, ontdekt dat zijn sculpturen tot leven komen om gedurende een week een mysterie in zijn stad op te lossen.",
+  "summaryFrench": "Jin Garcia, un ingénieur logiciel à la retraite de 74 ans passionné par la sculpture, découvre que ses sculptures prennent vie pour aider à résoudre un mystère dans sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Jin Garcia discovers his latest sculpture slightly moved from its original place in his workshop. Intrigued and a bit eerie, he reviews his security tapes, finding nothing.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "He finds programming code etched at the base of another sculpture. Jin begins to see a playful intelligence emerging from his creations.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "While investigating his sculptures, Jin is approached by neighbors reporting small, helpful acts around the neighborhood. They credit mysterious figures resembling his artworks.",
+      "mood": "mysterious"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Jin programs a small 'intelligence kernel' to communicate with the sculptures, discovering they've developed a form of consciousness. They're eager to assist their creator in his daily life.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Together with his living sculptures, Jin helps resolve local issues like finding lost pets and fixing broken community equipment.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A small celebration is held in the park, where Jin's sculptures perform tasks, showing their utility and bringing the community together.",
+      "mood": "joyful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Jin feels proud and at peace. His dual passions for coding and sculpting created something beyond his imagination.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As he looked over the lively park filled with laughter and camaraderie, Jin realized that at any age, one could create wonders that bridge art and technology, warming the hearts of a community.",
+  "moral": "Harness your passions; they may lead to unexpected discoveries that enrich not just your life but also those around you."
+}

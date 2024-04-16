@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Eve Adams: Hero in the Shadows",
+  "summary": "Eve Adams, an unassuming teacher with a passion for knitting, discovers her latent telekinetic powers and uses them to discreetly thwart crimes and solve mysteries in her town over the course of a week.",
+  "summaryGerman": "Eve Adams, eine unauffällige Lehrerin mit einer Leidenschaft für das Stricken, entdeckt ihre verborgenen telekinetischen Kräfte und verwendet sie, um diskret Verbrechen zu vereiteln und Rätsel in ihrer Stadt im Laufe einer Woche zu lösen.",
+  "summaryDutch": "Eve Adams, een onopvallende lerares met een passie voor breien, ontdekt haar latente telekinetische krachten en gebruikt deze om discreet misdaden te verijdelen en mysteries in haar stad gedurende een week op te lossen.",
+  "summaryFrench": "Eve Adams, une enseignante discrète avec une passion pour le tricot, découvre ses pouvoirs télékinétiques latents et les utilise pour déjouer discrètement des crimes et résoudre des mystères dans sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Eve Adams starts her week feeling serene while knitting at the local cafe. Unbeknownst to the patrons, she quietly subdues a would-be wallet thief using subtle gestures, guiding the wallet back to its owner.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While teaching, Eve senses tension among her students. Later, she uncovers the source: a secret bullying issue. Using her powers, she arranges evidence to subtly alert the school counselor without escalating the situation.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wefnesday",
+      "text": "Having lunch in the park, Eve notices suspicious activity nearby. Her quick thinking and discreet telekinetic abilities help her avert what turns out to be a planned petty theft, restoring calm.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Eve spends an evening knitting a special blanket. She enhances it with calming vibrations intended for a troubled student. The next day, she anonymously gifts it, contributing to the student's improved well-being.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A crisis emerges as a fire breaks out at a local shelter. Eve, from a distance, helps guide the evacuation effectively, ensuring everyone's safety with her powers, though no one sees her intervene.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "At a community gathering, Eve discreetly uses her abilities to repair children's toys and reinforce weak structures around the area, spreading unnoticed joy and safety.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Eve feels a profound sense of purpose. She continues her double life modestly, knitting in public by day and quietly safeguarding her community by night.",
+      "mood": "energetic"
+    }
+  ],
+  "ending": "In the quiet hour of twilight, as Eve knit under the golden sunset, she smiled softly, knowing her hidden heroics had woven a stronger tapestry of community.",
+  "moral": "Great power does not always require great recognition; often, the most profound impacts are the subtlest."
+}

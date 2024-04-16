@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Journey of David Collins, Supercoach",
+  "summary": "David Collins, a 22-year-old advisor and coach, discovers his ability to inspire literal superpowers in others over the course of a week, leading to a showdown that saves his city.",
+  "summaryGerman": "David Collins, ein 22-jähriger Berater und Trainer, entdeckt seine Fähigkeit, im Laufe einer Woche wörtlich Superkräfte in anderen zu inspirieren, was zu einem Showdown führt, der seine Stadt rettet.",
+  "summaryDutch": "David Collins, een 22-jarige adviseur en coach, ontdekt zijn vermogen om letterlijk superkrachten in anderen te inspireren gedurende een week, wat leidt tot een confrontatie die zijn stad redt.",
+  "summaryFrench": "David Collins, un conseiller et coach de 22 ans, découvre sa capacité à inspirer des super-pouvoirs littéraux chez les autres au cours d'une semaine, menant à un affrontement qui sauve sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "David discovers his unusual ability to empower others when his casual advice at the gym leads one man to lift twice his limit.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Encouraged by yesterday's incident, David experiments by coaching his friends; they achieve tasks they deemed impossible before.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wendsday",
+      "text": "News spreads, and David is approached by local heroes to boost their abilities to fight crime, which he does successfully from a distance.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "David feels the strain of his powers as demands increase, making him wonder about the limits and consequences of his ability.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A villain, seeking to harness David's power for evil, kidnaps him; his friends rally to save him, empowered by the very abilities he helped them discover.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "David and his friends confront the villain; their teamwork and David's strategic advice lead to a hard-fought victory.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The city celebrates David and his team's heroism with a peaceful march, recognizing him as 'Supercoach'.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "In a world where everyone looks for a hero, sometimes what they really need is a coach.",
+  "moral": "The true power of a leader is not to create followers, but to inspire others to find their own strengths."
+}

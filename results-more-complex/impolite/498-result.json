@@ -1,0 +1,46 @@
+{
+  "title": "The Persuasive Power of Walter Washington",
+  "summary": "Walter Washington, a 62-year-old retired advertising executive, discovers he has the superpower to persuade anyone to do good. Over the course of a week, he uses this power to solve community issues, culminating in a grand event that unites the city.",
+  "summaryGerman": "Walter Washington, ein 62-jähriger pensionierter Werbeleiter, entdeckt, dass er die Superkraft hat, jeden dazu zu überreden, Gutes zu tun. Im Laufe einer Woche nutzt er diese Kraft, um Gemeindeprobleme zu lösen und gipfelt in einer großen Veranstaltung, die die Stadt vereint.",
+  "summaryDutch": "Walter Washington, een 62-jarige gepensioneerde reclame-executive, ontdekt dat hij de superkracht heeft om iedereen te overtuigen om goed te doen. Gedurende een week gebruikt hij deze kracht om problemen in de gemeenschap op te lossen, wat uitmondt in een groot evenement dat de stad verenigt.",
+  "summaryFrench": "Walter Washington, un directeur de publicité retraité de 62 ans, découvre qu'il a le super pouvoir de persuader quiconque de faire le bien. Au cours d'une semaine, il utilise ce pouvoir pour résoudre les problèmes de la communauté, aboutissant à un grand événement qui unit la ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Walter discovers his power after accidentally convincing a disputing couple to reconcile happily in the park.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Empowered by Monday's events, Walter resolves a long-standing feud at the local community center, bringing old friends together.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wedneday",
+      "text": "Investigating his powers, Walter feels an eerie responsibility to use his abilities wisely, considering the potential impacts.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Walter uses his persuading powers to gather volunteers for a neighborhood beautification project, feeling energetic and hopeful.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A difficult day as Walter tries to tackle jobs lost due to a factory closure, he manages to uplift workers' spirits.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Using his advertising skills, Walter initiates a romance-themed charity event promoting love and support within the community.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The community comes together in an epic festival organized by Walter, celebrating unity and collective goodwill.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "As the sun set on a joyful Sunday, Walter Washington smiled, knowing his newfound powers had created a wave of positivity that would ripple through his city for years to come.",
+  "moral": "The power to change the world often lies in the ability to inspire change in others."
+}

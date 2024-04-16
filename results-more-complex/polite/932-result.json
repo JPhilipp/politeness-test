@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Yvonne Price: Super Coach",
+  "summary": "Yvonne Price, a 71-year-old retired superhero, uses her coaching skills to empower her community, facing challenges and eventually stopping a robbery with her strategic wisdom.",
+  "summaryGerman": "Yvonne Price, eine 71-jährige pensionierte Superheldin, nutzt ihre Coaching-Fähigkeiten, um ihre Gemeinde zu stärken, stellt sich Herausforderungen und verhindert letztendlich mit ihrer strategischen Weisheit einen Raub.",
+  "summaryDutch": "Yvonne Price, een 71-jarige gepensioneerde superheldin, gebruikt haar coachingsvaardigheden om haar gemeenschap te versterken, gaat uitdagingen aan en voorkomt uiteindelijk met haar strategische wijsheid een overval.",
+  "summaryFrench": "Yvonne Price, une super-héroïne retraitée de 71 ans, utilise ses compétences de coach pour renforcer sa communauté, relève des défis et empêche finalement un vol grâce à sa sagesse stratégique.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Yvonne starts her week reflecting on her long-past superhero days and decides to use her coaching skills to guide the local youth soccer team.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Energized by yesterday's decision, Yvonne holds her first training session, infusing the team with her superhero ethic of hard work and determination.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednedsay",
+      "text": "Suspicious activities at the local park catch Yvonne’s sharp eye during a jog. She decides to keep watch, utilizing her old superhero vigilance.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Yvonne uses her coaching session to teach the kids about teamwork and vigilance, hinting about the suspicious activities without causing alarm.",
+      "mood": "triumpant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Her suspicion confirmed, Yvonne notices the same suspicious individuals planning something at the park. She calls the police and decides to be there just in case.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The robbery attempt unfolds. Yvonne, with her strategic positioning, helps the police capture the culprits by directing kids in a mock soccer drill to block the escape routes.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Celebrating the successful prevention of a crime, Yvonne feels rejuvenated and respected, realizing she still can protect her community in her own unique way.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "At 71, Yvonne Price learned that heroes come in all ages and forms, and that one's passion, like coaching, can truly make a difference.",
+  "moral": "True heroism is about using one's unique abilities to make a difference, regardless of age or past."
+}

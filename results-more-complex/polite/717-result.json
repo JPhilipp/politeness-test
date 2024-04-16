@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Charlie Butler: Teacher and Hero",
+  "summary": "Charlie Butler, a 33-year-old tutor and teacher, discovers his ability to manipulate time after a mysterious encounter. Throughout the week, he harnesses this power to address problems and help his community, learning about his new capabilities and their consequences.",
+  "summaryGerman": "Charlie Butler, ein 33-jähriger Tutor und Lehrer, entdeckt seine Fähigkeit, die Zeit nach einer geheimnisvollen Begegnung zu manipulieren. Während der Woche nutzt er diese Kraft, um Probleme zu lösen und seiner Gemeinschaft zu helfen, und lernt dabei seine neuen Fähigkeiten und deren Konsequenzen kennen.",
+  "summaryDutch": "Charlie Butler, een 33-jarige tutor en leraar, ontdekt zijn vermogen om de tijd te manipuleren na een mysterieuze ontmoeting. Gedurende de week gebruikt hij deze kracht om problemen aan te pakken en zijn gemeenschap te helpen, en leert hij over zijn nieuwe mogelijkheden en hun gevolgen.",
+  "summaryFrench": "Charlie Butler, un tuteur et enseignant de 33 ans, découvre sa capacité à manipuler le temps après une rencontre mystérieuse. Tout au long de la semaine, il utilise ce pouvoir pour résoudre des problèmes et aider sa communauté, en apprenant sur ses nouvelles capacités et leurs conséquences.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Charlie Butler, while tutoring, accidentally discovers his ability to slow down time when a student nearly falls down the stairs. In a flash, he prevents the accident.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Embracing his newfound power, Charlie experiments and learns he can selectively manipulate small time intervals. He uses it to help a struggling student grasp complex concepts quicker.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "A local crisis arises when a water main breaks near a school just as children are leaving. Charlie pauses time, helps to reroute the students to safety, and alerts the authorities.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Charlie feels the strain of keeping his abilities a secret, especially from those he cares about, causing him an emotional day of solitude and introspection.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "News spreads of the mysterious 'guardian' solving crises. Community members express admiration and curiosity, boosting Charlie's spirit.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Charlie meets another individual with similar time-manipulating abilities. They share insights and experiences, offering Charlie a deeper understanding of his powers.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Charlie uses his powers for a simple, peaceful day, helping small animals and plants in a local park, enjoying the tranquility.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As dusk falls on Sunday, Charlie sits watching the sunset, reflecting on the joys and burdens of his powers, ready to face another week with purpose and hope.",
+  "moral": "Great power requires not only strength to use it, but the wisdom to understand its impacts."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Unstoppable Sue Baker: One Week of Heroism",
+  "summary": "Sue Baker, a 58-year-old with a knack for instructing and persuading, discovers her unique power to influence reality through speech, using it to protect her city from various threats over the course of a week.",
+  "summaryGerman": "Sue Baker, eine 58-jährige mit einem Talent für das Lehren und Überzeugen, entdeckt ihre einzigartige Kraft, die Realität durch Sprechen zu beeinflussen, und benutzt sie, um ihre Stadt im Laufe einer Woche vor verschiedenen Bedrohungen zu schützen.",
+  "summaryDutch": "Sue Baker, een 58-jarige met een talent voor instructie en overtuiging, ontdekt haar unieke kracht om de realiteit te beïnvloeden door te spreken, en gebruikt het om haar stad te beschermen tegen verschillende bedreigingen gedurende een week.",
+  "summaryFrench": "Sue Baker, une femme de 58 ans douée pour l'enseignement et la persuasion, découvre son pouvoir unique d'influencer la réalité par la parole, utilisant ce pouvoir pour protéger sa ville des diverses menaces au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Discovering a mysterious tome at a yard sale, Sue Baker, intrigued, reads aloud a passage, only to find that her words manifest into reality. As she speaks, a flower blooms instantly in her palm.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thesday",
+      "text": "Empowered by her newfound ability, Sue halts a potential bank robbery by persuasively talking the crooks into surrendering to the police, much to everyone's amazement.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Sue teaches a group of local children about integrity and bravery. Inspired by her words, the children help clean up a vandalized park, restoring its original beauty.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A crisis emerges as a nearby dam begins to crack. Speaking words of reinforcement, Sue strengthens the dam's structure, averting a disaster.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "During a ceremony honoring her heroism, Sue meets an old friend and sparks fly. They spend the evening reminiscing and making plans for a joint project to benefit the community.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Sue uses her powers to persuade a wealthy philanthropist to fund the new community project she planned with her friend, bringing excitement and renewed hope to the neighborhood.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her extraordinary week, Sue spends a peaceful day at home, realizing that her true power lies not only in her words, but in her intent to do good.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "In a world filled with noise, Sue Baker's voice became a beacon of hope and change.",
+  "moral": "The greatest strength often arises from the most unexpected places; it's not the power itself, but how one chooses to use it."
+}

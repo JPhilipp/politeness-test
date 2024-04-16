@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Ursula Richardson: Counselor by Day, Hero by Night",
+  "summary": "Ursula Richardson, a 33-year-old counselor, discovers her ability to read minds within her consulting sessions, using it to unravel a local mystery and prevent a crime spree.",
+  "summaryGerman": "Ursula Richardson, eine 33-jährige Beraterin, entdeckt ihre Fähigkeit, in Beratungssitzungen Gedanken zu lesen, und verwendet sie, um ein lokales Geheimnis zu lüften und eine Verbrechensserie zu verhindern.",
+  "summaryDutch": "Ursula Richardson, een 33-jarige counselor, ontdekt haar vermogen om gedachten te lezen tijdens haar consultatiesessies, en gebruikt het om een lokaal mysterie te ontrafelen en een misdaadgolf te voorkomen.",
+  "summaryFrench": "Ursula Richardson, conseillère de 33 ans, découvre sa capacité à lire dans les pensées lors de ses séances de consultation, l'utilisant pour élucider un mystère local et prévenir une série de crimes.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ursula begins her week with a new client who seems distressed and erratic. While counseling, she surprisingly hears thoughts not spoken out loud, realizing she can read minds.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Emboldened by her new skill, Ursula probes deeper into her client's thoughts. She uncovers a plan involving a local crime ring.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Ursula discreetly informs the authorities about her discovery, carefully omitting her supernatural ability. She spends the evening strategizing her next steps.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "During a follow-up session, Ursula subtly steers her client away from criminal intentions. Her gentle guidance leads to the client reconsidering their choices.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "At a community event, Ursula senses whispers of the impending crime. She covertly intervenes, preventing an incident while blending into the crowd.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After a tense week, Ursula takes a well-deserved day off, reflecting on her actions and their impact on her community and personal moral code.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Validation comes when news breaks that the planned crime spree was averted. Ursula feels a deep sense of accomplishment, her secret safe and her city safer.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "By blending her professional expertise with her newfound abilities, Ursula not only changed lives but also safeguarded her community from shadows.",
+  "moral": "With great power comes great responsibility."
+}

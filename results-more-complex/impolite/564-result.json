@@ -1,0 +1,46 @@
+{
+  "title": "The Cosmic Guidance of Kevin Murphy",
+  "summary": "Kevin Murphy discovers he possesses cosmic powers which he uses to combat emerging dark forces in his city while maintaining his daily life as a tutor and guide.",
+  "summaryGerman": "Kevin Murphy entdeckt, dass er kosmische Kräfte besitzt, die er nutzt, um die aufkommenden dunklen Kräfte in seiner Stadt zu bekämpfen, während er sein tägliches Leben als Tutor und Führer fortsetzt.",
+  "summaryDutch": "Kevin Murphy ontdekt dat hij kosmische krachten bezit die hij gebruikt om opkomende duistere krachten in zijn stad te bestrijden, terwijl hij zijn dagelijks leven als tutor en gids voortzet.",
+  "summaryFrench": "Kevin Murphy découvre qu'il possède des pouvoirs cosmiques qu'il utilise pour combattre les forces obscures émergentes dans sa ville tout en maintenant sa vie quotidienne en tant que tuteur et guide.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Kevin Murphy starts the week feeling energetic as he prepares for his usual tutoring sessions. He doesn't realize that cosmic energy is gathering around him, granting him unknown powers.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuersday",
+      "text": "While guiding a group of students through the city museum, Kevin inadvertently uses his newfound powers to save a child from a falling sculpture, leaving him feeling both eerie and triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "The news of the heroic save spreads, leading more locals to seek out Kevin's tours. He senses his powers growing stronger and starts exploring them after hours, feeling both mystified and excited.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Kevin's uses of power attract the attention of a sinister new villain, Dr. Shadow, in the city. The confrontation is inevitable, leaving Kevin feeling a mix of dread and responsibility.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Dr. Shadow attacks during one of Kevin's guided tours. Using his cosmic abilities, Kevin protects his group and wards off Dr. Shadow, ending the day feeling exhausted but heroic.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Kevin reflects on his new role and responsibilities as a superhero. He dedicates his weekend to mastering his powers, feeling determined and peaceful.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Encouraged and supported by the community, Kevin officially embraces his role as the city’s protector, feeling proud and ready to balance his life of guidance and heroism.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, Kevin embarks on his continuing journey, balancing his dual life with grace and responsibility.",
+  "moral": "Embrace your unique abilities and use them to make the world a better place."
+}

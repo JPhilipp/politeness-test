@@ -1,0 +1,46 @@
+{
+  "title": "The Energetic Adventures of Grace Jackson",
+  "summary": "Grace Jackson, an artist and guide whose superpowers awaken, must confront her nemesis to save her city while balancing her everyday life.",
+  "summaryGerman": "Grace Jackson, eine Künstlerin und Führerin, deren Superkräfte erwachen, muss sich ihrem Erzfeind stellen, um ihre Stadt zu retten, während sie ihr alltägliches Leben balanciert.",
+  "summaryDutch": "Grace Jackson, een kunstenaar en gids wiens superkrachten ontwaken, moet haar aartsvijand confronteren om haar stad te redden terwijl ze haar dagelijks leven in evenwicht houdt.",
+  "summaryFrench": "Grace Jackson, une artiste et guide dont les super-pouvoirs se réveillent, doit affronter son ennemi juré pour sauver sa ville tout en équilibrant sa vie quotidienne.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Grace Jackson discovers her ability to manipulate natural elements while sketching in the park. An eerie gust of wind brings her drawings to life.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tueesday",
+      "text": "With newfound powers, Grace joyfully explores her abilities, creating intricate sculptures of ice and fire in her backyard.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "A mysterious figure challenges Grace in downtown, resulting in a majestic display of power that dazzles the onlookers.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Grace guides a tour group through historic sites, cleverly using her powers to enhance the experience, leaving the tourists spellbound.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The villainous Dr. Shadow unleashes chaos in the city. Grace musters her courage and spirit to protect her community.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After a fierce battle, Grace drives Dr. Shadow away but witnesses the damage to her beloved city, feeling a deep sadness.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The community rallies together, led by Grace, to rebuild and restore. Her drawing skills help design a new park as a symbol of resilience.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "With her city safe again, Grace Jackson continues to inspire as both a superhero and a creative spirit.",
+  "moral": "With great power comes great responsibility, and also the opportunity to bring beauty and creativity to the challenges we face."
+}

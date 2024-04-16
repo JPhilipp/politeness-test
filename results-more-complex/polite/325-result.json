@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Shield of Hubert Johnson",
+  "summary": "Hubert Johnson, a retired coach and consultant, discovers his ability to manipulate time and uses it to anonymously help his community over a week of unforeseen events.",
+  "summaryGerman": "Hubert Johnson, ein pensionierter Coach und Berater, entdeckt seine Fähigkeit, die Zeit zu manipulieren und nutzt sie, um seiner Gemeinde anonym während einer Woche unvorhergesehener Ereignisse zu helfen.",
+  "summaryDutch": "Hubert Johnson, een gepensioneerde coach en consultant, ontdekt zijn vermogen om de tijd te manipuleren en gebruikt dit om zijn gemeenschap anoniem te helpen gedurende een week vol onvoorziene gebeurtenissen.",
+  "summaryFrench": "Hubert Johnson, un coach et consultant à la retraite, découvre sa capacité à manipuler le temps et l'utilise pour aider anonymement sa communauté pendant une semaine d'événements imprévus.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Hubert Johnson wakes up with an unusual clarity. Today, he realizes he can slow down time, making the day feel peaceful despite his usual busy schedule.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While coaching a local soccer team, Hubert uses his time-manipulating ability to observe and correct the smallest mistakes. His team feels triumphant after their best practice yet.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wdnesday",
+      "text": "Hubert meets an old friend for coffee. He averts an accident by slowing time, wrapping the scene in an eerie calm as he guides people to safety.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Hubert consults for a struggling small business and finds energetic solutions by stretching moments to think deeper. The owner is energized by the new strategies.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "At a local park, Hubert connects with his grandchild, sharing stories in what seems like an extended, magical moment, making it a very happy day for both.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Hubert feels a bit sad reflecting on his new powers and the loneliness of keeping them secret, yet he spends the day helping lost pets return to their owners, finding peace in their joy.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The week ends with Hubert using his powers to prevent a major disaster at a community event, his actions unseen but epic in their scale and effect.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "As the week closes, Hubert Johnson redefines what it means to be a hero without ever revealing his secret.",
+  "moral": "True heroes are those who do what is right without the need for recognition."
+}

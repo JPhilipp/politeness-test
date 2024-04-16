@@ -1,0 +1,45 @@
+{
+  "title": "The Adventures of Pit Green: The Sewing Hero",
+  "summary": "Pit Green, a 44-year-old superhero with a dual passion for coaching and sewing, faces a new challenge each day for a week that tests his unique powers and personal hobbies.",
+  "summaryGerman": "Pit Green, ein 44-jähriger Superheld mit einer Doppelleidenschaft für das Coaching und das Nähen, steht eine Woche lang jeden Tag vor einer neuen Herausforderung, die seine einzigartigen Kräfte und persönlichen Hobbys testet.",
+  "summaryDutch": "Pit Green, een 44-jarige superheld met een dubbele passie voor coaching en naaien, krijgt elke dag van de week een nieuwe uitdaging die zijn unieke krachten en persoonlijke hobby's op de proef stelt.",
+  "summaryFrench": "Pit Green, un super-héros de 44 ans avec une double passion pour le coaching et la couture, fait face à un nouveau défi chaque jour pendant une semaine qui teste ses pouvoirs uniques et ses hobbies personnels.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Pit Green saves a local youth soccer team from a disorganized disaster by coaching them to victory in a crucial match.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Discovering a plot by local criminals to rob a fabric store, Pit sews disguises to infiltrate and thwart the heist.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednedsay",
+      "text": "Pit spends a peaceful day refining his sewing techniques and creating costumes for the upcoming town carnival.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "An eerie silence falls over the town as Pit uncovers a supernatural threat looming over his community.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Using his deep knowledge of fibers, Pit devises a special cloth that shields the town from the supernatural threat.",
+      "mood": "smart"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Celebrating the carnival, Pit's handmade costumes are a hit, adding a romantic touch to his interactions with the community.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week’s events, Pit continues his double life with a renewed sense of duty and passion for his hobbies.",
+      "mood": "peaceful"
+    }
+  ],
+  "moral": "Use your unique talents to make a difference - no matter how unusual they may seem."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Secret Life of Walter Parker: Tutor by Day, Hero by Night",
+  "summary": "Walter Parker, a 40-year-old tutor, discovers his superpowers and battles evil, all while maintaining his day job.",
+  "summaryGerman": "Walter Parker, ein 40-jähriger Tutor, entdeckt seine Superkräfte und bekämpft das Böse, während er seinen Tagesjob beibehält.",
+  "summaryDutch": "Walter Parker, een 40-jarige tutor, ontdekt zijn superkrachten en bestrijdt het kwaad, terwijl hij zijn dagbaan behoudt.",
+  "summaryFrench": "Walter Parker, un tuteur de 40 ans, découvre ses super-pouvoirs et combat le mal, tout en maintenant son emploi de jour.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Walter Parker starts his week like any other, tutoring statistics. Unknown to him, a meteorite nearby grants him telekinetic powers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tueday",
+      "text": "Feeling a strange new energy, Walter aids a student in crisis, subtly using his new powers to guide her to the solution.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "While tutoring, Walter overhears a crime happening outside. He sneaks out and stops the criminals, feeling the thrill of his secret dual life.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Walter balances his time between helping students and secretly training to control his powers, finding peace in his doubled life.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A major threat looms over the city. Walter, under the guise of 'The Scholar', devises a plan to save the town with his intellect and powers combined.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The city cheers as 'The Scholar' averts disaster. Walter feels a deep connection with his community, enjoying a quiet evening at home.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Walter realizes the value of his everyday role as a tutor and his extraordinary contributions as a hero.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Back in his quiet tutoring office, Walter Parker smiles, knowing his secret makes every lesson a little more extraordinary.",
+  "moral": "Every person has a hidden hero within; sometimes, it just needs a little spark to come alive."
+}

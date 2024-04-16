@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Nancy Scott: Coach by Day, Hero by Night",
+  "summary": "This story follows Nancy Scott over the course of a week as she juggles her coaching responsibilities with her secret life as a superhero, uncovering a hidden menace and saving her town.",
+  "summaryGerman": "Diese Geschichte folgt Nancy Scott über eine Woche, während sie ihre Coaching-Aufgaben mit ihrem geheimen Leben als Superheldin jongliert, eine verborgene Bedrohung aufdeckt und ihre Stadt rettet.",
+  "summaryDutch": "Dit verhaal volgt Nancy Scott gedurende een week terwijl zij haar coachingtaken en haar geheime leven als superheldin combineert, een verborgen dreiging onthult en haar stad redt.",
+  "summaryFrench": "Cette histoire suit Nancy Scott au cours d'une semaine alors qu'elle jongle avec ses responsabilités de coaching et sa vie secrète de superhéroïne, découvrant une menace cachée et sauvant sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Nancy Scott, a 41-year-old coach, starts her week with a typical energetic coaching session, unaware that she is being watched by eyes with sinister intent.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "That night, using her unique ability to sense danger, Nancy thwarts a burglary in progress, her adrenaline mixing with triumph.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Nancy feels eerie presences lurking around her local community center, spurring her to keep a closer watch under the guise of extra evening coaching sessions.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Her suspicions prove correct when Nancy uncovers a hidden plot to sabotage the center. She formulates a plan to expose the conspirators.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friiday",
+      "text": "Nancy, balancing dual roles, uses her daytime position to gather more evidence, while by night, she prepares to confront the culprits directly.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The confrontation is intense, but Nancy's strategic mind and heroic capabilities allow her to prevail, ending the threat to her beloved community center.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Exhausted yet peaceful, Nancy spends a quiet day reflecting on her actions, praised silently by those who unknowingly owe her their safety.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the week closes, Nancy Scott smiles, knowing her town is safer because of her hidden courage and resolve.",
+  "moral": "True heroism lies not only in grand gestures, but in the courage to act everyday."
+}

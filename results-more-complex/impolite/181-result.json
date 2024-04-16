@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Planner: Adventures of Pit Ward",
+  "summary": "Pit Ward, a 72-year-old retired superhero, taps into his old powers to confront a latent threat to his city, using his strategic mindset and love for reading to identify and thwart the menace within a week.",
+  "summaryGerman": "Pit Ward, ein 72 Jahre alter pensionierter Superheld, aktiviert seine alten Kräfte, um eine verborgene Bedrohung für seine Stadt zu bekämpfen, indem er seine strategische Denkweise und seine Liebe zum Lesen nutzt, um die Bedrohung innerhalb einer Woche zu erkennen und zu vereiteln.",
+  "summaryDutch": "Pit Ward, een 72-jarige gepensioneerde superheld, haalt zijn oude krachten weer naar boven om een sluimerende bedreiging voor zijn stad het hoofd te bieden, en gebruikt zijn strategische verstand en liefde voor lezen om de bedreiging binnen een week te identificeren en te dwarsbomen.",
+  "summaryFrench": "Pit Ward, un super-héros retraité de 72 ans, réactive ses anciens pouvoirs pour affronter une menace latente dans sa ville, utilisant son esprit stratégique et son amour pour la lecture pour identifier et contrecarrer la menace en une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Aware of mysterious disruptions lately, Pit starts his week by researching historical anomalies in his library. His intuition tingles with an eerie sense of familiarity.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "As he uncovers records of a forgotten villain, Pit feels a surge of energy. He begins planning countermeasures, motivated by the challenge.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedesday",
+      "text": "Pit finds diaries detailing the villain's old schemes. Shocked by the plans' similarity to current events, he becomes intensely focused on crafting a strategic response.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Having pieced the puzzle together, Pit contacts old allies from his superhero days, ready to enact their plan.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The execution day. With precision, Pit and his team disable traps set across the city. Although the physical strain is tough, Pit's spirit is undeterred.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Monitoring the aftermath, Pit feels a wave of peace as the city returns to normal. His careful planning thwarted a crisis before it fully unfolded.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Resting at home, Pit spends a quiet day reflecting on his week's efforts. He dives back into his books, his mind ever curious, knowing peace has been restored.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "In the quiet of his study, surrounded by books and memories, Pit Ward smiled, knowing the city was safe, for now.",
+  "moral": "Strategic planning and knowledge can empower even the mightiest heroes."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Sculpting Lens: The Adventures of Yousef Jenkins",
+  "summary": "Over a week, Yousef Jenkins discovers his powers to sculpt and photograph realities into existence, using his skills to battle a malevolent entity threatening his city, culminating in a battle that tests his limits and affirms the importance of creativity and courage.",
+  "summaryGerman": "Über eine Woche entdeckt Yousef Jenkins seine Kräfte, Realitäten durch Bildhauerei und Fotografie ins Leben zu rufen, und setzt seine Fähigkeiten ein, um gegen eine bösartige Entität zu kämpfen, die seine Stadt bedroht, was in einer Schlacht gipfelt, die seine Grenzen testet und die Bedeutung von Kreativität und Mut bestätigt.",
+  "summaryDutch": "Gedurende een week ontdekt Yousef Jenkins zijn krachten om realiteiten in het leven te roepen door middel van beeldhouwen en fotografie, waarbij hij zijn vaardigheden gebruikt om te vechten tegen een kwaadaardige entiteit die zijn stad bedreigt, wat uitmondt in een strijd die zijn grenzen test en het belang van creativiteit en moed bevestigt.",
+  "summaryFrench": "Pendant une semaine, Yousef Jenkins découvre ses pouvoirs pour sculpter et photographier des réalités en existence, utilisant ses compétences pour lutter contre une entité malveillante menaçant sa ville, aboutissant à une bataille qui teste ses limites et affirme l'importance de la créativité et du courage.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Yousef Jenkins, a 37-year-old sculptor and photographer, discovers a peculiar crystal in his studio that grants him the ability to bring sculptures and photographs to life.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Testing his newfound abilities, Yousef animates a clay figure which accidentally wreaks havoc in his neighborhood. He struggles to control his powers, feeling overwhelmed.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Wednesdau",
+      "text": "Yousef learns of an ancient evil awakening in the city, apparently drawn to the energy of his crystal. He refines his control, preparing to confront the threat.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Using his powers creatively, Yousef sculpts a series of guardian figures and populates the city, setting a watchful army against the darkness.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The dark entity attacks, and a massive battle ensues between Yousef's creations and the shadowy figures summoned by the entity. The city streets become a battleground.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After a fierce night, dawn breaks and Yousef captures the final moments of the battle through his camera, freezing the dark entity in a photographic prison, ending the threat.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Recovering and reflecting, Yousef holds an exhibition of his sculptures and photos of the week's events, inspiring others with his tale of courage and imagination.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, through the lens of his camera and the touch of his hands, Yousef Jenkins turned peril into peace, proving that the greatest power lies in creating our own realities.",
+  "moral": "Creativity and courage are powerful tools against adversity."
+}

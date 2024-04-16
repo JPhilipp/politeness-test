@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Rise of Trent Russell: A Week of Triumph",
+  "summary": "Trent Russell, a 19-year-old with a passion for presenting and teaching, discovers his ability to control time during a school presentation, leading to a series of events where he becomes a local hero by preventing a disaster.",
+  "summaryGerman": "Trent Russell, ein 19-jähriger mit einer Leidenschaft für Präsentationen und Lehren, entdeckt seine Fähigkeit, die Zeit während einer Schulpräsentation zu kontrollieren, was zu einer Reihe von Ereignissen führt, bei denen er durch die Verhinderung einer Katastrophe zum lokalen Helden wird.",
+  "summaryDutch": "Trent Russell, een 19-jarige met een passie voor presenteren en onderwijzen, ontdekt zijn vermogen om de tijd te beheersen tijdens een schoolpresentatie, wat leidt tot een reeks gebeurtenissen waarbij hij een lokale held wordt door een ramp te voorkomen.",
+  "summaryFrench": "Trent Russell, un jeune homme de 19 ans passionné de présentations et d'enseignement, découvre sa capacité à contrôler le temps lors d'une présentation scolaire, ce qui entraîne une série d'événements où il devient un héros local en empêchant une catastrophe.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "On a seemingly ordinary day, Trent Russell was preparing to present his research in class when he accidentally slowed down time, first noticing it when the clock hands paused. Shocked and excited, he experimented quietly to understand his newfound power.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Still unsettelingly excited, Trent tells his best friend Luke about his powers. Together, they devise a secret plan to test these abilities more extensively after school in an abandoned warehouse.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "In their after-school experiments, Trent further grasps the control over his time manipulation, even managing to rewind short moments. This revelation fills him with an overwhelming sense of responsibility.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Growing confident, Trent uses his powers during a school debate competition, effectively pausing to collect his thoughts and present unbeatable arguments. This wins him the competition, greatly boosting his confidence.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "While walking home, Trent witnesses a car lose control, heading straight for a group of people. Instinctively, he stops time, redirects the car safely away, and resumes time, saving several lives unnoticed.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "News of the 'miraculous' car incident spreads through the town. Rumors of a guardian angel fill the air, making Trent realize the impact he can have. He decides to refine his skills further.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The week concludes with Trent anonymously presenting a session on safety and awareness in the same spot where the accident almost happened. He feels a profound connection to his community.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "This marks the beginning of Trent Russell's journey, not just as a time manipulator, but as a true hero in the making.",
+  "moral": "With great power comes great responsibility, and sometimes heroism starts with a simple decision to act."
+}

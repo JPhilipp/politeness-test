@@ -1,0 +1,46 @@
+{
+  "title": "The Melodic Adventures of Oscar Green",
+  "summary": "Oscar Green discovers his ability to control emotions through music, balancing his life between consulting and his newfound heroic duties while facing a powerful adversary.",
+  "summaryGerman": "Oscar Green entdeckt seine Fähigkeit, Emotionen durch Musik zu steuern, und balanciert sein Leben zwischen Beratung und seinen neu gefundenen heldenhaften Pflichten, während er einem mächtigen Gegner gegenübersteht.",
+  "summaryDutch": "Oscar Green ontdekt zijn vermogen om emoties te beheersen via muziek, waarbij hij zijn leven in evenwicht houdt tussen consulting en zijn nieuwgevonden heldendaden terwijl hij een machtige tegenstander het hoofd biedt.",
+  "summaryFrench": "Oscar Green découvre sa capacité à contrôler les émotions par la musique, équilibrant sa vie entre le conseil et ses nouvelles obligations héroïques tout en faisant face à un puissant adversaire.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar Green starts his week at his consulting job, feeling energetic. Unknown to him, he possesses the power to manipulate emotions through music, which he casually discovers after calming a heated office dispute with a simple melody.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Oscar experiments with his new abilities at a local park, subtly influencing the moods of passersby with his tunes. He feels a mix of excitement and unease, realizing the potential and responsibility of his powers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wensday",
+      "text": "Caught in the thrill of mastering his abilities, Oscar crafts a symphony that inadvertently invokes a sense of deep sadness in nearby listeners, teaching him the potent reach and the emotional depths his powers can explore.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Determined to refine his control, Oscar spends the day composing music that evokes happiness, testing it successfully at a local cafe, where the atmosphere turns notably jubilant.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Oscar is confronted by a mysterious figure who seeks to harness his musical abilities for personal gain. The ensuing struggle pushes Oscar to a triumphant victory using a powerful, hopeful anthem.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Taking a day to reflect, Oscar realizes his true potential and decides to use his musical gifts to benefit society. He conducts a public concert that brings the community together, symbolizing peace and unity.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Oscar meets other individuals with unique abilities, discussing plans to collaborate and use their powers for global harmony, marking an epic beginning to his journey as a superhero.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus began Oscar Green's harmonious crusade, blending melodies and heroics in a symphony of justice and peace.",
+  "moral": "With great power comes great responsibility, and using one's gifts for the common good can create harmony in more ways than one."
+}

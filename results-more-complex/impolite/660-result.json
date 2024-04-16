@@ -1,0 +1,45 @@
+{
+  "title": "The Mysterious Resonance of Xavier Cox",
+  "summary": "Over a week, Xavier Cox discovers his hidden powers of emotional resonance, which he uses to influence the mood of those around him, ultimately using it to overcome a citywide panic induced by a malevolent psychic.",
+  "summaryGerman": "Innerhalb einer Woche entdeckt Xavier Cox seine verborgenen Kräfte der emotionalen Resonanz, die er nutzt, um die Stimmung der Menschen um ihn herum zu beeinflussen und letztendlich eine durch einen böswilligen Psychiker verursachte stadtweite Panik zu überwinden.",
+  "summaryDutch": "In een week ontdekt Xavier Cox zijn verborgen krachten van emotionele resonantie, die hij gebruikt om de stemming van de mensen om hem heen te beïnvloeden en uiteindelijk een stadsbrede paniek te overwinnen die veroorzaakt wordt door een kwaadaardige psychische.",
+  "summaryFrench": "En une semaine, Xavier Cox découvre ses pouvoirs cachés de résonance émotionnelle, qu'il utilise pour influencer l'humeur de ceux qui l'entourent, en fin de compte pour surmonter une panique à l'échelle de la ville induite par un psychique malveillant.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Starting his peaceful meditation at dawn, Xavier Cox felt a mysterious energy; an empathetic connection that seemed to sway his mood.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "During his tutoring sessions, Xavier accidentally projected his own feelings of joy onto his struggling students, leading to an unusual and infectious burst of happiness.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "A sudden eerie feeling overwhelmed Xavier when he passed by an old, abandoned warehouse. The feeling lingered, hinting at darker forces at play.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Driven by curiosity, Xavier returned to the warehouse to confront the source of his unease. Inside, he encountered a rogue psychic feeding on negative emotions.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "After a brief conflict, Xavier used his newfound powers to resonate positivity, which calmed the psychic and ended his reign of terror over the city’s mood.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The aftermath left Xavier reflective but energized, realizing the potential of his abilities and the responsibility they carried.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Returning to his routine, Xavier meditated on his experiences, focused on mastering his powers to only serve and heal those around him.",
+      "mood": "meditative"
+    }
+  ],
+  "ending": "Thus, Xavier Cox found harmony within and ensured the city found theirs."
+}

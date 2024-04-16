@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Ling Brooks: The Consulting Hero",
+  "summary": "Ling Brooks, a 39-year-old consultant, discovers extraordinary abilities to solve crises, leading her to transform into a superhero over a week. She encounters and resolves various challenges, leveraging her consulting skills in extraordinary ways.",
+  "summaryGerman": "Ling Brooks, eine 39-jährige Beraterin, entdeckt außergewöhnliche Fähigkeiten, um Krisen zu lösen, und verwandelt sich im Laufe einer Woche in eine Superheldin. Sie begegnet verschiedenen Herausforderungen und löst sie, indem sie ihre Beratungsfähigkeiten auf außergewöhnliche Weise einsetzt.",
+  "summaryDutch": "Ling Brooks, een 39-jarige consultant, ontdekt buitengewone vaardigheden om crises op te lossen, waardoor ze in de loop van een week in een superheld verandert. Ze komt verschillende uitdagingen tegen en lost deze op, waarbij ze haar consultingsvaardigheden op buitengewone manieren gebruikt.",
+  "summaryFrench": "Ling Brooks, une consultante de 39 ans, découvre des capacités extraordinaires pour résoudre des crises, ce qui la transforme en super-héroïne au cours d'une semaine. Elle rencontre et résout divers défis, en utilisant ses compétences de consultante de manière extraordinaire.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Brooks starts her week feeling energetic, as she prepares a new consulting project for a struggling tech company.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While analyzing data, Ling accidentally triggers an unknown software that enhances her brain power, giving her the ability to foresee potential business pitfalls.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Using her newfound abilities, Ling advises the company to pivot their strategy, which leads to an immediate market success. She feels triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thuresday",
+      "text": "News of her success spreads, and Ling is invited to consult for a city planning project. She feels up to the challenge and very energetic.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Ling's input helps avoid a major urban planning disaster. Her vision saves the city council from making a costly mistake, making her feel epic.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Inspired by her impact, Ling starts thinking about using her abilities more broadly, feeling romantic towards the idea of saving more than just businesses.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ling decides to take her consulting skills to a global scale, envisioning a new identity as 'The Consulting Hero', dedicated to solving the world's crises.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And thus, Ling Brooks steps into her new role, ready to tackle any challenge with her extraordinary consulting powers.",
+  "moral": "With great power comes great responsibility, and sometimes, great opportunities to make a difference."
+}

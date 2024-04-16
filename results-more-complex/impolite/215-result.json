@@ -1,0 +1,46 @@
+{
+  "title": "The Urban Guardian: The Tale of Alice Lewis",
+  "summary": "Alice Lewis discovers her ability to manipulate time during a week filled with unexpected challenges, using her powers to avert disasters and help her community.",
+  "summaryGerman": "Alice Lewis entdeckt ihre Fähigkeit, die Zeit zu manipulieren, während einer Woche voller unerwarteter Herausforderungen und nutzt ihre Kräfte, um Katastrophen zu vermeiden und ihrer Gemeinschaft zu helfen.",
+  "summaryDutch": "Alice Lewis ontdekt haar vermogen om tijd te manipuleren gedurende een week vol onverwachte uitdagingen, en gebruikt haar krachten om rampen te voorkomen en haar gemeenschap te helpen.",
+  "summaryFrench": "Alice Lewis découvre sa capacité à manipuler le temps au cours d'une semaine remplie de défis inattendus, utilisant ses pouvoirs pour éviter des catastrophes et aider sa communauté.",
+  "moral": "With great power comes great responsibility.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Alice Lewis, an energetic 21-year-old with a passion for selling and managing, encounters a peculiar old clock in her antique shop that mysteriously stops time whenever she touches it.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Experimenting with her newfound power, Alice stops time to avert a major accident downtown, saving dozens of lives and feeling triumphant about her secret ability.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Trying to balance her normal life and heroics, Alice feels overwhelmed and sad as she struggles to keep her powers a secret from her friends and family.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Alice uses her time-stopping ability to solve complex problems at her shop, boosting her business and feeling energetic as she perfects her power.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A romantic interest in her life begins to suspect Alice’s strange disappearances and late arrivals. Alice spends the day feeling romantically intrigued yet worried.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Alice decides to confide in her romantic partner about her powers, and they spend a peaceful day together understanding and planning the possibilities of her abilities.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Alice takes a stand against a city-wide threat by meticulously planning and executing a time-stop that saves the city, her actions dubbed 'epic' by the news.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "As the week closes, Alice Lewis learns the depths of her power and the importance of trust, stepping into her role as a true urban guardian."
+}

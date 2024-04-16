@@ -1,0 +1,46 @@
+{
+  "title": "The Secret Power of Zelda Reed",
+  "summary": "Zelda Reed, a retired teacher, discovers her ability to manipulate time during a week of unexpected events and uses her powers to solve problems in her community.",
+  "summaryGerman": "Zelda Reed, eine pensionierte Lehrerin, entdeckt ihre Fähigkeit, die Zeit zu manipulieren, während einer Woche unerwarteter Ereignisse und nutzt ihre Kräfte, um Probleme in ihrer Gemeinde zu lösen.",
+  "summaryDutch": "Zelda Reed, een gepensioneerde lerares, ontdekt haar vermogen om de tijd te manipuleren tijdens een week van onverwachte gebeurtenissen en gebruikt haar krachten om problemen in haar gemeenschap op te lossen.",
+  "summaryFrench": "Zelda Reed, une enseignante à la retraite, découvre sa capacité à manipuler le temps au cours d'une semaine d'événements inattendus et utilise ses pouvoirs pour résoudre des problèmes dans sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda Reed starts her week with the usual visit to the local school to mentor young teachers. A strange shimmer in her vision marks the first hint of her newfound powers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "During a production meeting for a local play, Zelda accidentally reverses time to correct a mishap. She begins to realize her potential.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "Testing her abilities, Zelda decides to speed time up to extend a perfect sunset, sharing a beautiful evening with her neighbors.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A crisis at the school leads Zelda to freeze time, saving a child from an accident. Her anonymity as a hero remains intact.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With her confidence growing, Zelda uses her time manipulation during her teaching session, providing individual attention to all her students simultaneously.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Zelda reflects on her week, realizing the potential she holds. She decides to secretly use her powers to continue her support in the community.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ensuring a quiet conclusion to an eventful week, Zelda spends the day relaxing, her thoughts diving deep into the possibilities of her powers.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Zelda Reed, once a simple teacher, now embraced her role as the timekeeper, ready to guide her community towards a brighter future.",
+  "moral": "No matter the age, one can always discover extraordinary talents within themselves."
+}

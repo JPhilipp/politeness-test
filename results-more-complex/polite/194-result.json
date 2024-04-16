@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Grace Taylor: Crochet Crusader",
+  "summary": "Grace Taylor, a 38-year-old crocheting enthusiast, uses her surprising superpower of manipulating yarn to advise and defend her neighborhood from various threats over the course of a week.",
+  "summaryGerman": "Grace Taylor, eine 38-jährige Häkelliebhaberin, nutzt ihre überraschende Superkraft, Garn zu manipulieren, um über die Dauer einer Woche ihrem Viertel Rat zu geben und es vor verschiedenen Bedrohungen zu verteidigen.",
+  "summaryDutch": "Grace Taylor, een 38-jarige haakliefhebber, gebruikt haar verrassende superkracht om garen te manipuleren om haar buurt gedurende een week te adviseren en te verdedigen tegen verschillende bedreigingen.",
+  "summaryFrench": "Grace Taylor, une passionnée de crochet âgée de 38 ans, utilise son superpouvoir surprenant de manipulation de fil pour conseiller et défendre son quartier contre diverses menaces au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Grace discovers her power to animate yarn while crocheting a blanket, quickly crafting a net to safely catch a falling cat from a tree.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesdoy",
+      "text": "Intrigued by her new abilities, Grace experiments with yarn and foil a robbery by tangling the thieves in wool until the police arrive.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Grace receives requests for advice on personal problems, using her wisdom and crocheted gifts to bring comfort to her neighbors.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "During a neighborhood meeting, Grace tactfully uses her yarn creations to mediate a heated argument, weaving bonds between disputing parties.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Amid rumors of a haunted house, Grace investigates with her thread, discovering and peacefully resolving the cause—a trapped and scared owl.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With a local fair in town, Grace uses her talent to create an impressive crochet display, delighting children with animated yarn figures.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Grace reflects on her week, realizing she’s been able to make a significant impact just by embracing her quirky power and being herself.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "In the end, Grace proves that even the most unconventional abilities can make a huge difference when combined with kindness and creativity.",
+  "moral": "Embrace your uniqueness; sometimes the quirkiest talents can be the most heroic."
+}

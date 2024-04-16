@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Grace Walker: The Silver Voice of Justice",
+  "summary": "Grace Walker, a retired 72-year-old speaker, accidentally gains the power to influence people's minds with her voice and uses it to combat local injustices throughout one transformative week.",
+  "summaryGerman": "Grace Walker, eine pensionierte 72-jährige Rednerin, erlangt zufällig die Kraft, mit ihrer Stimme die Gedanken der Menschen zu beeinflussen, und nutzt sie, um lokale Ungerechtigkeiten während einer transformativen Woche zu bekämpfen.",
+  "summaryDutch": "Grace Walker, een gepensioneerde 72-jarige spreker, krijgt per ongeluk de kracht om met haar stem de gedachten van mensen te beïnvloeden en gebruikt deze om lokale onrechtvaardigheden gedurende een transformerende week te bestrijden.",
+  "summaryFrench": "Grace Walker, une oratrice retraitée de 72 ans, acquiert par accident le pouvoir d'influencer les esprits des gens avec sa voix et l'utilise pour combattre les injustices locales tout au long d'une semaine transformatrice.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Grace Walker discovers her new powers during a town hall meeting. When she speaks, the audience is unusually attentive, their attitudes changing perceptibly.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Inspired by the previous day, Grace ventures to a rally against local park closures and speaks up. The council members begin reconsidering their decisions immediately.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Grace holds a small gathering at her home to test her powers consciously. She speaks about community and unity; her friends leave more bonded than ever before.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thusday",
+      "text": "Encouraged, Grace decides to confront a corrupt local business owner. She talks him into confessing his wrongdoings publicly, leading to his arrest.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "News of Grace’s actions spread. She’s interviewed on local television, further promoting transparency and community action, energizing her townspeople.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Grace begins feeling the strain of her new life. Doubts creep in, and she worries about the ethics of her influence. A heart-to-heart with an old friend helps restore her peace.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reinvigorated by her friend's advice, Grace holds a large community forum promoting open dialogues and solutions for ongoing issues, establishing a foundation for future activism.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "So, Grace Walker, aged 72, retired yet more potent than ever, continued using her silver voice to shape her world, tenderly and wisely.",
+  "moral": "Even unexpected powers come with great responsibility and need to be wielded with wisdom and care."
+}

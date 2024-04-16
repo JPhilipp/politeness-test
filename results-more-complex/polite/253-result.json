@@ -1,0 +1,46 @@
+{
+  "title": "The Incredible Adventures of Zelda King",
+  "summary": "Zelda King, a teacher with a passion for sewing, discovers her unique superpowers and uses them to save her city from disaster over the course of a week.",
+  "summaryGerman": "Zelda King, eine Lehrerin mit einer Leidenschaft fürs Nähen, entdeckt ihre einzigartigen Superkräfte und nutzt sie, um ihre Stadt im Laufe einer Woche vor einer Katastrophe zu retten.",
+  "summaryDutch": "Zelda King, een lerares met een passie voor naaien, ontdekt haar unieke superkrachten en gebruikt ze om haar stad te redden van een ramp in de loop van een week.",
+  "summaryFrench": "Zelda King, une enseignante passionnée de couture, découvre ses superpouvoirs uniques et les utilise pour sauver sa ville d'une catastrophe au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda King, while teaching her advanced sewing class, accidentally stitches a fabric that sparks with magical energy. She feels a surge of power and an unexpected sense of purpose.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Experimenting with her newfound abilities, Zelda crafts a costume that enhances her powers. She discovers she can manipulate textiles with her mind, feeling both excited and powerful.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesady",
+      "text": "A mysterious villain threatens the city, demanding a ransom. Zelda, donning her costume, decides to confront them, her heart pumping with adrenaline and courage.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "After a fierce battle, Zelda captures the villain using a net she crafted from the air. The city cheers for her heroism, and she feels triumphantly joyful and proud.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The mayor honors Zelda with a medal of bravery. During the ceremony, she meets a fellow superhero, sparking a new friendship blossomed by mutual respect and admiration.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Zelda spends her day teaching children in her neighborhood about the importance of using their talents for good, inspiring the next generation of heroes.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Zelda sews a new banner for her classroom, embodying the spirit of heroism and community service. She feels at peace, ready for whatever comes next.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And thus, Zelda King sewed not just fabrics, but also the fabric of community and courage.",
+  "moral": "Harness your passions and skills for the greater good; you never know when they will reveal your true potential."
+}

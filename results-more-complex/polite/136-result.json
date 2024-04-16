@@ -1,0 +1,45 @@
+{
+  "title": "The Advisory Adventures of Frank Brown",
+  "summary": "Frank Brown, a 52-year-old advisor, discovers his latent power of premonition and uses it to advise and protect his community over the course of a week.",
+  "summaryGerman": "Frank Brown, ein 52-jähriger Berater, entdeckt seine verborgene Fähigkeit der Vorahnung und nutzt sie, um seiner Gemeinde eine Woche lang Rat und Schutz zu bieten.",
+  "summaryDutch": "Frank Brown, een 52-jarige adviseur, ontdekt zijn latente kracht van voorspelling en gebruikt deze om zijn gemeenschap gedurende een week te adviseren en te beschermen.",
+  "summaryFrench": "Frank Brown, un conseiller de 52 ans, découvre son pouvoir latent de prévoyance et l'utilise pour conseiller et protéger sa communauté pendant une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank discovers his unexpected power of premonition when he successfully advises his neighbor to avoid a bad investment.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "He uses his new abilities to predict a minor car accident, helping a friend take a safer route to work.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "His powers grow stronger, leading him to a lost child in the park, bringing relief and joy to a worried family.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A disturbing vision of a local crisis puts Frank on edge. He spends the day preparing, gathering community support.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The crisis arrives: a fire in a nearby building. Equipped with his foresight, Frank organizes an efficient evacuation.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Reflecting on his week, Frank understands the responsibility and burden of his powers, advising himself to be cautious.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ending the week, Frank holds a community meeting to discuss safety improvements, earning their trust and gratitude.",
+      "mood": "epic"
+    }
+  ],
+  "moral": "With great power comes great responsibility, and using one's abilities to help others brings the greatest rewards."
+}

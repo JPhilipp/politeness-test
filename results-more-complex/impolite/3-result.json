@@ -1,0 +1,46 @@
+{
+  "title": "The Energetic Adventures of Ling Turner",
+  "summary": "Ling Turner, a 39-year-old with a passion for dancing and leading, discovers her ability to manipulate time during a dance competition, leading her to adopt the superhero persona of 'Time Twister'. Over the course of a week, she combats crime and saves her city from various threats, learning to master her powers while keeping her double life a secret.",
+  "summaryGerman": "Ling Turner, eine 39-jährige mit einer Leidenschaft für Tanz und Führung, entdeckt ihre Fähigkeit, die Zeit während eines Tanzwettbewerbs zu manipulieren, was sie dazu bringt, die Superhelden-Persönlichkeit 'Time Twister' anzunehmen. Im Laufe einer Woche bekämpft sie Verbrechen und rettet ihre Stadt vor verschiedenen Bedrohungen, während sie lernt, ihre Kräfte zu beherrschen und ihr Doppelleben geheim zu halten.",
+  "summaryDutch": "Ling Turner, een 39-jarige met een passie voor dansen en leiding geven, ontdekt haar vermogen om tijd te manipuleren tijdens een danswedstrijd, waardoor ze de superheldenpersona 'Time Twister' aanneemt. Gedurende een week bestrijdt ze criminaliteit en redt ze haar stad van verschillende bedreigingen, terwijl ze leert haar krachten te beheersen en haar dubbelleven geheim te houden.",
+  "summaryFrench": "Ling Turner, âgée de 39 ans avec une passion pour la danse et le leadership, découvre sa capacité à manipuler le temps lors d'un concours de danse, ce qui la conduit à adopter la persona de super-héros 'Time Twister'. Au cours d'une semaine, elle combat le crime et sauve sa ville de diverses menaces, apprenant à maîtriser ses pouvoirs tout en gardant sa double vie secrète.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Turner starts her week at the local dance studio, teaching kids ballet. Her mood is energetic as she incorporates unexpected moves, surprisingly finding herself dancing moments into the past.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tueday",
+      "text": "Her suspicions about her newfound powers deepen after unwittingly reversing a spill that could have injured one of her students. She spends the evening experimenting with her abilities, feeling a blend of excitement and fear.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Ling decides to use her powers for good. When a car accident happens near her studio, she reverses time just enough to prevent it, feeling triumphant at her success.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The news reports a strange 'guardian angel' around town. Ling feels romantic as she dances through the night with a mysterious stranger who shares her love for salsa and secrets.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Crime hits a low as Ling covertly uses her power to intervene in dangerous situations. Her efforts spark a new sense of heroism within her, and the city feels peaceful.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Despite her successes, Ling feels sad thinking about the solitude her secret brings. She contemplates revealing her identity to her closest friends.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ling decides to keep her secret for the greater good, understanding her responsibilities as Time Twister. Dancing by herself at sunset, she feels peaceful, ready to face whatever the next week holds.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus, Ling Turner embraced her role, dancing not just with steps, but through time itself, safeguarding her city's past, present, and future.",
+  "moral": "With great power comes great responsibility, and sometimes, great solitude."
+}

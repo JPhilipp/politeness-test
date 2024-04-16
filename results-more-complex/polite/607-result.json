@@ -1,0 +1,46 @@
+{
+  "title": "The Rise of Peggy Harris: Mentor of Might",
+  "summary": "Over one week, Peggy Harris discovers her superpower of enhancing others' skills dramatically, uses it to thwart a plot against her community, and decides to harness her gift for greater good.",
+  "summaryGerman": "Im Laufe einer Woche entdeckt Peggy Harris ihre Superkraft, die Fähigkeiten anderer dramatisch zu verbessern, verwendet sie, um eine Verschwörung gegen ihre Gemeinde zu vereiteln, und beschließt, ihre Gabe für das größere Wohl zu nutzen.",
+  "summaryDutch": "In één week ontdekt Peggy Harris haar superkracht om de vaardigheden van anderen dramatisch te verbeteren, gebruikt ze om een complot tegen haar gemeenschap te dwarsbomen, en besluit ze haar gave voor het grotere goed in te zetten.",
+  "summaryFrench": "En une semaine, Peggy Harris découvre son super pouvoir d'améliorer considérablement les compétences des autres, l'utilise pour déjouer un complot contre sa communauté, et décide d'exploiter son don pour le bien commun.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Peggy Harris, while mentoring a shy student, unknowingly uses her newly discovered powers to boost his learning ability. The session ends with significant improvements.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Tuseday",
+      "text": "Word spreads of her student's unexpected advancement. More students request Peggy’s guidance, and she feels a thrilling mix of anticipation and mystery.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Peggy realizes that her ability affects anyone she teaches. She feels both excited and burdened by the potential implications of her power.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A mysterious figure visits Peggy, warning her that her powers could be exploited. She spends the day contemplating the balance between helping and exposing herself to risks.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Peggy decides to proactively protect her students when she uncovers a plot to kidnap her most improved pupils. Using her powers subtly, she networks with local authorities for support.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The community rallies around Peggy after she helps foil the kidnapping attempt. They celebrate her bravery and unique skills in a grand gathering.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week's tumult, Peggy commits to enhancing her abilities and using them to mentor and protect. She feels peaceful and optimistic about her future.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus began the legend of Peggy Harris, the Mentor of Might, whose simple passion for teaching transformed into a formidable force for good.",
+  "moral": "With great power comes great responsibility, and even the simplest gifts can be mighty when used for the benefit of others."
+}

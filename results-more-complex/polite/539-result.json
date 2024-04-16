@@ -1,0 +1,46 @@
+{
+  "title": "The Incredible Adventures of Hubert Hughes: The Heroic Baker",
+  "summary": "Over a week, Hubert Hughes uses his baking skills and passion for education to thwart a villain's plan and save his town, teaching kids the importance of science and teamwork in the process.",
+  "summaryGerman": "Über eine Woche hinweg nutzt Hubert Hughes seine Backkünste und seine Begeisterung für Bildung, um die Pläne eines Schurken zu vereiteln und seine Stadt zu retten, wobei er den Kindern die Bedeutung von Wissenschaft und Teamarbeit vermittelt.",
+  "summaryDutch": "Gedurende een week gebruikt Hubert Hughes zijn bakvaardigheden en passie voor onderwijs om de plannen van een schurk te dwarsbomen en zijn stad te redden, waarbij hij kinderen de betekenis van wetenschap en teamwork leert.",
+  "summaryFrench": "Pendant une semaine, Hubert Hughes utilise ses compétences en pâtisserie et sa passion pour l'éducation pour déjouer le plan d'un méchant et sauver sa ville, enseignant aux enfants l'importance de la science et du travail d'équipe.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Hubert Hughes begins his week at the community center, teaching children how to bake science-themed cupcakes, infusing joy and learning into his lessons. His mood is energetic as the kids giggle and learn.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuedsay",
+      "text": "When a suspicious character is spotted tampering with the town's water supply, Hubert becomes suspicious. He gathers samples, planning to use his scientific knowledge of chemistry to analyze them.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Hubert, using his makeshift lab in the back of his bakery, finds a harmful chemical in the water. His mood is triumphant as he realizes he's onto something big.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Hubert meets with local officials to share his findings. Enthusiasm and purpose drive him, and he starts formulating a plan to cleanse the town’s water using a massive bake and science fair.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With the community’s help, Hubert organizes the largest science fair, which doubles as a bake sale. He designs a special filtration cake that playfully educates the community about chemistry and filtration.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The day of the fair arrives, and Hubert’s filtration cakes are a huge success! The villain is revealed among the crowd, exposed by the science kids Hubert taught. The mood is epic and joyful as they celebrate their victory.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Hubert holds a free baking class for everyone who helped. The mood is peaceful as the community appreciates their newly purified water and the importance of staying vigilant and educated.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And thus, Hubert Hughes proved how a dozen cupcakes could indeed save a town.",
+  "moral": "With the right knowledge and a dash of creativity, anyone can become a hero in their community."
+}

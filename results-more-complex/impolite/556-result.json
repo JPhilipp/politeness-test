@@ -1,0 +1,46 @@
+{
+  "title": "The Unstoppable Trent Hill: A Week of Heroics",
+  "summary": "Trent Hill, a 59-year-old marketing enthusiast who loves exercising, discovers his latent superpowers and battles the forces threatening his city over the course of a week.",
+  "summaryGerman": "Trent Hill, ein 59-jähriger Marketingbegeisterter, der gerne Sport treibt, entdeckt seine latenten Superkräfte und kämpft eine Woche lang gegen die Kräfte, die seine Stadt bedrohen.",
+  "summaryDutch": "Trent Hill, een 59-jarige marketingliefhebber die van sporten houdt, ontdekt zijn latente superkrachten en vecht een week lang tegen de krachten die zijn stad bedreigen.",
+  "summaryFrench": "Trent Hill, un passionné de marketing de 59 ans qui aime faire de l'exercice, découvre ses super-pouvoirs latents et combat les forces menaçant sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "On a peaceful morning run, Trent Hill discovers he can run at superhuman speed. Excited and slightly bewildered, he spends the day testing his newfound abilities.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Trent encounters his first challenge: a runaway train. Using his speed, he manages to guide the train to a safe stop. Inspired, he decides to use his powers for good.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wrdnesday",
+      "text": "With news of his heroics spreading, Trent is approached by a mysterious figure who warns him of an impending threat. The mood is tense and eerie.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "On Thursday, a massive robot attacks the city. Trent, feeling energetic, springs into action, coordinating with emergency services to save lives.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "After a fierce battle, Trent defeats the robot with the help of his marketing skills, using unexpected advertising panels as distractions and weapons.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Trent's actions have attracted a wave of media attention. On Saturday, he spends a peaceful day with his loved ones, reflecting on his new role as a protector.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Gathered in the central park, the city honors Trent with a ceremony. Feeling both romantic about his city and triumphant, he vows to keep it safe.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "As Trent Hill stood there among his fellow citizens, he knew that his later years were just the beginning of something truly epic.",
+  "moral": "It's never too late to discover your true potential and make a difference."
+}

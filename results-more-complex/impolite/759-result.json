@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Wisdom with Sue Robinson, Consulting Hero",
+  "summary": "Sue Robinson, a 55-year-old advisor, uses her wisdom and experience to prevent a corporate catastrophe and mentor a young leader in one week.",
+  "summaryGerman": "Sue Robinson, eine 55-jährige Beraterin, nutzt ihre Weisheit und Erfahrung, um innerhalb einer Woche eine Unternehmenskatastrophe zu verhindern und eine junge Führungskraft zu unterrichten.",
+  "summaryDutch": "Sue Robinson, een 55-jarige adviseur, gebruikt haar wijsheid en ervaring om in één week een bedrijfsramp te voorkomen en een jonge leider te begeleiden.",
+  "summaryFrench": "Sue Robinson, une conseillère de 55 ans, utilise sa sagesse et son expérience pour éviter une catastrophe d'entreprise et encadrer un jeune leader en une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Sue receives an urgent call from a struggling tech startup needing guidance on a critical decision that could either propel them forward or lead to their downfall.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuedsay",
+      "text": "After a deep analysis, she advises the startup to go for a risky investment, which indeed secures them a partnership with a giant tech firm.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Sue spends the day at a conference sharing her experiences, inspiring young entrepreneurs with her stories and insights.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "She discovers that an unethical competitor intends to steal the startup's newly acquired project secrets.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With clever negotiation and her vast network, Sue successfully prevents the sabotage, safeguarding the startup's future.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "To celebrate, Sue arranges a peaceful retreat with the startup team, reflecting on the week's victories and the power of good guidance.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "She mentors the startup's young CEO, passing on valuable lessons in leadership and resilience.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Thus, Sue Robinson’s week ended as it began, in the service of potential made good through wisdom.",
+  "moral": "Even a single week’s guidance, grounded in experience and wisdom, can change fortunes and shape futures."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Judy Kelly: Guardian of Genero City",
+  "summary": "Judy Kelly discovers her sculpting powers can manipulate more than clay, leading her to save locals from danger while maintaining her tutoring duties.",
+  "summaryGerman": "Judy Kelly entdeckt, dass ihre Bildhauerkräfte mehr als nur Ton manipulieren können, und nutzt sie, um Anwohner zu retten, während sie weiterhin unterrichtet.",
+  "summaryDutch": "Judy Kelly ontdekt dat haar beeldhouwkrachten meer kunnen manipuleren dan klei, waardoor ze lokale bewoners kan redden terwijl ze haar bijles taken voortzet.",
+  "summaryFrench": "Judy Kelly découvre que ses pouvoirs de sculpture peuvent manipuler plus que de l'argile, lui permettant de sauver des locaux tout en continuant ses tâches de tutorat.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy Kelly felt a strange surge of energy coursing through her hands while sculpting a miniature cityscape in her studio. Little did she know, her creation began to reflect the real Genero City outside.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "At a tutoring session, Judy noticed her student's detailed drawing of a park. Mirroring the student's ideas, Judy unknowingly sculpted the park's scene at her studio, adding protective barriers that appeared in real life the next day.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "A local café experienced a near-catastrophe, but the newly erected barriers from Judy’s sculpture deflected a runaway truck, saving many. Judy realized her creations were affecting real-world outcomes.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Eager to test her newfound power, Judy spent the night sculpting safety features throughout a model of Genero City. By morning, residents noticed subtle changes, making their commutes safer and more efficient.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Through word of mouth, Judy became the talk of the town. She continued tutoring, inspiring her students with her deeds, reinforcing the importance of using one's gifts for the good of all.",
+      "mood": "inspirational"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "As Judy refined her technique, she sculpted a beautiful communal space for Genero City, which manifested overnight. The community gathered there, basking in the peace and connectivity it offered.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Judy, now known as 'The Sculptor Guardian,' convened a class in her new park, teaching local children sculpting and the value of creativity, safeguarding the city’s future both culturally and physically.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the sun set on a grateful Genero City, Judy smiled, knowing her art and heart had sculpted a safer tomorrow.",
+  "moral": "Our unique talents, when nurtured and applied, can lead to extraordinary contributions to society."
+}

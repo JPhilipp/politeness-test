@@ -1,0 +1,46 @@
+{
+  "title": "The Resilient Week of Alice Phillips, Super Counselor",
+  "summary": "Alice Phillips, a dedicated counselor, discovers her ability to manifest the emotional strengths of her clients, using it to tackle challenges throughout a week of personal trials and victories, thus transforming both her life and those around her.",
+  "summaryGerman": "Alice Phillips, eine engagierte Beraterin, entdeckt ihre Fähigkeit, die emotionalen Stärken ihrer Klienten zu manifestieren, und nutzt sie, um Herausforderungen während einer Woche persönlicher Prüfungen und Siege zu meistern, wodurch sie ihr Leben und das der Menschen um sie herum verwandelt.",
+  "summaryDutch": "Alice Phillips, een toegewijde counselor, ontdekt haar vermogen om de emotionele krachten van haar cliënten te manifesteren, gebruikt dit om uitdagingen aan te gaan gedurende een week van persoonlijke beproevingen en overwinningen, en transformeert zo zowel haar leven als dat van de mensen om haar heen.",
+  "summaryFrench": "Alice Phillips, une conseillère dévouée, découvre sa capacité à manifester les forces émotionnelles de ses clients, utilisant cela pour relever des défis tout au long d'une semaine d'épreuves personnelles et de victoires, transformant ainsi sa vie et celle de son entourage.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Alice discovers her unique power after a deeply emotional counseling session. A client's resilience manifests as a glowing aura that Alice absorbs, feeling instantly empowered.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Empowered by her new abilities, Alice uses them to dissolve an escalating conflict in a community meeting, bringing a sense of peace to the room.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wedenesday",
+      "text": "At a local school, Alice helps a bullied student find strength. Her powers turn the student's fear into confidence, leaving Alice feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Alice encounters a setback when her powers falter during a session, challenging her to rely on her innate skills. The experience ends on a positive note, reinforcing her self-confidence.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Alice meets a young couple in crisis. She channels the romantic energy of their better days, helping them reconcile and rediscover their love.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a charity event, Alice feels an overwhelming sense of community spirit which she amplifies to encourage generosity. The event becomes a huge success.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Alice realizes the profound impact of her powers on others and herself. She commits to using them responsibly.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus, Alice Phillips found new strength, not just in her powers, but in her heart.",
+  "moral": "True strength lies not only in our abilities but in how we choose to use them to better the world."
+}

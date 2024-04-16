@@ -1,0 +1,46 @@
+{
+  "title": "The Bargaining Tutor: The Adventures of Pit Thomas",
+  "summary": "Pit Thomas discovers his ability to manipulate time while tutoring and uses it to combat crime, learning the importance of balance and responsibility.",
+  "summaryGerman": "Pit Thomas entdeckt seine Fähigkeit, die Zeit zu manipulieren, während er Nachhilfe gibt und nutzt sie, um Kriminalität zu bekämpfen. Dabei lernt er die Bedeutung von Gleichgewicht und Verantwortung.",
+  "summaryDutch": "Pit Thomas ontdekt zijn vermogen om tijd te manipuleren tijdens het geven van bijles en gebruikt dit om misdaad te bestrijden, waarbij hij het belang van evenwicht en verantwoordelijkheid leert.",
+  "summaryFrench": "Pit Thomas découvre sa capacité à manipuler le temps pendant qu'il donne des cours particuliers et l'utilise pour lutter contre le crime, apprenant ainsi l'importance de l'équilibre et de la responsabilité.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Pit Thomas, while tutoring a physics student on the concepts of time, accidentally discovers his unique ability to slow down time. This epiphany leaves him astonished and eager to explore his newfound powers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Excited by his discovery, Pit practices his abilities during a bargaining session at a local flea market. He successfully uses it to get incredible deals, but feels a pang of guilt for using his powers for personal gain.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "A news report about a bank robbery catches Pit's attention. Feeling responsible, he decides to use his time manipulation skills to thwart the crime, successfully stopping the robbers and tying them up before the police arrive.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Pit reflects on the consequences of using his powers. He realizes that with great power comes great responsibility and decides to only use his abilities for the greater good, refining his control over time.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "When the mayor of the city gets kidnapped, Pit springs into action. He uses his powers to infiltrate the criminal hideout and rescues the mayor, earning the gratitude of the city.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Feeling proud but overwhelmed, Pit takes a day off to rest and visit his family, sharing his secret only with his closest sibling who promises to keep it confidential.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "As the week concludes, Pit decides to offer his tutoring services for free to underprivileged kids, using his powers discreetly to give them extra time on exams, solidifying his resolve to use his gift to help others.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, the once ordinary Pit Thomas becomes a guardian of time, balancing his life between tutoring and quietly safeguarding the city.",
+  "moral": "With great power comes great responsibility."
+}

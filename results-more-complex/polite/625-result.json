@@ -1,0 +1,46 @@
+{
+  "title": "The Compassionate Chronicles of Oscar Cook",
+  "summary": "Oscar Cook, a retired teacher and devoted community advisor, miraculously gains powers to anticipate people's needs. In one week, he selflessly averts disasters and soothes hearts, proving the timeless impact of kindness.",
+  "summaryGerman": "Oscar Cook, ein pensionierter Lehrer und engagierter Gemeindeberater, erhält auf wundersame Weise die Fähigkeit, die Bedürfnisse der Menschen vorherzusehen. In einer Woche verhindert er selbstlos Katastrophen und beruhigt Herzen und beweist so die zeitlose Wirkung von Freundlichkeit.",
+  "summaryDutch": "Oscar Cook, een gepensioneerde leraar en toegewijde gemeenschapsadviseur, krijgt op miraculeuze wijze de krachten om de behoeften van mensen te anticiperen. In één week voorkomt hij belangeloos rampen en verzacht harten, waarmee hij de tijdloze impact van vriendelijkheid bewijst.",
+  "summaryFrench": "Oscar Cook, un enseignant à la retraite et conseiller communautaire dévoué, acquiert miraculeusement le pouvoir d'anticiper les besoins des gens. En une semaine, il évite altruistement des catastrophes et apaise les cœurs, prouvant ainsi l'impact intemporel de la gentillesse.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Starting his week, Oscar discovers he can feel when someone nearby is in distress. He guides a lost child back to her parents at the park.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuesady",
+      "text": "Oscar prevents a kitchen fire in his neighbor’s apartment with a timely advice about an unattended stove, spreading calm.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "He advises a heartbroken teenager at the community center, sharing wisdom that mends a young spirit.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Oscar feels a mysterious urge to visit the local bridge, where he stops a person from making a life-ending decision.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "At a city hall meeting, he speaks up about the importance of community gardens, leading a charge for green spaces.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Walking through the farmers’ market, he helps reunite two old friends who hadn’t seen each other for decades.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Oscar organizes a neighborhood potluck that brings everyone together, wrapping up an inspiring week.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And thus, Oscar Cook learned that superpowers don’t always come in flashy forms; often, they are the quiet threads that weave a community together.",
+  "moral": "The truest form of power is the ability to positively influence the lives of others."
+}

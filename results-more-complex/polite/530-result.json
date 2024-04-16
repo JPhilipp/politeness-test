@@ -1,0 +1,46 @@
+{
+  "title": "The Unlikely Adventures of Sue Hayes, Super Trader",
+  "summary": "Over a week, Sue Hayes discovers her superpower of influencing markets through her cooking, which she uses to combat economic crimes.",
+  "summaryGerman": "Über eine Woche entdeckt Sue Hayes ihre Superkraft, Märkte durch ihr Kochen zu beeinflussen, die sie nutzt, um Wirtschaftsverbrechen zu bekämpfen.",
+  "summaryDutch": "Gedurende een week ontdekt Sue Hayes haar superkracht om markten te beïnvloeden met haar koken, die ze gebruikt om economische misdaden te bestrijden.",
+  "summaryFrench": "Au cours d'une semaine, Sue Hayes découvre son super pouvoir d'influencer les marchés par sa cuisine, qu'elle utilise pour combattre les crimes économiques.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Sue Hayes spends her morning trading stocks, noticing unusual patterns that hint at possible market manipulation. She decides to investigate further.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While cooking her famous chili, Sue accidentally spills an exotic spice into the mix. She later realizes the spice came from a rare plant with mind-enhancing properties.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesady",
+      "text": "On her way to the market, Sue encounters a frantic investor talking about a potential crash. Using her enhanced senses, she calms him with her special chili, gaining insightful stock tips.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Using the tips, Sue uncovers a scheme to crash the market. She devises a plan to use her cooking to bring the perpetrators to justice.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Sue hosts a dinner party for key investors. She serves her enchanted chili, which helps them see the harmful impact of their actions, leading to confessions and reform.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The news breaks out about Sue's role in preventing the market crash. She becomes a hero, admired for her unique blend of culinary and trading skills.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Resting at home, Sue reflects on her week, realizing that her cooking can do more than just feed. It can also educate and reform.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And that was how Sue Hayes seasoned her way to justice, one dish at a time.",
+  "moral": "Never underestimate the power of a good meal and a clear conscience."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Judy Rodriguez: Hero in the City",
+  "summary": "Judy Rodriguez discovers her unique power to amplify people's skills through her words, which she uses to halt a corporate espionage in her town over a week.",
+  "summaryGerman": "Judy Rodriguez entdeckt ihre einzigartige Fähigkeit, die Fähigkeiten der Menschen durch ihre Worte zu verstärken, die sie verwendet, um eine Wirtschaftsspionage in ihrer Stadt über eine Woche zu stoppen.",
+  "summaryDutch": "Judy Rodriguez ontdekt haar unieke kracht om de vaardigheden van mensen te versterken met haar woorden, die ze gebruikt om een bedrijfsspionage in haar stad gedurende een week te stoppen.",
+  "summaryFrench": "Judy Rodriguez découvre son pouvoir unique d'amplifier les compétences des gens grâce à ses mots, qu'elle utilise pour arrêter un espionnage corporatif dans sa ville sur une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy Rodriguez, an energetic marketing consultant, feels unusually energetic while leading a promotional seminar. She accidentally inspires a participant with dormant art skills to start a new career.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tueday",
+      "text": "After discovering her power, Judy feels triumphant and decides to test her abilities by instructing her neighbors. They quickly excel at activity they had barely performed before.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Judy receives eerie anonymous messages warning her to cease her newfound activities. Unfazed, she uses her promoting skills to rally her community against local injustices.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Unknown adversaries attempt to sabotage her efforts, leading Judy into an epic confrontation. She gives a speech that invigorates the entire town to stand together.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Amid growing support, Judy uncovers a plan to steal town's business secrets. Using her promotional talents, she sets a trap by announcing a fake seminar decoy.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The trap catches the corporate spies, broadcasting their confession live. Judy's community celebrates their peace, and she realizes the power of purposeful promotion.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Feeling peaceful, Judy reflects on her week. She pledges to use her power responsibly, ensuring her city remains a beacon of empowerment and unity.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Judy Rodriguez continued her journey, forever changing her community one inspiring word at a time.",
+  "moral": "Even the simplest words can carry the power to change lives when spoken with enough belief and intent."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Incredible Adventures of Frank Martinez: Programmer by Day, Hero by Night",
+  "summary": "Frank Martinez, a 31-year-old programmer, discovers his latent superpowers and uses them to save his city from a looming cyber threat over the course of a week.",
+  "summaryGerman": "Frank Martinez, ein 31-jähriger Programmierer, entdeckt seine verborgenen Superkräfte und nutzt sie, um seine Stadt im Laufe einer Woche vor einer drohenden Cyber-Bedrohung zu retten.",
+  "summaryDutch": "Frank Martinez, een 31-jarige programmeur, ontdekt zijn latente superkrachten en gebruikt ze om zijn stad te redden van een dreigende cyberdreiging gedurende een week.",
+  "summaryFrench": "Frank Martinez, un programmeur de 31 ans, découvre ses superpouvoirs latents et les utilise pour sauver sa ville d'une menace cybernétique imminente au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank Martinez, feeling energetic, starts his week at a tech conference, unaware that he is about to encounter a mysterious device that grants him superhuman abilities.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Investigating the device, Frank feels an eerie chill as it binds with him, enhancing his intellect and reflexes.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Using his new powers, Frank develops a software to trace cyber threats, leading him into a confrontation with digital thieves.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thrusday",
+      "text": "The battle continues into Thursday, as Frank saves an online banking system from a massive cybersecurity breach, feeling unstoppable and epic.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "After the hectic week, Frank shares his experiences in a lecture on cybersecurity, inspiring others while feeling deeply peaceful.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A surprise visit from a colleague leads to a brainstorming session on future security technologies, all wrapped in a romantic evening under the stars.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his adventures, Frank feels happy and content, ready to face new challenges with his powers.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As Frank Martinez settled into a routine, the city quietly whispered its new nickname for their quiet protector, 'The Guardian Coder'.",
+  "moral": "With great power comes great responsibility and the chance to make a positive impact."
+}

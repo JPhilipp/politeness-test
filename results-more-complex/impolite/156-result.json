@@ -1,0 +1,46 @@
+{
+  "title": "The Weaving Wisdom of Victor Rogers",
+  "summary": "Victor Rogers, a 79-year old who combines his hobbies of planning and weaving into his superpowers, protects his city from a mysterious threat over the course of a week.",
+  "summaryGerman": "Victor Rogers, ein 79-jähriger, der seine Hobbys Planen und Weben zu seinen Superkräften macht, beschützt seine Stadt vor einer mysteriösen Bedrohung im Laufe einer Woche.",
+  "summaryDutch": "Victor Rogers, een 79-jarige die zijn hobby's plannen en weven combineert tot zijn superkrachten, beschermt zijn stad tegen een mysterieuze dreiging gedurende een week.",
+  "summaryFrench": "Victor Rogers, un homme de 79 ans qui combine ses passe-temps de planification et de tissage en super-pouvoirs, protège sa ville contre une menace mystérieuse au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "At the start of the week, Victor Rogers discovers a strange pattern in the tapestries he weaves, hinting at a looming danger. He feels an eerie mood settle over him as day turns to night.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tueesday",
+      "text": "Victor spends the day making plans, using his intricate knowledge of weaving patterns to predict and strategize against the threat. His mood is energetic as he feels equipped to face the challenge.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Armed with his newly crafted strategic defenses, Victor intercepts the first minor attacks. His actions bring a triuimphant mood as he successfully thwarts the villains.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The enemy retaliates with a stronger onslaught, disrupting the peace of the city. Victor feels sad as he witnesses the impact on his fellow citizens.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Reinvigorated, Victor adapts his tactics, weaving protective barriers throughout key city areas. The air buzzes with an epic sense as Victor's preparations unfold.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The tides turn when Victor decodes a major plot, thanks to the patterns in his weavings combined with his planning skills. A romantic mood floods him as the community shows immense love and support.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The final battle ensues – waves of confrontation followed by moments of strategic brilliance. Victor, aged but wise, leads his city to a peaceful victory, ending the week feeling completely triumphant.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "And so, Victor Rogers, with threads and plans, spun safety back into the weave of his city.",
+  "moral": "Wisdom and preparation combined can unravel the toughest of challenges."
+}

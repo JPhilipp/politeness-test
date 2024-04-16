@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Ling Harris: A Week of Guiding Light",
+  "summary": "Ling Harris, a 74-year-old superhero with a knack for guiding and leading, discovers a powerful artifact, teaches young heroes, and saves the city from a looming threat over the course of a week.",
+  "summaryGerman": "Ling Harris, ein 74-jähriger Superheld mit einem Talent für Führung, entdeckt ein mächtiges Artefakt, lehrt junge Helden und rettet die Stadt vor einer drohenden Gefahr über den Verlauf einer Woche.",
+  "summaryDutch": "Ling Harris, een 74-jarige superheld met een talent voor gidsen en leiden, ontdekt een krachtig artefact, leert jonge helden en redt de stad van een dreigende dreiging in de loop van een week.",
+  "summaryFrench": "Ling Harris, un super-héros de 74 ans doué pour guider et diriger, découvre un artefact puissant, enseigne à de jeunes héros et sauve la ville d'une menace imminente au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Harris started her week with a refreshing walk at dawn. During her stroll, she stumbled upon an ancient artifact buried beneath a tree in her favorite park. The artifact emitted a calm, yet powerful glow.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Filled with energy from her discovery, Ling met with a group of young local heroes, teaching them the importance of wisdom and patience in leadership. She shared stories of her past adventures.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Testing out the artifact, Ling found it enhanced her abilities to guide others. She used this newfound power to help the city's workers avoid a subway crisis caused by unforeseen technical failures.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thusday",
+      "text": "Ling spent the day exploring the full range of the artifact's powers. She realized it could show visions of the future but decided such power needed to be used sparingly and wisely.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The city faced a sudden threat when a forgotten villain resurfaced. Ling, using both her leadership skills and the artifact, coordinated the young heroes in a battle to defend the city.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After the battle, Ling took the young heroes to her favorite hill overlooking the city. There, she gave a moving speech about unity and resilience, strengthening their bond and commitment to protecting their home.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Feeling fulfilled but knowing the artifact was too powerful to keep, Ling Harris decided to hide it where no one but the most worthy could find it, protecting future generations.",
+      "mood": "sad"
+    }
+  ],
+  "ending": "As the sun set on Sunday, Ling Harris gazed at the city skyline, content with the peace she had secured and the leaders she had nurtured.",
+  "moral": "True leadership lies not in possessing power, but in knowing when and how to share it."
+}

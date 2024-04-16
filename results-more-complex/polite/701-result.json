@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Shield of Mallory Wood",
+  "summary": "Mallory Wood, a 45-year-old consultant and lecturer, discovers her ability to become invisible and uses it to protect her community over a course of a week.",
+  "summaryGerman": "Mallory Wood, eine 45-jährige Beraterin und Dozentin, entdeckt ihre Fähigkeit, unsichtbar zu werden und nutzt sie, um ihre Gemeinde im Laufe einer Woche zu schützen.",
+  "summaryDutch": "Mallory Wood, een 45-jarige consultant en docente, ontdekt haar vermogen om onzichtbaar te worden en gebruikt dit om haar gemeenschap gedurende een week te beschermen.",
+  "summaryFrench": "Mallory Wood, consultante et conférencière de 45 ans, découvre sa capacité à devenir invisible et l'utilise pour protéger sa communauté au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Mallory Wood accidentally becomes invisible while experimenting with a new lecture technique involving quantum physics and personal barriers. Feeling confused yet intrigued, she decides to explore her new ability.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuseday",
+      "text": "Still adjusting to her powers, Mallory uses her invisibility to overhear a dubious plan at the local corporation. She anonymously tips off the authorities, preventing a major data breach.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Encouraged by her success, Mallory speaks at a community center about personal safety and secretly foils a pickpocket operation in the crowd.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Feeling the weight of her secret, Mallory contemplates the ethical implications of her power during a lonely morning jog. She resolves to use her power only for good.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Mallory becomes the invisible hero at a local bank, stopping a robbery by leading the police to the suspects without revealing her presence.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Taking a day off, Mallory spends time with her family, who are unaware of her abilities. She feels peaceful yet distant, contemplating the dual life she now leads.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Mallory inspires her seminar attendees with a talk on unseen heroes in society, hinting at her own acts while maintaining her anonymity.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Mallory Wood's journey as the silent guardian of her community continued, her unseen presence a constant shield against unseen threats.",
+  "moral": "Great power requires not only responsibility but also discretion."
+}

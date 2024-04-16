@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Sue Brown, Unlikely Guardian",
+  "summary": "Sue Brown, a 34-year-old coach and teacher, discovers her hidden abilities and courage as she faces unexpected challenges in her community, using her powers to save lives and inspire her students.",
+  "summaryGerman": "Sue Brown, eine 34-jährige Trainerin und Lehrerin, entdeckt ihre verborgenen Fähigkeiten und ihren Mut, als sie unerwarteten Herausforderungen in ihrer Gemeinde begegnet, indem sie ihre Kräfte nutzt, um Leben zu retten und ihre Schüler zu inspirieren.",
+  "summaryDutch": "Sue Brown, een 34-jarige coach en leraar, ontdekt haar verborgen vaardigheden en moed als ze onverwachte uitdagingen in haar gemeenschap het hoofd biedt, waarbij ze haar krachten gebruikt om levens te redden en haar studenten te inspireren.",
+  "summaryFrench": "Sue Brown, une entraîneuse et enseignante de 34 ans, découvre ses capacités cachées et son courage face à des défis inattendus dans sa communauté, utilisant ses pouvoirs pour sauver des vies et inspirer ses élèves.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "While coaching her school's football team, Sue inadvertently discovers her ability to manipulate time when a stray ball heads towards a young student. She slows time enough to avert disaster.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Inspired by yesterday’s event, Sue spends the day contemplating her new-found power. Her day at school passes with her senses heightened, noticing small details she never saw before.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "Sue uses her time powers in class to give more personalized attention to each student, resulting in a notably improved class atmosphere and learning experience.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "After school, a fire breaks out nearby. Sue stops time and rescues two people from the flames. Word starts to spread about a mysterious hero.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Overwhelmed by her responsibilities as a teacher and a newfound hero, Sue struggles to balance both lives. She feels the weight of keeping her secret.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Embracing her role, Sue confidently uses her abilities in public to thwart a robbery, solidifying her reputation as a local superhero.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Resting at home, Sue reflects on her week, feeling peaceful about her dual roles and the positive impact she can now have on her community.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As Sue looked out over her calm neighborhood, she knew that her dual life of teaching and heroics was just beginning.",
+  "moral": "With great power comes the great responsibility to both use it wisely and maintain one's own well-being."
+}

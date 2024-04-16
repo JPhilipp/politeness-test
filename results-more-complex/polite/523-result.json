@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Judy Johnson",
+  "summary": "Judy Johnson, a 58-year-old with a passion for coaching, gains superpowers to help her community, facing challenges and making tough decisions over the course of a week.",
+  "summaryGerman": "Judy Johnson, eine 58-Jährige mit einer Leidenschaft für Coaching, erhält Superkräfte, um ihrer Gemeinde zu helfen, wobei sie im Laufe einer Woche Herausforderungen begegnet und schwere Entscheidungen trifft.",
+  "summaryDutch": "Judy Johnson, een 58-jarige met een passie voor coaching, krijgt superkrachten om haar gemeenschap te helpen, waarbij ze gedurende een week uitdagingen het hoofd biedt en moeilijke beslissingen neemt.",
+  "summaryFrench": "Judy Johnson, une femme de 58 ans passionnée de coaching, acquiert des superpouvoirs pour aider sa communauté, affrontant des défis et prenant des décisions difficiles au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy discovers she can communicate telepathically with others to provide guidance. She uses this power to successfully help a local team strategize for an upcoming competition, feeling 'triumphant'.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Feeling the strain of her new abilities, Judy helps resolve a conflict between neighbors. Her intervention leads to a peaceful resolution, proving that words can be mightier than actions.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "An eerie silence falls over Judy's town. She senses a looming threat and spends the day preparing, gathering information and formulating plans with her newly formed 'mind network'.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The threat reveals itself as a misinformed public figure spreading chaos through misinformation. Judy, using her coaching skills and superpower, steers a town hall meeting to restore order and truth.",
+      "mood": "heroic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Energized by the week's successes, Judy hosts a workshop to empower others with leadership and conflict resolution skills. Her enthusiasm inspires many, feeling 'energetic'.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Taking a personal day, Judy reflects on her actions and the personal cost of her powers. She spends time with loved ones, feeling 'romantic' amidst her relationships.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Judy decides to formalize her role in the community, creating a non-profit to support her efforts. She feels 'epic' as she lays down the foundation for a lasting impact.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "By the end of the week, Judy Johnson had transformed from a dedicated coach to a beloved community superhero, proving that with great power comes great responsibility.",
+  "moral": "The true measure of a hero lies not in the power they hold, but in the lives they improve."
+}

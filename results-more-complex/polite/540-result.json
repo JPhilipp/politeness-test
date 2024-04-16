@@ -1,0 +1,46 @@
+{
+  "title": "The Energetic Adventures of Mallory Brooks: The Baking Hero",
+  "summary": "Mallory Brooks discovers her superpowers through an unusual event at her bakery, using her abilities to help her community while balancing her love for baking and knitting.",
+  "summaryGerman": "Mallory Brooks entdeckt ihre Superkräfte durch ein ungewöhnliches Ereignis in ihrer Bäckerei und nutzt ihre Fähigkeiten, um ihrer Gemeinde zu helfen, während sie ihre Liebe zum Backen und Stricken ausbalanciert.",
+  "summaryDutch": "Mallory Brooks ontdekt haar superkrachten door een ongewoon voorval in haar bakkerij, en gebruikt haar vaardigheden om haar gemeenschap te helpen terwijl ze haar liefde voor bakken en breien in evenwicht houdt.",
+  "summaryFrench": "Mallory Brooks découvre ses super-pouvoirs grâce à un événement inhabituel dans sa boulangerie, utilisant ses capacités pour aider sa communauté tout en équilibrant son amour pour la pâtisserie et le tricot.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Mallory Brooks, while baking her famous cinnamon rolls, accidentally discovers that she can control heat with her mind, which improves her baking significantly.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Feeling curious, Mallory experiments with her powers at her knitting club, accidentally knitting a scarf that's warm as sunshine regardless of the cold weather.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "Rumors of her warm crafts spread, attracting the town's chilly soccer mom group, who request dozens of the magical scarves for their children.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Mallory uses her heat control powers to save a local homeless shelter from freezing by subtly warming the building, unnoticed by others.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The town recognizes Mallory's good deeds after a small child she helped reveals her secret. The community throws a party in her bakery in honor.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Inspired by the support, Mallory decides to officially use her powers for good, creating a side business, 'Warm Wonders', dedicated to warm wearables.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Mallory feels grateful and content, knitting by the fireplace, ready for whatever new adventures may come her way.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus, Mallory Brooks, the Baking Hero, continued to spread warmth and joy, proving that every passion has the power to change the world.",
+  "moral": "Embrace your unique talents; they might be just what the world needs."
+}

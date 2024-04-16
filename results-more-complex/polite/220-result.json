@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Heroism of Sue Patterson",
+  "summary": "At age 66, Sue Patterson discovers her unique power to inspire and transform the community through her skills in coaching and editing, overcoming a sinister plot to undermine local youth self-esteem.",
+  "summaryGerman": "Im Alter von 66 Jahren entdeckt Sue Patterson ihre einzigartige Fähigkeit, die Gemeinschaft durch ihre Fähigkeiten im Coaching und Editieren zu inspirieren und zu verwandeln und vereitelt dabei eine heimtückische Intrige, die darauf abzielt, das Selbstwertgefühl lokaler Jugendlicher zu untergraben.",
+  "summaryDutch": "Op 66-jarige leeftijd ontdekt Sue Patterson haar unieke kracht om de gemeenschap te inspireren en te transformeren door haar vaardigheden in coaching en redactie, en overwint ze een sinister complot om het zelfvertrouwen van plaatselijke jongeren te ondermijnen.",
+  "summaryFrench": "À 66 ans, Sue Patterson découvre son pouvoir unique d'inspirer et de transformer la communauté grâce à ses compétences en coaching et en édition, surmontant un complot sinistre visant à saper l'estime de soi des jeunes locaux.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Sue Patterson, a retired editor and local sports coach, discovers she can hear people's deepest wishes when coaching her neighborhood kids.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "With her newfound ability, Sue spends the day editing an article to boost community morale, sensing it will have a profound impact.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "Shocked to overhear plans from a corrupt businessman to build over the local park, Sue uses her skills to start a counter-movement.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Sue coaches her team, imparting strength and courage. Her words, mysteriously, have never been more powerful or direct.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Community support grows, as Sue and her team of local heroes organize a large rally to save the park.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The rally is a major success. The businessman's plans are publicly exposed, saving the park and emboldening the community.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Sue feels content that her skills and unusual power made a real difference. She vows to continue her quiet influence.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Sue Patterson proved that heroes come in all ages, and that each day holds the potential for greatness.",
+  "moral": "Always use your unique talents to influence the world positively; you never know whose life you might change."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Crocheting Crusader: The Adventures of Romeo Peterson",
+  "summary": "Romeo Peterson, an 18-year old with a passion for crocheting, discovers he can manipulate time while at his hobby. Over a week, he learns to control his powers, thwarting a crime each day, and ultimately saving his city from disaster.",
+  "summaryGerman": "Romeo Peterson, ein 18-Jähriger mit einer Leidenschaft für Häkeln, entdeckt, dass er die Zeit manipulieren kann, während er seinem Hobby nachgeht. Über eine Woche lernt er, seine Kräfte zu kontrollieren, vereitelt jeden Tag ein Verbrechen und rettet letztendlich seine Stadt vor einer Katastrophe.",
+  "summaryDutch": "Romeo Peterson, een 18-jarige met een passie voor haken, ontdekt dat hij tijd kan manipuleren terwijl hij zijn hobby uitoefent. Gedurende een week leert hij zijn krachten te beheersen, elke dag een misdaad te dwarsbomen en uiteindelijk zijn stad te redden van een ramp.",
+  "summaryFrench": "Romeo Peterson, un jeune de 18 ans passionné par le crochet, découvre qu'il peut manipuler le temps pendant qu'il pratique son hobby. Au cours d'une semaine, il apprend à contrôler ses pouvoirs, déjouant un crime chaque jour, et finalement sauve sa ville d'une catastrophe.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Romeo Peterson finishes a crocheted cap and feels a strange surge of energy. He accidentally reverses time, undoing a minor mistake in his crochet work.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Experimenting with his newfound abilities, Romeo narrowly prevents an accident by rewinding time just enough to warn a pedestrian.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "Romeo starts training with his powers, using yarn as focus objects to better control time shifts. He stops a theft at a local store.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Romeo feels the toll of using his powers but continues to help. He averts a subway accident, saving hundreds of lives.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Romeo becomes a local hero. He attends a gathering in his honor, where he feels both love and support from the community.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "News spreads of Romeo’s deeds. He’s contacted by other heroes to form a team. Together, they address a bank heist.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Romeo reflects on his week, realizing his potential to not only foresee but prevent future disasters. He vows to protect his city.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus began the legend of The Crocheting Crusader, a hero not bound by time, but by the threads of justice and community bonds.",
+  "moral": "Every individual has unique talents that, when discovered, can be harnessed for the greater good."
+}

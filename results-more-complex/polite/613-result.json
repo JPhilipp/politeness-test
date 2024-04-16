@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Ling Johnson: The Counselor Hero",
+  "summary": "Over the span of one week, Ling Johnson, a counselor with special powers, tackles various challenges facing his community, using his unique abilities to guide and protect the people around him.",
+  "summaryGerman": "Im Laufe einer Woche nimmt Ling Johnson, ein Berater mit besonderen Fähigkeiten, verschiedene Herausforderungen in seiner Gemeinde an, indem er seine einzigartigen Fähigkeiten nutzt, um die Menschen um ihn herum zu führen und zu schützen.",
+  "summaryDutch": "Gedurende een week gaat Ling Johnson, een counselor met speciale krachten, verschillende uitdagingen aan die zijn gemeenschap treffen, waarbij hij zijn unieke vaardigheden gebruikt om de mensen om hem heen te begeleiden en te beschermen.",
+  "summaryFrench": "Au cours d'une semaine, Ling Johnson, un conseiller doté de pouvoirs spéciaux, relève divers défis auxquels sa communauté est confrontée, utilisant ses capacités uniques pour guider et protéger les gens autour de lui.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Johnson starts his week feeling energetic as he helps resolve a dispute among local shopkeepers, preventing a potential feud.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Ling senses an eerie mood settling over the park where he often goes for walks. Using his counseling skills, he helps a lost child dealing with fear.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednezday",
+      "text": "A building fire strikes fear in the heart of the city. Ling, calm and peaceful, uses his powers of persuasion to assist in the evacuation and soothes panicked citizens.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Feeling triumphant, Ling successfully organizes a community event to foster neighborhood camaraderie, which turns out to be a huge success.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Ling feels romantic as he encounters someone who shares his passion for counseling during a conference. They spend the day sharing insights and experiences.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Ling tackles environmental issues by leading a local cleanup initiative, making everyone involved feel united and epic in their community-saving venture.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ending his week on a sad note, Ling deals with the aftermath of the previous events, saddened by the fact that not all issues can be resolved so quickly, but hopeful for the future.",
+      "mood": "sad"
+    }
+  ],
+  "ending": "As the sun sets on Sunday, Ling Johnson reflects on the trials and triumphs of the past week, recognizing that every challenge is an opportunity for growth.",
+  "moral": "Even the smallest actions can lead to the biggest changes; always strive to make a positive impact."
+}

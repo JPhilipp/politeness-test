@@ -1,0 +1,46 @@
+{
+  "title": "The Negotiator: The Tale of Walter Long",
+  "summary": "Walter Long, a humble tutor with a knack for negotiation, discovers his ability to influence emotions. Throughout one week, he uses his powers to resolve conflicts, teach students, and eventually prevent a city-wide disaster, coming to terms with his responsibilities as a superhero.",
+  "summaryGerman": "Walter Long, ein bescheidener Tutor mit einem Talent für Verhandlungen, entdeckt seine Fähigkeit, Emotionen zu beeinflussen. Innerhalb einer Woche nutzt er seine Kräfte, um Konflikte zu lösen, Schüler zu unterrichten und schließlich eine stadtweite Katastrophe zu verhindern, wobei er seine Verantwortung als Superheld akzeptiert.",
+  "summaryDutch": "Walter Long, een bescheiden tutor met een talent voor onderhandelen, ontdekt zijn vermogen om emoties te beïnvloeden. Gedurende één week gebruikt hij zijn krachten om conflicten op te lossen, studenten te onderwijzen en uiteindelijk een stadsbrede ramp te voorkomen, en komt hij tot termen met zijn verantwoordelijkheden als superheld.",
+  "summaryFrench": "Walter Long, un tuteur humble avec un don pour la négociation, découvre sa capacité à influencer les émotions. Tout au long d'une semaine, il utilise ses pouvoirs pour résoudre des conflits, enseigner aux étudiants et finalement prévenir un désastre à l'échelle de la ville, acceptant ses responsabilités en tant que super-héros.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Walter Long spends his morning tutoring high school students. Unbeknownst to him, his mere presence calms a heated dispute outside the classroom.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While negotiating a contract for a fellow educator, Walter inadvertently uses his newfound power to settle the argument in favor, noticing the unusual ease of the agreement.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Feeling the potential of his abilities, Walter mediates a neighborhood dispute, bringing a touching reconciliation between long-time rivals. He begins to grasp his power over emotional states.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Experimenting with his powers, Walter helps mend strained relationships among his colleagues. Excited, he pushes too hard, causing some undue stress and self-reflection on ethics.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Realizing the responsibility that comes with his powers, Walter proceeds with caution. He spends a quiet day reflecting and training his abilities, aiming to control them better.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Walter is called upon to resolve a potentially explosive community protest. With great concentration and skill, he guides the crowd to a peaceful resolution.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "As his week concludes, Walter knows he can't escape the mantle he’s unwittingly taken up. He commits to using his gifts to advocate for peace and understanding in his community.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus, Walter Long, once just a tutor, becomes 'The Negotiator', a beacon of hope and understanding.",
+  "moral": "With great power comes great responsibility; use your gifts to foster peace and understanding."
+}

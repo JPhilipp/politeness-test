@@ -1,0 +1,46 @@
+{
+  "title": "The Rise of Grace Butler: The Consulting Hero",
+  "summary": "Grace Butler, a 21-year-old coaching and consulting hobbyist, discovers her superpowers and combats a mysterious corporation, transforming herself into a heroic figure over the course of a week.",
+  "summaryGerman": "Grace Butler, eine 21-jährige Hobbyberaterin, entdeckt ihre Superkräfte und bekämpft eine geheimnisvolle Gesellschaft, und verwandelt sich im Laufe einer Woche in eine Heldin.",
+  "summaryDutch": "Grace Butler, een 21-jarige hobbycoach en consultant, ontdekt haar superkrachten en vecht tegen een mysterieus bedrijf, en transformeert zichzelf in de loop van een week in een heldhaftige figuur.",
+  "summaryFrench": "Grace Butler, une jeune femme de 21 ans passionnée de coaching et de conseil, découvre ses superpouvoirs et combat une entreprise mystérieuse, se transformant en héroïne au fil d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Grace discovers her ability to visualize solutions with supernatural clarity during a consulting session. An unknown observer notes her talent.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "She uses her power at a startup pitch, helping them restructure their strategy. Grace feels surprisingly invigorated.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "The mysterious corporation sends agents to gauge her abilities. Grace outruns and outsmarts them using her quick thinking.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Feeling the weight of the attention, Grace confides in her mentor, who encourages her to embrace her gifts for the greater good.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Deciding to take action, Grace uses her consulting sessions to subtly dismantle the corporation's influence from within.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Her actions lead to a community uprising, supporting her in a peaceful protest. She feels overwhelmingly supported and strong.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The peaceful resolution leads to reforms in corporate accountability. Grace feels triumphant and prepared for her next challenge.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "As the sun set on Sunday, Grace knew that her journey was just beginning, but she was ready to face whatever came next.",
+  "moral": "True power lies in empowering others."
+}

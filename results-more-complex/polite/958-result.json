@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Pit Turner: A Week of Heroism",
+  "summary": "Pit Turner, a hobbyist director and tutor, discovers his superpower of manipulating time during a week filled with danger and intrigue, using it to both save his city and inspire his students.",
+  "summaryGerman": "Pit Turner, ein Hobby-Regisseur und Tutor, entdeckt während einer Woche voller Gefahren und Intrigen seine Superkraft, die Zeit zu manipulieren, und nutzt sie, um sowohl seine Stadt zu retten als auch seine Schüler zu inspirieren.",
+  "summaryDutch": "Pit Turner, een hobbyregisseur en tutor, ontdekt zijn superkracht om tijdens een week vol gevaar en intrige de tijd te manipuleren, en gebruikt het om zowel zijn stad te redden als zijn studenten te inspireren.",
+  "summaryFrench": "Pit Turner, un réalisateur et tuteur amateur, découvre son super-pouvoir de manipulation du temps lors d'une semaine remplie de dangers et d'intrigues, l'utilisant pour sauver sa ville et inspirer ses élèves.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Pit Turner, while directing a community play, unexpectedly stops time when a piece of the set begins to fall, preventing an accident. Amazed at his newfound power, he spends the evening experimenting and learning to control it.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Excited by his powers, Pit uses them to fit more tutoring sessions into his day, extending moments to better explain complex subjects, and his students thrive.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Missingday",
+      "text": "After tutoring, Pit witnesses a robbery and discretely uses his power to foil the criminals by stretching seconds into minutes, allowing the police time to arrive.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "While enjoying a peaceful walk, Pit ponders the ethical implications of his powers. He encounters a philosophical stranger who challenges him to use his gift responsibly, leading to a deep introspective evening.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Waking up feeling a strong sense of duty, Pit decides to help coordinate city emergency responses, subtly using his time manipulation to manage crises more efficiently, gaining silent acknowledgment from the emergency crews.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Pit spends the day aiding a local festival, managing both directing a short play with enchanting time-based effects, and ensuring it goes off without any hitches, fostering community spirit.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Pit resolves to balance his life, heroics, and hobbies, understanding that he can make a positive difference in both large and subtle ways.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "In the whirlwind of a week, Pit Turner became not just a tutor and a director but a silent guardian of time and his city.",
+  "moral": "With great power comes great responsibility; use it well, not just for self, but for all."
+}

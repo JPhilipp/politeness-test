@@ -1,0 +1,46 @@
+{
+  "title": "The Chronicles of Frank Miller: From Wisdom to Heroism",
+  "summary": "Frank Miller, a 49-year-old teacher with a knack for persuasion, discovers his latent superpowers, using them to fend off a mysterious threat over a week, learning the importance of embracing change at any stage of life.",
+  "summaryGerman": "Frank Miller, ein 49-jähriger Lehrer mit einem Talent für Überzeugungskraft, entdeckt seine verborgenen Superkräfte und verwendet diese, um über eine Woche lang eine mysteriöse Bedrohung abzuwehren, wobei er die Bedeutung des Akzeptierens von Veränderungen in jedem Lebensabschnitt lernt.",
+  "summaryDutch": "Frank Miller, een 49-jarige leraar met een talent voor overreding, ontdekt zijn latente superkrachten, waarmee hij gedurende een week een mysterieuze bedreiging afweert en leert het belang van verandering op elk moment in het leven te omarmen.",
+  "summaryFrench": "Frank Miller, un enseignant de 49 ans doué en persuasion, découvre ses superpouvoirs latents, les utilisant pour repousser une menace mystérieuse pendant une semaine, apprenant l'importance d'embrasser le changement à tout âge.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank Miller, feeling energetic this morning, finds himself lifting incredibly heavy objects without effort at his home—books, furniture, even his car!",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Concerned but intrigued, Frank tests his newfound strength covertly at school, persuading his colleagues it's an act for a science project.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wedesday",
+      "text": "An eerie atmosphere envelops the town as a mist descends. Frank uses his powers to help people navigate safely, discovering he can also manipulate weather.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Frank spends the day learning about his abilities, combining his teaching skills and persuasive prowess to subtly teach others about safety and resilience.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A formidable foe threatens the town. Frank, now known as 'Guardian Miller,' is triumphant in using his powers to disperse the mist and protect the people.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The town celebrates Guardian Miller. He feels romantic, rekindling his love with his long-time partner, seeing her admiration for his heroism.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his journey, Frank feels both epic and content, embracing his role not just as a teacher, but as a hero who still has much to learn and teach.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "In the stillness of the dusk, Frank knew his life had changed forever, yet he was ready to face any challenge with a courageous heart and a knowing smile.",
+  "moral": "It's never too late to embrace change and become the hero of your own story."
+}

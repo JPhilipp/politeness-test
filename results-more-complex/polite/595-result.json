@@ -1,0 +1,46 @@
+{
+  "title": "The Ageless Hero: Trent Bryant's Week of Valor",
+  "summary": "At the age of 70, Trent Bryant discovers his latent superpowers during a week of sculpting and mentoring, using his new abilities to serve and protect his community from a hidden threat.",
+  "summaryGerman": "Im Alter von 70 Jahren entdeckt Trent Bryant seine latenten Superkräfte während einer Woche des Bildhauerns und Mentorings, wobei er seine neuen Fähigkeiten nutzt, um seiner Gemeinde zu dienen und sie vor einer verborgenen Bedrohung zu schützen.",
+  "summaryDutch": "Op 70-jarige leeftijd ontdekt Trent Bryant zijn latente superkrachten tijdens een week van beeldhouwen en mentoring, waarbij hij zijn nieuwe vaardigheden gebruikt om zijn gemeenschap te dienen en te beschermen tegen een verborgen dreiging.",
+  "summaryFrench": "À l'âge de 70 ans, Trent Bryant découvre ses superpouvoirs latents au cours d'une semaine consacrée à la sculpture et au mentorat, utilisant ses nouvelles capacités pour servir et protéger sa communauté d'une menace cachée.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Trent discovered a strange, glowing rock while sculpting a new piece in his workshop, which bizarrely enhanced his senses.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Using his heightened senses, Trent hears a cry for help from afar and swiftly intervenes to prevent a robbery.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "Inspired by his heroic act, he mentors young artists in his community, advising them to channel their talents for good.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A mysterious figure visits Trent, warning him of an imminent threat that seeks the power emanating from his new rock.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Trent teams up with his protégés, crafting unique sculptures that come to life and serve as guardians of the town.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The threat reveals itself as a corrupted art collector trying to steal the magical rock. Trent and his sculptures confront the villain.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "With the villain apprehended and the town safe, Trent continues his peaceful life, his sculptures now legendary protectors.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "At the sunset of his life, Trent Bryant found a sunrise of purpose, proving heroes come in all ages.",
+  "moral": "Courage and heroism know no age; they are carved out of one's resolve to make a difference."
+}

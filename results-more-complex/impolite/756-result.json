@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Ling Yang: The Heroic Guiding Light",
+  "summary": "Ling Yang, a 56-year-old with a heart for guiding and tutoring, discovers her ability to transfer knowledge telepathically over the course of a week, leading her to thwart a cyber-attack on her city.",
+  "summaryGerman": "Ling Yang, eine 56-jährige Person mit einer Leidenschaft für Führung und Tutoring, entdeckt im Laufe einer Woche ihre Fähigkeit, Wissen telepathisch zu übertragen, und verhindert damit einen Cyber-Angriff auf ihre Stadt.",
+  "summaryDutch": "Ling Yang, een 56-jarige met een passie voor begeleiding en bijles, ontdekt gedurende een week haar vermogen om kennis telepathisch over te dragen, waardoor ze een cyberaanval op haar stad kan verijdelen.",
+  "summaryFrench": "Ling Yang, une personne de 56 ans passionnée par le guide et le tutorat, découvre sa capacité à transférer des connaissances par télépathie au cours d'une semaine, ce qui lui permet de déjouer une cyberattaque sur sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Yang felt an eerie sensation during her tutoring sessions, noting an unusual clarity in transmitting knowledge.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Confirming her suspicions, Ling discovers she can send complex ideas telepathically, leaving her students astounded and more enlightened than usual.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Harnessing this new power, Ling uses it to communicate with a distant student, helping him solve a critical exam problem just in time.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News of her abilities spreads, and Ling Yang is approached by city officials to help decode a cryptic cyber threat targeting municipal systems.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Focusing her skills, Ling connects telepathically with the city's lead IT expert, conveying complex cybersecurity concepts that fortify the city’s defenses.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Ling's efforts lead to successfully averting the cyber-attack, earning her praise and gratitude from the entire community.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Feeling a deep sense of fulfillment, Ling spends a peaceful day reflecting on her new role and the responsibilities it entails.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus, Ling Yang embraced her role as 'The Heroic Guiding Light', determined to protect and educate with her unique gift.",
+  "moral": "The greatest powers are often found within ourselves, waiting for the right moment to be discovered and used for the greater good."
+}

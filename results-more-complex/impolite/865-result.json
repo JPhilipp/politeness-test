@@ -1,0 +1,46 @@
+{
+  "title": "The Dancing Guide: The Adventures of Charlie Thomas",
+  "summary": "Charlie Thomas, a 56-year-old who loves dancing and guiding, discovers his unique power to inspire joy and resilience through dance during a challenging week.",
+  "summaryGerman": "Charlie Thomas, ein 56-Jähriger, der Tanzen und Führen liebt, entdeckt seine einzigartige Fähigkeit, durch Tanzen Freude und Widerstandsfähigkeit zu inspirieren, während einer herausfordernden Woche.",
+  "summaryDutch": "Charlie Thomas, een 56-jarige die van dansen en gidsen houdt, ontdekt zijn unieke kracht om vreugde en veerkracht te inspireren door dans tijdens een uitdagende week.",
+  "summaryFrench": "Charlie Thomas, 56 ans, qui aime danser et guider, découvre son pouvoir unique d'inspirer la joie et la résilience par la danse pendant une semaine difficile.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Charlie Thomas starts his week feeling energetic, teaching a dance class that unexpectedly lifts the spirits of everyone involved.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Inspired by yesterday's class, Charlie uses his lunch break to guide a spontaneous city tour, blending history with dance moves at each landmark.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wedneday",
+      "text": "A power outage at the community center leaves Charlie's dance class in the dark. Undeterred, he leads an impromptu session in the park, under the moonlight.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News of Charlie’s moonlit dance reaches the local media, causing a crowd to gather for today’s class, eager to experience his joyful lessons.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Feeling the strain of a week full of unexpected events, Charlie feels a bit overwhelmed but finds solace in his passion for dance.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Regaining his strength, Charlie decides to host a large, free dance event in the town square, bringing together people of all ages and backgrounds.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Charlie reflects on the week's adventures, feeling peaceful and grateful for the community that has danced its way into his heart.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "In a whirl of dance steps and heartbeats, Charlie Thomas had turned an ordinary week into an extraordinary showcase of resilience and joy.",
+  "moral": "Even in moments of darkness, passion can light the way and gather people together."
+}

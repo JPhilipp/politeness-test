@@ -1,0 +1,46 @@
+{
+  "title": "The Negotiator: The Epic Week of Yvonne Baker",
+  "summary": "Yvonne Baker, a 49-year-old with a knack for negotiating and instructing, transforms from an everyday citizen into a superhero, using her unique skills to thwart a citywide crisis and restore peace.",
+  "summaryGerman": "Yvonne Baker, eine 49-jährige Expertin im Verhandeln und Unterrichten, verwandelt sich von einer alltäglichen Bürgerin in eine Superheldin. Sie nutzt ihre einzigartigen Fähigkeiten, um eine stadtweite Krise abzuwenden und den Frieden wiederherzustellen.",
+  "summaryDutch": "Yvonne Baker, een 49-jarige met een talent voor onderhandelen en onderwijzen, verandert van een gewone burger in een superheld, en gebruikt haar unieke vaardigheden om een stedelijke crisis te voorkomen en de vrede te herstellen.",
+  "summaryFrench": "Yvonne Baker, âgée de 49 ans et douée pour la négociation et l'enseignement, se transforme d'une citoyenne ordinaire en superhéroïne, utilisant ses compétences uniques pour déjouer une crise urbaine et rétablir la paix.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Yvonne discovers an eerie coded message hinting at imminent danger to the city. Her instincts as a negotiator kick in.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Using her skills, Yvonne deciphers the message and learns of a plot to disrupt the city's peace. She begins planning her approach.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "Yvonne meets with city leaders, using her instructing prowess to strategize a response. The team feels inspired and ready.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The villains are on the move. Yvonne leads the crisis negotiation team, working tirelessly with authorities to coordinate a takedown.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Her negotiation skills culminate in a peaceful resolution. The city breathes a sigh of relief as the plot is thwarted.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Media and citizens alike celebrate Yvonne’s bravery and wisdom. She reflects on her journey from an ordinary instructor to a city’s hero.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Yvonne spends a quiet day at home, recharging and preparing for whatever challenges might come next.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Thus, the week ended with Yvonne Baker, a negotiator turned hero, ensuring the safety of her beloved city.",
+  "moral": "A true hero is anyone who uses their talents to make a positive difference in the world."
+}

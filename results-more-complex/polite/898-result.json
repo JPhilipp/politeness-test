@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Zelda Adams: A Superhero Tale",
+  "summary": "Zelda Adams, a 41-year-old tutor and coach, discovers her ability to manipulate time during a dramatic week, using her powers to tackle both everyday challenges and unexpected threats, learning about her true potential.",
+  "summaryGerman": "Zelda Adams, eine 41-jährige Tutorin und Trainerin, entdeckt ihre Fähigkeit, die Zeit zu manipulieren, während einer dramatischen Woche, nutzt ihre Kräfte, um sowohl alltägliche Herausforderungen als auch unerwartete Bedrohungen zu meistern und lernt dabei ihr wahres Potenzial kennen.",
+  "summaryDutch": "Zelda Adams, een 41-jarige tutor en coach, ontdekt haar vermogen om de tijd te manipuleren tijdens een dramatische week, gebruikt haar krachten om zowel alledaagse uitdagingen als onverwachte bedreigingen aan te pakken, en leert over haar ware potentieel.",
+  "summaryFrench": "Zelda Adams, une tutrice et entraîneuse de 41 ans, découvre sa capacité à manipuler le temps pendant une semaine dramatique, utilise ses pouvoirs pour relever des défis quotidiens et des menaces inattendues, apprenant ainsi son véritable potentiel.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda starts her week feeling energetic as she helps prepare local students for their upcoming exams. Little does she know, the watch she recently inherited is magical and grants her power over time.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "During a tutoring session, Zelda accidentally freezes time. After the initial shock, she unfreezes it, feeling triumphant about her newfound ability but uncertain about its implications.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Zelda tests her powers by reversing a few minutes to avert a minor accident at the gym where she coaches. The incident leaves the atmosphere eerily calm and Zelda contemplative.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Harnessing her powers more confidently, Zelda resolves several conflicts among her students by carefully rewinding and tweaking their interactions, leaving her feeling peaceful and proud.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Word of Zelda's abilities spreads, and she’s approached by a mysterious figure asking for help with a 'bigger challenge'. Her curiosity is piqued, filling her with an epic sense of purpose.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The 'bigger challenge' turns out to be a community crisis as a major accident occurs. Zelda uses her powers to save lives, feeling an intense mix of happiness and fatigue as the day closes.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Zelda feels a deep connection with her community and a renewed sense of responsibility towards using her power for good. She ends the week feeling solemnly romantic, contemplating her new role in the world.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "As Zelda looked ahead, she knew her life had changed forever, and she was ready to face whatever came next with her new extraordinary gift.",
+  "moral": "Great power comes with great responsibility, and discovering one's true potential requires courage and determination."
+}

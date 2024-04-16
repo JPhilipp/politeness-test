@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Oscar Yang: Consultant Hero",
+  "summary": "Oscar Yang uses his consulting skills to uncover and thwart a corporate espionage scheme, protecting the community and reinstating peace over a week.",
+  "summaryGerman": "Oscar Yang nutzt seine Beratungsfähigkeiten, um ein Unternehmensspionageschema aufzudecken und zu vereiteln, schützt die Gemeinschaft und stellt innerhalb einer Woche wieder Frieden her.",
+  "summaryDutch": "Oscar Yang gebruikt zijn adviesvaardigheden om een bedrijfsspionageschema te ontmaskeren en te dwarsbomen, beschermt de gemeenschap en herstelt de vrede in een week.",
+  "summaryFrench": "Oscar Yang utilise ses compétences de conseil pour découvrir et déjouer un stratagème d'espionnage d'entreprise, protégeant la communauté et rétablissant la paix dans le laps d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar Yang begins his week reviewing client portfolios, unaware that he'll soon stumble upon suspicious financial irregularities hinting at corporate espionage.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tueday",
+      "text": "Digging deeper into the anomalies, Oscar experiences unease as he realizes the extent of the looming threat. He decides to investigate further.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Oscar contacts an old friend who works in cybersecurity to gather more information. Together, they find evidence of an internal leak.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Armed with proof, Oscar confronts the suspected company insiders. His well-crafted arguments and evidence create tension but produce candid confessions.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "In the aftermath, Oscar advises the company on tightened security protocols and better practices, earning respect and gratitude from the board.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Taking a well-deserved break, Oscar spends the day with loved ones, reflecting on the week's tumultuous events and the lives he's impacted.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Oscar prepares for the upcoming week but remains vigilant, knowing the world of corporate consulting always holds new challenges.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "With a keen eye and a heart for justice, Oscar Yang proves that even the unlikeliest heroes can protect their communities.",
+  "moral": "Expertise and vigilance can safeguard the greater good."
+}

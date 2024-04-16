@@ -1,0 +1,46 @@
+{
+  "title": "The Chronicles of Oscar Murphy: Advisor by Day, Hero by Night",
+  "summary": "Oscar Murphy, a 31-year-old advisor, discovers his hidden powers throughout a week and uses them to fight for justice and counsel those in need.",
+  "summaryGerman": "Oscar Murphy, ein 31-jähriger Berater, entdeckt im Laufe einer Woche seine verborgenen Kräfte und nutzt sie, um für Gerechtigkeit zu kämpfen und den Bedürftigen Rat zu geben.",
+  "summaryDutch": "Oscar Murphy, een 31-jarige adviseur, ontdekt gedurende een week zijn verborgen krachten en gebruikt ze om voor gerechtigheid te vechten en degenen in nood te adviseren.",
+  "summaryFrench": "Oscar Murphy, un conseiller de 31 ans, découvre ses pouvoirs cachés tout au long d'une semaine et les utilise pour lutter pour la justice et conseiller ceux qui en ont besoin.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar Murphy wakes up feeling energetic, unaware that his routine counseling sessions will soon reveal his unique powers of empathy and persuasion to manipulate reality.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Feeling peaceful, Oscar uses his lunch break to subtly influence his colleagues away from potential conflict, beginning to see the effects of his powers in the real world.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "A bizarre coincidence brings an eerie mood, as Oscar’s advice prevents a dangerous accident on his way home; he begins to suspect his powers are more than mere coincidence.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Oscar, now aware of his powers, feels triumphant as he confidentially helps a friend out of a severe personal crisis using his enhanced empathetic abilities.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Oscar feels the weight of his responsibility; his mood is sad as he realizes the burden of returning every evening to a solitary existence, keeping his powers secret.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Feeling romantic, Oscar meets someone who sees through his façade and shares similar secrets, allowing him to open up about his double life for the first time.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The week closes on an epic note as Oscar, alongside his newfound companion, prevents a city-wide disaster, fully embracing his role as a superhero.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "As the sun sets on a now peaceful city, Oscar Murphy smiles, finally at peace with his dual life, ready to face whatever challenges come next.",
+  "moral": "Embrace your unique abilities; they might just be what the world needs."
+}

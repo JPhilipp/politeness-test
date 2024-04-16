@@ -1,0 +1,46 @@
+{
+  "title": "Eve Jackson: The Green Guardian",
+  "summary": "Eve Jackson, a 48-year-old consulting expert with a passion for gardening, discovers her ability to control plants and faces challenges while trying to save her city from an ecological disaster.",
+  "summaryGerman": "Eve Jackson, eine 48-jährige Beratungsexpertin mit einer Leidenschaft für Gartenarbeit, entdeckt ihre Fähigkeit, Pflanzen zu kontrollieren, und steht vor Herausforderungen, während sie versucht, ihre Stadt vor einer ökologischen Katastrophe zu retten.",
+  "summaryDutch": "Eve Jackson, een 48-jarige adviesexpert met een passie voor tuinieren, ontdekt haar vermogen om planten te beheersen en staat voor uitdagingen terwijl ze haar stad probeert te redden van een ecologische ramp.",
+  "summaryFrench": "Eve Jackson, une experte en conseil de 48 ans passionnée de jardinage, découvre sa capacité à contrôler les plantes et fait face à des défis tout en essayant de sauver sa ville d'une catastrophe écologique.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Eve discovers her superpower to communicate and control plants while tending to her garden. A blooming rose whispers secrets about an impending ecological threat.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Excited and energized, Eve spends the day testing her new abilities, learning to grow plants at an astonishing rate, which proves both thrilling and exhausting.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesady",
+      "text": "Eve uses her powers for good, consulting with local farmers to optimize crop yields, combining her love for gardening with her professional skills.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Trouble arises when Eve's powers accidentally create a massive, uncontrollable vine in the city park. She spends the day figuring out how to reverse the growth.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "After a long struggle, Eve finds a solution to contain the wild plant growth, restoring peace to the community and demonstrating control over her powers.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Taking a break, Eve enjoys a peaceful day in her garden, reflecting on the events of the week and how her life has changed forever.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Inspired, Eve outlines a plan to use her powers for larger environmental issues, setting the stage for a new chapter in her life as a superhero.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "As the sun set, Eve Jackson knew she had found her true calling as the protector of nature.",
+  "moral": "Even the smallest talents, when discovered and nurtured, can lead to great changes."
+}

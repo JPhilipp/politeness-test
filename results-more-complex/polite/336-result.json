@@ -1,0 +1,46 @@
+{
+  "title": "The Energetic Endeavors of Sue Allen",
+  "summary": "Sue Allen discovers her powers of sonic control while busily engaging with her passions for music and coaching, leading her to confront and thwart a villain's plan.",
+  "summaryGerman": "Sue Allen entdeckt ihre Kräfte der Schallkontrolle, während sie ihren Leidenschaften für Musik und Coaching nachgeht, was dazu führt, dass sie den Plan eines Schurken konfrontiert und vereitelt.",
+  "summaryDutch": "Sue Allen ontdekt haar krachten van geluidsbeheersing terwijl ze zich bezighoudt met haar passies voor muziek en coaching, waardoor ze het plan van een schurk confronteert en verijdelt.",
+  "summaryFrench": "Sue Allen découvre ses pouvoirs de contrôle sonique tout en s'engageant activement dans ses passions pour la musique et le coaching, ce qui la conduit à confronter et déjouer le plan d'un méchant.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Sue Allen begins her week by arranging a new piece for her community choir, finding joy in crafting harmonies.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuedsay",
+      "text": "While coaching her local soccer team, Sue feels a strange vibration in her ears when shouting instructions, causing the soccer ball to freeze mid-air momentarily.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Experimenting at home, Sue discovers she can manipulate sound waves. She spends the evening practicing her newfound abilities.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Realizing the potential of her powers, Sue decides to keep them a secret until she can control them fully.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A local bank alarm goes off, and Sue instinctively uses her power to silence the alarm remotely, preventing a panic.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Sue encounters the villain causing the disturbances at the bank. Using her powers, she creates a symphony of sounds to disorient him and alerts the authorities.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "News spreads of a mysterious hero. Sue smiles, reveling in her secret identity and considering the future adventures to come.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the sun set, Sue Allen considered the harmony not just in her music but in her new dual life, filled with potential melodies and heroic crescendos.",
+  "moral": "Embrace your unique talents; they might just be your superpowers."
+}

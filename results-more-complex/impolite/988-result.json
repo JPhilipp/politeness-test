@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Oscar Anderson: A Superheroine's Week",
+  "summary": "Oscar Anderson discovers his superpowers by accident and uses them to stop a crime spree in his city, learning the importance of using one's unique abilities for the common good.",
+  "summaryGerman": "Oscar Anderson entdeckt durch Zufall seine Superkräfte und nutzt sie, um eine Verbrechensserie in seiner Stadt zu stoppen, und lernt dabei die Bedeutung, seine einzigartigen Fähigkeiten zum Wohl der Allgemeinheit einzusetzen.",
+  "summaryDutch": "Oscar Anderson ontdekt per ongeluk zijn superkrachten en gebruikt ze om een misdaadgolf in zijn stad te stoppen, waarbij hij leert het belang van het gebruiken van iemands unieke vaardigheden voor het algemeen welzijn.",
+  "summaryFrench": "Oscar Anderson découvre ses super-pouvoirs par accident et les utilise pour arrêter une vague de crimes dans sa ville, apprenant l'importance d'utiliser ses capacités uniques pour le bien commun.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "While consulting at a tech company, Oscar accidentally touches a mysterious device that grants him super strength and agility.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Thrilled with his new powers, Oscar spends the day testing his limits by exercising and performing feats of strength at a secluded gym.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednedsay",
+      "text": "Oscar discovers that crime has risen in his neighborhood. Determined to help, he decides to use his powers to fight crime anonymously.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Oscar's first night out as a superhero starts roughly, but he manages to stop a burglary, boosting his confidence.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Word of a new superhero spreads. Oscar, under his masked identity, is invited to join a secret network of local superheroes.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Together with his new allies, Oscar foils a major heist planned on a city bank, earning the team public admiration.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Oscar feels overwhelmed but satisfied, vowing to balance his life between consulting, exercising, and heroism.",
+      "mood": "peaceful"
+    }
+  ],
+  "moral": "Use your unique talents and abilities to benefit others, balancing personal interests with community service.",
+  "ending": "And so, Oscar Anderson embraced his dual life, continuously learning, growing, and serving the city that he loved."
+}

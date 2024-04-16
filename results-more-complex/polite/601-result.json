@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Kevin Bailey: Hero Instructor",
+  "summary": "Kevin Bailey, an everyday instructor, discovers his ability to manipulate time during a crisis, using his new power to guide and protect his city over the course of a week.",
+  "summaryGerman": "Kevin Bailey, ein alltäglicher Lehrer, entdeckt während einer Krise seine Fähigkeit, die Zeit zu manipulieren, und nutzt seine neue Kraft, um seine Stadt im Laufe einer Woche zu führen und zu schützen.",
+  "summaryDutch": "Kevin Bailey, een alledaagse instructeur, ontdekt tijdens een crisis zijn vermogen om tijd te manipuleren, en gebruikt zijn nieuwe kracht om zijn stad gedurende een week te begeleiden en te beschermen.",
+  "summaryFrench": "Kevin Bailey, un instructeur de tous les jours, découvre sa capacité à manipuler le temps lors d'une crise, utilisant son nouveau pouvoir pour guider et protéger sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Kevin Bailey begins his week normally, teaching mountaineering skills to young adventurers. Unbeknownst to him, a latent power within him stirs after he rescues a student from a fall using unusual swiftness.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While reflecting on yesterday’s incident, Kevin unintentionally stops time when a car nearly hits a cyclist.  Realizing his powers, he saves the cyclist and guides the confused driver safely off the road.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesady",
+      "text": "With his newfound confidence, Kevin starts experimenting with his abilities. He spends the day practicing, learning to control the extent and duration of his time manipulation.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News of Kevin's heroics begin to spread, prompting police and curious onlookers to approach him for help. He assists by resolving several emergency situations, freezing time to prevent further incidents.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "As the city celebrates their new hero, Kevin feels overwhelmed but joyous. He trains a group of volunteers in safety protocols, passing on his instructional skills combined with lessons on handling sudden power responsibly.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "An anonymous threat targets the city to challenge Kevin. He strategizes and uses his time-stopping ability to neutralize the threat before any harm can be done, proving his heroism isn't just about power, but insight and guidance.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Kevin feels peace knowing he has used his power for the greater good. He continues his standard instructing duties, ready to intervene with his extraordinary abilities whenever needed.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus ends a heroic week for Kevin Bailey, who learnt that with great power comes not just responsibility, but the chance to teach and inspire.",
+  "moral": "True heroism is not just saving lives, but also guiding others to save themselves."
+}

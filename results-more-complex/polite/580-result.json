@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Planner: The Adventures of Ivan Evans",
+  "summary": "Ivan Evans, a 67-year-old with a passion for planning and drawing, discovers his ability to visualize and materialize his plans into reality, thwarting a city chaos across a transformative week.",
+  "summaryGerman": "Ivan Evans, ein 67-jähriger mit einer Leidenschaft für Planung und Zeichnung, entdeckt seine Fähigkeit, seine Pläne zu visualisieren und in die Realität umzusetzen, und vereitelt ein Stadchaos über eine transformative Woche hinweg.",
+  "summaryDutch": "Ivan Evans, een 67-jarige met een passie voor plannen en tekenen, ontdekt zijn vermogen om zijn plannen te visualiseren en te materialiseren, waardoor hij een stadschaos over een transformatieve week afwendt.",
+  "summaryFrench": "Ivan Evans, âgé de 67 ans et passionné de planification et de dessin, découvre sa capacité à visualiser et matérialiser ses plans en réalité, déjouant un chaos urbain sur une semaine transformatrice.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ivan stumbled upon an old sketchbook filled with plans for city improvements never carried out. His fingers tingled with an unfamiliar energy as he traced the lines.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuessday",
+      "text": "Using his newfound powers, Ivan materialized his first plan: a bridge over a busy intersection. The public marveled, igniting hope across the community.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Though doubts clouded his mind, Ivan created a small park in a neglected neighborhood. Children’s laughter soon filled the air, warming his heart.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Drawing non-stop, Ivan suffered a moment of collapse due to exhaustion, fearing the burden of his abilities.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Encouraged by the community’s support, Ivan planned a daylight festival which brought together artists and locals, blending joy and creativity.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A romantic evening ensued as Ivan designed a moonlit rooftop garden, leading to an unexpected reunion with a past love.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "At the week's end, Ivan looked over the city, realizing his quiet yet profound impact. He smiled, feeling the peaceful fruition of his lifelong dreams.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus, Ivan learned that even quiet dreams can reshape worlds when given form.",
+  "moral": "Never underestimate the power of planning and creativity to transform lives."
+}

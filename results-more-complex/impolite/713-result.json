@@ -1,0 +1,46 @@
+{
+  "title": "Oscar Mitchell: The Mentor of Magnitude",
+  "summary": "Oscar Mitchell, a hobbyist in publicizing and mentoring, discovers his uncanny abilities to manipulate sound waves during a crisis, using his powers to save his city over the span of a week, while teaching young heroes about responsibility.",
+  "summaryGerman": "Oscar Mitchell, ein Hobbyist in Public Relations und Mentoring, entdeckt seine unglaublichen Fähigkeiten, Schallwellen während einer Krise zu manipulieren, nutzt seine Kräfte, um seine Stadt innerhalb einer Woche zu retten, und lehrt junge Helden über Verantwortung.",
+  "summaryDutch": "Oscar Mitchell, een hobbyist in public relations en mentoring, ontdekt zijn ongelooflijke vermogen om geluidsgolven te manipuleren tijdens een crisis, gebruikt zijn krachten om zijn stad te redden in de loop van een week, terwijl hij jonge helden leert over verantwoordelijkheid.",
+  "summaryFrench": "Oscar Mitchell, un amateur de relations publiques et de mentorat, découvre ses incroyables capacités à manipuler les ondes sonores pendant une crise, utilise ses pouvoirs pour sauver sa ville en l'espace d'une semaine, tout en enseignant aux jeunes héros la responsabilité.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar Mitchell starts his week like any other, organizing a seminar on effective public relation strategies. As he steps outside, he narrowly escapes a collapsing billboard, discovering he can manipulate sound waves to shield himself. This exhilarating realization leaves him energetic.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Filled with a new purpose, Oscar practices his newfound abilities in an abandoned warehouse. He mentors a group of youths on the importance of ethics in power use, feeling triumphant at their enthusiastic response.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "A mysterious figure challenges Oscar, testing his abilities with sound-manipulating duels that feel almost eerie. Unsure of his opponent's intentions, Oscar feels uneasy yet focused.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Realizing the potential threats his powers can attract, Oscar becomes increasingly vigilant. He spends the day enhancing his skills and refining his strategies for public safety, feeling quietly peaceful.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Disaster strikes as a powerful storm threatens the city. Using his sound manipulation, Oscar redirects the fierce winds away from populated areas, proving himself a hero. This act fosters deep connections with the community, creating a romantic bond with the city he loves.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Inspired by Oscar's actions, the city's youth rally to his cause. They organize a cleanup and repair drive, with Oscar leading them, feeling proud and epic in the face of their collective campaign.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflection washes over Oscar as he spends a peaceful day mentoring and sharing his story with young aspirants, hopeful to inspire future heroes. His calm and gentle demeanor sets a serene tone for the day.",
+      "mood": "peaceful"
+    }
+  ],
+  "moral": "Great power comes with great responsibility; use it wisely to teach and inspire others.",
+  "ending": "As the sun sets on a grateful city, Oscar Mitchell smiles, knowing his journey as a mentor and hero is just beginning."
+}

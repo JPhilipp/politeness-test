@@ -1,0 +1,46 @@
+{
+  "title": "The Energetic Week of Xavier Roberts, The Consulting Singer",
+  "summary": "The story follows Xavier Roberts, a 35-year-old with hobbies in singing and consulting, who discovers his superpower of influencing people's emotions through songs. Over a week, he finds that his ability can bring joy, solve conflicts, and eventually save the city from despair.",
+  "summaryGerman": "Die Geschichte folgt Xavier Roberts, einem 35-jährigen, dessen Hobbys Singen und Beratung sind, der seine Superkraft entdeckt, die Emotionen der Menschen durch Lieder zu beeinflussen. Über eine Woche hinweg findet er heraus, dass seine Fähigkeit Freude bringen, Konflikte lösen und letztendlich die Stadt vor Verzweiflung retten kann.",
+  "summaryDutch": "Het verhaal volgt Xavier Roberts, een 35-jarige met hobby's in zingen en consulting, die zijn superkracht ontdekt om mensen hun emoties te beïnvloeden met liedjes. Gedurende een week ontdekt hij dat zijn vermogen vreugde kan brengen, conflicten kan oplossen en uiteindelijk de stad kan redden van wanhoop.",
+  "summaryFrench": "L'histoire suit Xavier Roberts, un homme de 35 ans dont les passe-temps sont le chant et la consultation, qui découvre son super-pouvoir d'influencer les émotions des gens à travers les chansons. Au fil d'une semaine, il s'aperçoit que son habileté peut apporter de la joie, résoudre des conflits et finalement sauver la ville du désespoir.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Xavier Roberts starts his week with an invigorating morning jog, feeling energetic and ready to tackle his consultancy job. While consulting at a firm, he soothes a heated office confrontation with his calming voice, much to everyone's surprise.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesady",
+      "text": "Realizing the power of his voice, Xavier spends a romantic evening composing a song that could alleviate anger, inspired by the day before. He tests it on a group of friends who report feeling instantly calmer and more connected to each other.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "News of Xavier's talents spreads and he is invited to mediate a town hall meeting which had been tense in previous sessions. His new song turns the meeting into a peaceful gathering, creating a serene atmosphere.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Thrilled by his abilities to bring peace, Xavier confronts an eerie silence as he walks through the city park at night and stops a potential crime by serenading the would-be perpetrators who then disperse in peace.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Xavier decides to intensify his impact and holds a free concert in the city square. The mood is ecstatic; his songs fill the air, repairing spirits broken by the week’s regular tumult.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A sudden crisis unfolds as news of a nearby dam threatening to break reaches the city. Xavier quickly crafts a powerful song, rallying the community in preparation efforts to fortify and alleviate the situation.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "With the dam secured and the city safe, Xavier gives a final performance at sunset, reflecting on his journey and the unity he inspired. The city officials thank him, recognizing his unique contribution to the city's safety.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As the sun set over a quieter, safer city, Xavier smiled, knowing his voice had truly made a difference.",
+  "moral": "The power of one's unique talents can have a profound impact on the community when directed towards the greater good."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Wonder: The Adventures of Judy Cox",
+  "summary": "Over one week, Judy Cox discovers her unique power to organize not just things but time itself, which she uses to thwart a local crime spree, ultimately bringing peace to her community.",
+  "summaryGerman": "In einer Woche entdeckt Judy Cox ihre einzigartige Fähigkeit, nicht nur Dinge, sondern auch Zeit zu organisieren, die sie nutzt, um eine lokale Verbrechenswelle zu vereiteln und letztendlich Frieden in ihrer Gemeinschaft zu bringen.",
+  "summaryDutch": "In één week ontdekt Judy Cox haar unieke kracht om niet alleen dingen maar ook tijd zelf te organiseren, die ze gebruikt om een lokale misdaadgolf te dwarsbomen, waardoor uiteindelijk vrede in haar gemeenschap komt.",
+  "summaryFrench": "En une semaine, Judy Cox découvre son pouvoir unique d'organiser non seulement les choses mais aussi le temps lui-même, qu'elle utilise pour déjouer une vague de criminalité locale, apportant finalement la paix à sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy Cox, typically just organizing community theater productions, started her week feeling slightly unusual, noticing that objects she arranged seemed to remain perfect longer than usual. Eager and curious, she realized her meetings were running startlingly smooth.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Spurred by her newfound ability, Judy experimented by organizing her neighbor's cluttered garage. To her astonishment, not only was the garage immaculate, but her neighbor reported that long-lost items mysteriously reappeared.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednesaday",
+      "text": "Heartened by her success, Judy attempted to expand her capabilities, trying to reallocate time as well as space during her community watch. She managed to prevent a small theft in the area, sensing the crime before it even happened.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Judy's efforts didn’t go unnoticed. Local media caught wind of her peculiar successes and dubbed her 'The Organizer.' But with the media attention came unsettling scrutiny from unknown figures.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Facing the potential dangers of her rising fame, Judy was momentarily deterred. She felt a heavy responsibility to use her power wisely and contemplated if it was all worth the risks involved.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Strengthened by support from her community and realizing the good she could do, Judy organized a massive neighborhood watch. Crimes plummeted, and her neighbors celebrated their new hero, feeling safer than ever.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The climax of Judy's week came as she single-handedly orchestrated a sting operation that led to the capture of a notorious local gang. Her community rallied around her, chanting her name in euphoria.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "From that week on, Judy Cox became not just a community organizer, but a timeless heroine, emblematic of order and justice.",
+  "moral": "With great power comes not only great responsibility but also the opportunity to make meaningful changes."
+}

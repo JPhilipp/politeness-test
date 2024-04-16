@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Ursula Yang: Senior Superhero",
+  "summary": "Ursula Yang, a 77-year-old with a passion for marketing and guiding, discovers her superpowers and saves her community from a mysterious threat over the course of a week.",
+  "summaryGerman": "Ursula Yang, eine 77-jährige mit einer Leidenschaft für Marketing und Führung, entdeckt ihre Superkräfte und rettet ihre Gemeinde vor einer mysteriösen Bedrohung im Laufe einer Woche.",
+  "summaryDutch": "Ursula Yang, een 77-jarige met een passie voor marketing en gidsen, ontdekt haar superkrachten en redt haar gemeenschap van een mysterieuze bedreiging gedurende een week.",
+  "summaryFrench": "Ursula Yang, une passionnée du marketing et du guidage de 77 ans, découvre ses super pouvoirs et sauve sa communauté d'une menace mystérieuse au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Realizing her special ability to manipulate emotions with her persuasive words while leading a tour, Ursula feels energetic and uplifted.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Ursula successfully calms a distressed crowd using her soothing tone and precise words, feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "A sudden and eerie silence falls over the town square as Ursula detects an unseen threat, using her newly found senses.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thrusday",
+      "text": "Facing the invisible menace, Ursula channels her inner strength and devises a strategic marketing plan to alert and organize the community.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With her plan in motion, Ursula witnesses the community coming together harmoniously; she feels peaceful yet vigilant.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The threat neutralized through her guiding skills and quick thinking, Ursula enjoys a celebratory atmosphere, filled with happiness and gratitude from the townsfolk.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Ursula realizes that age is merely a number when it comes to making a significant impact, feeling romantic about her lifelong passions for marketing and guiding.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "In the quiet glow of Sunday evening, Ursula Yang smiled, knowing her journey as a superhero was just beginning.",
+  "moral": "No matter the age, one's unique abilities can shine through and safeguard the community."
+}

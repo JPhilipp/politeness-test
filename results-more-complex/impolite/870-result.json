@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Redemption: The Tale of Romeo Harris",
+  "summary": "Romeo Harris, a 24-year-old with a deep passion for coaching and advising, unexpectedly gains the ability to influence emotions. Over one transformative week, he uses his new powers to solve community issues, culminating in a dramatic confrontation that changes his neighborhood’s future.",
+  "summaryGerman": "Romeo Harris, ein 24-jähriger mit einer tiefen Leidenschaft für Coaching und Beratung, gewinnt unerwartet die Fähigkeit, Emotionen zu beeinflussen. Während einer transformativen Woche nutzt er seine neuen Kräfte, um Gemeinschaftsprobleme zu lösen, und gipfelt in einer dramatischen Konfrontation, die die Zukunft seines Viertels verändert.",
+  "summaryDutch": "Romeo Harris, een 24-jarige met een diepe passie voor coaching en adviseren, krijgt onverwacht het vermogen om emoties te beïnvloeden. Gedurende een transformerende week gebruikt hij zijn nieuwe krachten om problemen binnen de gemeenschap op te lossen, uitmondend in een dramatische confrontatie die de toekomst van zijn buurt verandert.",
+  "summaryFrench": "Romeo Harris, âgé de 24 ans et passionné par le coaching et le conseil, acquiert soudainement la capacité d'influencer les émotions. Au cours d'une semaine transformatrice, il utilise ses nouveaux pouvoirs pour résoudre des problèmes communautaires, aboutissant à une confrontation dramatique qui change l'avenir de son quartier.",
+  "story": [
+    {
+      "weekday": "Munday",
+      "text": "Romeo wakes up feeling different, discovering he can sense and alter emotions. Eager and energetic, he decides to explore this ability discreetly at the local community center.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Experimenting cautiously, Romeo helps a struggling young athlete overcome anxiety during coaching, feeling a triumphant blend of joy and pride.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Romeo encounters his first challenge when his attempts to calm a heated council meeting accidentally intensify feelings, leaving him feeling eerie about his influence.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Determined to master his powers, Romeo spends a peaceful day practicing on nature, finding serenity in influencing the emotional state of plants and animals.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Romeo uses his powers to broker peace between feuding neighborhood groups, his actions fostering a new sense of community and leaving him feeling profoundly happy.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "His deeds begin to draw attention. A mysterious stranger approaches Romeo, warning him of the dangers of his power. The air is charged with an epic sense of foreboding.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Romeo faces the stranger in a decisive showdown, using his skills to avert a disaster. He reflects on his responsibility and the impact of his powers, the day ending on a note of sad reflection.",
+      "mood": "sad"
+    }
+  ],
+  "ending": "In the quiet aftermath, Romeo vowed to use his powers wisely, understanding that great power demands great responsibility.",
+  "moral": "With great power comes great responsibility."
+}

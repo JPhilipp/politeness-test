@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Rise of Frank Davis: Hero of the City",
+  "summary": "Frank Davis, a 46-year-old tutor with a passion for exercising, discovers his supernatural abilities and uses them to save his city from a series of complex threats while balancing his everyday life.",
+  "summaryGerman": "Frank Davis, ein 46-jähriger Tutor mit einer Leidenschaft für Sport, entdeckt seine übernatürlichen Fähigkeiten und nutzt sie, um seine Stadt vor einer Reihe komplexer Bedrohungen zu retten, während er sein alltägliches Leben balanciert.",
+  "summaryDutch": "Frank Davis, een 46-jarige tutor met een passie voor sporten, ontdekt zijn bovennatuurlijke vaardigheden en gebruikt ze om zijn stad te redden van een reeks complexe bedreigingen terwijl hij zijn dagelijks leven in evenwicht houdt.",
+  "summaryFrench": "Frank Davis, un tuteur de 46 ans passionné par l'exercice, découvre ses capacités surnaturelles et les utilise pour sauver sa ville d'une série de menaces complexes tout en équilibrant sa vie quotidienne.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank Davis starts the week by tutoring high school math. After a long day, during his evening jog, he notices he can run at incredible speeds.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Experimenting with his new abilities, Frank inadvertently stops a mugging with his super speed. Amazed and curious, he decides to explore his powers further.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednedsay",
+      "text": "Frank confides in his closest friend about his abilities. They spend the day researching potential origins of such powers, pondering the possibilities.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A local scientist catches wind of Frank's feats. Frank meets with this scientist who offers to help him understand and control his powers.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "An unforeseen side effect of Frank's power surfaces: his energy levels begin oscillating wildly. His new friend the scientist helps stabilize him.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Fully recovered and more controlled, Frank prevents a disaster at a city festival by using his super speed to rescue people from a collapsing stage.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Frank, now dubbed 'The Flash of the City,' is celebrated by the community. He vows to use his powers for the good of all.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "Frank Davis never expected to become a hero, but he embraced his new role with courage and dedication.",
+  "moral": "Sometimes, the true extent of our capabilities is only revealed through unexpected challenges."
+}

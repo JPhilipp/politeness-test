@@ -1,0 +1,46 @@
+{
+  "title": "The Sculpting Guardian: The Week of Judy Carter",
+  "summary": "Over the course of a week, Judy Carter discovers her superhero abilities, uses her creativity in sculpting to stop a local threat, and inspires her community to embrace their unique talents.",
+  "summaryGerman": "Im Laufe einer Woche entdeckt Judy Carter ihre Superheldenfähigkeiten, nutzt ihre Kreativität in der Bildhauerei, um eine lokale Bedrohung zu stoppen, und inspiriert ihre Gemeinde, ihre einzigartigen Talente anzunehmen.",
+  "summaryDutch": "In de loop van een week ontdekt Judy Carter haar superheldenkrachten, gebruikt haar creativiteit in beeldhouwen om een lokale dreiging te stoppen en inspireert haar gemeenschap om hun unieke talenten te omarmen.",
+  "summaryFrench": "Au cours d'une semaine, Judy Carter découvre ses capacités de super-héros, utilise sa créativité en sculpture pour arrêter une menace locale, et inspire sa communauté à embrasser leurs talents uniques.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy Carter, a 29-year-old marketer with a passion for sculpting, starts her day with an unknown glittering stone landing in her backyard, instilling a surge of energy within her.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Judy notices her sculptures begin to move whenever she feels intense emotions, revealing her new-found powers. She spends the evening experimenting and controlling her abilities.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wesdnesday",
+      "text": "A local news report alerts Judy to a vandalism spree in her neighborhood. Motivated, she decides to help using her sculptures as surveillance.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Judy's sculptures catch some vandals in action. She directs them to apprehend the culprits without harm, feeling empowered and responsible.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With the neighborhood safer, Judy hosts a sculpting workshop, promoting creativity as a force for community and safety.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During the workshop, Judy helps people create their own 'guardian sculptures.' Her story spreads, heralding her as the local hero and protector.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Judy feels a profound connection to her community. She vows to use her powers for good, continually inspiring others.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Thus, Judy Carter transformed a mysterious gift into a beacon of hope and protection.",
+  "moral": "Embrace your unique talents; they could be the key to not only discovering yourself but also safeguarding and uplifting your community."
+}

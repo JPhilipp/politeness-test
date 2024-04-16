@@ -1,0 +1,46 @@
+{
+  "title": "The Remarkable Week of Sue Phillips: Advisor of Age",
+  "summary": "Sue Phillips, a 72-year-old instructor, discovers her ability to give literal life advice, transforming her town with her superpowered guidance over a week.",
+  "summaryGerman": "Sue Phillips, eine 72-jährige Ausbilderin, entdeckt ihre Fähigkeit, wörtlichen Lebensrat zu geben, und verwandelt ihre Stadt mit ihrer supermächtigen Anleitung über eine Woche.",
+  "summaryDutch": "Sue Phillips, een 72-jarige instructeur, ontdekt haar vermogen om letterlijk levensadvies te geven, waardoor ze haar stad transformeert met haar superkrachtige begeleiding over een week.",
+  "summaryFrench": "Sue Phillips, une instructrice de 72 ans, découvre sa capacité à donner des conseils de vie littéraux, transformant sa ville avec ses conseils surpuissants pendant une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Sue Phillips begins her usual peaceful routine of advising at the community center, unaware of the change that a new pendant, gifted by a mysterious visitor, would bring her.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "The pendant hums softly and Sue inadvertently advises her friend to 'grow her happiness'—the next day, her friend’s garden is miraculously blooming out of season.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Word of the magical occurrences spreads, and more townsfolk seek Sue’s advice. She guides a struggling musician, and by evening, his melodies wind through the streets, universally adored.",
+      "mood": "energetic"
+    },
+    {
+      "weedkay": "Thursday",
+      "text": "A line forms outside Sue’s door. Each word of advice seems to solve the most complex of problems, from mended relationships to personal success, with every advice recipient leaving triumphantly.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The town, revitalized by Sue’s powerful counsel, organizes a celebration in her honor; Sue feels more connected and appreciated than ever, realizing her true impact.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During the festivities, a romantic spark kindles between Sue and the mayor, acknowledging their respected roles in invigorating the town and each other.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Sue understands the true power was not in the pendant but her years of knowledge and genuine intent to help. She vows to continue her work, empowered.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "In a world eager for change, sometimes the true superhero is the one who lifts others with wisdom and words.",
+  "moral": "The greatest power often lies within our intent and experience, poised to shape lives beyond our imagination."
+}

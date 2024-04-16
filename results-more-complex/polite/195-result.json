@@ -1,0 +1,41 @@
+{
+  "title": "The Eerie Embroidery of Ursula Reed",
+  "summary": "Ursula Reed, an ordinary embroiderer by day, discovers her supernatural ability to manipulate fabrics to capture criminals in her city. Over one week, she transitions from a hobbyist to a hero, using her unique powers each day to make her city safer.",
+  "summaryGerman": "Ursula Reed, tagsüber eine gewöhnliche Stickerin, entdeckt ihre übernatürliche Fähigkeit, Stoffe zu manipulieren, um Verbrecher in ihrer Stadt zu fangen. Über eine Woche hinweg entwickelt sie sich von einer Hobbyistin zu einer Heldin und nutzt jeden Tag ihre einzigartigen Kräfte, um ihre Stadt sicherer zu machen.",
+  "summaryDutch": "Ursula Reed, overdag een gewone borduurster, ontdekt haar bovennatuurlijke vermogen om stoffen te manipuleren om criminelen in haar stad te vangen. Gedurende een week verandert ze van een hobbyist in een heldin, waarbij ze elke dag haar unieke krachten gebruikt om haar stad veiliger te maken.",
+  "summaryFrench": "Ursula Reed, brodeuse ordinaire le jour, découvre sa capacité surnaturelle à manipuler les tissus pour capturer les criminels dans sa ville. En une semaine, elle passe d'une amatrice à une héroïne, utilisant chaque jour ses pouvoirs uniques pour rendre sa ville plus sûre.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ursula Reed was embroidering a cityscape when she noticed her thread glowed and moved on its own. Astonished, she watched as the fabric shaped itself into a detailed map of the city.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Testing her newfound ability, Ursula manipulated a thread to form a makeshift net, which she then used to stop a thief escaping through the park. She felt energized by the success.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Inspired, Ursula spent the day creating more tools from her embroidery, including a grappling rope and a soft armor. Her confidence in her powers grew with every stitch.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Fruday",
+      "text": "Challenge arose as Ursula faced a gang. Using her thread, she designed a web trap across an alleyway. As the gang entered, they were ensnared, leading to their arrest.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "News of Ursula's deeds spread. Locals dubbed her 'The Stitcher'. While enjoying a quiet day, she used her skills to repair and enhance children's clothing at a local shelter.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ursula now fully embraced her role as a hero. Embroidering late into the night, she prepared more gear, excited for how she could further use her powers for good.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Ursula Reed transformed her everyday hobby into a heroic identity, proving that extraordinary abilities can arise from the most ordinary of tasks.",
+  "moral": "Even ordinary hobbies can lead to extraordinary contributions when given a chance to shine."
+}

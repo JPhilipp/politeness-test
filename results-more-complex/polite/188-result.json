@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Week of Trent Wang: Unlikely Hero",
+  "summary": "Trent Wang, a 31-year-old who enjoys instructing and advising, unexpectedly gains superpowers and faces new challenges every day of the week, ultimately leading to him embracing his new identity as a superhero.",
+  "summaryGerman": "Trent Wang, ein 31-jähriger, der gerne unterrichtet und berät, bekommt unerwartet Superkräfte und sieht sich jeden Tag der Woche neuen Herausforderungen gegenüber, die dazu führen, dass er seine neue Identität als Superheld annimmt.",
+  "summaryDutch": "Trent Wang, een 31-jarige die graag leert en adviezen geeft, krijgt plotseling superkrachten en staat elke dag van de week voor nieuwe uitdagingen, die uiteindelijk leiden tot het accepteren van zijn nieuwe identiteit als superheld.",
+  "summaryFrench": "Trent Wang, âgé de 31 ans et passionné par l'enseignement et le conseil, acquiert soudainement des super-pouvoirs et est confronté à de nouveaux défis chaque jour de la semaine, ce qui le conduit finalement à embrasser sa nouvelle identité de super-héros.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Trent begins his usual week unaware that a mysterious meteor shower the night before has granted him superhuman abilities. As he nervously steps into his daily routine, feeling unusually energetic, he accidentally discovers his newfound strength and agility.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Trying to understand the scope of his powers, Trent saves a cat stuck in a high tree. Back on the ground, the cat’s owner, unaware of Trent's powers, thanks him profusely, instilling a sense of pride and purpose in him.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wensday",
+      "text": "While advising a friend over coffee, Trent senses an eerie disturbance nearby. Following his instincts, he thwarts a robbery in progress. His actions start to attract local media attention, but the uncertainty makes him feel somewhat eerie.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "His identity now partially revealed, Trent struggles with the moral implications of his powers. After a long, introspective day, he decides to use his abilities for the greater good, feeling peaceful and resolved.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Embracing his role, Trent actively searches for opportunities to help. He prevents a potential train accident, and his heroic act is celebrated. Feeling triumphant, he fully accepts his role as a superhero.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Trent explores the romantic aspect of his new life when he helps organize a community event. There, he meets someone who appreciates his altruism. The day ends on a romantic note, showing him that life holds many facets.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Trent spends a quiet day reflecting on the week's events, feeling empowered and hopeful about the future. He starts writing a guide on managing unexpected life changes, channeling his love for instructing into helping others.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Trent Wang, once an ordinary man, now stands as a beacon of hope and courage to his community, ready to face whatever challenges come next.",
+  "moral": "Unexpected changes can lead to new paths and responsibilities; embracing them can transform lives for the better."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Hero: The Chronicles of Kevin Morris",
+  "summary": "69-year-old Kevin Morris discovers his latent superpowers during a week of thrilling adventures, overcoming unexpected enemies and reconnecting with his love for life and trading.",
+  "summaryGerman": "Der 69-jährige Kevin Morris entdeckt seine verborgenen Superkräfte während einer Woche voller spannender Abenteuer, besiegt unerwartete Feinde und findet seine Liebe zum Leben und zum Handeln wieder.",
+  "summaryDutch": "De 69-jarige Kevin Morris ontdekt zijn latente superkrachten tijdens een week vol spannende avonturen, overwint onverwachte vijanden en herontdekt zijn liefde voor het leven en handelen.",
+  "summaryFrench": "Kevin Morris, 69 ans, découvre ses superpouvoirs latents au cours d'une semaine d'aventures palpitantes, surmontant des ennemis inattendus et renouant avec son amour pour la vie et le commerce.",
+  "story": [
+    {
+      "weekday": "Mondau",
+      "text": "Kevin Morris, an avid follower of the stock market, starts his week trading as usual, when a sudden market crash reveals his ability to foresee financial trends with uncanny accuracy, leaving him feeling triumphant and a bit eerie.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Empowered by his newfound abilities, Kevin uses his insight to save his peers from a disastrous investment, earning their admiration and respect. His confidence grows, sparking a happy and energetic aura around him.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "On Wednesday, Kevin encounters his first challenge: a corporate saboteur aiming to manipulate the market. His day becomes a tactical game of cat and mouse, filled with epic confrontations and strategic victories.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The stress of the previous day leaves Kevin nostalgic and a bit sad as he remembers his late wife, who originally sparked his interest in trading. This introspection, however, deepens his connection to his powers.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Reinvigorated, Kevin unravels a larger conspiracy involving multinational corporations. With a peaceful resolution of outsmarting his opponents, the day ends on a triumphant note, revealing a deeper layer of corruption.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "As the week nears its end, Kevin's story hits the news. A romantic twist unfolds when an old flame contacts him, rekindling a long-lost romance and bringing warmth to his heroic journey.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The week concludes with Kevin and his newfound love planning to use their combined skills for greater good, trading not just stocks but also ideas on how to improve society, making the world a slightly better place.",
+      "mood": "energetic"
+    }
+  ],
+  "ending": "And so, Kevin Morris, once an average retiree, becomes a beacon of hope and ingenuity, proving that heroes come in all ages.",
+  "moral": "Age is just a number, and sometimes, the stock market dips reveal the most surprising heroes."
+}

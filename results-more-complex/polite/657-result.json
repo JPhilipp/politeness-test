@@ -1,0 +1,46 @@
+{
+  "title": "The Energetic Adventures of Sue Howard",
+  "summary": "Over one week, Sue Howard discovers her superpowers, faces challenges, and becomes a mentor, while maintaining her love for coaching.",
+  "summaryGerman": "Über eine Woche entdeckt Sue Howard ihre Superkräfte, stellt sich Herausforderungen und wird Mentorin, während sie ihre Liebe zum Coaching beibehält.",
+  "summaryDutch": "Gedurende één week ontdekt Sue Howard haar superkrachten, gaat ze uitdagingen aan en wordt ze mentor, terwijl ze haar liefde voor coaching behoudt.",
+  "summaryFrench": "Pendant une semaine, Sue Howard découvre ses superpouvoirs, relève des défis et devient mentor, tout en conservant son amour pour le coaching.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Sue Howard woke up feeling unusually energetic and discovered she could lift heavy objects with minimal effort. Her day was filled with a surreal sense of power.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Testing her new abilities, Sue saved a local playground from a falling tree, which made her feel triumphant and admired by the community.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Sue spent her day coaching her team, using her new strength to demonstrate techniques in new, innovative ways, which left her team feeling inspired and her feeling peaceful.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thuersday",
+      "text": "While instructing a class, Sue encountered a mysterious figure who hinted at the origins of her powers, leaving her feeling both intrigued and a bit eerie.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Sue decided to confront the mysterious figure, leading to a dramatic showdown at the city park, ending with Sue victorious and more knowledgeable about her powers.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Embracing her role as a superhero, Sue held a community event to teach self-defense, merging her passion for coaching with her superpowers, which was a happy and energetic day.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Sue felt satisfied with her new dual life, balancing personal interests with heroic deeds, ending her week feeling utterly triumphant.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "And so, Sue Howard continued her life, forever changed, always ready to lift where lifting was needed.",
+  "moral": "True strength lies in balancing personal passions with the power to make a difference."
+}

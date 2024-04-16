@@ -1,0 +1,46 @@
+{
+  "title": "The Mighty Adventures of Oscar Bennett",
+  "summary": "Oscar Bennett, a 52-year-old guide, discovers his ability to control time and uses it to protect his city over the course of a week.",
+  "summaryGerman": "Oscar Bennett, ein 52-jähriger Führer, entdeckt seine Fähigkeit, die Zeit zu kontrollieren, und verwendet sie, um seine Stadt im Laufe einer Woche zu schützen.",
+  "summaryDutch": "Oscar Bennett, een 52-jarige gids, ontdekt zijn vermogen om de tijd te beheersen en gebruikt dit om zijn stad te beschermen gedurende een week.",
+  "summaryFrench": "Oscar Bennett, un guide de 52 ans, découvre sa capacité à contrôler le temps et l'utilise pour protéger sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar Bennett finds an ancient clock in the depths of the city museum's basement, where he guides tours. Touching it, he feels a surge of energy and suddenly realizes he can control time.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Testing his new powers, Oscar stops time to save a child from a falling tree during a tour. His actions go unnoticed due to his control over time.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesay",
+      "text": "Oscar experiments more, but feels lonely as he moves through the frozen world. He starts doubting whether his power should be used, considering its implications.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "He encounters another time manipulator, creating confusing time loops around the city. Oscar resolves to confront and stop this new threat.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "During the time-stopped duel, Oscar discovers the other manipulator is his long-lost twin, driven by anger and pain. They share a moment of understanding.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Oscar and his twin use their powers in tandem to prevent a giant catastrophe, rescuing the city from an impending earthquake by pausing and redirecting seismic energy.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Celebrating their heroism, the twins host a guided tour of the city they saved, explaining their powers and achievements to the townsfolk, fostering a sense of community and safety.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the sun set on a grateful city, Oscar Bennett felt a new sense of purpose, ready to guide both time and people toward a safe future.",
+  "moral": "The true power lies not in what we can do alone, but in what we can achieve together."
+}

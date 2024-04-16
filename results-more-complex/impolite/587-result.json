@@ -1,0 +1,45 @@
+{
+  "title": "The Awakening of Trent Garcia: A Hero's Birth",
+  "summary": "Trent Garcia discovers his hidden powers while mentoring, faces challenges and learns to control his abilities, eventually defeating a villain and vowing to protect his city.",
+  "summaryGerman": "Trent Garcia entdeckt seine verborgenen Kräfte beim Mentoring, stellt sich Herausforderungen und lernt, seine Fähigkeiten zu kontrollieren, um letztendlich einen Bösewicht zu besiegen und schwört, seine Stadt zu schützen.",
+  "summaryDutch": "Trent Garcia ontdekt zijn verborgen krachten tijdens het begeleiden, krijgt te maken met uitdagingen en leert zijn vaardigheden te beheersen, uiteindelijk verslaat hij een schurk en zweert zijn stad te beschermen.",
+  "summaryFrench": "Trent Garcia découvre ses pouvoirs cachés tout en mentorant, fait face à des défis et apprend à contrôler ses capacités, finissant par vaincre un méchant et jurant de protéger sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "While tutoring in the university’s library, Trent Garcia touches an ancient book and experiences a surge of energy. Feeling energetic, he discovers he can manipulate the elements.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tudesday",
+      "text": "Trent experiments with his new powers discreetly. His focus causes an unexpected blackout, leaving him worried yet eager to understand his potential.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Fearing the misuse of his abilities, Trent seeks advice from his mentor, who encourages him and boosts his confidence, making him feel more peaceful.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A local crisis erupts as a fire breaks out. Trent uses his powers to control and extinguish the fire, saving many, feeling triumphant for the first time.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Trent decides to harness his powers for good, spending the day helping around the city, his actions making him increasingly happy.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A mysterious figure challenges Trent, revealing himself as another elemental user. The ensuing battle is epic, pushing both to their limits.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "After defeating his adversary, Trent learns about others like him, vowing to protect his city against those who seek to harm it.",
+      "mood": "romantic"
+    }
+  ],
+  "moral": "Great power comes with the responsibility to use it wisely."
+}

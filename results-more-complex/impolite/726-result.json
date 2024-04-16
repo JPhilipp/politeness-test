@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Wisdom: Judy Smith's Heroic Journey",
+  "summary": "Judy Smith, a 19-year-old planning enthusiast and tutor, uncovers her supernatural abilities amidst an eerie mystery involving her students, using her skills to thwart a dangerous plot and protect her town.",
+  "summaryGerman": "Judy Smith, eine 19-jährige Planungsliebhaberin und Nachhilfelehrerin, entdeckt ihre übernatürlichen Fähigkeiten inmitten eines unheimlichen Rätsels, das ihre Schüler betrifft. Sie nutzt ihre Fähigkeiten, um einen gefährlichen Plan zu vereiteln und ihre Stadt zu schützen.",
+  "summaryDutch": "Judy Smith, een 19-jarige liefhebber van planning en tutor, ontdekt haar bovennatuurlijke vaardigheden temidden van een griezelig mysterie dat haar studenten betreft, gebruikmakend van haar vaardigheden om een gevaarlijk complot te dwarsbomen en haar stad te beschermen.",
+  "summaryFrench": "Judy Smith, une jeune femme de 19 ans passionnée de planification et d'enseignement, découvre ses capacités surnaturelles au milieu d'un mystère inquiétant concernant ses élèves, utilisant ses compétences pour déjouer un complot dangereux et protéger sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy discovers her ability to manipulate time when she unintentionally pauses a clock in her classroom while tutoring. The incident leaves her feeling eerily empowered.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Excited yet cautious, Judy experiments with her newfound powers in secret. She finds she can also accelerate time and uses this to extend her planning and study hours.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Judy reveals her abilities to her best friend, who encourages her to use her powers for good. They plan to look into recent unexplained events around the town.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "They discover that someone is planning to exploit the local festival to enact a sinister plot. Judy feels determined and sets a plan to stop them.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Using her time-manipulating powers, Judy uncovers more details and identifies the culprits. Her ability to plan complex strategies proves invaluable.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Judy, with the help of her friend, thwarts the plot during the festival. In the process, she saves numerous lives and her town from disaster.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The town celebrates Judy as a hero. She reflects on how she can balance her life, tutoring, and her new role as a superhero, feeling hopeful and content.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "With her town safe, Judy Smith embraced her role, promising to protect and serve with her unique gifts.",
+  "moral": "Embrace your unique abilities and use them for the greater good."
+}

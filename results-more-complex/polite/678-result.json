@@ -1,0 +1,46 @@
+{
+  "title": "The Consulting Crusader: The Tale of Sue Ward",
+  "summary": "Sue Ward, a 32-year-old consulting and coaching hobbyist, discovers her superpowers unexpectedly and uses them to tackle corporate corruption while keeping her day job.",
+  "summaryGerman": "Sue Ward, eine 32-jährige Hobbyberaterin und Coachin, entdeckt unerwartet ihre Superkräfte und nutzt sie, um Unternehmenskorruption zu bekämpfen, während sie ihren Tagesjob behält.",
+  "summaryDutch": "Sue Ward, een 32-jarige hobbyist in consultancy en coaching, ontdekt onverwacht haar superkrachten en gebruikt deze om bedrijfscorruptie aan te pakken terwijl ze haar dagelijkse baan behoudt.",
+  "summaryFrench": "Sue Ward, une passionnée de consultation et de coaching de 32 ans, découvre par hasard ses superpouvoirs et les utilise pour lutter contre la corruption d'entreprise tout en conservant son travail de jour.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Sue Ward starts her week like any other, consulting at a high-profile tech company. As she sips her morning coffee, she feels an unusual surge of energy and accidentally causes her computer to overload with a mere glance.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Testing her newfound powers in the safety of her home, Sue discovers she can manipulate electronic devices with her thoughts. The realization fills her with an energetic spark to do more than just her daily routine.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Sue anonymously tips off the media about potential corruption at the company she was consulting for. She uses her powers to gather evidence, feeling triumphant as her actions seem to ignite a spark of change.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thurday",
+      "text": "After her story leaks, Sue is contacted by other companies requesting her help to 'cleanse' their systems. She feels a mix of romance for her heroic side and the peace of her normal life, driving deeper into her dual lifestyle.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "While consulting, Sue saves a board meeting from a digital sabotage, subtly using her powers. Her actions, unnoticed but crucial, made her feel genuinely epic, standing silent guard over integrity.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The week's events take a toll on Sue as she reflects on her secret life balancing between a hero and a consultant. She spends a peaceful day at home, recharging and preparing for whatever comes next.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "At a local park, Sue feels happy meeting with her coaching clients, providing advice and silently protecting them from unseen digital threats. She's become both guardian and guide.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As sunset embraced the city, Sue Ward smiled, knowing that she might just be the everyday hero the world needed.",
+  "moral": "Sometimes, the greatest heroes are the ones who manage to find a balance between their callings and their daily lives."
+}

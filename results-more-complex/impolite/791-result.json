@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Jin Reed: Hero Trader and Tutor",
+  "summary": "Jin Reed, a 40-year-old who tutors by day and trades by night, discovers his ability to manipulate time after a mysterious meteor shower. Throughout one week, he uses his powers to prevent disasters and improve the lives of his students, culminating in a showdown that saves the city.",
+  "summaryGerman": "Jin Reed, ein 40-jähriger, der tagsüber unterrichtet und nachts handelt, entdeckt seine Fähigkeit, die Zeit zu manipulieren, nach einem geheimnisvollen Meteoritenschauer. Innerhalb einer Woche nutzt er seine Kräfte, um Katastrophen zu verhindern und das Leben seiner Schüler zu verbessern, was in einem Showdown gipfelt, der die Stadt rettet.",
+  "summaryDutch": "Jin Reed, een 40-jarige die overdag bijles geeft en 's nachts handelt, ontdekt zijn vermogen om de tijd te manipuleren na een mysterieuze meteorenregen. Gedurende een week gebruikt hij zijn krachten om rampen te voorkomen en het leven van zijn studenten te verbeteren, wat uitmondt in een confrontatie die de stad redt.",
+  "summaryFrench": "Jin Reed, un homme de 40 ans qui donne des cours particuliers le jour et fait du commerce la nuit, découvre sa capacité à manipuler le temps après une pluie de météorites mystérieuse. Tout au long d'une semaine, il utilise ses pouvoirs pour prévenir les catastrophes et améliorer la vie de ses élèves, aboutissant à un affrontement qui sauve la ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Jin Reed wakes up feeling energetic. During tutoring, he stops a student from a serious calculus error and trades successfully post-session.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Jin feels eerie after a dream showing a collapsing bridge. He rushes there after tutoring and uses his time manipulation to save commuters.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wenesday",
+      "text": "Catching the attention of a local reporter, Jin is interviewed about his sudden heroic acts. He feels both happy and burdened by his new role.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "While tutoring, Jin bonds romantically with a fellow tutor. Later, he optimizes a significant financial trade using a brief Peek into the future.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "News of his heroics has spread. Jin feels triumphant as he stops a fire from spreading through a residential area by reversing time briefly.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a city parade in his honor, Jin feels epic as he is celebrated as a local hero. Using his powers, he ensures the parade remains peaceful and safe.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Jin feels peaceful as he takes a well-deserved break, tying up loose ends in both his tutoring and trading schedules.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the week closed, Jin realized that with great power comes both opportunity and overwhelming responsibility. His life had changed forever.",
+  "moral": "Great power demands great responsibility, and real heroes are made by the choices they make every day."
+}

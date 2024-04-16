@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Valor: The Adventures of Pit Carter",
+  "summary": "Pit Carter, a mentor and coach, uncovers his latent powers after a mysterious artifact imbues him with superhuman abilities. Over a week, he confronts both local criminals and personal challenges, ultimately accepting his new role as a superhero.",
+  "summaryGerman": "Pit Carter, ein Mentor und Trainer, entdeckt seine verborgenen Kräfte, nachdem ihn ein mysteriöses Artefakt mit übermenschlichen Fähigkeiten ausstattet. Innerhalb einer Woche stellt er sich sowohl lokalen Kriminellen als auch persönlichen Herausforderungen und akzeptiert letztendlich seine neue Rolle als Superheld.",
+  "summaryDutch": "Pit Carter, een mentor en coach, ontdekt zijn latente krachten nadat een mysterieus artefact hem bovenmenselijke vermogens geeft. Gedurende een week confronteert hij zowel lokale criminelen als persoonlijke uitdagingen, uiteindelijk accepteert hij zijn nieuwe rol als superheld.",
+  "summaryFrench": "Pit Carter, un mentor et entraîneur, découvre ses pouvoirs latents après qu'un artefact mystérieux lui ait conféré des capacités surhumaines. Au cours d'une semaine, il affronte à la fois des criminels locaux et des défis personnels, acceptant finalement son nouveau rôle de superhéros.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Pit Carter, a dedicated mentor and coach, gains superhuman strength and agility after accidentally touching a glowing artifact in his local gym. Feeling energetic, he tests his new abilities in secret.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Pit prevents a robbery at a nearby cafe using his powers. Triumphant, he realizes the positive impact he could have on his community.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "Doubts creep in as Pit struggles with the moral implications of using his powers. An eerie uncertainty haunts him by day's end.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Encouraged by a close friend, Pit embraces his role, mentoring young locals about responsibility and power. A peaceful day ends with unexpected gratitude from those he helped.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Pit stops a car chase, saving lives. Lauded as a hero, he feels genuinely happy for the first time this week.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Reflecting on his journey, Pit sets up a training facility to coach others with newfound powers. His day is filled with epic planning and preparation.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "A romantic interest blossoms with someone who respects his dual life of mentorship and heroism, offering a rare moment of personal joy beyond his public duties.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "As the sun set, Pit Carter knew he had found his true calling, not just in heroism, but in empowering others to be heroes in their own lives.",
+  "moral": "True power lies in using one's abilities to uplift and empower others."
+}

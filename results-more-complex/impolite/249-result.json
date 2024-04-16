@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Wisdom: The Adventures of Alice Campbell",
+  "summary": "Alice Campbell, a 74-year-old advisor, discovers her power to predict and prevent neighborhood problems, using her wisdom to guide and save her community over the span of one eventful week.",
+  "summaryGerman": "Alice Campbell, eine 74-jährige Beraterin, entdeckt ihre Fähigkeit, Probleme in ihrer Nachbarschaft vorherzusagen und zu verhindern. Sie nutzt ihre Weisheit, um ihre Gemeinde während einer ereignisreichen Woche zu führen und zu retten.",
+  "summaryDutch": "Alice Campbell, een 74-jarige adviseur, ontdekt haar kracht om problemen in haar buurt te voorspellen en te voorkomen, waarbij ze haar wijsheid gebruikt om haar gemeenschap te leiden en te redden gedurende een bewogen week.",
+  "summaryFrench": "Alice Campbell, une conseillère de 74 ans, découvre son pouvoir de prévoir et de prévenir les problèmes de son quartier, utilisant sa sagesse pour guider et sauver sa communauté pendant une semaine mouvementée.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Alice, feeling energetic, organizes a neighborhood watch meeting, inadvertently preventing a burglary with her timely advice.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "After hearing about a local youth struggling, Alice uses her advising skills to coach him, finding herself feeling quite triumphant about the positive changes.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wdenesday",
+      "text": "An eerie silence takes over the community center, but Alice, sensing trouble, counsels a silent dispute among neighbors, restoring peace.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Alice spends a peaceful day writing a column for the community newsletter, sharing life lessons and enchanting stories about her younger days.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Feeling sad about the news of an old friend's illness, Alice organizes a support group, creating a network of care and comfort.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Alice's advice column goes viral, leading her to an unexpected romantic dinner with a fan who admires her wisdom and youthful spirit.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The week culminates in an epic gathering arranged by Alice, bringing together different generations to bridge understanding and create lasting bonds.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "In just one week, Alice Campbell proved that true heroism knows no age.",
+  "moral": "Wisdom and the willingness to help can forge unexpected heroes and unite communities."
+}

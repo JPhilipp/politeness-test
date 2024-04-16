@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Peggy Stewart: The Tutoring Hero",
+  "summary": "Peggy Stewart discovers her unique ability to mentally connect with people while tutoring, using it to help her students excel and solve community problems.",
+  "summaryGerman": "Peggy Stewart entdeckt ihre einzigartige Fähigkeit, sich mental mit Menschen zu verbinden, während sie Nachhilfe gibt, und nutzt sie, um ihren Schülern zu helfen, herausragend abzuschneiden und Probleme in der Gemeinde zu lösen.",
+  "summaryDutch": "Peggy Stewart ontdekt haar unieke vermogen om mentaal contact te maken met mensen tijdens het geven van bijles, waarbij ze het gebruikt om haar studenten te helpen uitblinken en problemen in de gemeenschap op te lossen.",
+  "summaryFrench": "Peggy Stewart découvre sa capacité unique à se connecter mentalement avec les gens pendant qu'elle donne des cours particuliers, l'utilisant pour aider ses élèves à exceller et résoudre des problèmes communautaires.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Peggy Stewart, an 18-year-old tutor, starts her week at the local community center, feeling energetic as she prepares for a full schedule of tutoring sessions.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuedsay",
+      "text": "While helping a student with mathematics, Peggy realizes she can understand and solve problems just by connecting minds. She feels both amazed and eerie at her newfound ability.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Peggy experiments with her powers, discreetly using them to improve her students' understanding. The results are incredible, and she feels triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News of her students' sudden improvements spreads, and Peggy is flooded with requests for help. Faced with this challenge, she feels determined yet peaceful.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Peggy manages to balance her time, helping more students excel. She feels happy seeing their joy and success, which makes her day very rewarding.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a community event, Peggy uses her powers to resolve a misunderstanding between two groups, earning appreciation from everyone. This makes her feel romantic about her community's unity.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Peggy decides to harness her powers for good, helping her community connect and understand each other better. She feels epic, ready for whatever challenges may come.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus, Peggy Stewart found her path not just as a tutor, but as a true hero among her peers.",
+  "moral": "The power to connect and understand can transform lives in more ways than one."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Culinary Capers of Eve Wang",
+  "summary": "Eve Wang, a 25-year-old superhero with a passion for cooking and mentoring, discovers a mysterious spice that grants her superpowers. Over a week, she overcomes various challenges and ultimately saves her city from a dire threat.",
+  "summaryGerman": "Eve Wang, eine 25-jährige Superheldin mit einer Leidenschaft fürs Kochen und Mentoring, entdeckt ein geheimnisvolles Gewürz, das ihr Superkräfte verleiht. Über eine Woche hinweg überwindet sie verschiedene Herausforderungen und rettet letztendlich ihre Stadt vor einer ernsten Bedrohung.",
+  "summaryDutch": "Eve Wang, een 25-jarige superheldin met een passie voor koken en mentorschap, ontdekt een mysterieuze specerij die haar superkrachten geeft. Gedurende een week overwint ze verschillende uitdagingen en redt uiteindelijk haar stad van een ernstige bedreiging.",
+  "summaryFrench": "Eve Wang, une super-héroïne de 25 ans passionnée de cuisine et de mentorat, découvre une épice mystérieuse qui lui donne des super-pouvoirs. Au cours d'une semaine, elle surmonte divers défis et sauve finalement sa ville d'une grave menace.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Eve Wang starts her week experimenting with a new recipe that includes an unknown spice found in an old market. She notices increased senses and reflexes while cooking.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "The next day, while mentoring young cooks at the local community center, Eve discovers she can manipulate food's taste and texture with her mind.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Eve grows confident in her newfound abilities, using them to create delightful dishes that bring joy to everyone, realizing her powers extend beyond the kitchen.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thurday",
+      "text": "A mysterious figure begins stalking the streets of her city. Eve, feeling a duty to protect her home, decides to investigate after a full day of cooking classes.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Eve confronts the villain, a disgruntled former chef weaponizing culinary techniques for crime. Their epic showdown is flavored with dramatic culinary flair.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Triumphant, Eve uses her culinary superpowers to disarm the rogue chef, turning his harmful innovations into harmless, delicious treats, winning over her adversary.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "As the city celebrates her heroism with a festival in her honor, Eve offers a cooking demonstration, inspiring the next generation of chefs and heroes.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Eve Wang continued to stir the pot of justice, one savory dish at a time.",
+  "moral": "With great power comes great responsibility. Use your talents to make the world a better place."
+}

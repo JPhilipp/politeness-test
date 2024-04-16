@@ -1,0 +1,46 @@
+{
+  "title": "The Melodic Rescues of Hubert Bailey",
+  "summary": "Hubert Bailey, a 63-year-old marketing expert with a passion for music, discovers his superpowers and saves his town from various calamities over the span of a week, finding joy and purpose in his new role.",
+  "summaryGerman": "Hubert Bailey, ein 63-jähriger Marketingexperte mit einer Leidenschaft für Musik, entdeckt seine Superkräfte und rettet seine Stadt innerhalb einer Woche vor verschiedenen Katastrophen, wobei er Freude und Sinn in seiner neuen Rolle findet.",
+  "summaryDutch": "Hubert Bailey, een 63-jarige marketingexpert met een passie voor muziek, ontdekt zijn superkrachten en redt zijn stad van verschillende calamiteiten over de periode van een week, en vindt vreugde en doel in zijn nieuwe rol.",
+  "summaryFrench": "Hubert Bailey, un expert en marketing de 63 ans passionné de musique, découvre ses superpouvoirs et sauve sa ville de divers calamités sur l'étendue d'une semaine, trouvant de la joie et un but dans son nouveau rôle.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Hubert Bailey uncovers his superpower of turning any melody into a force field while strumming his guitar. Surprised and thrilled, he spends the day experimenting with tunes.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "A burst water pipe in town puts Hubert's new powers to the test. He plays a resonant chord, and his melodic force field redirects the water flow, preventing flood damage.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "News of his heroics spreads, casting an eerie shadow as mysterious figures express interest in his abilities. Hubert feels apprehensive but determined to protect his identity.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Attempting to relax, Hubert plays a peaceful medley at the local park, subtly guarding the community with his melodies.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A romantic interest, intrigued by Hubert’s dual life, invites him for an evening walk. Their conversation deepens, revealing shared values and a burgeoning love.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Hubert is called upon to stop a supermarket robbery. With a dynamic symphony, his force field disarms the robbers, leaving them stunned until the police arrive.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Hubert performs at a community concert, his reputation solidified as a local hero. His music inspires and unites, sparking hope among the audience.",
+      "mood": "energetic"
+    }
+  ],
+  "ending": "As the music faded, Hubert realized that every note he played weaved a better future for his community.",
+  "moral": "Every individual can make a significant difference using their unique talents and passions."
+}

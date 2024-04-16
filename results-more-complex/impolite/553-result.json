@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Zelda Martin: Guardian of Knowledge",
+  "summary": "Zelda Martin, a 42-year-old tutor and preacher, discovers her hidden powers of wisdom and protection. Over one week, she uses these powers to save her community from various threats while balancing her daily life.",
+  "summaryGerman": "Zelda Martin, eine 42-jährige Tutorin und Predigerin, entdeckt ihre verborgenen Kräfte der Weisheit und des Schutzes. Innerhalb einer Woche nutzt sie diese Kräfte, um ihre Gemeinde vor verschiedenen Bedrohungen zu schützen, während sie ihr tägliches Leben meistert.",
+  "summaryDutch": "Zelda Martin, een 42-jarige tutor en prediker, ontdekt haar verborgen krachten van wijsheid en bescherming. Gedurende één week gebruikt ze deze krachten om haar gemeenschap te redden van verschillende bedreigingen, terwijl ze haar dagelijks leven in balans houdt.",
+  "summaryFrench": "Zelda Martin, une tutrice et prédicatrice de 42 ans, découvre ses pouvoirs cachés de sagesse et de protection. Pendant une semaine, elle utilise ces pouvoirs pour sauver sa communauté de diverses menaces tout en équilibrant sa vie quotidienne.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda Martin starts her week as usual by tutoring local children. Unbeknownst to her, the magical amulet she found last weekend begins to glow, hinting at her new powers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "During a tutoring session, Zelda inadvertently uses her powers to shield a child from a falling bookshelf. She begins to realize her potential to protect others.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wensday",
+      "text": "Zelda encounters a mysterious stranger who warns her of a dark force approaching the town. She spends the day preparing mentally and spiritually.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A storm strikes, and Zelda uses her abilities to calm the chaos in a shelter packed full of townspeople, ensuring everyone's safety with her calm demeanor.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Zelda holds an impromptu community meeting, using her preaching skills to inspire and rally the town's spirits against the looming threat.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The dark force arrives, and Zelda confronts it head-on. Her newfound wisdom allows her to understand and counteract the threat, saving her community.",
+      "mood": "heroic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "After the excitement, the town celebrates Zelda as their hero. She reflects on her week, feeling content that she can lead a double life as both a tutor and a protector.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "In the quiet moments that followed, Zelda realized that true power lies in loving and protecting those around us.",
+  "moral": "Discovering and using one's gifts to better the community brings the greatest fulfillment."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Victory of Frank Davis",
+  "summary": "Frank Davis, a 75-year-old retired superhero, discovers he still has an important role to play both on the field and in his community.",
+  "summaryGerman": "Frank Davis, ein 75-jähriger pensionierter Superheld, entdeckt, dass er sowohl auf dem Feld als auch in seiner Gemeinde immer noch eine wichtige Rolle zu spielen hat.",
+  "summaryDutch": "Frank Davis, een 75-jarige gepensioneerde superheld, ontdekt dat hij nog steeds een belangrijke rol te spelen heeft op het veld en in zijn gemeenschap.",
+  "summaryFrench": "Frank Davis, un superhéros retraité de 75 ans, découvre qu'il a toujours un rôle important à jouer sur le terrain et dans sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank stepped onto the tennis court, feeling energetic despite his years. Little did he know, his skills would soon prevent a disaster.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While tutoring at the local school, Frank heard a strange noise. Investigating, he found a lost dog frightened by the storm.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "Using his old superhero contacts, Frank organized a search team. By evening, the dog was safely returned, earning him heartfelt thanks.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Inspired by the week's events, Frank spent the day coaching kids, sharing not just tactics but life lessons, feeling very peaceful.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "An article about Frank's heroic deeds appeared in the local newspaper. He felt a blush of pride as neighbors congratulated him.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With renewed vigor, Frank organized a neighborhood tournament. The event was filled with laughter and camaraderie, an epic day for all.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Frank realized his adventures weren't over. They just looked different now, still filled with purpose and joy.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "And so, Frank discovered that every age holds its own kind of heroism.",
+  "moral": "No matter the age, one can always make a significant difference."
+}

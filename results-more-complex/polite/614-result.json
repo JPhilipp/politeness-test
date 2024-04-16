@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of David Lee: The Penmaster Protector",
+  "summary": "David Lee, a writer and instructor by day, turns into a superhero named Penmaster Protector, using his pen to combat crime and inspire peace. Over the course of a week, he tackles an escalating series of threats against his city, culminating in a dramatic showdown.",
+  "summaryGerman": "David Lee, tagsüber Schriftsteller und Lehrer, verwandelt sich in einen Superhelden namens Penmaster Protector, der seinen Stift benutzt, um Verbrechen zu bekämpfen und Frieden zu inspirieren. Im Laufe einer Woche geht er eine zunehmende Reihe von Bedrohungen gegen seine Stadt an, die in einem dramatischen Showdown gipfeln.",
+  "summaryDutch": "David Lee, overdag schrijver en leraar, verandert in een superheld genaamd Penmaster Protector, die zijn pen gebruikt om misdaad te bestrijden en vrede te inspireren. Gedurende een week behandelt hij een escalerende reeks bedreigingen tegen zijn stad, uitmondend in een dramatische confrontatie.",
+  "summaryFrench": "David Lee, écrivain et instructeur de jour, se transforme en super-héros nommé Penmaster Protector, utilisant son stylo pour combattre le crime et inspirer la paix. Au cours d'une semaine, il s'attaque à une série croissante de menaces contre sa ville, aboutissant à un affrontement dramatique.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "David Lee spends his morning teaching creative writing workshops, feeling energetic for the possibilities ahead.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "An eerie message arrives, hinting chaos will strike the city. David frowns, turning into Penmaster Protector at dusk.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "Chase through the city's dark alleys; David stops a robbery with his enchanted pen, leaving cryptic poetic justice behind.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Feeling sad, David deals with the emotional strain of his double life, as his superhero duties affect his teaching.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A romantic moment unfolds when David saves an old flame from danger while still masked, stirring up old feelings.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "An epic face-off with the week's villain: The Noise Machinist, who disrupts peace with chaotic sounds. David uses literary quotes to defeat his discord.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "After a week of turmoil, David takes a peaceful walk in the park, pen in pocket, ready to write his next chapter.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus, through ink and action, David Lee penned a safer chapter for everyone.",
+  "moral": "With creativity and courage, even the mightiest challenges can be rewritten."
+}

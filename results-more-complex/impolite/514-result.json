@@ -1,0 +1,46 @@
+{
+  "title": "The Vibrant Visions of Xavier Jackson",
+  "summary": "Xavier Jackson, a 24-year-old painter and hobby guide, discovers he can bring his paintings to life to protect his city, learning to harness his powers over a transformative week.",
+  "summaryGerman": "Xavier Jackson, ein 24-jähriger Maler und Hobbyführer, entdeckt, dass er seine Gemälde zum Leben erwecken kann, um seine Stadt zu schützen, und lernt, seine Kräfte über eine transformative Woche zu beherrschen.",
+  "summaryDutch": "Xavier Jackson, een 24-jarige schilder en hobbygids, ontdekt dat hij zijn schilderijen tot leven kan brengen om zijn stad te beschermen, en leert zijn krachten gedurende een transformatieve week te beheersen.",
+  "summaryFrench": "Xavier Jackson, un peintre de 24 ans et guide amateur, découvre qu'il peut donner vie à ses peintures pour protéger sa ville, apprenant à maîtriser ses pouvoirs au cours d'une semaine transformatrice.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Discovering his painting of the city skyline seems to pulsate with unexplained energy, Xavier feels an eerie sense of destiny.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While leading a scenic city tour, an unexpected attack occurs downtown. Reflexively, Xavier sketches a superhero, who leaps from the page to fend off attackers.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wensday",
+      "text": "Experimenting with his newfound powers, Xavier paints a tranquil garden. The garden materializes, offering him a peaceful refuge to think.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A romantic interest from the tour asks Xavier about his art. As he shows her his gallery, his figures animate, charming and astonishing her.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With the city under threat by a looming storm, Xavier paints a gigantic protector of the skies. The city watches in awe as the storm is calmed.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Bolstered by his success, Xavier spends the day painting vibrant murals around town, each infused with vitality and joy, making the city alive with energy.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Xavier paints a self-portrait that captures his transformation. The portrait smiles back, signifying his acceptance of his role as the city's guardian.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "In a single week, Xavier Jackson turned from an ordinary artist into a superhero, proving that sometimes, the mightiest powers come from within the strokes of a brush.",
+  "moral": "Embrace your unique talents; they might one day be your greatest strength."
+}

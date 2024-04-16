@@ -1,0 +1,46 @@
+{
+  "title": "The Green Guardian: The Adventures of Frank King",
+  "summary": "Frank King, a 71-year-old retired superhero known for his counseling and gardening, faces a week where his powers are mysteriously rejuvenated, leading him to combat unexpected threats and rejuvenate his community.",
+  "summaryGerman": "Frank King, ein 71-jähriger pensionierter Superheld, bekannt für seine Beratung und Gartenarbeit, erlebt eine Woche, in der seine Kräfte mysteriös verjüngt werden, was ihn dazu führt, unerwarteten Bedrohungen zu begegnen und seine Gemeinschaft zu revitalisieren.",
+  "summaryDutch": "Frank King, een 71-jarige gepensioneerde superheld bekend om zijn counseling en tuinieren, beleeft een week waarin zijn krachten op mysterieuze wijze verjongd worden, wat hem leidt tot het bestrijden van onverwachte bedreigingen en het verjongen van zijn gemeenschap.",
+  "summaryFrench": "Frank King, un super-héros à la retraite de 71 ans, connu pour son conseil et son jardinage, fait face à une semaine où ses pouvoirs sont mystérieusement rajeunis, l'amenant à combattre des menaces inattendues et à revitaliser sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank King began his week tending to his garden, feeling peaceful and content. However, his tranquility was interrupted when he discovered a strange glowing plant that seemed to imbue him with youthful vigor.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesady",
+      "text": "Using his newfound energy, Frank visited the local community center to offer free counseling sessions, helping many resolve long-held issues. His abilities seemed enhanced, making him feel triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Trouble arose when a villain known as Decay tried to destroy the community's park. Frank, feeling energetic, used his empowered green thumb to stimulate rapid plant growth, thwarting the villain's plans.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "With the park safe, Frank's story became the talk of the town. Enjoying his role as a hero once more, he organized a romantic garden party as a fundraiser for the damaged park.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "At the fundraiser, eerie rumors circulated about strange creatures in the park. Frank investigated and unearthly whispers led him to a hidden grove, where peaceful spirits thanked him for preserving their sanctuary.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Invigorated by the spirits' blessing, Frank spent his day enhancing the park's beauty and biodiversity. His actions inspired the community, reminding them of nature's resilience.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "To culminate his epic week, Frank held a community planting day, creating a lush green space that would serve as a haven for people and wildlife alike. The park was named 'King's Grove' in his honor.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus, Frank King, at age 71, redefined heroism, proving that true power lies in caring for others and nurturing nature.",
+  "moral": "Even the smallest seeds of kindness can blossom into great deeds."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Quilting Guardian: The Adventures of Sue Kelly",
+  "summary": "Sue Kelly, a devout 37-year-old who enjoys praying and quilting, discovers she can weave protective shields from quilts, using them to cover her community from various menaces throughout a dramatic week.",
+  "summaryGerman": "Sue Kelly, eine fromme 37-Jährige, die gerne betet und Quilts herstellt, entdeckt, dass sie aus Quilts Schutzschilde weben kann, die sie verwendet, um ihre Gemeinde eine Woche lang vor verschiedenen Bedrohungen zu schützen.",
+  "summaryDutch": "Sue Kelly, een devote 37-jarige die van bidden en quilten houdt, ontdekt dat ze beschermende schilden uit quilts kan weven, die ze gebruikt om haar gemeenschap een week lang te beschermen tegen verschillende gevaren.",
+  "summaryFrench": "Sue Kelly, une dévouée de 37 ans qui aime prier et faire des quilts, découvre qu'elle peut tisser des boucliers protecteurs à partir de quilts, qu'elle utilise pour protéger sa communauté de diverses menaces tout au long d'une semaine dramatique.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Sue Kelly begins her week with a quiet prayer session at dawn, but soon discovers her quilts radiate a mysterious energy. She experiments and realizes she can form protective barriers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Encouraged by her newfound powers, Sue spends the day crafting a special quilt. By evening, she successfully uses it to shield her neighbor’s house from a falling tree during a storm.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "Intrigued by the potential of her powers, Sue tries a more ambitious project: a quilt large enough to cover the local park. It shields children from an unexpected hailstorm.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Sue holds a small gathering at her house to share her quilting skills and secret. The attendees are supportive but bewildered by the demonstration.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Rumors of Sue’s powers spread through town. A local journalist interviews her, eager to understand the source of her abilities. Sue emphasizes the importance of faith and community.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A crisis unfolds as a fire breaks out near downtown. Sue quickly sews a fire-resistant quilt, dramatically draping it over the endangered area to stifle the flames.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Sue spends the day at church, praying and offering thanks for her abilities. She vows to keep using her gifts to protect her community.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus ends a week in the life of Sue Kelly, whose divine patchwork became her town's shield.",
+  "moral": "Embrace unique gifts; they may serve a higher purpose."
+}

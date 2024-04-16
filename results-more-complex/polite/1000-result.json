@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Yousef Miller: The Spinning Saviour",
+  "summary": "Yousef Miller, a 67-year-old man with hobbies in spinning and embroidering, discovers his ability to weave protective spells into fabric, which he uses to save his town from various dangers over the course of a week.",
+  "summaryGerman": "Yousef Miller, ein 67-jähriger Mann mit Hobbys im Spinnen und Sticken, entdeckt seine Fähigkeit, Schutzzauber in Stoff zu weben, die er verwendet, um seine Stadt im Laufe einer Woche vor verschiedenen Gefahren zu schützen.",
+  "summaryDutch": "Yousef Miller, een 67-jarige man met hobby's in spinnen en borduren, ontdekt zijn vermogen om beschermende spreuken in stof te weven, die hij gebruikt om zijn stad te redden van verschillende gevaren gedurende een week.",
+  "summaryFrench": "Yousef Miller, un homme de 67 ans aux hobbies de filage et de broderie, découvre sa capacité à tisser des sorts protecteurs dans du tissu, qu'il utilise pour sauver sa ville de divers dangers au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Yousef Miller stumbles upon an ancient spinning wheel in his attic, which grants him the mystical power to weave magic into fabrics.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "He crafts a scarf that can shield anyone from harm. Testing it, he saves a neighbor's cat from a falling branch.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Word spreads, and people from the town seek Yousef's magical garments. He makes a hat that cures headaches.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thurssday",
+      "text": "A mysterious figure asks for a cloak of invisibility. Yousef senses danger and refuses, aware he may have attracted unwanted attention.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The figure returns, revealing himself as a sorcerer wanting to exploit Yousef’s gifts. A battle of spells ensues, woven into the fabric of their clothes.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Using his spinning wheel, Yousef outsmarts the sorcerer with a tapestry that traps him in an endless maze of threads.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The town celebrates Yousef, naming him their protector. He quietly returns to his spinning, smiling at his work.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Yousef continued to spin and embroider, guarding his town with every stitch.",
+  "moral": "Even hobbies held dear can weave the greatest magic when the need arises."
+}

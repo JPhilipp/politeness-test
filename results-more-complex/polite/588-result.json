@@ -1,0 +1,46 @@
+{
+  "title": "The Valiant Venture of Victor Alexander",
+  "summary": "At the age of 77, Victor Alexander, a director and negotiator, discovers a hidden power to manipulate time, using it to solve disputes and prevent crises throughout the city.",
+  "summaryGerman": "Im Alter von 77 Jahren entdeckt Victor Alexander, Regisseur und Unterhändler, eine verborgene Kraft zur Manipulation der Zeit, die er nutzt, um Streitigkeiten zu lösen und Krisen in der Stadt zu verhindern.",
+  "summaryDutch": "Op 77-jarige leeftijd ontdekt Victor Alexander, een regisseur en onderhandelaar, een verborgen kracht om tijd te manipuleren, die hij gebruikt om geschillen op te lossen en crises in de stad te voorkomen.",
+  "summaryFrench": "À l'âge de 77 ans, Victor Alexander, réalisateur et négociateur, découvre un pouvoir caché de manipuler le temps, qu'il utilise pour résoudre des différends et prévenir des crises dans la ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Victor Alexander starts his week as usual, directing a small community theatre play. During a scene, he accidentally discovers he can fast-forward time, skipping a tangled prop issue.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Intrigued by his newfound ability, Victor tests his powers during a heated negotiation, pausing time to find the perfect compromise. The deal is successful beyond expectations.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Victor spends the day exploring the limits of his powers, learning that he can also rewind brief moments. His experiments make him feel youthful and energetic.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Using his time-manipulating abilities, Victor prevents a potential dispute between two local business owners, fostering a peaceful resolution that leaves everyone happy.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Victor helps a friend rekindle a lost romance by rewinding a misunderstanding, allowing them to express their true feelings. It's a touching, romantic scene.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With his confidence at its peak, Victor orchestrates a city-wide initiative to promote harmony among its citizens, using his powers subtly to ensure everyone’s cooperation.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Victor realizes the immense responsibilities his powers hold. He decides to secretly use them only for the greater good, feeling serene and content.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Victor Alexander's week of discovery shapes his golden years into an unexpected crusade for harmony, proving that true heroes come in all ages.",
+  "moral": "Great power comes with great responsibility, and wisdom to use it well often comes with age."
+}

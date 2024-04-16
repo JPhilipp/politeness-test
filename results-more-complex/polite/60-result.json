@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Journey of Eve Sanders, The Sculpting Saint",
+  "summary": "Eve Sanders, a 65-year-old sculptor and devoted prayer warrior, unexpectedly discovers her powers of healing and prophecy, using them to help her community over the course of a week.",
+  "summaryGerman": "Eve Sanders, eine 65-jährige Bildhauerin und engagierte Gebetskämpferin, entdeckt unerwartet ihre Heil- und Weissagungskräfte, die sie im Laufe einer Woche einsetzt, um ihrer Gemeinde zu helfen.",
+  "summaryDutch": "Eve Sanders, een 65-jarige beeldhouwster en toegewijde gebedsstrijdster, ontdekt onverwachts haar genezende en profetische krachten, die ze in de loop van een week gebruikt om haar gemeenschap te helpen.",
+  "summaryFrench": "Eve Sanders, une sculptrice de 65 ans et fervente guerrière de prière, découvre de manière inattendue ses pouvoirs de guérison et de prophétie, qu'elle utilise pour aider sa communauté au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Eve begins her week at the local park, praying silently beneath the old oak tree. As she sculpts a small clay figure, a young man approaches, limping from an apparent injury. After a brief conversation, she lays hands on his knee, praying quietly, and inexplicably, he walks away pain-free.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Encouraged by the previous day's events, Eve visits the community center to try sculpting larger public pieces. While shaping a clay mural, she foresees a storm approaching and warns the town. Her prediction proves accurate, saving many from unexpected harm.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "The news of Tuesday's prophecy spreads, and people come to seek Eve’s advice. Throughout the day, she listens and prays with them, giving personal prophecies that bring peace and direction. Her studio becomes a peaceful sanctuary.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A local journalist interviews Eve about her newfound abilities. During the interview, she has a vision of the journalist reuniting with his estranged sister. He follows her advice and their reunion brings joy and reconciliation.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Eve holds a public demonstration of sculpting at the park, intertwining her prayer and art. Crowds are mesmerized not only by her skill but also by her serene demeanor, which imbues a sense of calm in everyone present.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Amidst a collective sculpture project, Eve feels a sudden surge of energy. She prays for the city’s future, and her vision shows the community thriving with unity and prosperity. Her words inspire hope among the attendees.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Eve spends her Sunday sculpting small gifts for those who aided her throughout the week. Each piece is infused with blessings meant to bring prosperity and health. Her acts of kindness ripple through the community, strengthening bonds.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Eve Sanders' humility and selfless use of her gifts teach us that true power lies in service and love for others.",
+  "moral": "The greatest heroes are those who use their gifts selflessly to uplift their communities."
+}

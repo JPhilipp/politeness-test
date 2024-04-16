@@ -1,0 +1,46 @@
+{
+  "title": "The Embroidering Educator: The Tale of Mallory Morgan",
+  "summary": "Mallory Morgan discovers her powers of bringing illustrations to life while embroidering, using her abilities to teach and protect her community over the course of a week.",
+  "summaryGerman": "Mallory Morgan entdeckt ihre Kräfte, Illustrationen zum Leben zu erwecken, während sie stickt, und nutzt ihre Fähigkeiten, um ihre Gemeinschaft eine Woche lang zu lehren und zu schützen.",
+  "summaryDutch": "Mallory Morgan ontdekt haar krachten om illustraties tot leven te wekken tijdens het borduren, en gebruikt haar vaardigheden om haar gemeenschap een week lang te onderwijzen en te beschermen.",
+  "summaryFrench": "Mallory Morgan découvre ses pouvoirs pour donner vie aux illustrations tout en brodant, utilisant ses capacités pour enseigner et protéger sa communauté au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Mallory Morgan, a passionate embroiderer and tutor, stumbles upon a mystical thread that reacts to her touch, glowing with an eerie light. As she weaves the thread into her fabric, the embroidered animals begin to move, shocking her.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Excited yet cautious, Mallory experiments more. She creates a tiny hummingbird that flits around her room energetically, helping her understand that she can create life with her stitches.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Mallory decides to use her newfound powers for good. During a tutoring session, she brings illustrations in a science textbook to life, thrilling her students and aiding in their understanding of complex topics.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The town faces unexpected floods. Mallory embroiders a flock of large birds, which she animates to help carry pets and people to safety, showcasing her heroic potential.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With her heroics making local news, Mallory feels a mix of pride and overwhelm. She spends a peaceful day at home, reflecting on her new role and stitching quietly by the fireside.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Inspired by romantic tales she once embroidered, Mallory crafts a scene from a beloved book and brings it to life for an elderly neighbor, rekindling her neighbor’s cherished memories.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Mallory hosts a community workshop to teach both embroidery and the value of helping others, using her skills to foster a sense of unity and purpose in her neighborhood.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As the week closed, Mallory Morgan felt deeply connected to her community, her craft, and the magical possibilities that lay ahead.",
+  "moral": "With great power comes not only responsibility, but also the opportunity to enrich and protect one's community."
+}

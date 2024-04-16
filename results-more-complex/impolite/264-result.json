@@ -1,0 +1,46 @@
+{
+  "title": "The Chronicles of Walter Perry: Manager by Day, Hero by Night",
+  "summary": "Walter Perry, a 59-year-old with a passion for managing and reading, discovers his power to manipulate time after an eerie encounter. Over one transformative week, he uses this power to fight crime and bring peace to his community.",
+  "summaryGerman": "Walter Perry, ein 59-Jähriger mit einer Leidenschaft fürs Managen und Lesen, entdeckt seine Fähigkeit, die Zeit nach einer unheimlichen Begegnung zu manipulieren. In einer transformativen Woche nutzt er diese Kraft, um Verbrechen zu bekämpfen und Frieden in seine Gemeinde zu bringen.",
+  "summaryDutch": "Walter Perry, een 59-jarige met een passie voor managen en lezen, ontdekt zijn kracht om tijd te manipuleren na een griezelige ontmoeting. Gedurende één transformerende week gebruikt hij deze kracht om criminaliteit te bestrijden en vrede te brengen in zijn gemeenschap.",
+  "summaryFrench": "Walter Perry, âgé de 59 ans et passionné de gestion et de lecture, découvre son pouvoir de manipuler le temps après une rencontre étrange. Au cours d'une semaine transformative, il utilise ce pouvoir pour lutter contre le crime et apporter la paix dans sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Walter stumbles upon a mysterious book in the library about time manipulation, which surprisingly reacts to his touch, sparking an interest.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tueaday",
+      "text": "After experimenting secretly, Walter successfully pauses time for a moment. The realization of his powers dawns on him, bringing a mix of excitement and fear.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "He tests his new ability to help a woman avoid a traffic accident. The successful intervention leaves him feeling empowered and heroic.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Walter contemplates the ethical implications of his powers, spending a quiet day at home, deeply engrossed in philosophical readings about power and responsibility.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A local bank robbery unfolds, and Walter, sensing the opportunity, uses his powers to thwart the criminals, quietly redirecting them into the hands of law enforcement.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "News of the mysterious 'Guardian of Time' spreads around town. Walter feels happy seeing the community's joy and safety but keeps his identity a secret.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Walter decides to continue using his powers for good, ensuring his ordinary life as a manager intertwines with his secret identity.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Little did he know, his adventures had just begun.",
+  "moral": "With great power comes great responsibility, and even ordinary people can achieve extraordinary things."
+}

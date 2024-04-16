@@ -1,0 +1,46 @@
+{
+  "title": "The Sculpted Hero: The Tale of Sue Scott",
+  "summary": "Sue Scott, a sculptor by day and superhero by night, uses her power to manipulate stone and metal to combat a mysterious villain threatening her city over the span of one week.",
+  "summaryGerman": "Sue Scott, tagsüber Bildhauerin und nachts Superheldin, nutzt ihre Fähigkeit, Stein und Metall zu manipulieren, um einen geheimnisvollen Bösewicht zu bekämpfen, der ihre Stadt innerhalb einer Woche bedroht.",
+  "summaryDutch": "Sue Scott, overdag beeldhouwer en 's nachts superheld, gebruikt haar kracht om steen en metaal te manipuleren om een mysterieuze schurk te bestrijden die haar stad bedreigt gedurende een week.",
+  "summaryFrench": "Sue Scott, sculpteur le jour et super-héroïne la nuit, utilise son pouvoir de manipuler la pierre et le métal pour combattre un méchant mystérieux menaçant sa ville sur une période d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "mood": "peaceful",
+      "text": "Sue Scott spent the early hours of Monday in her art studio, sculpting a magnificent statue inspired by her late mentor, feeling at peace with the clay beneath her fingers."
+    },
+    {
+      "weekday": "Tuesday",
+      "mood": "eerie",
+      "text": "An eerie silence fell over the city as Sue noticed sculptures around town mysteriously crumbling—stone and metal deforming without apparent cause."
+    },
+    {
+      "weekday": "Wednseday",
+      "mood": "energetic",
+      "text": "Harnessing her unique abilities, Sue energetically pieced together clues, discovering that the disturbances were linked to seismic activities unusually centered around art installations."
+    },
+    {
+      "weekday": "Thursday",
+      "mood": "triumphant",
+      "text": "Confronting the villain—an estranged artist wielding seismic technology—Sue thwarted his destructive plan by creating a counter-wave sculpture that absorbed the harmful vibrations."
+    },
+    {
+      "weekday": "Friday",
+      "mood": "sad",
+      "text": "While victorious, Friday brought a somber mood as Sue repaired the damaged artifacts, mourning the potential loss of art and history."
+    },
+    {
+      "weekday": "Saturday",
+      "mood": "epic",
+      "text": "Joined by fellow artists and citizens, Sue led a city-wide effort to restore and even add to the affected works, turning disaster into an epic showcase of resilience and creativity."
+    },
+    {
+      "weekday": "Sunday",
+      "mood": "romantic",
+      "text": "On a well-deserved break, Sue visited a local café where she encountered a fellow sculptor sharing similar passions, sparking a romantic connection over discussions of art and heroism."
+    }
+  ],
+  "ending": "As the sculptures stood taller and the city stronger, Sue Scott—sculptor and protector—knew that every creation holds the power of preservation and change.",
+  "moral": "True heroism lies in the resilience to rebuild and the courage to inspire change through our talents."
+}

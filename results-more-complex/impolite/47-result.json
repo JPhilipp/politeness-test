@@ -1,0 +1,46 @@
+{
+  "title": "The Extraordinary Week of Kevin Patterson: Advisor Hero",
+  "summary": "Kevin Patterson, a tutor by day, becomes a superhero who rescues his city from impending doom, discovering new strengths and inspiring his community.",
+  "summaryGerman": "Kevin Patterson, tagsüber ein Tutor, wird nachts zum Superhelden, der seine Stadt vor dem drohenden Untergang rettet, neue Stärken entdeckt und seine Gemeinde inspiriert.",
+  "summaryDutch": "Kevin Patterson, overdag een tutor, wordt 's nachts een superheld die zijn stad redt van dreigend onheil, nieuwe krachten ontdekt en zijn gemeenschap inspireert.",
+  "summaryFrench": "Kevin Patterson, tuteur le jour, devient un super-héros la nuit qui sauve sa ville d'une catastrophe imminente, découvre de nouvelles forces et inspire sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Kevin Patterson starts his week as usual, advising students at the local university. A mysterious email hints at an unknown danger lurking in the city.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Investigating the source of the danger, Kevin uncovers a plot to sabotage the city's power grid. His knowledge of physics becomes invaluable.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednedsay",
+      "text": "Using his intellect, Kevin devises a plan to thwart the saboteurs. He works through the night, preparing the tools he needs.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Kevin confronts the villains at the power plant. An epic battle ensues, showcasing his newly developed tech-gadgets.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "After saving the city, Kevin returns to tutoring, his students none the wiser about his heroic deeds. However, rumors begin to spread...",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Resting at home, Kevin reflects on his week. News reports praise an anonymous hero, bringing a sense of peace and pride to his quiet life.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "At a community event, Kevin quietly receives thanks from those who suspect his heroism. He feels deeply connected and satisfied with his dual life.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Kevin Patterson learned that even an ordinary advisor could make a difference, masked or not.",
+  "moral": "True heroism lies in the courage to act in the face of adversity."
+}

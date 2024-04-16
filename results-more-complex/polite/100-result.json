@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Heidi Bryant: The Superhero Tutor",
+  "summary": "In this story, 67-year-old Heidi Bryant discovers her superpowers during her usual week of tutoring and playing sports. She uses her new abilities to effectively tackle challenges and protect her community, showing that heroism knows no age.",
+  "summaryGerman": "In dieser Geschichte entdeckt die 67-jährige Heidi Bryant während ihrer üblichen Woche des Unterrichts und Sportspielens ihre Superkräfte. Sie nutzt ihre neuen Fähigkeiten, um Herausforderungen effektiv zu bewältigen und ihre Gemeinschaft zu schützen, was zeigt, dass Heldentum kein Alter kennt.",
+  "summaryDutch": "In dit verhaal ontdekt de 67-jarige Heidi Bryant haar superkrachten tijdens haar gebruikelijke week van tutoring en sporten. Ze gebruikt haar nieuwe vaardigheden om uitdagingen effectief aan te pakken en haar gemeenschap te beschermen, wat aantoont dat heldendom geen leeftijd kent.",
+  "summaryFrench": "Dans cette histoire, Heidi Bryant, 67 ans, découvre ses superpouvoirs au cours de sa semaine habituelle de tutorat et de sport. Elle utilise ses nouvelles capacités pour relever efficacement les défis et protéger sa communauté, montrant ainsi que l'héroïsme ne connaît pas d'âge.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Heidi discovers her ability to manipulate time while helping a student with math homework. She slows down time to explain complex concepts more clearly.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Excited by her new powers, Heidi uses her time manipulation to extend her morning jog, savoring the peaceful early hours more than ever.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Heidi assists at a local community event and uses her powers to prevent a potential accident, subtly shifting time to save a child from falling off a high platform.",
+      "mood": "heroic"
+    },
+    {
+      "weekday": "Thursdya",
+      "text": "During her tutoring sessions, Heidi finds that she can temporarily enhance her students' focus. This leads to a very successful and satisfying teaching day.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A former skeptical student visits Heidi, now successful and grateful. They share a heartfelt moment, with Heidi feeling fulfilled in her impactful role.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Heidi plays in a tennis tournament and uses her agility enhancement to compete passionately, inspiring her peers and younger athletes.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Heidi decides to dedicate herself more actively to superhero duties, planning to train and harness her powers for greater good.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Heidi looked at the city skyline, feeling ready to face whatever comes next with courage and a heart full of hope.",
+  "moral": "Age is just a number, and it's never too late to make a difference."
+}

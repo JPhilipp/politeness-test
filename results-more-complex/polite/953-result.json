@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Oscar Yang: The Quilting Counselor",
+  "summary": "Oscar Yang, a 33-year-old who loves advising and quilting, becomes a superhero who uses his unique hobbies to solve crimes and comfort those in need across an eventful week.",
+  "summaryGerman": "Oscar Yang, ein 33-Jähriger, der gerne berät und quiltet, wird zum Superhelden, der seine einzigartigen Hobbys nutzt, um Verbrechen zu lösen und Menschen in einer ereignisreichen Woche Trost zu spenden.",
+  "summaryDutch": "Oscar Yang, een 33-jarige die van adviseren en quilten houdt, wordt een superheld die zijn unieke hobby's gebruikt om misdaden op te lossen en troost te bieden aan degenen die het nodig hebben gedurende een bewogen week.",
+  "summaryFrench": "Oscar Yang, un homme de 33 ans qui aime donner des conseils et faire du patchwork, devient un super-héros qui utilise ses passe-temps uniques pour résoudre des crimes et réconforter ceux qui en ont besoin tout au long d'une semaine mouvementée.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar Yang discovers hidden messages in the patterns of his quilts, each leading him to prevent crimes in his city.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tueseday",
+      "text": "Using his advisory skills, Oscar helps a lost young boy find his way home, weaving a quilt that tells the boy's story.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Midweek, Oscar encounters a gang trying to destroy his quilting shop. He crafts a massive net from quilt remnants to capture them.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Realizing the impact of his work, Oscar starts a quilters' group to teach people how to use quilting for good.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Oscar devises a plan to incorporate secret, crime-thwarting symbols into quilts distributed around the city.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "An emotional day, as Oscar uses his quilting workshop as a counseling session, helping others heal emotionally.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week’s successes, Oscar feels hopeful as his new initiative garners support from his community.",
+      "mood": "peaceful"
+    }
+  ],
+  "moral": "Even the most unassuming skills can be a powerful force for good.",
+  "ending": "And thus, Oscar Yang's unique blend of quilting and advising created a tapestry of justice and comfort in his community."
+}

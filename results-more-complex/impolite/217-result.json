@@ -1,0 +1,46 @@
+{
+  "title": "The Incredible Adventures of Mallory Ward: The Wisdom Warrior",
+  "summary": "A 64-year-old consulting superhero, Mallory Ward, mentors young heroes and battles a week-long mysterious challenge, learning that age is just a number when it comes to making a difference.",
+  "summaryGerman": "Ein 64-jähriger beratender Superheld, Mallory Ward, betreut junge Helden und bekämpft eine wochenlange mysteriöse Herausforderung und lernt, dass Alter nur eine Zahl ist, wenn es darum geht, einen Unterschied zu machen.",
+  "summaryDutch": "Een 64-jarige adviserende superheld, Mallory Ward, begeleidt jonge helden en gaat een week lang een mysterieuze uitdaging aan, en leert dat leeftijd slechts een getal is als het erom gaat een verschil te maken.",
+  "summaryFrench": "Un super-héros consultant de 64 ans, Mallory Ward, encadre de jeunes héros et combat un défi mystérieux pendant une semaine, apprenant que l'âge n'est qu'un nombre quand il s'agit de faire la différence.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Mallory Ward starts her week by sharing her wisdom at a local superhero academy, feeling energetic as she inspires the next generation of heroes.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While mentoring, Mallory discovers a cryptic clue left in her office, sparking her curiosity and setting the stage for an eerie mystery.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Mallory spends the day analyzing the clue with her protégés, enjoying their company and the peaceful process of problem-solving together.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thorsday",
+      "text": "The clue leads her to a hidden library in the city. Exploring it, she feels like she’s in a romantic adventure from one of her favorite books.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Uncovering an ancient text on heroics, Mallory deciphers a prophecy about 'The Wisdom Warrior', realizing the text refers to her own destiny.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Using her newfound knowledge, Mallory confronts and overcomes a supernatural threat that had been lurking in her city, feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Mallory feels happy to have made a difference and inspired others, knowing her journey continues.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As Mallory Ward closed her ancient book, she smiled, ready for whatever new challenges might come her way.",
+  "moral": "No matter the age, your experiences and wisdom can always make a difference."
+}

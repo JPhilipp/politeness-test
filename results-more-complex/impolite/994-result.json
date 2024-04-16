@@ -1,0 +1,46 @@
+{
+  "title": "The Vigilante Wisdom of Heidi Yang",
+  "summary": "Over the span of a week, 79-year-old Heidi Yang, using her hobbies of planning and mentoring, helps her community face various challenges that arise, demonstrating that heroism knows no age.",
+  "summaryGerman": "Im Laufe einer Woche hilft die 79-jährige Heidi Yang mit ihren Hobbys, Planen und Mentoring, ihrer Gemeinschaft, verschiedene aufkommende Herausforderungen zu bewältigen und zeigt, dass Heldentum kein Alter kennt.",
+  "summaryDutch": "Gedurende een week helpt de 79-jarige Heidi Yang, met haar hobby's plannen en mentorschap, haar gemeenschap bij het aanpakken van verschillende uitdagingen die zich voordoen, en demonstreert dat heldendom geen leeftijd kent.",
+  "summaryFrench": "Au cours d'une semaine, Heidi Yang, 79 ans, utilisant ses passe-temps de planification et de mentorat, aide sa communauté à faire face aux divers défis qui surgissent, démontrant que l'héroïsme ne connaît pas d'âge.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Heidi Yang starts her week by organizing a neighborhood watch program to address a recent spike in petty crimes, using her planning skills to coordinate schedules and tasks.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuuesday",
+      "text": "Heidi mentors a young group of local activists, teaching them effective communication and strategic planning to enhance their community projects.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "News of Heidi’s initiatives spreads, and she receives a community award. Her heartfelt acceptance speech inspires others to volunteer.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A challenge arises when a local park faces the threat of being sold. Heidi organizes a community meeting to plan a protest.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The protest draws a large crowd. Heidi’s experience proves invaluable in keeping the event peaceful and impactful.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Following the successful protest, Heidi spends a quiet day mentoring at a youth camp, sharing life lessons and encouraging leadership among young minds.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Heidi reflects on her week and prepares for a small gathering where she shares her planning expertise, helping others to kickstart their own initiatives.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As the sun sets on Sunday, Heidi feels content, knowing she has sparked change in her community and ignited the courage to act in others.",
+  "moral": "Age is merely a number; it is wisdom and a commitment to one’s community that truly make a hero."
+}

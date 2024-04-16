@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Valor: Alice Collins Unveils Her Power",
+  "summary": "Alice Collins, a 66-year-old retired actress and teacher, discovers her ability to manipulate time during a week filled with unique challenges and uses her power to help her community.",
+  "summaryGerman": "Alice Collins, eine 66-jährige pensionierte Schauspielerin und Lehrerin, entdeckt ihre Fähigkeit, die Zeit zu manipulieren, in einer Woche voller einzigartiger Herausforderungen und nutzt ihre Kraft, um ihrer Gemeinde zu helfen.",
+  "summaryDutch": "Alice Collins, een 66-jarige gepensioneerde actrice en lerares, ontdekt haar vermogen om de tijd te manipuleren gedurende een week vol unieke uitdagingen en gebruikt haar kracht om haar gemeenschap te helpen.",
+  "summaryFrench": "Alice Collins, une actrice et enseignante à la retraite de 66 ans, découvre sa capacité à manipuler le temps durant une semaine remplie de défis uniques et utilise son pouvoir pour aider sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Alice Collins feels a surge of energy as she stops a street accident in its tracks, literally freezing time to save a child.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Haunted by her newfound ability, Alice spends the day reflecting on her past roles and how they might have prepared her for this unexpected chapter.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wadnesday",
+      "text": "Alice decides to embrace her power after a heartfelt discussion with her old theater group, who encourage her to see this as her new role in life.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Testing her limits, Alice tries to extend her time manipulation to help local farmers by extending the daylight, boosting their crop growth unexpectedly.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Alice teaches her granddaughter about the responsibilities that come with great power, blending her passions for acting and teaching into the lessons.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "At a community event, Alice uses her abilities to create an impromptu play where she illustrates historical events in real-time, amassing a large, enchanted audience.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Alice feels happy and empowered, knowing she can contribute to her community in new, meaningful ways.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As the curtain falls on an extraordinary week, Alice Collins embraces her role as a real-life superhero, ready to act on any future challenges.",
+  "moral": "No matter the stage of life, one can always find new ways to make an impact and redefine their purpose."
+}

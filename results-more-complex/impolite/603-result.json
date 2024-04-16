@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Guardian: The Story of Sue Jenkins",
+  "summary": "Over one week, Sue Jenkins, a 44-year-old coach and counselor discovers her ability to influence emotions and uses it to avert a crisis in her community.",
+  "summaryGerman": "Über eine Woche hinweg entdeckt Sue Jenkins, eine 44-jährige Trainerin und Beraterin, ihre Fähigkeit, Emotionen zu beeinflussen und verwendet diese, um eine Krise in ihrer Gemeinde zu verhindern.",
+  "summaryDutch": "Gedurende één week ontdekt Sue Jenkins, een 44-jarige coach en counselor, haar vermogen om emoties te beïnvloeden en gebruikt dit om een crisis in haar gemeenschap te voorkomen.",
+  "summaryFrench": "Pendant une semaine, Sue Jenkins, une coach et conseillère de 44 ans, découvre sa capacité à influencer les émotions et l'utilise pour éviter une crise dans sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "As a beloved coach, Sue Jenkins started her week feeling energetic, heartened by her team's enthusiasm at practice.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Sue sensed a palpable sense of sadness among her students; using her burgeoning powers, she counseled them, subtly lifting their spirits.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thirsday",
+      "text": "Midweek, Sue grew more confident in her abilities. She used her newfound powers to diffuse a potentially explosive argument among community members, feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "That night, Sue felt eerie; she realized her powers were growing stronger, now able to reach people even in their dreams, guiding them towards peace.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "On Friday, rumors of her deeds had begun to spread, igniting a romantic legend in the community about a guardian angel, which made Sue both honored and uncomfortable.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Over the weekend, Sue attended a town meeting. She preemptively eased tensions, paving the way for peaceful, productive discussions.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Sue felt happy and fulfilled, realizing she had positively altered her community's dynamics without them ever knowing it was her.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And from that week on, Sue Jenkins continued to quietly watch over her community, forever their unseen guardian.",
+  "moral": "Great power does not need recognition to effect great change."
+}

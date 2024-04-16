@@ -1,0 +1,46 @@
+{
+  "title": "Ling Morris: The Unseen Guardian",
+  "summary": "Ling Morris, a 60-year-old with a passion for organizing and photography, becomes a superhero by using her unique talents to uncover a week-long mystery in her city, ultimately saving the day with her strategic mind and keen eye.",
+  "summaryGerman": "Ling Morris, eine 60-Jährige mit einer Leidenschaft für Organisation und Fotografie, wird zu einer Superheldin, indem sie ihre einzigartigen Talente nutzt, um ein wochenlanges Mysterium in ihrer Stadt aufzudecken und letztendlich den Tag mit ihrem strategischen Verstand und scharfen Auge zu retten.",
+  "summaryDutch": "Ling Morris, een 60-jarige met een passie voor organiseren en fotografie, wordt een superheldin door haar unieke talenten te gebruiken om een week lang mysterie in haar stad te ontrafelen en uiteindelijk de dag te redden met haar strategische geest en scherpe oog.",
+  "summaryFrench": "Ling Morris, âgée de 60 ans et passionnée d'organisation et de photographie, devient une superhéroïne en utilisant ses talents uniques pour découvrir un mystère qui dure toute une semaine dans sa ville, finissant par sauver la journée avec son esprit stratégique et son œil vif.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling discovers strange occurrences in her local park while organizing a community clean-up, sparking her curiosity.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Armed with her camera, Ling starts documenting evidence, uncovering clues hidden amongst the everyday.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednedsay",
+      "text": "Ling stumbles upon secretive meetings in the park. Using her stealth, she captures critical photos.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Piecing together the photos, Ling realizes a local businessman is planning to illegally take over the park.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Crafting a plan, Ling teams up with the community, organizing a massive demonstration to garner public support.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The demonstration catches media attention. Ling's photos are featured, sparking city-wide support to protect the park.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The businessman's plans are thwarted. The park is saved, and Ling is hailed as a community hero, all while her identity as the photographer organizer remains a mystery.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "In the lens of her camera, Ling captured more than images; she captured justice, preserving the community she loves.",
+  "moral": "Never underestimate the power of one's skills and passions; they have the power to effect real change."
+}

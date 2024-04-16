@@ -1,0 +1,46 @@
+{
+  "title": "The Spectacular Week of Superhero Zelda Butler",
+  "summary": "At the age of 80, Zelda Butler, a seasoned programmer, transforms into a superhero to mentor young coders and combat a cyber-threat, showcasing her powers over a week.",
+  "summaryGerman": "Mit 80 Jahren verwandelt sich Zelda Butler, eine erfahrene Programmiererin, in eine Superheldin, um junge Programmierer zu betreuen und eine Cyber-Bedrohung zu bekämpfen, und zeigt ihre Kräfte über eine Woche.",
+  "summaryDutch": "Op 80-jarige leeftijd verandert Zelda Butler, een ervaren programmeur, in een superheldin om jonge codeurs te begeleiden en een cyberdreiging te bestrijden, waarbij ze een week lang haar krachten toont.",
+  "summaryFrench": "À l'âge de 80 ans, Zelda Butler, une programmeuse chevronnée, se transforme en super-héroïne pour encadrer de jeunes codeurs et combattre une cyber-menace, démontrant ses pouvoirs pendant une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda Butler discovers an anomalous code in a community coding project, feeling an eerie presence behind the data.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "She uses her advanced coding skills to trace the source, realizing the code is linked to a sinister plot.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "With the help of her young mentees, Zelda devises a plan to neutralize the threat, sharing her wisdom and experience.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Zelda and her team work through the night, crafting a countermeasure to dismantle the harmful code.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Their efforts pay off as the cyber-attack is averted, and Zelda feels a deep satisfaction in her peaceful victory.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "News of her valor spreads through the community, making Zelda a celebrated figure among local and online communities.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Zelda spends a relaxed day programming with the kids, assured that their digital world is a little safer.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Thus, Zelda Butler proved that heroes come in all ages and skills, making her mark as a protector of the digital frontier.",
+  "moral": "Age is just a number when it comes to making a difference and safeguarding the community."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Journey of Mallory Green",
+  "summary": "Mallory Green, a 55-year-old teacher, discovers her superpowers unexpectedly and uses them to fight crime and protect her city over the course of a week.",
+  "summaryGerman": "Mallory Green, eine 55-jährige Lehrerin, entdeckt unerwartet ihre Superkräfte und nutzt sie, um über den Verlauf einer Woche Verbrechen zu bekämpfen und ihre Stadt zu schützen.",
+  "summaryDutch": "Mallory Green, een 55-jarige lerares, ontdekt onverwachts haar superkrachten en gebruikt ze om gedurende een week misdaad te bestrijden en haar stad te beschermen.",
+  "summaryFrench": "Mallory Green, une enseignante de 55 ans, découvre par hasard ses superpouvoirs et les utilise pour lutter contre le crime et protéger sa ville tout au long d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Mallory Green, while preparing her lesson plans, accidentally discovered her ability to manipulate elements. A fire in the teacher's lounge was quickly extinguished with a sudden flurry of water seemingly from her hands.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Inspired by her newfound powers, Mallory decided to try them out more consciously. Practicing after hours, she discovered she could also control wind and earth.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wdnesday",
+      "text": "Mallory, now more confident, used her powers to break up a fight between two students by creating a gentle breeze to calm them. This incident made her ponder the potential of her powers.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Word of 'The Elemental,' as some students began calling her, spread. Mallory was approached by a local superhero group asking her to join their efforts to keep the city safe.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Mallory officially joined the local heroes. Her first mission involved stopping a bank robbery, where she triumphantly controlled the scene by encapsulating the thieves in an earth dome until the police arrived.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Reflecting on her week, Mallory spent the day enhancing her skills and bonding with her new team. They strategized on how to better protect their community.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The week ended with Mallory teaching a community class about safety and how to stay calm in emergencies, using subtle demonstrations of her powers to inspire her students.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus, Mallory Green found her greatest lesson was not in the classroom, but in harnessing her powers for the greater good.",
+  "moral": "Every skill, no matter how unusual, can be harnessed for the benefit of others."
+}

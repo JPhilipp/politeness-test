@@ -1,0 +1,45 @@
+{
+  "title": "The Enlightening Adventures of Charlie Cox, the Tutor Hero",
+  "summary": "Charlie Cox, a 23-year-old who enjoys tutoring and teaching, discovers his ability to impart instant knowledge. Over the course of a week, he uses this power to transform his community, facing challenges and eventually confronting a moral dilemma about the true value of learning.",
+  "summaryGerman": "Charlie Cox, ein 23-jähriger, der gerne Nachhilfe gibt und unterrichtet, entdeckt seine Fähigkeit, sofortiges Wissen zu vermitteln. Im Laufe einer Woche nutzt er diese Kraft, um seine Gemeinde zu verwandeln, stellt sich Herausforderungen und sieht sich schließlich mit einem moralischen Dilemma über den wahren Wert des Lernens konfrontiert.",
+  "summaryDutch": "Charlie Cox, een 23-jarige die geniet van bijles geven en lesgeven, ontdekt zijn vermogen om directe kennis over te dragen. Gedurende een week gebruikt hij deze kracht om zijn gemeenschap te transformeren, geconfronteerd met uitdagingen en uiteindelijk geconfronteerd met een moreel dilemma over de ware waarde van leren.",
+  "summaryFrench": "Charlie Cox, un jeune de 23 ans qui aime donner des cours particuliers et enseigner, découvre sa capacité à transmettre des connaissances instantanément. Au cours d'une semaine, il utilise ce pouvoir pour transformer sa communauté, faisant face à des défis et finalement confronté à un dilemme moral sur la vraie valeur de l'apprentissage.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Charlie Cox wakes up feeling unusually energetic. As he tutors his students, he discovers that he can instantly inject knowledge into their minds.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Empowered by his newfound abilities, Charlie spends the day teaching complex subjects with ease, witnessing his students excel dramatically overnight.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wdnesday",
+      "text": "Charlie encounters skepticism from a fellow teacher, questioning the ethical implications of his powers. This casts an eerie shadow over his day.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Determined to prove the value of his powers, Charlie tutors students in struggling neighborhoods, bringing hope and success where it was previously absent.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Charlie meets another individual with similar powers. They share techniques and enjoy a peaceful day reflecting on their positive impacts.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a large community event, Charlie is publicly recognized as a hero. He feels both happy and overwhelmed by the attention and expectations.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Charlie decides to advocate for a balanced approach to education, emphasizing both the traditional methods and the responsibly use of his powers.",
+      "mood": "reflective"
+    }
+  ],
+  "moral": "With great power comes great responsibility, especially when it involves the minds and futures of others."
+}

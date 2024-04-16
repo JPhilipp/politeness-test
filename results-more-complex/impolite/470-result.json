@@ -1,0 +1,46 @@
+{
+  "title": "The Energetic Rescues of Ivan Ross, Dance Hero",
+  "summary": "Ivan Ross, a 38-year-old counseling dance enthusiast, discovers mysterious powers during a week, which he uses to resolve crises while balancing his personal life and hobbies.",
+  "summaryGerman": "Ivan Ross, ein 38-jähriger Tanzbegeisterter mit einem Beruf im Bereich Beratung, entdeckt während einer Woche geheimnisvolle Kräfte, die er nutzt, um Krisen zu bewältigen, während er sein Privatleben und seine Hobbys pflegt.",
+  "summaryDutch": "Ivan Ross, een 38-jarige dansliefhebber die werkzaam is in counseling, ontdekt gedurende een week mysterieuze krachten, die hij gebruikt om crises op te lossen terwijl hij zijn persoonlijke leven en hobby's in balans houdt.",
+  "summaryFrench": "Ivan Ross, un passionné de danse de 38 ans qui travaille dans le conseil, découvre des pouvoirs mystérieux au cours d'une semaine, qu'il utilise pour résoudre des crises tout en équilibrant sa vie personnelle et ses loisirs.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ivan Ross begins his week feeling energetic as usual, teaching a dance class which uplifts his spirits unexpectedly as he effortlessly performs high jumps never achieved before.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While counseling a troubled couple, Ivan hears a distant cry for help. Excusing himself, he rushes out and finds a child stuck in a tree. With his newfound agility, he rescues the child easily.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wedenesday",
+      "text": "On his way to work, Ivan feels an eerie sense of being watched. At a café, a mysterious figure leaves a note warning Ivan about using his powers too openly.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Feeling a bit romantic, Ivan plans a dance evening for the community. It turns into a magical night under the stars, strengthening neighborhood bonds and his love for dance.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Tragedy strikes when a local theater catches fire during a performance. Ivan, in a heroic display of bravery and strength, helps firefighters save many lives.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After such an intense week, Ivan spends his Saturday reflecting on his life's purpose and what these powers mean for his future. He feels peaceful as he reconnects with his core values.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ivan wraps up his week by hosting a free dance and counseling workshop, integrating his passions to empower others, feeling happy and fulfilled.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "With each day, Ivan Ross danced not just with his feet, but with his heart and purpose, embracing a destiny greater than he ever imagined.",
+  "moral": "Embrace your unique talents; they may serve a greater purpose than you realize."
+}

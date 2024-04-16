@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Yvonne Cooper: Symphony of Justice",
+  "summary": "Yvonne Cooper, a 49-year-old conductor, discovers her ability to manipulate sound waves and uses her new powers to battle crime in her city over the course of one week.",
+  "summaryGerman": "Yvonne Cooper, eine 49-jährige Dirigentin, entdeckt ihre Fähigkeit, Schallwellen zu manipulieren, und nutzt ihre neuen Kräfte, um innerhalb einer Woche das Verbrechen in ihrer Stadt zu bekämpfen.",
+  "summaryDutch": "Yvonne Cooper, een 49-jarige dirigent, ontdekt haar vermogen om geluidsgolven te manipuleren en gebruikt haar nieuwe krachten om binnen een week misdaad in haar stad te bestrijden.",
+  "summaryFrench": "Yvonne Cooper, une chef d'orchestre de 49 ans, découvre sa capacité à manipuler les ondes sonores et utilise ses nouveaux pouvoirs pour lutter contre le crime dans sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Yvonne Cooper starts her week feeling energetic as she prepares for a big concert. During rehearsal, she accidentally shatters glass with a high note, realizing she can manipulate sound waves.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Testing her new abilities in private, Yvonne becomes ecstatic at the potential. She contemplates how best to use this power, feeling both triumphant and responsible.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wendsday",
+      "text": "Yvonne prevents a robbery by using her sound waves to disable the thieves' getaway car. News of a mysterious 'sound hero' begins to spread.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Feeling the pressure of her double life, Yvonne struggles to balance her concert preparations with her nocturnal heroics, leading to a melancholic day.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Inspired, Yvonne uses her conducting skills to 'compose' her interventions, creating a harmonious way to control and use her powers effectively.",
+      "mood": "creative"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A major crisis unfolds as a fire breaks out at a local theater. Yvonne masterfully uses her power to amplify the fire alarm and evacuate everyone safely.",
+      "mood": "heroic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "With the city now at peace, Yvonne feels satisfied as her dual life brings a unique symphony to her world, reflecting on the serene and harmonious week.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "In the quiet of the concert hall, Yvonne smiled, her music and missions intertwined in a melody of justice.",
+  "moral": "Harness your unique talents to create harmony in your world."
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Heidi Kelly: The Quilt of Destiny",
+  "summary": "Heidi Kelly discovers her power to animate her quilts, using them to save her town from a mysterious threat over the course of a week.",
+  "summaryGerman": "Heidi Kelly entdeckt ihre Macht, ihre Quilts zu beleben, und verwendet sie, um ihre Stadt im Laufe einer Woche vor einer mysteriösen Bedrohung zu retten.",
+  "summaryDutch": "Heidi Kelly ontdekt haar kracht om haar quilts tot leven te brengen en gebruikt ze om haar stad te redden van een mysterieuze dreiging gedurende een week.",
+  "summaryFrench": "Heidi Kelly découvre son pouvoir d'animer ses quilts, les utilisant pour sauver sa ville d'une menace mystérieuse au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Tuedsay",
+      "text": "Heidi Kelly, an avid quilter, discovers her quilts come to life when sewn with a mysterious thread she found in her grandmother's attic.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Testing her new power, Heidi animates a quilt to rescue a trapped kitten from a tall tree, feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Heidi grows more confident in her abilities, designing a quilt that can detect danger, which buzzes softly near a suspicious van parked nearby.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Her quilt alerts her to a hidden bomb in the park; she quickly deploys another quilt which smothers and safely contains the explosion, saving dozens.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The town commends Heidi and she realizes the potential of her powers. She hosts a quilting workshop, spreading joy and the sense of community.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Relaxing, Heidi quilts peacefully by the lake, reflecting on her week and how everyday hobbies can hold extraordinary secrets.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "In the quiet threads of a quilt, Heidi found the strength of a hero.",
+  "moral": "Ordinary passions can lead to extraordinary destinies."
+}

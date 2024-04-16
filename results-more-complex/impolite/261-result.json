@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Frank Parker: The Persuasive Illustrator",
+  "summary": "Frank Parker, a mild-mannered artist with the power to persuade, battles an enigmatic villain terrorizing his city using his unique abilities, enduring personal trials and discovering the strength in unity.",
+  "summaryGerman": "Frank Parker, ein sanftmütiger Künstler mit der Fähigkeit zu überzeugen, kämpft gegen einen rätselhaften Bösewicht, der seine Stadt terrorisiert, indem er seine einzigartigen Fähigkeiten nutzt, persönliche Prüfungen durchsteht und die Stärke in der Einheit entdeckt.",
+  "summaryDutch": "Frank Parker, een zachtaardige kunstenaar met de kracht om te overtuigen, vecht tegen een raadselachtige schurk die zijn stad terroriseert door zijn unieke vaardigheden te gebruiken, persoonlijke beproevingen te doorstaan en de kracht van eenheid te ontdekken.",
+  "summaryFrench": "Frank Parker, un artiste au tempérament doux doté du pouvoir de persuasion, lutte contre un méchant énigmatique terrorisant sa ville en utilisant ses capacités uniques, endurant des épreuves personnelles et découvrant la force dans l'unité.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank Parker, an artist and hobbyist persuader, discovers he can affect people’s decisions through his drawings, an eerie revelation that fills his mundane evening.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Testing his newfound power at work, Frank subtly influences his boss to approve a creative project, feeling triumphant about the potential of his abilities.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Encountering a criminal incident, Frank uses his skills to deescalate the situation, persuading the perpetrator to surrender peacefully.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thrursday",
+      "text": "News of 'The Persuasive Illustrator' spreads across the city, attracting the attention of a mysterious figure who challenges Frank’s morals and resolve.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Frank faces his mysterious adversary in an epic showdown, leveraging his unique blend of persuasion and art to protect the innocent.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Reflecting on his powers, Frank dedicates his weekend to training, enhancing his abilities with a combination of physical conditioning and artistic refinement.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "After a week of challenges, Frank spends a peaceful day sketching in the park, solidifying his commitment to using his powers for justice and unity.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "In the quiet shadows of the city, Frank Parker, now revered as the guardian artist, sketches the faces of those he's saved, forever capturing their gratitude.",
+  "moral": "The true power of an individual lies not only in their abilities but in their choice to use them for the betterment of others."
+}

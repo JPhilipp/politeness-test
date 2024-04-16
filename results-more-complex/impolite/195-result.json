@@ -1,0 +1,46 @@
+{
+  "title": "The Unraveling Thread: The Adventures of Yousef Baker",
+  "summary": "Yousef Baker, a 31-year-old programmer with a passion for sewing, discovers his ability to manipulate fabrics at will. Throughout the week he learns to harness his powers, solves mysteries, and ultimately protects his city from an unexpected threat.",
+  "summaryGerman": "Yousef Baker, ein 31-jähriger Programmierer mit einer Leidenschaft fürs Nähen, entdeckt seine Fähigkeit, Stoffe nach Belieben zu manipulieren. Im Laufe der Woche lernt er, seine Kräfte zu bändigen, löst Mysterien und schützt letztlich seine Stadt vor einer unerwarteten Bedrohung.",
+  "summaryDutch": "Yousef Baker, een 31-jarige programmeur met een passie voor naaien, ontdekt zijn vermogen om stoffen naar wens te manipuleren. Gedurende de week leert hij zijn krachten te beheersen, lost raadsels op en beschermt uiteindelijk zijn stad tegen een onverwachte dreiging.",
+  "summaryFrench": "Yousef Baker, un programmeur de 31 ans passionné de couture, découvre sa capacité à manipuler les tissus à volonté. Tout au long de la semaine, il apprend à maîtriser ses pouvoirs, résout des mystères et protège finalement sa ville d'une menace inattendue.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Discovering a mysterious spool of thread at an antique shop ignites Yousef's latent powers, immersing him in an eerie sensation.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Yousef experiments with his newfound abilities, sewing a cape that reacts to his thoughts. His mood is energetic as he starts to test its capabilities.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedesday",
+      "text": "A dark figure exploits a loophole in Yousef's programming work. He uses the cape to track down and contain the data breach, feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News of his deeds spreads. Yousef feels overwhelmed but peaceful as he stitches together a super suit that fortifies his resolve.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A mysterious adversary challenges the security of the city. Yousef gears up, his mood epic, ready to face this new enemy.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The battle is hard-fought. Fabric and codes blend as Yousef finds romantic support from an unexpected ally, boosting his spirits.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The victory is sweet. Yousef stands on the rooftop, looking over his protected city, his heart swelling with pride and happiness.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As the sun sets, Yousef Baker smiles, knowing every stitch in time saved more than nine.",
+  "moral": "Embrace your unique talents; they may be the thread that weaves the fabric of heroism."
+}

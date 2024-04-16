@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Zelda Long: A Week of Hidden Powers",
+  "summary": "Zelda Long, a 65-year-old with hobbies in persuading and instructing, discovers her superpowers and protects her city from impending dangers over one dramatic week.",
+  "summaryGerman": "Zelda Long, eine 65-jährige mit Hobbys im Überzeugen und Unterrichten, entdeckt ihre Superkräfte und schützt ihre Stadt vor drohenden Gefahren über eine dramatische Woche.",
+  "summaryDutch": "Zelda Long, 65 jaar oud en met hobby's in overtuigen en onderwijzen, ontdekt haar superkrachten en beschermt haar stad tegen dreigende gevaren gedurende een dramatische week.",
+  "summaryFrench": "Zelda Long, une femme de 65 ans passionnée de persuasion et d'enseignement, découvre ses superpouvoirs et protège sa ville contre les dangers imminents au cours d'une semaine mouvementée.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda Long, a retired schoolteacher, stumbles upon a hidden gem that granted her the power of influence beyond her usual persuasion techniques. She saves a local park from a corrupt development deal.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Zelda feels the aftermath of her newfound powers and spends the day mastering them at an abandoned warehouse, determined to understand the full extent of her abilities.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Using her powers, Zelda cleverly averts a bank robbery in progress by persuading the robbers to turn themselves in. Her actions start to attract media attention.",
+      "mood": "heroic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "To protect her identity, Zelda creates a disguise with the help of a local theater group, leading to an unexpected, light-hearted friendship.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The villain behind the recent crimes learns about Zelda's interference; he vows retaliation, creating a tense and eerie atmosphere in the city.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "In a showdown at city hall, Zelda uses her powers of persuasion to turn the villain’s allies against him, disarming a dangerous situation without violence.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Zelda meets with her old students and inspires them with stories of courage and integrity, feeling at peace with her role as her city’s secret guardian.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "In the calm of her quaint living room, Zelda resumed her quiet life, her heart content knowing she could protect her city whenever needed.",
+  "moral": "No matter the stage in life, one is never too old to become a hero."
+}

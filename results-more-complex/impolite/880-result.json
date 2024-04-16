@@ -1,0 +1,46 @@
+{
+  "title": "The Energetic Adventures of Yousef Coleman",
+  "summary": "Yousef Coleman, a 55-year-old with a passion for marketing and acting, discovers his superpowers, embarks on a journey to save his city from an imminent threat, and learns the true meaning of heroism.",
+  "summaryGerman": "Yousef Coleman, ein 55-jähriger mit einer Leidenschaft für Marketing und Schauspielerei, entdeckt seine Superkräfte, begibt sich auf eine Reise, um seine Stadt vor einer drohenden Bedrohung zu retten und lernt die wahre Bedeutung von Heldentum.",
+  "summaryDutch": "Yousef Coleman, een 55-jarige met een passie voor marketing en acteren, ontdekt zijn superkrachten, begint aan een reis om zijn stad te redden van een dreigend gevaar, en leert de ware betekenis van heldendom.",
+  "summaryFrench": "Yousef Coleman, un homme de 55 ans passionné par le marketing et le théâtre, découvre ses superpouvoirs, se lance dans un voyage pour sauver sa ville d'une menace imminente et apprend la véritable signification de l'héroïsme.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Yousef Coleman wakes up feeling unusually energetic, and as he prepares for a regular day in marketing, he accidentally broadcasts his thoughts over the radio waves, reaching the entire city.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tueday",
+      "text": "Realizing his new powers, Yousef saves a local theater from a dangerous electrical fire using his ability to control electronic devices with his mind.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "News of his heroics spreads, and Yousef becomes a local celebrity. His day is filled with interviews and photo ops, but he remains humble and focused on helping.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Yousef is approached by a mysterious figure warning him of a greater threat to the city. He spends the day researching and preparing, knowing tomorrow may be challenging.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "His fears confirmed, Yousef faces off against a technological monstrosity intent on overtaking all digital media. His marketing skills and heroism make a potent combo.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After defeating the menace, Yousef realizes his work isn't done. There's more he can do with his powers. He starts planning a foundation to protect the city.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Yousef spends a peaceful day with friends and family, celebrating his new role as a protector of the city.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the sun sets, Yousef Coleman stares out at the skyline of his city, ready for whatever comes next, truly the hero his city needs.",
+  "moral": "True heroism comes from using your unique talents to make a difference in the world."
+}

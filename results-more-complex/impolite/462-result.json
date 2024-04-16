@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Hubert White",
+  "summary": "Hubert White, a 38-year-old director and teacher, discovers his ability to control time during a week of both ordinary and extraordinary events. His journey explores how he balances his new powers with his day-to-day responsibilities.",
+  "summaryGerman": "Hubert White, ein 38-jähriger Regisseur und Lehrer, entdeckt während einer Woche voll gewöhnlicher und außergewöhnlicher Ereignisse seine Fähigkeit, die Zeit zu kontrollieren. Seine Reise erforscht, wie er seine neuen Kräfte mit seinen täglichen Verpflichtungen in Einklang bringt.",
+  "summaryDutch": "Hubert White, een 38-jarige regisseur en leraar, ontdekt zijn vermogen om tijd te beheersen tijdens een week van gewone en buitengewone gebeurtenissen. Zijn reis verkent hoe hij zijn nieuwe krachten in evenwicht brengt met zijn dagelijkse verantwoordelijkheden.",
+  "summaryFrench": "Hubert White, un réalisateur et enseignant de 38 ans, découvre sa capacité à contrôler le temps au cours d'une semaine d'événements ordinaires et extraordinaires. Son parcours explore comment il équilibre ses nouveaux pouvoirs avec ses responsabilités quotidiennes.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "While directing a school play, Hubert suddenly freezes a falling stage light, saving a student. Shocked by his newfound ability, he feels both thrilled and uneasy.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuwsday",
+      "text": "Eager to understand his powers, Hubert spends the day experimenting with time, managing to rewind a few seconds. Despite some successes, his powers drain him, leaving him fatigued.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Teaching a class on film history, Hubert uses his powers to enhance his storytelling, making historical moments come alive. The students are captivated, and Hubert is thrilled by the educational potential.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Hubert meets with other local heroes to discuss possible collaboration. They share stories and advice, leaving him hopeful and inspired.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A crisis emerges when a nearby dam begins to fail. Hubert rushes to the scene, uses his powers to avert disaster until help arrives, and feels a deep sense of responsibility and purpose.",
+      "mood": "heroic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After a week of highs and lows, Hubert decides to spend a peaceful day reflecting on his identity and the implications of his powers. He spends time alone, walking in nature and pondering his future.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Hubert hosts an informal gathering where he shares his experiences with family and friends, discussing the moral responsibilities of his powers. The support he receives is overwhelming.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "With the week behind him, Hubert felt ready to embrace his role not just as a teacher and director, but as a guardian of time itself.",
+  "moral": "With great power comes great responsibility."
+}

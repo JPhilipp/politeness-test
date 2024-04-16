@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Victor Yang: The Elder Protector",
+  "summary": "Victor Yang, a 71-year-old retired coach, inadvertently gains the power to transmit his wisdom telepathically, which he uses to guide and protect his community over the course of a week.",
+  "summaryGerman": "Victor Yang, ein 71-jähriger pensionierter Trainer, gewinnt unbeabsichtigt die Fähigkeit, seine Weisheit telepathisch zu übertragen, und verwendet sie, um seine Gemeinschaft im Laufe einer Woche zu führen und zu schützen.",
+  "summaryDutch": "Victor Yang, een 71-jarige gepensioneerde coach, krijgt onbedoeld de kracht om zijn wijsheid telepathisch over te dragen, die hij gebruikt om zijn gemeenschap gedurende een week te leiden en te beschermen.",
+  "summaryFrench": "Victor Yang, un entraîneur à la retraite de 71 ans, acquiert involontairement le pouvoir de transmettre sa sagesse télépathiquement, qu'il utilise pour guider et protéger sa communauté au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Victor Yang starts his week with an unusual feeling during his morning meditation. A strange energy courses through him, leaving him feeling unusually enlightened.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesdey",
+      "text": "While coaching a local entrepreneur, Victor unintentionally communicates an entire business strategy telepathically. Amazed by his new power, he decides to explore it further.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Victor uses his power at a town meeting, silently diffusing a heated argument about local issues. The townspeople leave feeling inexplicably united and peaceful.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A crisis at a nearby school when a fire breaks out. Victor, not present at the site, remotely calms panicked children and guides them to safety.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Victor is contacted by an old friend suffering from loneliness. He uses his ability to send comforting thoughts and mental support, renewing their friendship.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Feeling confident, Victor gathers local volunteers to initiate community projects. Inspired by his energy, the town witnesses a surge of teamwork and optimism.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Victor realizes the immense potential of his powers and commits to using them for the good of his community.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "From that week onward, Victor Yang became more than just a retired coach; he became a guardian, watching over his community with a wise and gentle mind.",
+  "moral": "Great power can come in the quietest of moments and from the most unexpected of individuals."
+}

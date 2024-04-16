@@ -1,0 +1,46 @@
+{
+  "title": "The Chronicles of Ivan Brooks, Instructor by Day, Hero by Night",
+  "summary": "Ivan Brooks, a 42-year-old writing instructor, discovers his ability to influence reality through his words. Spanning one week, he uses his power to combat growing darkness in his city, balancing his dual life.",
+  "summaryGerman": "Ivan Brooks, ein 42-jähriger Schreibinstruktor, entdeckt seine Fähigkeit, die Realität durch seine Worte zu beeinflussen. Über eine Woche hinweg nutzt er seine Macht, um die zunehmende Dunkelheit in seiner Stadt zu bekämpfen und sein Doppelleben zu balancieren.",
+  "summaryDutch": "Ivan Brooks, een 42-jarige schrijfinstructeur, ontdekt zijn vermogen om de realiteit te beïnvloeden met zijn woorden. Gedurende een week gebruikt hij zijn kracht om de groeiende duisternis in zijn stad te bestrijden, terwijl hij zijn dubbelleven in evenwicht houdt.",
+  "summaryFrench": "Ivan Brooks, instructeur d'écriture de 42 ans, découvre sa capacité à influencer la réalité par ses mots. Pendant une semaine, il utilise son pouvoir pour combattre les ténèbres grandissantes dans sa ville, équilibrant sa double vie.",
+  "moral": "The power of words is not only in the stories they tell but also in the actions they inspire.",
+  "story": [
+    {
+      "weekday": "Mondy",
+      "text": "Ivan Brooks, a prolific writer and dedicated instructor, stumbles upon a mysterious book that glows faintly in the dark. Intrigued, he reads a passage aloud, unknowingly stopping time momentarily.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Exploring his new power, Ivan writes a narrative that diverts a storm threatening the town. Astounded by his own abilities, he grows more confident in his dual role.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "During a class, Ivan helps a struggling student find her voice through storytelling, indirectly boosting her confidence immensely with his secret power.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News spreads of a nefarious figure exploiting the vulnerable. Ivan spends the night crafting a tale to expose the villain's deceit.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Ivan confronts the antagonist from his story in real life, who recognizes Ivan from the written description. An intense showdown ensues.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After vanquishing the villain, Ivan reveals his secret to his class, explaining how words shaped their reality, which deepens their respect and bond.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week's tumultuous events, Ivan writes a manifesto on the moral responsibility of those with power. He vows to defend his city and nurture its stories.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, the pen not only writes history but preserves humanity."
+}

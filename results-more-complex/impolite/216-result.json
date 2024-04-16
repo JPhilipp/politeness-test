@@ -1,0 +1,46 @@
+{
+  "title": "The Trials of Eve Yang: Shadows of the Mind",
+  "summary": "Eve Yang, a 25-year-old who enjoys tutoring and following new trends, uncovers her psychic abilities and faces a villain threatening her city, ultimately learning the value of her inner strength and the bonds of her community.",
+  "summaryGerman": "Eve Yang, eine 25-jährige, die es genießt, Nachhilfe zu geben und neuen Trends zu folgen, entdeckt ihre psychischen Fähigkeiten und stellt sich einem Bösewicht, der ihre Stadt bedroht, und lernt letztendlich den Wert ihrer inneren Stärke und die Bindungen ihrer Gemeinschaft kennen.",
+  "summaryDutch": "Eve Yang, een 25-jarige die graag bijles geeft en nieuwe trends volgt, ontdekt haar psychische vaardigheden en krijgt te maken met een schurk die haar stad bedreigt, uiteindelijk leert ze de waarde van haar innerlijke kracht en de banden van haar gemeenschap.",
+  "summaryFrench": "Eve Yang, 25 ans, qui aime donner des cours particuliers et suivre les nouvelles tendances, découvre ses capacités psychiques et fait face à un méchant qui menace sa ville, apprenant finalement la valeur de sa force intérieure et les liens de sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "As a sunny day dawned, Eve Yang discovered her psychic abilities when she unintentionally read the thoughts of her tutoring student. Astounded, she spent the day testing her powers, feeling both excited and a bit eerie.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Fuelled by curiosity, Eve explored the extent of her psychic abilities, trying to communicate telepathically with her neighbors. She accidentally intercepted a sinister scheme and felt a mix of fear and determination.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Seeking guidance, Eve visited her old mentor, who revealed the legends of local psychic warriors. Inspired, she felt an epic rush of purpose, deciding to protect her city from the unfolding danger.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Eve practiced her newfound powers, struggling with control but meeting others like her. They formed a bond, uniting their strengths against the looming threat, feeling a blend of nervousness and romantic camaraderie.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The villain struck, paralyzing the city with fear. Eve and her allies confronted him in a decisive battle, using their psychic powers in a synchronous assault. The atmosphere was charged and triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "In the aftermath, Eve took to the streets, helping to calm and restore her community. Her actions, filled with compassion and resilience, made her a local hero, inducing a peaceful and happy feeling in her heart.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Eve felt a profound connection to her city and her new friends. She resolved to continue honing her abilities and defending those in need, her spirit uplifted and energetic.",
+      "mood": "energetic"
+    }
+  ],
+  "ending": "Eve Yang stood on the rooftop at dusk, her mind at peace, ready for whatever challenges might come next.",
+  "moral": "Our greatest strengths often emerge from the unexpected, shaping our destiny and our connections with others."
+}

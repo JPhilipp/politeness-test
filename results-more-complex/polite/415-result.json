@@ -1,0 +1,45 @@
+{
+  "title": "The Unexpected Hero: Bob Williams' Week of Discovery",
+  "summary": "Bob Williams, a 33-year-old tutor and photography enthusiast, discovers his superpowers over a week, using them to save his city from disaster.",
+  "summaryGerman": "Bob Williams, ein 33-jähriger Nachhilfelehrer und Fotografie-Enthusiast, entdeckt im Laufe einer Woche seine Superkräfte und nutzt sie, um seine Stadt vor einer Katastrophe zu retten.",
+  "summaryDutch": "Bob Williams, een 33-jarige tutor en fotografie-enthousiast, ontdekt zijn superkrachten gedurende een week en gebruikt ze om zijn stad te redden van een ramp.",
+  "summaryFrench": "Bob Williams, un tuteur de 33 ans passionné de photographie, découvre ses superpouvoirs pendant une semaine et les utilise pour sauver sa ville d'un désastre.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Bob Williams, while tutoring, accidentally discovers that he can manipulate time when a student's clock starts running backwards. Shocked but intrigued, he spends the rest of the day experimenting in secret.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Emboldened by his new abilities, Bob decides to use his power subtly during a photo shoot to capture perfect lighting over and over again. His photos turn out extraordinarily well, fueling his curiosity and confidence.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedsenday",
+      "text": "Bob encounters his first challenge. A car accident happens before him, and he uses his power to rewind time and prevent it, saving lives. This triumphant moment marks his first step toward heroism.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News spreads of the mysterious 'time guardian.' Bob starts to feel the weight of his powers but remains committed to understanding them better. He spends the day helping people in small but significant ways.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Bob is contacted by a secretive organization interested in his powers. They meet, and he is warned of greater dangers that could target him or misuse his abilities. The meeting ends with more questions than answers, leaving Bob wary but prepared.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Using his tutoring skills, Bob trains himself in his powers, thinking of new ways to control them. He spends a peaceful day in nature, practicing his abilities by altering the flow of a waterfall—both calming and empowering.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "A crisis unfolds as a dam near the city begins to fail. Bob uses his powers to turn back time, working tirelessly to reinforce the dam and prevent the disaster. His success cements his role as a protector of the city.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus, Bob Williams, once a simple tutor and photographer, embraced his role as a guardian of time and protector of his beloved city."
+}

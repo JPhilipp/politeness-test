@@ -1,0 +1,46 @@
+{
+  "title": "The Melodic Protector: The Story of David Stewart",
+  "summary": "David Stewart, a 75-year-old retired music teacher, discovers his unique power to influence emotions through music and uses it to thwart a series of minor crimes in his neighborhood over the course of a week.",
+  "summaryGerman": "David Stewart, ein 75 Jahre alter pensionierter Musiklehrer, entdeckt seine einzigartige Fähigkeit, durch Musik Emotionen zu beeinflussen und nutzt sie, um im Laufe einer Woche eine Reihe kleinerer Verbrechen in seiner Nachbarschaft zu vereiteln.",
+  "summaryDutch": "David Stewart, een 75-jarige gepensioneerde muziekleraar, ontdekt zijn unieke kracht om emoties te beïnvloeden met muziek en gebruikt deze om in de loop van een week een reeks kleine misdrijven in zijn buurt te verijdelen.",
+  "summaryFrench": "David Stewart, un enseignant de musique à la retraite de 75 ans, découvre son pouvoir unique d'influencer les émotions par la musique et l'utilise pour contrecarrer une série de petits crimes dans son quartier au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "David Stewart spends a peaceful morning playing his favorite symphonies on the piano. His serene melodies inadvertently calm a heated argument happening in the apartment next door.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tesday",
+      "text": "During his weekly coaching session, David feels an eerie sense that something is amiss in the park. He plays a soothing melody that uncovers a hidden stash of stolen goods behind a bush.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "David is happy when he teaches a young group of students about the power of music at a local community center and uses his stories to inspire them towards positivity and unity.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "While walking through the neighborhood, David confronts a situation of potential theft. He uses a triumphant fanfare to attract attention and scare off the would-be thieves.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "David feels nostalgic and energetic as he prepares for a special outdoor concert aimed at raising community spirits and funds for local charities.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The concert is a huge success, spreading romantic vibes and bringing the community closer as everyone shares in the joy of David's music.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "David reflects on his week, realizing the impact his music and guidance have on the community, feeling an epic sense of fulfillment and purpose.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "David Stewart realized the magic of life doesn't fade with age but transforms into new melodies to inspire and heal.",
+  "moral": "Age is no barrier when it comes to making a positive impact in the world."
+}

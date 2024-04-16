@@ -1,0 +1,46 @@
+{
+  "title": "The Bargaining Director: The Adventures of Victor Gonzalez",
+  "summary": "Victor Gonzalez, a 43-year-old hobbyist bargainer and director, discovers his power to negotiate superhuman deals, which he uses across one week to thwart sinister plots in his city, ultimately saving his community and restoring peace.",
+  "summaryGerman": "Victor Gonzalez, ein 43-jähriger Hobby-Unterhändler und Regisseur, entdeckt seine Fähigkeit, übermenschliche Geschäfte auszuhandeln, die er innerhalb einer Woche nutzt, um finstere Pläne in seiner Stadt zu vereiteln und letztendlich seine Gemeinschaft zu retten und den Frieden wiederherzustellen.",
+  "summaryDutch": "Victor Gonzalez, een 43-jarige hobbyist-onderhandelaar en regisseur, ontdekt zijn kracht om bovenmenselijke deals te onderhandelen, die hij gebruikt om in één week tijd sinistere complotten in zijn stad te dwarsbomen, uiteindelijk zijn gemeenschap te redden en de vrede te herstellen.",
+  "summaryFrench": "Victor Gonzalez, un négociateur et réalisateur amateur de 43 ans, découvre son pouvoir de négocier des accords surhumains, qu'il utilise tout au long d'une semaine pour contrecarrer des complots sinistres dans sa ville, finalement sauver sa communauté et rétablir la paix.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Victor Gonzalez uncovers a plot to demolish the local theater, using his bargaining skills to convince the developers to preserve it as a community center instead.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "After a victorious Monday, Victor directs a small community play in the newly saved theater, blending his love for directing with his newly found heroic status.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednesady",
+      "text": "Mysterious rumors reach Victor about a black-market deal concerning city’s water supply. He decides to investigate further, feeling an eerie sense of foreboding.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Victor infiltrates the meeting of illegal traders using a clever disguise and his bargaining tactics to negotiate phony terms, buying enough time for the authorities to arrive.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Victor is lauded by the local news for his courage, receiving romantic attention he bashfully defers to focus on his mission to protect the city.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Called to a secret council meeting, Victor advises on safety measures for the city, leveraging his influence and expertise for stronger regulations.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on a week of successes, Victor feels a profound connection to his city and its people, vowing to continue his guard as their unlikely but steadfast hero.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus, Victor Gonzalez solidified his role not just as a director of plays but as a director of fate, steering his city towards a brighter, safer future.",
+  "moral": "Sometimes, the greatest power lies in the ability to negotiate not just for oneself but for the good of all."
+}

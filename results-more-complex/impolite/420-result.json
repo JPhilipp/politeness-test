@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Heroine: Alice Hughes' Super Week",
+  "summary": "Alice Hughes, a 65-year-old with a passion for advertising and cooking, discovers her latent superpowers through a culinary mishap, leading her to face and foil a neighborhood crisis.",
+  "summaryGerman": "Alice Hughes, eine 65-jährige mit einer Leidenschaft für Werbung und Kochen, entdeckt durch ein kulinarisches Missgeschick ihre verborgenen Superkräfte, wodurch sie eine Krise in der Nachbarschaft konfrontiert und vereitelt.",
+  "summaryDutch": "Alice Hughes, een 65-jarige met een passie voor reclame en koken, ontdekt haar latente superkrachten door een culinaire misstap, waardoor ze een crisis in de buurt het hoofd biedt en verijdelt.",
+  "summaryFrench": "Alice Hughes, âgée de 65 ans et passionnée de publicité et de cuisine, découvre ses superpouvoirs latents à travers un accident culinaire, ce qui la conduit à affronter et déjouer une crise de quartier.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Alice Hughes starts her week with an energetic mood, experimenting with a new chili recipe for an upcoming community cook-off.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While advertising her famous stews online, Alice accidentally mixes in a mysterious glowing herb she found in her garden, which gives her the ability to hear whispers from far away, sparking curiosity.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "WEednesday",
+      "text": "Alice uses her new powers to overhear a planned heist at the local bank. She feels a mix of fear and excitement as she plots to thwart the criminals.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Preparing her strategy, Alice crafts a special batch of her chili. She plans to deploy it as a distraction during the heist, using her cooking skills in an epic setup.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Triumphantly, Alice disrupts the heist by luring the criminals with the irresistible aroma of her food, allowing the police to catch them red-handed.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The community celebrates Alice's bravery. She feels a profound connection with her neighborhood, reflecting on the peaceful uses of her newfound abilities.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Alice decides to offer free cooking classes to local kids, hoping to inspire the next generation and share the joy of her hobbies.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Alice Hughes learned that true power lies not just in the supernatural, but in one’s ability to affect change and inspire others.",
+  "moral": "You're never too old to discover new strengths and become a hero in your own unique way."
+}

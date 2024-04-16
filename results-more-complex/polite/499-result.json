@@ -1,0 +1,46 @@
+{
+  "title": "The Silent Guardian: The Adventures of Hubert Kelly",
+  "summary": "Hubert Kelly, a retired editor with a knack for guiding others, discovers his psychic ability to influence thoughts and uses it to covertly resolve conflicts in his community.",
+  "summaryGerman": "Hubert Kelly, ein pensionierter Redakteur mit einer Begabung für das Führen anderer, entdeckt seine psychische Fähigkeit, Gedanken zu beeinflussen, und verwendet sie, um verdeckt Konflikte in seiner Gemeinde zu lösen.",
+  "summaryDutch": "Hubert Kelly, een gepensioneerde redacteur met een talent voor het begeleiden van anderen, ontdekt zijn psychische vermogen om gedachten te beïnvloeden en gebruikt dit om conflicten in zijn gemeenschap heimelijk op te lossen.",
+  "summaryFrench": "Hubert Kelly, un rédacteur à la retraite doué pour guider les autres, découvre sa capacité psychique à influencer les pensées et l'utilise pour résoudre discrètement les conflits dans sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Hubert Kelly begins his week feeling a strange new sense of clarity and begins to experiment with his newfound psychic abilities, unknowingly influencing the mood of his neighbor to return a lost pet.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Boosted by the success of his undertakings, Hubert resolves a long-standing feud between two local shop owners by subtly guiding their thoughts towards reconciliation.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Hubert spends the day refining his psychic abilities, discovering he can do more than just influence emotions; he can implant ideas for community improvement.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thurdsday",
+      "text": "When a local school faces budget cuts, Hubert discreetly encourages the town council to find creative solutions, leading to a surprising and beneficial budget reallocation.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "To relieve his own mental strain, Hubert indulges in his hobby of editing, unwittingly enhancing a struggling writer’s manuscript which later gets a major publication offer.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Taking a break, Hubert guides a group of young hikers, sharing life lessons and unknowingly imbuing them with positive life perspectives through his psychic touch.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Hubert feels a profound sense of fulfillment and starts writing a guidebook on 'The Power of Positive Influence', aimed at helping others harness similar abilities.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Even in his quiet retirement, Hubert Kelly became a hero without a cape, proving that true power lies in the mind and the heart.",
+  "moral": "The greatest impact can often be made silently and with good intent."
+}

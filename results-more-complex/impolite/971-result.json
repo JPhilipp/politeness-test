@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Wisdom with Charlie Baker: The Unsung Hero",
+  "summary": "Throughout one week, 74-year-old Charlie Baker, a retired artist with a knack for encouraging others, discovers his unique superpower: bringing happiness and hope to people around him through his drawings and uplifting spirit.",
+  "summaryGerman": "Während einer Woche entdeckt der 74-jährige Charlie Baker, ein pensionierter Künstler mit einem Talent dafür, andere zu ermutigen, seine einzigartige Superkraft: Menschen um ihn herum durch seine Zeichnungen und seinen erhebenden Geist Glück und Hoffnung zu bringen.",
+  "summaryDutch": "Gedurende een week ontdekt de 74-jarige Charlie Baker, een gepensioneerde kunstenaar met een talent voor het aanmoedigen van anderen, zijn unieke superkracht: geluk en hoop brengen aan mensen om hem heen door zijn tekeningen en opbeurende geest.",
+  "summaryFrench": "Tout au long d'une semaine, Charlie Baker, 74 ans, un artiste à la retraite doué pour encourager les autres, découvre son super pouvoir unique : apporter bonheur et espoir aux gens autour de lui grâce à ses dessins et son esprit positif.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Charlie starts his week by sketching at the local park, where his peaceful drawings of nature bring joy to passersby.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Inspired by a child’s sad face, Charlie creates a vibrant, colorful portrait of her, instantly turning her sadness into happiness.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Charlie receives a community request to paint a mural on an old city wall, and he decides to sketch out inspiring heroes of the neighborhood.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thrusday",
+      "text": "While working on the mural, Charlie feels a sudden surge of energy; his drawings begin to glow, literally illuminating the old street.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "People gather to see the glowing mural, now completed, and realize the figures depicted resemble real individuals from the neighborhood, symbolizing their inner light and strength.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Charlie spends the day with a group of young artists, encouraging them to express their emotions and dreams through art.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the impact of his art, Charlie feels content knowing he’s made a real difference, confirming that everyone has a superpower – it’s just a matter of finding and using it.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And thus, Charlie Baker, a humble artist, painted not just walls but the hearts of those around him, proving age is just a number when it comes to making a difference.",
+  "moral": "The truest forms of strength are often the most subtle; never underestimate the power of art and encouragement."
+}

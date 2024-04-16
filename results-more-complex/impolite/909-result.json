@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Judy Brooks: Trading Hero",
+  "summary": "Over one week, Judy Brooks, a young mentor with a passion for trading, discovers her unique power to foresee market events. She uses this ability to thwart a financial disaster, helping many people safeguard their savings while learning the importance of responsibility.",
+  "summaryGerman": "Innerhalb einer Woche entdeckt Judy Brooks, eine junge Mentorin mit einer Leidenschaft für den Handel, ihre einzigartige Fähigkeit, Marktereignisse vorherzusehen. Sie nutzt diese Fähigkeit, um eine finanzielle Katastrophe zu verhindern und hilft vielen Menschen, ihre Ersparnisse zu schützen, während sie die Bedeutung von Verantwortung lernt.",
+  "summaryDutch": "Gedurende één week ontdekt Judy Brooks, een jonge mentor met een passie voor handelen, haar unieke vermogen om marktgebeurtenissen te voorzien. Ze gebruikt deze vaardigheid om een financiële ramp te voorkomen, waarmee ze veel mensen helpt hun spaargeld te beschermen terwijl ze leert over het belang van verantwoordelijkheid.",
+  "summaryFrench": "En une semaine, Judy Brooks, une jeune mentor passionnée de trading, découvre son pouvoir unique de prévoir les événements du marché. Elle utilise cette capacité pour déjouer un désastre financier, aidant de nombreuses personnes à protéger leurs économies tout en apprenant l'importance de la responsabilité.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy Brooks wakes up feeling energetic and ready to tackle her mentoring sessions. While mentoring, she notices an unusual pattern in her mentee's trading simulations that hints at a possible market crash.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tueseday",
+      "text": "Feeling eerie, Judy confirms her suspicion of the impending financial disaster. She begins outlining a plan to use her knowledge to save her community's investments.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Judy feels sad as she realizes the potential impact of the crash. She spends the day seeking advice and rallying support from her mentorship network.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Feeling triumphant, Judy devises a trading strategy that could mitigate the effects of the crash. She spends hours testing and refining the plan.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Judy feels epic as she implements her strategy. The markets react favorably, and she manages to prevent major losses for many, including her mentees.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With a peaceful mood, Judy reflects on her actions over the week. She conducts a session with her mentees, teaching them about risk management and ethical trading.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Feeling happy, Judy enjoys a well-deserved break. Her community thanks her, recognizing her heroism and the serious responsibility she has handled.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "In the world of trading, heroes don't just predict upturns; they prevent downturns.",
+  "moral": "With great power comes great responsibility."
+}

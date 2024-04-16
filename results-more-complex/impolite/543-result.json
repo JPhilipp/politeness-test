@@ -1,0 +1,45 @@
+{
+  "title": "The Unseen Protector: The Adventures of Pit Phillips",
+  "summary": "A retired presenter and tutor named Pit Phillips discovers his unique power to manipulate time during a crisis, which he uses throughout the week to protect his city from unseen dangers.",
+  "summaryGerman": "Ein pensionierter Präsentator und Tutor namens Pit Phillips entdeckt seine einzigartige Fähigkeit, die Zeit während einer Krise zu manipulieren, die er im Laufe der Woche benutzt, um seine Stadt vor unsichtbaren Gefahren zu schützen.",
+  "summaryDutch": "Een gepensioneerde presentator en tutor genaamd Pit Phillips ontdekt zijn unieke kracht om tijdens een crisis tijd te manipuleren, die hij gedurende de week gebruikt om zijn stad te beschermen tegen ongeziene gevaren.",
+  "summaryFrench": "Un présentateur et tuteur à la retraite nommé Pit Phillips découvre son pouvoir unique de manipuler le temps pendant une crise, qu'il utilise tout au long de la semaine pour protéger sa ville des dangers invisibles.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Pit Phillips, feeling energetic, discovers his ability to pause time while tutoring a physics lesson about time dilation.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Pit tests his new powers by stopping a car accident in real time, saving a family and feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wendsday",
+      "text": "A mysterious figure senses Pit’s powers and challenges him. The encounter leaves Pit feeling eerie, but he manages to escape.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Reflecting on his encounters, Pit spends a peaceful day researching the origins of his powers and their potential limit.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "In an epic showdown, Pit uses his time manipulation to undo a bank heist, subtly adjusting events to prevent it ever happening.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Pit feels happy as he begins to understand and control his powers better, using them to resolve minor community disputes and accidents.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "A romantic walk in the park with an old friend leads to Pit revealing his secret, trusting them with his new identity.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "As the week comes to a close, Pit Phillips embraces his role as 'The Unseen Protector', safeguarding his city one moment at a time."
+}

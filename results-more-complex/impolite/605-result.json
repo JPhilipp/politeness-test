@@ -1,0 +1,46 @@
+{
+  "title": "The Green Guardian: The Tale of Pit Bryant",
+  "summary": "Pit Bryant, a 39-year-old gardening enthusiast with a passion for mentoring, discovers his latent ability to manipulate plant life, which he uses to combat a looming environmental disaster in his city over the course of a week.",
+  "summaryGerman": "Pit Bryant, ein 39-jähriger Gartenliebhaber mit einer Leidenschaft für Mentoring, entdeckt seine latente Fähigkeit, Pflanzenleben zu manipulieren, die er verwendet, um eine drohende Umweltkatastrophe in seiner Stadt im Laufe einer Woche zu bekämpfen.",
+  "summaryDutch": "Pit Bryant, een 39-jarige tuinierliefhebber met een passie voor mentoring, ontdekt zijn latente vermogen om plantenleven te manipuleren, wat hij gebruikt om een naderende milieuramp in zijn stad gedurende een week te bestrijden.",
+  "summaryFrench": "Pit Bryant, un passionné de jardinage âgé de 39 ans avec une passion pour le mentorat, découvre sa capacité latente à manipuler la vie des plantes, qu'il utilise pour combattre une catastrophe environnementale imminente dans sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Pit Bryant starts his week as usual, tending to his community garden. Unbeknownst to him, a mysterious glowing seed falls into his bag, radiating an eerie energy.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "The following day, as Pit interacts with his mentees, he notices the plants responding to his emotions, thriving with joy as he teaches.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "Midweek, a developer announces plans to replace the community garden with a shopping mall. Pit feels a deep connection with the garden and vows to protect it.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Pit discovers his new abilities fully: he can accelerate growth and restore withered plants. He begins experimenting, feeling both triumphant and responsible for his powers.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The community rallies around Pit as he uses his powers to impress and inspire, turning the garden into a symbol of natural beauty and resistance against the developer.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Pit orchestrates a large-scale demonstration by transforming the garden overnight into a lush jungle, showcasing the environmental importance of green spaces.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The developer capitulates due to public pressure, leaving the garden untouched. Pit, feeling peaceful, commits to using his powers for good, mentoring young environmentalists.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the sun set on a victorious Sunday, Pit Bryant stood in his garden, the green leaves whispering tales of a silent guardian.",
+  "moral": "The Earth blossoms under the gentle hands of those who care for it."
+}

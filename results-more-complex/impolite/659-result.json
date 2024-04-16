@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Eve Morgan: From Pages to Power",
+  "summary": "Eve Morgan discovers an ancient book that gives her superpowers, using them over a week to fight a brewing evil, ultimately deciding to balance her newfound abilities with her everyday life.",
+  "summaryGerman": "Eve Morgan entdeckt ein altes Buch, das ihr Superkräfte verleiht. Sie nutzt sie über eine Woche, um ein aufkeimendes Böses zu bekämpfen, und beschließt letztendlich, ihre neu gewonnenen Fähigkeiten mit ihrem Alltagsleben in Einklang zu bringen.",
+  "summaryDutch": "Eve Morgan ontdekt een oud boek dat haar superkrachten geeft, en gebruikt deze gedurende een week om een opkomend kwaad te bestrijden, uiteindelijk besluit ze haar nieuwgevonden vaardigheden in evenwicht te brengen met haar dagelijks leven.",
+  "summaryFrench": "Eve Morgan découvre un ancien livre qui lui donne des superpouvoirs, les utilisant pendant une semaine pour combattre un mal naissant, finalement décidant d'équilibrer ses nouvelles capacités avec sa vie quotidienne.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Eve stumbles upon a mysterious, ancient book in the library where she volunteers, feeling an eerie energy as she flips through its pages.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "After reading aloud a cryptic passage, Eve discovers she can manipulate time. She practices her powers, feeling equally exhilarated and uneasy.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "Trouble strikes when Eve notices a shadowy figure causing chaos downtown. Using her time-bending abilities, she manages to stop him, feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Deciding to understand her powers better, Eve spends the day researching and experimenting, finding peaceful moments of solitude in between.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Eve saves a group of people from a burning building, becoming a topic of local news and hero accolades. She feels a blend of happiness and a sense of purpose.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Struggling with the responsibilities, Eve meets an elder hero who mentors her, discussing the balance of power and normal life, lending an epic scale to her journey.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Eve decides to maintain her librarian job while also embracing her role as a guardian against evil, feeling complete and fulfilled.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "As Eve closed the book that changed her life, she knew that every story she loved had prepared her for her own.",
+  "moral": "True strength lies in balancing the extraordinary with the ordinary."
+}

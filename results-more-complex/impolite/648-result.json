@@ -1,0 +1,46 @@
+{
+  "title": "The Peaceful Melody of Zelda Lopez",
+  "summary": "Zelda Lopez, a 66-year-old with a love for meditating and singing, discovers her supernatural ability to heal and protect her community through her soothing voice during a week of unexpected challenges.",
+  "summaryGerman": "Zelda Lopez, eine 66-jährige Frau, die das Meditieren und Singen liebt, entdeckt ihre übernatürliche Fähigkeit, ihre Gemeinde durch ihre beruhigende Stimme zu heilen und zu schützen, während einer Woche unerwarteter Herausforderungen.",
+  "summaryDutch": "Zelda Lopez, een 66-jarige vrouw met een liefde voor mediteren en zingen, ontdekt haar bovennatuurlijke vermogen om haar gemeenschap te genezen en te beschermen met haar kalmerende stem tijdens een week vol onverwachte uitdagingen.",
+  "summaryFrench": "Zelda Lopez, âgée de 66 ans et passionnée de méditation et de chant, découvre sa capacité surnaturelle à guérir et à protéger sa communauté grâce à sa voix apaisante, au cours d'une semaine ponctuée de défis inattendus.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda Lopez starts her week with a morning meditation, feeling a strange vibration in her voice as she sings to her garden. Unbeknownst to her, the flowers bloom extraordinarily well, hinting at her emerging powers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While singing at a local community center, Zelda notices her songs alleviate the listeners’ stress. Astonished and curious, she feels a surge of purpose.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Reports surface of a mysterious flu spreading in her neighborhood. Using her day to meditate on this issue, she decides to hold a small concert the next day to help those affected.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "At the concert, Zelda's melodies prove miraculously healing to her audience. Her voice carries a soothing power that visibly eases the flu symptoms. The community starts to whisper about a ‘healing heroine’.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Inspired by her newfound ability, Zelda organizes daily singing sessions, becoming a beloved figure. Her days are filled with joy and gratitude from those she helps.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Celebrating her week of miracles, Zelda leads a large community gathering, singing and meditating together. It’s a beautiful, unified spectacle of health and happiness.",
+      "mood": "joyful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her incredible journey, Zelda decides to continue her singing healings, dedicated to maintaining the well-being of her community.",
+      "mood": "peaceful"
+    }
+  ],
+  "moral": "The power to change lives can often be found within one’s innate talents, amplified by a purpose-driven heart.",
+  "ending": "With her melodious voice, Zelda Lopez not only changed her life but also became a guardian of her community's harmony."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Adventurous Week of Ivan Jones: The Organizer Hero",
+  "summary": "Ivan Jones, a 22-year-old with a knack for organizing and advising, discovers his superpowers over the course of a week, using them to unravel a city-wide mystery and ultimately becoming a hero.",
+  "summaryGerman": "Ivan Jones, ein 22-Jähriger mit einer Begabung für Organisation und Beratung, entdeckt im Laufe einer Woche seine Superkräfte, nutzt sie, um ein stadtweites Rätsel zu lösen, und wird schließlich ein Held.",
+  "summaryDutch": "Ivan Jones, een 22-jarige met een talent voor organiseren en adviseren, ontdekt zijn superkrachten gedurende een week, gebruikt ze om een stadsbreed mysterie op te lossen en wordt uiteindelijk een held.",
+  "summaryFrench": "Ivan Jones, un jeune de 22 ans doué pour l'organisation et le conseil, découvre ses super pouvoirs au cours d'une semaine, les utilise pour élucider un mystère à l'échelle de la ville et devient finalement un héros.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ivan, while decluttering his attic, stumbles upon an ancient artifact that grants him the power to see the hidden potential in people and objects.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Excited and energetic, Ivan starts small - he helps his neighbors organize their lives, which curiously solves many of their long-standing issues.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Ivan is approached by a mysterious figure who warns him of his power's origins and the responsibility it carries.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Troubled yet curious, Ivan tries to learn more about his powers and realizes he can influence events recently past, leading him to avert a small accident.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Fiday",
+      "text": "Emboldened by his successes, Ivan uses his powers more openly, inadvertently attracting the attention of a secretive villainous group.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A dramatic confrontation ensues, during which Ivan uses his organizing skills and new powers to trap the villains, just as the police arrive.",
+      "mood": "triunphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ivan, celebrated as a hero, reflects on his new role and vows to use his powers for the greater good, establishing a peaceful life rhythm.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Ivan Jones became not just a hero, but a symbol of order in the face of chaos, inspiring countless others.",
+  "moral": "Even ordinary skills, when combined with a touch of destiny, can lead to extraordinary deeds."
+}

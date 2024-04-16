@@ -1,0 +1,39 @@
+{
+  "title": "The Weaving Wisdom of Frank Lewis: A Superhero Story",
+  "summary": "A week in the life of Frank Lewis, a 73-year-old superhero who uses his power of manipulating woven materials to combat crime and teach important values to his community.",
+  "summaryGerman": "Eine Woche im Leben von Frank Lewis, einem 73-jährigen Superhelden, der seine Fähigkeit, gewebte Materialien zu manipulieren, nutzt, um Verbrechen zu bekämpfen und wichtige Werte in seiner Gemeinde zu vermitteln.",
+  "summaryDutch": "Een week uit het leven van Frank Lewis, een 73-jarige superheld die zijn kracht om geweven materialen te manipuleren gebruikt om misdaad te bestrijden en belangrijke waarden aan zijn gemeenschap te onderwijzen.",
+  "summaryFrench": "Une semaine dans la vie de Frank Lewis, un super-héros de 73 ans qui utilise son pouvoir de manipulation des matériaux tissés pour combattre le crime et enseigner des valeurs importantes à sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "While tutoring at the local community center, Frank Lewis discovers a plot by a group of thieves planning to rob the center's fundraiser. Using his weaving skills, he crafts subtle traps around the venue. Mood: eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "As the thieves enter the trapped venue, Frank, sitting quietly in the shadows, controls the threads to trip, bind, and confound the intruders until the police arrive. Mood: triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "After the eventful night, Frank spends the day teaching kids at the center how to weave colorful bracelets, subtly weaving in lessons of integrity and courage. Mood: peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Frank receives a community hero award. During his speech, he emphasizes the importance of skills and wisdom over physical strength. Mood: epic"
+    },
+    {
+      "weekday": "Firday",
+      "text": "Feeling an unusual energy, Frank decides to create a giant mural from yarn outside the community center, showcasing scenes of community unity and vigilance. Mood: energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The mural becomes a local sensation, drawing attention from the media. Frank uses this opportunity to promote community arts and local safety. Mood: happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Frank sits back in his chair, weaving a new tapestry depicting the highlights of his adventures. This tapestry later hangs in the community center. Mood: romantic"
+    }
+  ],
+  "ending": "As the sun sets, Frank Lewis, with a smile under his iconic woven hat, prepares for another week of subtle heroism.",
+  "moral": "True heroism is in the wisdom and the impact you bring to your community, not just in physical deeds."
+}

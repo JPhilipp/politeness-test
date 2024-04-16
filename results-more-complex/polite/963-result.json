@@ -1,0 +1,46 @@
+{
+  "title": "The Extraordinary Week of Mallory Baker: Educator by Day, Guardian by Night",
+  "summary": "Mallory Baker, a 32-year-old teacher with a passion for education and preaching, discovers her supernatural abilities and uses them to protect her town from a mysterious threat over the course of a week.",
+  "summaryGerman": "Mallory Baker, eine 32-jährige Lehrerin mit einer Leidenschaft für Bildung und Predigt, entdeckt ihre übernatürlichen Fähigkeiten und nutzt sie, um ihre Stadt im Laufe einer Woche vor einer mysteriösen Bedrohung zu schützen.",
+  "summaryDutch": "Mallory Baker, een 32-jarige lerares met een passie voor onderwijs en prediken, ontdekt haar bovennatuurlijke vaardigheden en gebruikt deze om haar stad te beschermen tegen een mysterieuze dreiging gedurende een week.",
+  "summaryFrench": "Mallory Baker, une enseignante de 32 ans passionnée par l'éducation et la prédication, découvre ses capacités surnaturelles et les utilise pour protéger sa ville d'une menace mystérieuse pendant une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "mood": "energetic",
+      "text": "Mallory Baker begins her week as usual, teaching local history at the community college. After a strange encounter with an ancient artifact used in her lecture, she notices she can hear distant whispers and see glimpses of past events."
+    },
+    {
+      "weekday": "Tusday",
+      "mood": "eerie",
+      "text": "Disturbed by her new abilities, Mallory tries to ignore them but is soon drawn into an old library's archives. There, she learns that the artifact is linked to the town’s forgotten protector."
+    },
+    {
+      "weekday": "Wednesday",
+      "mood": "triumphant",
+      "text": "Mallory confronts a little-known threat stealthily terrorizing the neighborhood. Using her powers of historical insight, she uncovers and disarms a hidden, ancient menace under the town's main square."
+    },
+    {
+      "weekday": "Thursday",
+      "mood": "sad",
+      "text": "After her heroic deeds, Mallory feels the weight of her new responsibilities. She struggles to balance her life as a teacher with the demanding role of a guardian, feeling the isolation that her secret identity brings."
+    },
+    {
+      "weekday": "Friday",
+      "mood": "romantic",
+      "text": "Seeking solace, Mallory confides in her colleague, James, who shows understanding and support. Their shared moment of vulnerability brings them closer, hinting at a budding romance."
+    },
+    {
+      "weekday": "Saturday",
+      "mood": "epic",
+      "text": "An emergency erupts as a malevolent force surges from the artifact. Mallory, alongside James, rallies the town to preserve their history and safety, leading to a monumental battle."
+    },
+    {
+      "weekday": "Sunday",
+      "mood": "peaceful",
+      "text": "The town revels in peace after the threat's defeat. Mallory, rejuvenated by community support, fully embraces her dual role, promising to protect and teach with equal fervor."
+    }
+  ],
+  "moral": "Embrace your unique abilities; they may be the key to safeguarding your community's future.",
+  "ending": "And thus, Mallory Baker stood, a beacon of hope and education, ensuring the balance of knowledge and protection in her cherished town."
+}

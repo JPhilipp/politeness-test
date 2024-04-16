@@ -1,0 +1,46 @@
+{
+  "title": "The Incredible Adventures of Zelda Parker: Champion of Metroville",
+  "summary": "Zelda Parker, a 28-year-old sports enthusiast, discovers her supernatural speed during a championship game and uses it to tackle various challenges and crimes in Metroville over the course of a week.",
+  "summaryGerman": "Zelda Parker, eine 28-jährige Sportbegeisterte, entdeckt ihre übernatürliche Geschwindigkeit während eines Meisterschaftsspiels und nutzt sie, um im Laufe einer Woche verschiedene Herausforderungen und Verbrechen in Metroville zu bewältigen.",
+  "summaryDutch": "Zelda Parker, een 28-jarige sportliefhebber, ontdekt haar bovennatuurlijke snelheid tijdens een kampioenschapswedstrijd en gebruikt deze om verschillende uitdagingen en misdaden in Metroville gedurende een week aan te pakken.",
+  "summaryFrench": "Zelda Parker, passionnée de sport de 28 ans, découvre sa vitesse surnaturelle lors d'un match de championnat et l'utilise pour relever divers défis et crimes à Metroville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda wins a regional sports championship and unexpectedly discovers she can run at superhuman speeds. Her hometown cheers her on, feeling both surprised and proud.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Running late for work, Zelda uses her new powers covertly to help people in need along the way, saving a kitten stuck in a tree and aiding an elderly man across the street.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "At a local park, Zelda overhears a plot to rob a nearby bank. She decides to step in and prevent the crime, managing to outpace and confuse the criminals for the police to capture.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thurseday",
+      "text": "During her morning run, Zelda encounters a mysterious figure who gives her cryptic advice about the responsibilities of power and disappears as quickly as he appeared.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Inspired by her recent acts of heroism, Zelda starts organizing community safety workshops and self-defense classes, garnering massive local support.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Zelda's efforts gain media attention. She gives an inspiring interview about courage and community, sparking interest nationwide in similar safety initiatives.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "As she relaxes at a local sports event, Zelda reflects on her week. Despite misunderstandings and challenges, she resolves to use her abilities to continue protecting her city.",
+      "mood": "reflective"
+    }
+  ],
+  "ending": "With her newfound powers, Zelda Parker didn’t just become a hero; she became a symbol of hope and resilience.",
+  "moral": "Great power, when guided by compassion and responsibility, can bring tremendous positive change."
+}

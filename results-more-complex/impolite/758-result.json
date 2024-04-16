@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Bob Long: The Unlikely Hero",
+  "summary": "Bob Long, a 72-year-old with a passion for coaching and bargaining, discovers he has superpowers and uses his newfound abilities to solve the mystery of disappearing pets in his neighborhood over the course of a week.",
+  "summaryGerman": "Bob Long, ein 72-jähriger mit einer Leidenschaft für Coaching und Feilschen, entdeckt, dass er Superkräfte hat und nutzt seine neu gefundenen Fähigkeiten, um im Laufe einer Woche das Rätsel um verschwindende Haustiere in seiner Nachbarschaft zu lösen.",
+  "summaryDutch": "Bob Long, een 72-jarige met een passie voor coaching en onderhandelen, ontdekt dat hij superkrachten heeft en gebruikt zijn nieuw gevonden vaardigheden om gedurende een week het mysterie van de verdwijnende huisdieren in zijn buurt op te lossen.",
+  "summaryFrench": "Bob Long, âgé de 72 ans avec une passion pour le coaching et le marchandage, découvre qu'il a des super pouvoirs et utilise ses nouvelles capacités pour résoudre le mystère des animaux domestiques disparus dans son quartier au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Bob Long feels an unexpected surge of energy while cheering at a local football game and accidentally teleports himself to the snack bar.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuessday",
+      "text": "Driven by curiosity about his new powers, Bob practices teleportation, only to accidentally overhear a group plotting to steal neighborhood pets.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Bob spends the day learning to control his abilities, focusing on reducing the likelihood of accidental teleports.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "He uses his bargaining skills to discretely gather information from locals about recent suspicious activities.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Empowered and confident, Bob teleports near the perpetrators’ hideout, ready to confront them.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Bob heroically rescues the kidnapped pets and uses his coaching skills to calm them before safely returning them to their owners.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Bob, now celebrated as a local hero, enjoys a peaceful day with gratitude from his community, feeling a profound sense of fulfillment.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Bob Long proved that heroes come in all ages, and it’s never too late to make a difference.",
+  "moral": "Age is just a number, and with the right heart, anyone can be a superhero."
+}

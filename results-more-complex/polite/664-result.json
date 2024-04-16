@@ -1,0 +1,46 @@
+{
+  "title": "The Week Ling Baker Became a Superhero",
+  "summary": "Ling Baker, a 30-year-old advisor and teacher, discovers her superpowers over the course of a week and decides to use them to educate and protect her community.",
+  "summaryGerman": "Ling Baker, eine 30-jährige Beraterin und Lehrerin, entdeckt im Laufe einer Woche ihre Superkräfte und beschließt, sie zu nutzen, um ihre Gemeinde zu bilden und zu schützen.",
+  "summaryDutch": "Ling Baker, een 30-jarige adviseur en leraar, ontdekt haar superkrachten gedurende een week en besluit ze te gebruiken om haar gemeenschap te onderwijzen en te beschermen.",
+  "summaryFrench": "Ling Baker, une conseillère et enseignante de 30 ans, découvre ses super-pouvoirs au cours d'une semaine et décide de les utiliser pour éduquer et protéger sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Baker starts her week with a strange tingling sensation that makes her feel inexplicably energetic. As she teaches her class on modern philosophy, she senses she can anticipate the students’ questions before they even ask them.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "During a staff meeting, Ling accidentally reads her principal’s thoughts, realizing her ability to perceive others' minds. She feels a mix of excitement and eeriness as she explores this new ability.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Ling uses her break to experiment with her powers. She finds she can extend her energy to calm heated arguments in the cafeteria, bringing a peaceful resolution.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursdya",
+      "text": "Ling’s powers grow, and she feels triumphant when she successfully mediates a difficult parent-teacher conference by subtly influencing emotions and thoughts to foster understanding.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With her new abilities, Ling feels a deep responsibility. She spends her day helping troubled students, using her insight to guide them towards better futures, which fills her with a sense of purpose and happiness.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Taking a day off, Ling meets with old friends who notice her newfound serenity and wisdom. Discussions turn deep and philosophical, sparking romantic feelings in an unexpected connection.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ling decides to embrace her role as a superhero in her community, committing to use her powers to advise, teach, and protect. She feels epic as she plans out her future steps.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And so, Ling Baker, once a simple teacher, stood poised to become a beacon of knowledge and protection, her life forever changed by the events of an unforgettable week.",
+  "moral": "Great power truly comes with great responsibility, and the best way to use it is for the betterment of others."
+}

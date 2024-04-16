@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Palette of Ivan Moore",
+  "summary": "Ivan Moore, a dedicated tutor and painter, discovers his ability to manipulate emotions through colors, facing challenges to protect his city while balancing his personal passions.",
+  "summaryGerman": "Ivan Moore, ein engagierter Tutor und Maler, entdeckt seine Fähigkeit, Emotionen durch Farben zu manipulieren, und stellt sich Herausforderungen, um seine Stadt zu schützen, während er seine persönlichen Leidenschaften ausbalanciert.",
+  "summaryDutch": "Ivan Moore, een toegewijde tutor en schilder, ontdekt zijn vermogen om emoties te manipuleren door kleuren, geconfronteerd met uitdagingen om zijn stad te beschermen terwijl hij zijn persoonlijke passies in evenwicht houdt.",
+  "summaryFrench": "Ivan Moore, un tuteur dévoué et peintre, découvre sa capacité à manipuler les émotions à travers les couleurs, faisant face à des défis pour protéger sa ville tout en équilibrant ses passions personnelles.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "As dawn broke, Ivan Moore mixed his morning tea with the same precision he used for his paints. He felt an unusual surge of energy when his brush accidentally slipped into his cup, tinting his drink a vibrant blue. This seemingly mundane morning marked the beginning of his extraordinary abilities.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While tutoring, Ivan noticed his students were unusually attentive. Making a bold experiment, he used green hues in his presentation slides. The calm that suffused the room was palpable. Ivan began to suspect that his connection with colors was affecting real emotions.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "With the city under a shadow of gloom from recent events, Ivan decided to test his new-found powers publicly. He painted a mural at the local park, using specific colors that radiated happiness. The area soon buzzed with people, smiling and taking photos, the somber mood lifted noticeably.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "However, not all reactions were positive. A figure watched from the shadows, disturbed by Ivan's influence. This figure, known only as Chroma, had monitored the emotional energies of the city and saw Ivan as a threat to his own manipulative powers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Ivan, sensing a disturbance to his peaceful routine, found odd color patterns appearing around his usual painting spots. These were signs from Chroma, challenging his altruistic use of color. An artistic duel ensued between them, painted across the cityscape.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The colorful battle peaked when both artists converged on the grand plaza. Their brushes clashed, colors blending into a whirlwind of emotion. The public, drawn by the spectacle, watched as Ivan's peaceful hues subdued Chroma's aggressive reds and blacks.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The aftermath of the battle left the city painted in new, hopeful colors. People felt an uplift in spirits, and Ivan learned to harness his abilities for the collective good, promising to use his powers discreetly to maintain harmony.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Ivan Moore continued his double life, painting both canvases and emotions, ensuring his city thrived under hues of happiness and peace.",
+  "moral": "With great power comes the responsibility to use it for the collective good."
+}

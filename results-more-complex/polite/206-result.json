@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Threads of Trent Lewis",
+  "summary": "Trent Lewis, a 65-year-old with a passion for coaching and sewing, discovers his newfound powers to manipulate textiles and uses them to save his community from danger.",
+  "summaryGerman": "Trent Lewis, ein 65-jähriger mit einer Leidenschaft für Coaching und Nähen, entdeckt seine neu gefundenen Fähigkeiten zur Manipulation von Textilien und verwendet sie, um seine Gemeinde vor Gefahren zu retten.",
+  "summaryDutch": "Trent Lewis, een 65-jarige met een passie voor coaching en naaien, ontdekt zijn nieuwgevonden krachten om textiel te manipuleren en gebruikt ze om zijn gemeenschap te redden van gevaar.",
+  "summaryFrench": "Trent Lewis, âgé de 65 ans et passionné par le coaching et la couture, découvre ses nouveaux pouvoirs pour manipuler les textiles et les utilise pour sauver sa communauté du danger.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "In the quiet town of Stitchville, Trent Lewis, a retired textile factory supervisor, spends his day coaching local kids in baseball, feeling energetic and alive.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tueday",
+      "text": "While sewing a costume for the upcoming town play, Trent accidentally pricks his finger, activating his latent power to control fabric with his mind. He feels a mix of eerie and excitement as the fabric dances to his commands.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Testing his abilities, Trent discovers he can mend clothes and create garments instantaneously. He feels triumphant, as he thinks of ways to help his community.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News of his talents spreads, and Trent uses his powers to assist local businesses by creating unique textile designs. The mood in town is celebratory and Trent feels happy.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A hurricane threatens Stitchville. Trent works tirelessly, reinforcing homes with ultra-strong fabric barriers, feeling both heroic and romantic as he protects what he loves.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The hurricane passes with minimal damage, thanks to Trent's fabric shields. The town gathers to thank him, feeling a sense of peace and community spirit.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Trent decides to open a workshop where he can teach others to sew, not just for art, but for protection. The day feels epic as new possibilities unfold.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And so, with thread and needle in hand, Trent continued to weave the safety and spirit of his town into every stitch.",
+  "moral": "Sometimes, the most unusual gifts can provide the greatest services to our community."
+}

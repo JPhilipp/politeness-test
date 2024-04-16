@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Hero: The Story of Heidi Ross",
+  "summary": "At age 76, Heidi Ross discovers her latent powers of empathy and healing, transforming her quiet retirement into a week of heroism as she tackles various crises in her community.",
+  "summaryGerman": "Im Alter von 76 Jahren entdeckt Heidi Ross ihre verborgenen Kräfte der Empathie und Heilung, und verwandelt ihren ruhigen Ruhestand in eine Woche des Heldentums, während sie verschiedene Krisen in ihrer Gemeinde angeht.",
+  "summaryDutch": "Op 76-jarige leeftijd ontdekt Heidi Ross haar latente krachten van empathie en genezing, waardoor haar rustige pensioen wordt omgevormd tot een week van heldendom terwijl ze verschillende crises in haar gemeenschap aanpakt.",
+  "summaryFrench": "À l'âge de 76 ans, Heidi Ross découvre ses pouvoirs latents d'empathie et de guérison, transformant sa retraite tranquille en une semaine d'héroïsme alors qu'elle s'attaque à diverses crises dans sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "At the community center, Heidi Ross, somewhat reluctantly, revealed her unique ability to absorb others' pain, curing a man's chronic backache, setting an energetic tone for her week.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Heidi spends the day coaching a struggling local football team, using her newfound powers to boost the players’ morale and physical prowess, leading to an unexpected triumph.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednwesday",
+      "text": "News of Heidi’s abilities spreads, causing eerie silences and suspicious glances among the townsfolk, who are bewildered by her sudden transformation.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Driven by rumors, a local reporter approaches Heidi, who shares her story, turning skepticism into widespread admiration and acceptance.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Heidi tackles a surge of requests for help, spending the day healing and counseling, reinforcing her role as a pillar in the community.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A relaxing day spent mentoring young volunteers, instilling hope and passion in the next generation - a peaceful and fulfilling day.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Capping the week, Heidi hosts a small gathering at her home, celebrated by those she’s helped, ending on a note of communal joy and gratitude.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "In a quiet town, an ordinary retiree became an extraordinary hero, proving that true power lies within acts of kindness and understanding.",
+  "moral": "No matter the age, one’s capacity for making a difference in the lives of others remains boundless."
+}

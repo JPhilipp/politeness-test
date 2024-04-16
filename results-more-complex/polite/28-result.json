@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Guardian: The Chronicle of Hubert Flores",
+  "summary": "At 64, Hubert Flores discovers his latent superpowers during a week of guiding and instructing, ultimately becoming a town hero by using his abilities to protect and inspire those around him.",
+  "summaryGerman": "Mit 64 entdeckt Hubert Flores seine verborgenen Superkräfte während einer Woche des Führens und Lehrerns und wird letztlich durch den Einsatz seiner Fähigkeiten zum Helden der Stadt, indem er die Menschen um ihn herum schützt und inspiriert.",
+  "summaryDutch": "Op 64-jarige leeftijd ontdekt Hubert Flores zijn latente superkrachten tijdens een week van gidsen en instructie geven, en uiteindelijk wordt hij een held van de stad door zijn vaardigheden te gebruiken om de mensen om hem heen te beschermen en te inspireren.",
+  "summaryFrench": "À 64 ans, Hubert Flores découvre ses superpouvoirs latents au cours d'une semaine de guidage et d'enseignement, devenant finalement un héros de la ville en utilisant ses capacités pour protéger et inspirer ceux qui l'entourent.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Hubert Flores starts his week feeling energetic, preparing a new nature trek for his local guiding service. During the trip, he unexpectedly lifts a fallen log blocking the path with ease, surprising his group and himself.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While instructing a birdwatching group, Hubert experiences an eerie moment when he communicates with an eagle using a mysterious, newfound telepathic ability.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Hubert spends the day reflecting on his new abilities and feels an epic sense of responsibility to protect and teach others about the wonders of nature in an entirely new way.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Hubert heals a wounded deer he encounters during his morning hike. The peaceful scene brings local media attention, who are intrigued by the story of a mysterious healer in the woods.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Firday",
+      "text": "Hubert's story grows, and people from various places visit to experience his guidance. He feels happy, helping and connecting deeply with both nature and visitors.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "An old nemesis from Hubert’s past attempts to exploit his powers for profit. With triumphant resolve, Hubert thwarts the scheme, inspiring his community with his bravery and integrity.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the events of the week, Hubert declares his life's new mission: to use his powers for the good of all, teaching the importance of respecting nature and one another.",
+      "mood": "romantic"
+    }
+  ],
+  "moral": "True heroism lies in the willingness to use one's gifts for the collective good.",
+  "ending": "And so, Hubert Flores, once a simple guide, became a timeless guardian of nature and humanity."
+}

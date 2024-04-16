@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Journey of David Parker, Super Instructor",
+  "summary": "David Parker, a 77-year-old retired superhero, finds his powers reawakening as he must save his town from a mysterious threat over the course of a week.",
+  "summaryGerman": "David Parker, ein 77-jähriger pensionierter Superheld, findet seine Kräfte wieder, als er seine Stadt im Laufe einer Woche vor einer mysteriösen Bedrohung retten muss.",
+  "summaryDutch": "David Parker, een 77-jarige gepensioneerde superheld, vindt zijn krachten weer terug als hij zijn stad moet redden van een mysterieuze bedreiging gedurende een week.",
+  "summaryFrench": "David Parker, un super-héros à la retraite de 77 ans, retrouve ses pouvoirs alors qu'il doit sauver sa ville d'une menace mystérieuse au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "David Parker, enjoying retirement, spends his day coaching local children in chess at the community center, feeling peaceful and content.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While walking home, David feels a strange sensation; his old powers of telekinesis stir as he inadvertently moves a parked car to clear the sidewalk.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wendnesday",
+      "text": "David begins to experiment with his returning abilities, rescuing a cat from a tall tree, feeling a mix of excitement and uncertainty.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Reports of a looming dark cloud over the town square arise. David feels it might be linked to his powers, which makes him worried yet determined.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "David confronts the mysterious cloud, discovering it's a manifestation of collective fears. Using his mental strength, he dissipates it, feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The town celebrates their unexpected hero with a parade in his honor, where David feels nostalgic and victorious amidst the festivities.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, David decides to use his powers to continue making a positive impact, feeling motivated to pass his knowledge and legacy on.",
+      "mood": "epic"
+    }
+  ],
+  "moral": "No matter the age, one's ability to make a difference never retires.",
+  "ending": "Thus, David Parker lived not just as a retiree, but as a continuing hero, shaping lives, one extraordinary moment at a time."
+}

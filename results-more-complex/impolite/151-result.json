@@ -1,0 +1,46 @@
+{
+  "title": "The Negotiator: The Week Linda Bailey Saved Her City",
+  "summary": "At age 70, Linda Bailey, normally engaged in coaching and negotiating, discovers a hidden power that lets her resolve conflicts and avert a major disaster in her city over the course of a week.",
+  "summaryGerman": "Im Alter von 70 Jahren entdeckt Linda Bailey, normalerweise im Coaching und Verhandeln tätig, eine verborgene Kraft, die es ihr ermöglicht, Konflikte zu lösen und eine große Katastrophe in ihrer Stadt innerhalb einer Woche zu verhindern.",
+  "summaryDutch": "Op 70-jarige leeftijd ontdekt Linda Bailey, normaal gesproken betrokken bij coaching en onderhandelen, een verborgen kracht die haar in staat stelt conflicten op te lossen en een grote ramp in haar stad te voorkomen gedurende een week.",
+  "summaryFrench": "À 70 ans, Linda Bailey, habituellement engagée dans le coaching et la négociation, découvre un pouvoir caché qui lui permet de résoudre des conflits et d'éviter un désastre majeur dans sa ville en l'espace d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Linda Bailey wakes up feeling unusually energetic. She saves a local community center from being shut down by expertly negotiating between the city council and the community representatives.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "With an eerie sense of foreboding, Linda discovers her ability to foresee conflicts. She prevents a heated dispute in the local supermarket, cooling tempers with her wise words.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesay",
+      "text": "Linda uses her coaching skills to mentor a troubled youth, guiding him away from a dangerous path. Her heroic intervention changes his life trajectory.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Feeling peaceful, Linda mediates a long-standing feud between two neighboring businesses, bringing an end to years of bitterness and promoting unity in her community.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A sudden disaster strikes when a fire breaks out at the local mall. Linda's quick thinking and negotiation expertise help organize evacuation efforts, saving many lives.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Inspired by recent events, Linda hosts a community workshop on conflict resolution and emergency preparedness, bolstering the resilience of her neighborhood.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week’s events, Linda feels deep satisfaction knowing she has made a real difference. She spends a quiet, romantic evening with her partner, celebrating their 50th anniversary.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "And so, Linda Bailey proved that heroes come in all ages, each empowered to protect and enhance their communities with unique skills and heart.",
+  "moral": "Age is just a number, and everyone has the potential to be a hero in their community."
+}

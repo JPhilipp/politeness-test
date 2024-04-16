@@ -1,0 +1,46 @@
+{
+  "title": "The Green Guardian: The Adventures of Grace Hill",
+  "summary": "A week in the life of Grace Hill, who balances her time between motivating others and protecting her city with powers derived from nature, discovering a new threat and overcoming obstacles with bravery and wit.",
+  "summaryGerman": "Eine Woche im Leben von Grace Hill, die ihre Zeit zwischen der Motivation anderer und dem Schutz ihrer Stadt mit aus der Natur abgeleiteten Kräften ausbalanciert, eine neue Bedrohung entdeckt und Hindernisse mit Mut und Verstand überwindet.",
+  "summaryDutch": "Een week uit het leven van Grace Hill, die haar tijd verdeelt tussen het motiveren van anderen en het beschermen van haar stad met krachten afkomstig uit de natuur, een nieuwe dreiging ontdekt en obstakels overwint met moed en vernuft.",
+  "summaryFrench": "Une semaine dans la vie de Grace Hill, qui équilibre son temps entre motiver les autres et protéger sa ville avec des pouvoirs dérivés de la nature, découvrant une nouvelle menace et surmontant les obstacles avec courage et esprit.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Grace Hill starts her week by hosting a motivational workshop at the local community center, inspiring many with her energetic and upbeat disposition.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "After tending her rooftop garden, Grace, aka The Green Guardian, uses her botanical powers to chase down a mysterious figure poisoning the city's parks.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "Grace confronts the villain, discovering they are motivated by a twisted sense of revenge against the city's industrial expansion. After a long battle, she captures them with her vine traps.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Grace spends a peaceful day recovering at home, caring for her plants, and reflecting on the vulnerability of nature in the urban sprawl.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Motivated by recent events, Grace leads a city council meeting to discuss greener policies and the creation of new public gardens, earning support from both officials and citizens.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Grace hosts a community gardening event, blending her hobbies and heroics by teaching others how to incorporate plant-based defenses in their own yards.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Grace feels a renewed connection to her city and its people, ready to face whatever new challenges may come.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "And as the sun set on a week filled with challenges and victories, Grace Hill knew she had grown, not just her garden, but her community and herself.",
+  "moral": "True heroism lies in nurturing and protecting, not just in battling foes."
+}

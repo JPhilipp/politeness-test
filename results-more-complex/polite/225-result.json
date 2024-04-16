@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Heroics of Trent Wilson",
+  "summary": "Trent Wilson, a 63-year-old retired coach, discovers his uncanny ability to manipulate time during a local emergency and uses his newfound powers to save his community.",
+  "summaryGerman": "Trent Wilson, ein 63-jähriger pensionierter Trainer, entdeckt seine unglaubliche Fähigkeit, die Zeit zu manipulieren, während eines lokalen Notfalls und nutzt seine neu gefundenen Kräfte, um seine Gemeinde zu retten.",
+  "summaryDutch": "Trent Wilson, een 63-jarige gepensioneerde coach, ontdekt zijn ongelooflijke vermogen om de tijd te manipuleren tijdens een lokale noodsituatie en gebruikt zijn nieuw gevonden krachten om zijn gemeenschap te redden.",
+  "summaryFrench": "Trent Wilson, un entraîneur retraité de 63 ans, découvre son incroyable capacité à manipuler le temps lors d'une urgence locale et utilise ses nouveaux pouvoirs pour sauver sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Trent Wilson starts the week feeling energetic as he enjoys coaching his local youth soccer team.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While managing his team, Trent unexpectedly stops a watch with just a glare, hinting at something more beneath his calm demeanor.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesady",
+      "text": "After confirming his strange ability, Trent feels both excited and scared. He spends the day experimenting and realizing the extent of his powers.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Trent decides to confide in an old friend about his newfound abilities. Together, they consider the possibilities and responsibilities.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A sudden storm traps some locals. Using his time control, Trent coordinates a rescue, becoming a mysterious hero.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "News of the 'Time Master' spreads, and the community speculates about the identity of their new hero. Trent feels proud but prefers to remain anonymous.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Trent realizes that helping others has reinvigorated his sense of purpose. He vows to use his powers for good quietly.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "As Trent watches another sunset, he smiles, knowing that even the smallest moments can have the greatest impact.",
+  "moral": "True heroes are not always the ones who seek the spotlight, but those who make a difference quietly."
+}

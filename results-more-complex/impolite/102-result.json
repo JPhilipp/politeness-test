@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Wisdom with Judy Lee",
+  "summary": "Judy Lee, a 59-year-old superhero with a penchant for advising, uses her incredible gift of wisdom to change her community and battle a mysterious force over the course of a week.",
+  "summaryGerman": "Judy Lee, eine 59-jährige Superheldin mit einer Vorliebe für Beratung, nutzt ihr unglaubliches Weisheitsgeschenk, um ihre Gemeinschaft zu verändern und im Verlauf einer Woche gegen eine mysteriöse Kraft zu kämpfen.",
+  "summaryDutch": "Judy Lee, een 59-jarige superheldin met een voorliefde voor adviseren, gebruikt haar ongelooflijke gave van wijsheid om haar gemeenschap te veranderen en gedurende een week een mysterieuze kracht te bestrijden.",
+  "summaryFrench": "Judy Lee, une super-héroïne de 59 ans avec un penchant pour le conseil, utilise son incroyable don de sagesse pour changer sa communauté et combattre une force mystérieuse au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy Lee discovers her instructions inadvertently prevent a disaster at a local factory, realizing her advice has real power.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Empowered, she starts a free advising booth in the park, unknowingly thwarting a pickpocket in action by her mere presence.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wensday",
+      "text": "An eerie fog sets over the city; Judy hears whispers of an impending crisis. She prepares by gathering information.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Using her insights, Judy helps the police unravel a complex scam targeting the elderly, earning the city's quiet gratitude.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Exhausted yet satisfied, Judy holds a seminar on personal safety, which fortuitously prevents an attendee from a scam.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "In the park again, Judy's romantic advice helps a young couple reconcile, reminding her of the broad impact of her wisdom.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Judy realizes that the mysterious force was fear and misinformation, beaten by her clarity and truth.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "With every word, Judy Lee spun mundane moments into magical wisdom, leaving her city a little better than she found it.",
+  "moral": "The true power lies in the wisdom and integrity we share with others."
+}

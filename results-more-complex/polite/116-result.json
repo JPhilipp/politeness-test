@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Ling Jones: A Week of Heroics",
+  "summary": "Ling Jones, a 25-year-old teacher with a passion for training, discovers her superpowers and combats various threats to her city over the course of a week, learning more about her abilities and herself.",
+  "summaryGerman": "Ling Jones, eine 25-jährige Lehrerin mit einer Leidenschaft für Training, entdeckt ihre Superkräfte und bekämpft verschiedene Bedrohungen für ihre Stadt im Laufe einer Woche, während sie mehr über ihre Fähigkeiten und sich selbst lernt.",
+  "summaryDutch": "Ling Jones, een 25-jarige lerares met een passie voor training, ontdekt haar superkrachten en gaat verschillende dreigingen tegen haar stad te lijf gedurende een week, terwijl ze meer leert over haar mogelijkheden en over zichzelf.",
+  "summaryFrench": "Ling Jones, une enseignante de 25 ans passionnée par la formation, découvre ses superpouvoirs et combat diverses menaces pour sa ville au cours d'une semaine, apprenant ainsi davantage sur ses capacités et sur elle-même.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Jones starts her week like any other, teaching her favorite class. After a sudden power outage, she unexpectedly lifts a fallen beam, saving her students. She feels both shocked and triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Filled with questions about her new strength, Ling visits a secluded park to experiment. She learns she can also leap incredible distances. The day is energetic and puzzling.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Ling is followed by mysterious figures. She uses her powers to escape, realizing someone has noticed her abilities. The mood is eerie as she flees unseen watchers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "After consulting with her mentor, an old martial arts instructor, Ling decides to use her powers for good. She stops a robbery with swift, precise moves. The day is both epic and peaceful.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "News of a new hero spreads. Ling feels a mix of excitement and fear as she balances her dual life. She saves a cat from a tree, making a young child extraordinarily happy.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A major threat emerges as a villain attacks the city center. Ling confronts him, using all her newfound skills in a thrilling battle. She emerges victorious but realizes the weight of her new role.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Ling practices her abilities more carefully, feeling a profound peace in mastering her skills and accepting her role as a protector.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the sun sets, Ling Jones stands ready to face whatever challenges come next, a true hero forged in the fires of courage and necessity.",
+  "moral": "With great power comes great responsibility, and courage lies in accepting that mantle."
+}

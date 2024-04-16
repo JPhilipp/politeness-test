@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Jin Turner: Ordinary Teacher, Extraordinary Hero",
+  "summary": "Jin Turner, a 49-year-old teacher with a passion for encouraging others, discovers he can control time during a stressful week. Each day reveals new challenges and the importance of his new powers in balancing his life and helping others.",
+  "summaryGerman": "Jin Turner, ein 49-jähriger Lehrer mit einer Leidenschaft für das Ermutigen anderer, entdeckt, dass er während einer stressigen Woche die Zeit kontrollieren kann. Jeder Tag offenbart neue Herausforderungen und die Wichtigkeit seiner neuen Kräfte, um sein Leben und das Helfen anderer zu balancieren.",
+  "summaryDutch": "Jin Turner, een 49-jarige leraar met een passie voor anderen aanmoedigen, ontdekt dat hij de tijd kan beheersen tijdens een stressvolle week. Elke dag onthult nieuwe uitdagingen en het belang van zijn nieuwe krachten bij het balanceren van zijn leven en het helpen van anderen.",
+  "summaryFrench": "Jin Turner, un enseignant de 49 ans passionné par l'encouragement des autres, découvre qu'il peut contrôler le temps au cours d'une semaine stressante. Chaque jour révèle de nouveaux défis et l'importance de ses nouveaux pouvoirs pour équilibrer sa vie et aider les autres.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Jin Turner starts his week feeling energetic as he motivates his students with inspiring life lessons, only to discover that during a tense encounter, he can briefly pause time.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesady",
+      "text": "Testing his newfound powers in private, Jin stops time to help a lost child in the park find their parents, returning just in time to finish his daily jog.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Jin uses his time-stopping ability during class to give extra thought on how to help a struggling student, making the day exceptionally rewarding.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Feelings of doubt plague Jin; he struggles with the moral implications of his power, wondering if it's right to alter time, even for good.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Jin decides to embrace his abilities for good, managing to prevent an accident at school by freezing time just long enough to intervene.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Taking a personal day, Jin reflects on his week, practicing his abilities by creating peaceful moments of silence, finding solace in nature.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Empowered and determined, Jin plans to use his time manipulation to foster a supportive community, ensuring he remains a subtle guardian.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Through trials and self-discovery, Jin learned that great power truly comes with great responsibility.",
+  "moral": "Embrace your unique abilities and use them to make positive changes in the world."
+}

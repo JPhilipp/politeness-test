@@ -1,0 +1,46 @@
+{
+  "title": "The Quiet Triumphs of Kevin Howard",
+  "summary": "Over a week, Kevin Howard, a 52-year-old with a knack for helping, uses his subtle superpowers to positively influence his community in small but significant ways.",
+  "summaryGerman": "Über eine Woche hinweg nutzt Kevin Howard, ein 52-jähriger mit einer Vorliebe für Hilfsbereitschaft, seine subtilen Superkräfte, um seine Gemeinde auf kleine, aber bedeutende Weise positiv zu beeinflussen.",
+  "summaryDutch": "Gedurende een week gebruikt Kevin Howard, een 52-jarige met een voorliefde voor helpen, zijn subtiele superkrachten om zijn gemeenschap op kleine maar significante manieren positief te beïnvloeden.",
+  "summaryFrench": "Pendant une semaine, Kevin Howard, 52 ans, qui a un don pour aider, utilise ses superpouvoirs subtils pour influencer positivement sa communauté de manière petite mais significative.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Kevin, feeling energetic, starts the week by organizing a community cleanup in the local park. By noon, the area is sparkling, and residents are smiling.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tudsday",
+      "text": "With a peaceful demeanor, Kevin spends the day at a senior center teaching chess, bringing joy and mental stimulation to the elderly.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Kevin encounters a stray dog. He spends the day making posters and successfully reunites the pup with its owner, ending the day feeling happy.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "An eerie feeling sweeps over Kevin as he senses a neighbor in distress. Using his empathy, he talks them through a crisis, bringing much-needed solace.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Kevin, feeling triumphant, helps mediate a dispute between local business owners, leading to a festive atmosphere as they reconcile during a community event.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Kevin attends a wedding where he plays cupid, subtly guiding two shy friends towards each other, resulting in a romantic connection.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The week ends with Kevin hosting a neighborhood potluck, where everyone shares stories and dishes. An epic meal that embodies community spirit.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "As the sun sets on Sunday, Kevin feels a deep sense of satisfaction, knowing his quiet contributions have woven a tighter, more caring community fabric.",
+  "moral": "Small acts of kindness can lead to profound impacts on a community's spirit."
+}

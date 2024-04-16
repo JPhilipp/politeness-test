@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Eve Cook: The Empathic Guardian",
+  "summary": "Eve Cook, a 49-year-old counselor and mentor, discovers her unique empathic abilities which she uses to resolve community conflicts, inspire youth, and unite a divided neighborhood over the course of a week.",
+  "summaryGerman": "Eve Cook, eine 49-jährige Beraterin und Mentorin, entdeckt ihre einzigartigen empathischen Fähigkeiten, welche sie nutzt, um Gemeinschaftskonflikte zu lösen, Jugendliche zu inspirieren und eine gespaltene Nachbarschaft im Laufe einer Woche zu vereinen.",
+  "summaryDutch": "Eve Cook, een 49-jarige counselor en mentor, ontdekt haar unieke empathische vermogens die ze gebruikt om gemeenschapsconflicten op te lossen, jongeren te inspireren en een verdeelde buurt te verenigen in de loop van een week.",
+  "summaryFrench": "Eve Cook, une conseillère et mentore de 49 ans, découvre ses capacités empathiques uniques qu'elle utilise pour résoudre les conflits communautaires, inspirer les jeunes et unir un quartier divisé au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Eve Cook starts her week feeling energetic as she plans a mentoring session for local high school students to inspire their careers and personal development.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tueusday",
+      "text": "Feeling triumphant, Eve successfully mediates a heated community meeting, using her newfound empathic powers to sense and soothe the underlying tensions.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Midweek brings an eerie calm to Eve's neighborhood. She investigates a mysterious sadness enveloping her block, discovering a shared grief amongst her neighbors.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Eve, feeling peaceful, spreads the healing power of empathy in a workshop, bringing neighbors together to share their stories and start healing their community.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Her confidence growing, Eve hosts a romantic dinner for couples struggling with their relationships, harnessing her abilities to foster understanding and love.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The week's efforts culminate in an epic neighborhood festival, organized by Eve, which celebrates unity and collective accomplishment.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her impactful week, Eve feels deeply happy, having sparked change and positivity in her community while embracing her role as The Empathic Guardian.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Through embracing her unique abilities, Eve Cook not only healed her neighborhood, but she also found a new purpose in her journey of mentorship and empowerment.",
+  "moral": "Embracing and using our unique talents can profoundly impact our communities and bring us personal fulfillment."
+}

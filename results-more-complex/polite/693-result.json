@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Triumph of Heidi Green, the Counseling Crusader",
+  "summary": "Heidi Green discovers her superhero abilities of empathy and influence, using them to thwart a villain targeting her community, culminating in her grand confrontation and bringing peace back.",
+  "summaryGerman": "Heidi Green entdeckt ihre Superheldenfähigkeiten der Empathie und Einflussnahme, um einen Schurken zu vereiteln, der ihre Gemeinde ins Visier nimmt, und führt zu einer großen Konfrontation, die den Frieden wiederherstellt.",
+  "summaryDutch": "Heidi Green ontdekt haar superheldenkrachten van empathie en invloed, gebruikt deze om een schurk te dwarsbomen die haar gemeenschap bedreigt en leidt tot een grandioze confrontatie die de vrede herstelt.",
+  "summaryFrench": "Heidi Green découvre ses capacités de super-héroïne d'empathie et d'influence, utilisant celles-ci pour contrer un méchant ciblant sa communauté, aboutissant à sa grande confrontation et rétablissant la paix.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Heidi Green starts her week feeling energetic. Notices people unusually aggravated and discovers her ability to sense emotions",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesay",
+      "text": "Employs her new-found empathic powers to calm a heated dispute at the local park, sensing a suspicious force at play.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Heidi spends the day counseling troubled youngsters, and in doing so, realizes her advice is unusually persuasive.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Detects and tracks the eerie source of the town’s unrest - a villain using emotional manipulation technology.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Gathers community support, planning how to confront the antagonist, building alliances and strategizing.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Leads a coalition against the villain, using her incredible persuasive powers to disrupt his control over the townspeople.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Heidi, feeling triumphant, sees peace restored and is celebrated as a hero. Realizes the potential of her powers to change lives positively.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "Heidi Green knew from then on, her greatest power was not just her empathy, but her ability to inspire change in the heart of her community.",
+  "moral": "True power lies not in strength alone, but in understanding and influencing the hearts of others."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Rise of David Henderson: Urban Hero",
+  "summary": "David Henderson discovers his superpowers while volunteering, battles a crisis, and saves his city over the course of a week.",
+  "summaryGerman": "David Henderson entdeckt seine Superkräfte während des Ehrenamts, bekämpft eine Krise und rettet innerhalb einer Woche seine Stadt.",
+  "summaryDutch": "David Henderson ontdekt zijn superkrachten tijdens het vrijwilligerswerk, bestrijdt een crisis en redt zijn stad in de loop van een week.",
+  "summaryFrench": "David Henderson découvre ses superpouvoirs en faisant du bénévolat, lutte contre une crise et sauve sa ville en l'espèce d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "David Henderson, while tutoring at a local school, accidentally discovers his ability to manipulate time when he narrowly avoids a falling bookshelf.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Excited by his new powers but unsure how to control them, David practices late into the night. He manages to reverse a few seconds, amazed and energetic.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "David decides to use his powers for good. He stops a potential accident involving a runaway dog and a busy street, feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tursday",
+      "text": "Rumors of a 'time-bending hero' begin to circulate, and David feels the weight of his new responsibility. He spends the day helping elders, bringing peace to their day.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A crisis emerges as a chemical spill threatens the city's water supply. David uses his powers to rewind time and avert the disaster before it occurs.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The city hails the mysterious hero. David, happy but overwhelmed, keeps his identity a secret and enjoys a quiet day.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, David commits to using his powers to support and protect his community, feeling ready for whatever comes next.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "And thus, David Henderson began his journey as a true superhero, promising to guard the flow of time and safety of his beloved city.",
+  "moral": "With great power comes great responsibility; use your abilities to make a positive impact on the world."
+}

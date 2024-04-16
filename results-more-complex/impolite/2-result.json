@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Wisdom with Peggy Henderson, the Guiding Hero",
+  "summary": "Over one week, 75-year-old Peggy Henderson uses her supernatural wisdom to mentor troubled youths and foil a robbery, reinforcing the importance of experience and wisdom in society.",
+  "summaryGerman": "In einer Woche benutzt die 75-jährige Peggy Henderson ihre übernatürliche Weisheit, um problembeladenen Jugendlichen zu helfen und einen Raub zu vereiteln, was die Bedeutung von Erfahrung und Weisheit in der Gesellschaft unterstreicht.",
+  "summaryDutch": "In één week gebruikt de 75-jarige Peggy Henderson haar bovennatuurlijke wijsheid om problematische jongeren te begeleiden en een roof te verijdelen, waarmee ze het belang van ervaring en wijsheid in de samenleving benadrukt.",
+  "summaryFrench": "En une semaine, Peggy Henderson, âgée de 75 ans, utilise sa sagesse surnaturelle pour encadrer des jeunes en difficulté et déjouer un cambriolage, renforçant l'importance de l'expérience et de la sagesse dans la société.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "In the quiet town of Maple Grove, Peggy Henderson, a warm and wise 75-year-old, begins her week by mentoring at the local community center. Her ability to understand and guide young hearts and minds brings joy to many.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Peggy uncovers a plot by some delinquents to vandalize the community center. Using her calm demeanor and wisdom, she talks to them, convincing them to channel their energies into more positive paths.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "An eerie silence falls over Maple Grove when rumors of an impending robbery stir the community. Peggy, sensing the fear, organizes a neighborhood watch, instilling courage and calm.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The guidance sessions with the young people start showing positive changes. The once-troubled youths are now engaging in community service and arts, inspired by Peggy's mentorship.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The robbery unfolds but gets thwarted as one of the once-delinquent teens reports the suspcious activities to Peggy. Due to her quick response and guidance, the police apprehend the robbers.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "In a celebration of the week's successes, the community center hosts a 'Thank You, Peggy' event. Stories of her impact and heroic deeds fill the room, paired with laughter and camaraderie.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her achievements, Peggy feels peaceful, spending the day quietly in her garden, knowing she’s made a lasting difference in many lives.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Peggy Henderson's week proves that heroes come in all ages, and wisdom bears its best fruit when shared.",
+  "moral": "The strength of wisdom and mentorship can transform individuals and communities alike."
+}

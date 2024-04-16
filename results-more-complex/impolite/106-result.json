@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Grace Henderson: Super Planner",
+  "summary": "At age 61, Grace Henderson discovers her unique power to plan and execute strategies flawlessly, saving her town from various challenges throughout one transformative week.",
+  "summaryGerman": "Im Alter von 61 Jahren entdeckt Grace Henderson ihre einzigartige Fähigkeit, Strategien fehlerfrei zu planen und auszuführen, wodurch sie ihre Stadt innerhalb einer Woche vor verschiedenen Herausforderungen rettet.",
+  "summaryDutch": "Op 61-jarige leeftijd ontdekt Grace Henderson haar unieke vermogen om strategieën foutloos te plannen en uit te voeren, waardoor ze haar stad redt van verschillende uitdagingen gedurende één transformerende week.",
+  "summaryFrench": "À l'âge de 61 ans, Grace Henderson découvre son pouvoir unique de planifier et d'exécuter des stratégies à la perfection, sauvant sa ville de divers défis tout au long d'une semaine transformatrice.",
+  "story": [
+    {
+      "weekday": "Munday",
+      "text": "When a mysterious storm threatens her hometown, Grace Henderson, using her vast experience and planning skills, devises an emergency preparedness plan that mobilizes the community to safety.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "With the storm passed, Grace analyzes the town's weaknesses and plans improvements for the electric grid and emergency services, ensuring future safety.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Grace visits the local school to educate students on disaster prep, inspired by their curiosity and eagerness to learn.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Noticing a rise in local crime, Grace organizes a neighborhood watch program, planning shifts and coordination efforts with the police.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Grace meets with the mayor to discuss the week's initiatives, receiving support for her projects and proposals.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "An unknown benefactor invites Grace to plan a large charity event, recognizing her leadership; preparations begin. The event is aimed to fund further community resilience projects.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The charity event is a massive success, not only raising funds but also bringing the community closer together under Grace’s leadership.",
+      "mood": "happy"
+    }
+  ],
+  "moral": "No matter the age, your skills and experiences can always be used to make a significant positive impact on your community.",
+  "ending": "Thus, Grace Henderson became not just a hero in her own right, but a symbol of proactive change and unity in her town."
+}

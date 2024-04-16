@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Sue Russell: Sculptor of Justice",
+  "summary": "Sue Russell, a 41-year-old advisor and sculptor turned superhero, uses her special powers to detect and sculpt realities to save her city over a tense week.",
+  "summaryGerman": "Sue Russell, eine 41-jährige Beraterin und Bildhauerin, die zur Superheldin wurde, nutzt ihre speziellen Fähigkeiten, um Realitäten zu erkennen und zu formen, um ihre Stadt über eine angespannte Woche hinweg zu retten.",
+  "summaryDutch": "Sue Russell, een 41-jarige adviseur en beeldhouwster die superheldin wordt, gebruikt haar speciale krachten om realiteiten te detecteren en vorm te geven om haar stad te redden gedurende een gespannen week.",
+  "summaryFrench": "Sue Russell, une conseillère et sculptrice de 41 ans devenue super-héroïne, utilise ses pouvoirs spéciaux pour détecter et sculpter des réalités afin de sauver sa ville pendant une semaine tendue.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Sue discovers her powers after accidentally sculpting a statue that comes to life, vowing to use this ability to fight injustice.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Her first test comes quickly, as a local gang terrorizes a peaceful neighborhood. Sue steps in, her sculptures disrupting their plans.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Her actions from the previous day make headlines. Sue feels the weight of her new role, consulting her mentor on how to balance power and responsibility.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Inspired, she sculpts ‘Guardians of the City’—statues placed at strategic points, which come to life when danger is near.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Sue is challenged by a villain who understands her powers and tries to corrupt her sculptures. After a fierce battle, she emerges victorious, strengthening her resolve.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The city celebrates her heroics with a ceremony in her honor. During the event, Sue's sculptures symbolize safety and creativity.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Sue returns to her studio, feeling peaceful and ready to advance her craft, centered and more powerful than ever.",
+      "mood": "peaceful"
+    }
+  ],
+  "moral": "With great power comes the need for creativity and the responsibility to use it for good.",
+  "ending": "As the sun sets, Sue Russell looks out over the city she protects, sculpture chisel in hand, ready for whatever comes next."
+}

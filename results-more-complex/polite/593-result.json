@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Zelda Bell: A Tutor's Heroic Spin",
+  "summary": "Zelda Bell, a 61-year-old tutor with a love for spinning, discovers her superpowers and saves her town from disaster while balancing her tutoring and spinning hobbies.",
+  "summaryGerman": "Zelda Bell, eine 61-jährige Tutorin mit einer Leidenschaft für das Spinnen, entdeckt ihre Superkräfte und rettet ihre Stadt vor einer Katastrophe, während sie ihre Hobbys Nachhilfe und Spinnen weiterführt.",
+  "summaryDutch": "Zelda Bell, een 61-jarige tutor met een liefde voor spinnen, ontdekt haar superkrachten en redt haar stad van een ramp terwijl ze haar hobby's bijles geven en spinnen in evenwicht houdt.",
+  "summaryFrench": "Zelda Bell, une tutrice de 61 ans passionnée par le filage, découvre ses superpouvoirs et sauve sa ville d'une catastrophe tout en équilibrant ses hobbies de tutorat et de filage.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda discovers she can manipulate time while spinning yarn. She feels a mix of astonishment and excitement as she controls the spinning wheel with unprecedented precision.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While tutoring, Zelda accidentally reverses time, helping a student correct a major exam mistake. Revealing the potential of her powers makes her feel both responsible and energetic.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesdya",
+      "text": "Alerted by the news of a looming storm, Zelda uses her time control to slow the storm’s approach, giving the town more time to prepare.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Zelda practices her powers by stretching peaceful moments during her spinning class, creating a serene and almost romantic atmosphere around her.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The storm hits, and Zelda is pivotal in orchestrating a community response. Her calm demeanor and strategic use of time-manipulation saves lives, leading to heartfelt thanks from the town.",
+      "mood": "heroic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Exhausted but fulfilled, Zelda spends the day tutoring her students, feeling happy and peaceful as they show improvement and gratitude.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Zelda feels proud and empowered, confident in her new role as both a tutor and a protector of her community.",
+      "mood": "epic"
+    }
+  ],
+  "moral": "No matter the age, your unique talents can make a monumental difference.",
+  "ending": "And thus, Zelda Bell spun her way into the hearts and history of her small town, forever cherished as their spinning superhero."
+}

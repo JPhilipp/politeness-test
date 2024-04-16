@@ -1,0 +1,46 @@
+{
+  "title": "Linda Griffin: The Shield of Serenity",
+  "summary": "Linda Griffin, a 25-year-old instructor, discovers her ability to manipulate sound which she uses to fight crime and bring peace to her city over the course of a week.",
+  "summaryGerman": "Linda Griffin, eine 25-jährige Ausbilderin, entdeckt ihre Fähigkeit, Schall zu manipulieren, die sie nutzt, um Verbrechen zu bekämpfen und innerhalb einer Woche Frieden in ihre Stadt zu bringen.",
+  "summaryDutch": "Linda Griffin, een 25-jarige instructrice, ontdekt haar vermogen om geluid te manipuleren, wat ze gebruikt om misdaad te bestrijden en binnen een week vrede in haar stad te brengen.",
+  "summaryFrench": "Linda Griffin, une instructrice de 25 ans, découvre sa capacité à manipuler le son, qu'elle utilise pour lutter contre le crime et apporter la paix dans sa ville au cours d'une semaine.",
+  "moral": "Harnessing one's unique talents can lead to great contributions to society.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Linda Griffin started her week normally, teaching a fitness class filled with her usual energy. After an unusual echo caught her attention in the gym, she discovered she could amplify and mute sounds at will.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Experimenting with her newfound powers, Linda stopped a local burglary, using her ability to silence the alarms and scare the burglars with deafening noises.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "As the news spread of a mysterious vigilante, Linda felt an eerie sense that her life was about to change dramatically.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Inspired by her actions, she decided to fully embrace her role as a protector. She spent the day helping the police with secret operations, staying hidden but very effective.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Her story caught the attention of a known romantic interest, who admired her bravery. They spent a quiet evening together, discussing her new life.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Emboldened, Linda organized a community event to teach self-defense, integrating her sound skills to create an immersive experience.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ending her week standing atop the city’s tallest building, Linda felt an epic sense of purpose, ready to embrace whatever challenges came next as her city's new hero.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus began the legend of Linda Griffin, whose whispers could calm storms and whose shouts could quell riots."
+}

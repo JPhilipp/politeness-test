@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Hero: The Adventures of Oscar Martin",
+  "summary": "Oscar Martin, a 33-year-old counseling and advertising professional, discovers his ability to turn invisible and uses his power to solve crimes and help his community over the span of a week.",
+  "summaryGerman": "Oscar Martin, ein 33-jähriger Berater und Werbefachmann, entdeckt seine Fähigkeit, unsichtbar zu werden und nutzt seine Kraft, um über eine Woche hinweg Verbrechen zu lösen und seiner Gemeinde zu helfen.",
+  "summaryDutch": "Oscar Martin, een 33-jarige professional in counseling en reclame, ontdekt zijn vermogen om onzichtbaar te worden en gebruikt zijn kracht om misdaden op te lossen en zijn gemeenschap te helpen gedurende een week.",
+  "summaryFrench": "Oscar Martin, un professionnel de la consultation et de la publicité âgé de 33 ans, découvre sa capacité à devenir invisible et utilise son pouvoir pour résoudre des crimes et aider sa communauté pendant une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar Martin starts his week feeling energetic as he experiments with his newfound ability to become invisible. He helps a local shopkeeper prevent a theft.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Embracing his role, Oscar uses his invisibility to anonymously mediate a tense meeting at the community center, leaving everyone feeling more understood and connected.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednessday",
+      "text": "Midweek brings a challenge as Oscar overhears plans for a local bank heist. He strategizes on how to stop it without revealing his identity.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Using his advertising skills and invisibility, Oscar creates a clever and unseen deterrent that foils the heist and secures the bank. The community remains unaware of the hero among them.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "On a high from his success, Oscar helps lost pets find their way back home while invisible, bringing joy and relief to his neighborhood.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Oscar spends the day reflecting on the impact of his actions and considers ways to use his powers more broadly, pondering the ethical implications.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ending the week, Oscar feels epic as he begins to plan more substantial ways to contribute to societal good, involving local authorities in a covert partnership.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And so, Oscar Martin continued to blend his passion for helping with his unique abilities, never seeking fame but always making a difference.",
+  "moral": "True heroism lies not in seeking recognition, but in the humble desire to make a positive impact."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Incredible Adventures of Sue Jenkins: Baker by Day, Hero by Night",
+  "summary": "Sue Jenkins discovers her superpowers of manipulation over baked goods, using her abilities to fight crime and bring joy to her community over the span of one dramatic week.",
+  "summaryGerman": "Sue Jenkins entdeckt ihre Superkräfte zur Manipulation von Backwaren und nutzt ihre Fähigkeiten, um Verbrechen zu bekämpfen und ihrer Gemeinde über eine dramatische Woche hinweg Freude zu bereiten.",
+  "summaryDutch": "Sue Jenkins ontdekt haar superkrachten om gebak te manipuleren, waarmee ze criminaliteit bestrijdt en in één dramatische week vreugde brengt aan haar gemeenschap.",
+  "summaryFrench": "Sue Jenkins découvre ses superpouvoirs de manipulation des produits de boulangerie, utilisant ses capacités pour combattre le crime et apporter de la joie à sa communauté sur l'étendue d'une semaine dramatique.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Sue Jenkins began her week like any other, baking pastries for her small shop. Little did she know, her latest batch of cookies contained magical properties.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "After a mysterious customer visited the shop, events took a turn. Suddenly Sue's pastries began levitating, guided by her newfound powers to shape and animate them.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Utilizing her abilities, Sue stopped a petty thief in the park with a barrage of doughnuts. The act turned her into a local sensation overnight.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "While exploring the extent of her powers, Sue encountered a lost child. Guiding him home with a trail of cupcakes, she realized her powers' potential for greater good.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Crime rates dipped as Sue patrolled the streets, her arsenal of confections creating a barrier against crime. Community support grew.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "In a daring late-night bakery heist, Sue faced her biggest challenge yet. Armed with pies and fierce determination, she protected her livelihood.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Exhausted but elated, Sue spent a quiet day reflecting on her heroic week, convinced that she can balance both her passions and her duties as a superhero.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "And thus, Sue Jenkins baked her way into the hearts of her community, proving that heroes come in all shapes and sizes.",
+  "moral": "The extraordinary can often be found in the seemingly ordinary."
+}

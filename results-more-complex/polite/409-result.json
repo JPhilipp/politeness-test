@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Judy Reed: Super Tutor",
+  "summary": "Judy Reed, a 20-year-old tutor, discovers she has the power to absorb and share knowledge instantly. Over the course of a week, she transforms from a simple tutor into a superhero, helping her city's residents overcome ignorance and spreading wisdom.",
+  "summaryGerman": "Judy Reed, eine 20-jährige Nachhilfelehrerin, entdeckt, dass sie die Fähigkeit hat, Wissen sofort zu absorbieren und zu teilen. Im Laufe einer Woche verwandelt sie sich von einer einfachen Tutorin in eine Superheldin, die den Bewohnern ihrer Stadt hilft, Unwissenheit zu überwinden und Weisheit zu verbreiten.",
+  "summaryDutch": "Judy Reed, een 20-jarige tutor, ontdekt dat ze de kracht heeft om kennis onmiddellijk te absorberen en te delen. In de loop van een week verandert ze van een simpele tutor in een superheldin, die de inwoners van haar stad helpt onwetendheid te overwinnen en wijsheid te verspreiden.",
+  "summaryFrench": "Judy Reed, une tutrice de 20 ans, découvre qu'elle a le pouvoir d'absorber et de partager des connaissances instantanément. Au cours d'une semaine, elle se transforme d'une simple tutrice en super-héroïne, aidant les résidents de sa ville à surmonter l'ignorance et à répandre la sagesse.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy Reed, a devoted tutor, discovers she can instantly absorb information just by touching books.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thesday",
+      "text": "Amazed by her new powers, Judy helps a failing student master complex calculus overnight.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "News spreads, and Judy is overwhelmed with requests from students. She begins to realize the potential impact of her powers.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Judy starts tutoring in a homeless shelter, bringing hope and knowledge to those who thought education was out of their reach.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The local university invites her to a seminar. Judy shares her methods, inspiring future educators.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A mysterious figure approaches Judy, warning her of those who might exploit her abilities for nefarious purposes.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Judy decides to dedicate her life to education, using her powers to fight ignorance across the world.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And so, Judy embarked on her lifelong quest, forever known as the Super Tutor.",
+  "moral": "With great power comes great responsibility, especially when it involves shaping the minds of the future."
+}

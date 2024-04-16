@@ -1,0 +1,46 @@
+{
+  "title": "The Week Ling Rivera Became a Superhero",
+  "summary": "Ling Rivera, a 74-year-old tutor, discovers her hidden powers and uses them to save her neighborhood from danger, learning more about herself and her strength throughout the week.",
+  "summaryGerman": "Ling Rivera, eine 74-jährige Tutorin, entdeckt ihre versteckten Kräfte und nutzt sie, um ihre Nachbarschaft vor Gefahren zu schützen, wobei sie im Laufe der Woche mehr über sich selbst und ihre Stärke lernt.",
+  "summaryDutch": "Ling Rivera, een 74-jarige tutor, ontdekt haar verborgen krachten en gebruikt deze om haar buurt te redden van gevaar, waarbij ze gedurende de week meer over zichzelf en haar kracht leert.",
+  "summaryFrench": "Ling Rivera, une tutrice de 74 ans, découvre ses pouvoirs cachés et les utilise pour sauver son quartier du danger, apprenant plus sur elle-même et sa force tout au long de la semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Rivera, feeling energetic, helps a struggling student understand complex math, unaware of the spark in her eyes that hints at her emerging powers.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesady",
+      "text": "While tutoring, Ling accidentally levitates a pencil, which was both eerie and thrilling, signaling the start of her superpower journey.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Ling embraces her powers; testing them on small objects. She feels epic lifting books through sheer will, mastering control over her newfound telekinesis.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A peaceful day spent in deep reflection and training. Her confidence builds as she learns more about her powers, realizing she could help more than just in tutoring.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The city faces a sudden blackout. Ling, now confident and heroic, uses her powers to guide and protect her neighbors through the darkness.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The community gathers to celebrate the 'Mystery Hero'. Ling feels happy and loved, finally embracing her role as a protector.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Ling feels fulfilled. Knowing her actions have not only helped but inspired others, she vows to continue her heroics.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Thus, Ling Rivera embraced her new role, forever changing the lives around her.",
+  "moral": "No matter the age, you can always discover new strengths and change the world around you."
+}

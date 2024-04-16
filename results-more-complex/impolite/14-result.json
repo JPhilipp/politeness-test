@@ -1,0 +1,46 @@
+{
+  "title": "The Triumphant Week of Kevin Simmons, Heroic Consultant",
+  "summary": "Kevin Simmons, a 58-year-old consultant, discovers his superpower of instilling knowledge instantly. Over a week, he helps his community overcome various challenges using his new ability.",
+  "summaryGerman": "Kevin Simmons, ein 58-jähriger Berater, entdeckt seine Superkraft, Wissen sofort zu vermitteln. Über eine Woche hinweg hilft er seiner Gemeinschaft, mithilfe seiner neuen Fähigkeit verschiedene Herausforderungen zu bewältigen.",
+  "summaryDutch": "Kevin Simmons, een 58-jarige consultant, ontdekt zijn superkracht om direct kennis over te brengen. Gedurende een week helpt hij zijn gemeenschap verschillende uitdagingen te overwinnen met zijn nieuwe vaardigheid.",
+  "summaryFrench": "Kevin Simmons, un consultant de 58 ans, découvre son superpouvoir d'instiller instantanément le savoir. Pendant une semaine, il aide sa communauté à surmonter divers défis grâce à sa nouvelle capacité.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Kevin discovers he can instantly impart knowledge to others. Intrigued, he begins testing his powers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Emboldened, Kevin helps a local school struggling with their curriculum. The students quickly excel.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wedneday",
+      "text": "News spreads, and Kevin advises a small business on growth strategies, leading to record profits.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The local hospital seeks Kevin's help for medical staff training, improving patient care markedly.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Kevin grows tired but pushes on, tutoring in a problematic youth program, seeing first signs of progress.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "His efforts begin to transform the community. Kevin feels a deep connection and satisfaction with his work.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Kevin is content knowing he has made a real difference. He vows to continue his mission.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "And so, Kevin Simmons became not just a consultant, but a true hero to his city.",
+  "moral": "The greatest power one can possess is the ability to empower others."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Energetic Adventures of Ling Patterson",
+  "summary": "Ling Patterson, a passionate teacher, discovers her unique ability to manipulate energy and time. Over a week, she learns to utilize her powers to overcome challenges, culminating in saving her city from a disastrous event.",
+  "summaryGerman": "Ling Patterson, eine leidenschaftliche Lehrerin, entdeckt ihre einzigartige Fähigkeit, Energie und Zeit zu manipulieren. Innerhalb einer Woche lernt sie, ihre Kräfte zu nutzen, um Herausforderungen zu überwinden, und rettet schließlich ihre Stadt vor einem katastrophalen Ereignis.",
+  "summaryDutch": "Ling Patterson, een gepassioneerde lerares, ontdekt haar unieke vermogen om energie en tijd te manipuleren. Gedurende een week leert ze haar krachten te gebruiken om uitdagingen te overwinnen, en redt uiteindelijk haar stad van een rampzalige gebeurtenis.",
+  "summaryFrench": "Ling Patterson, une enseignante passionnée, découvre sa capacité unique à manipuler l'énergie et le temps. Au cours d'une semaine, elle apprend à utiliser ses pouvoirs pour surmonter les défis, aboutissant finalement à sauver sa ville d'un événement désastreux.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Patterson woke up feeling unusually energetic. She discovered she could manipulate energy during her morning jog, accidentally speeding up the time around her.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Experimenting with her powers at a local park, Ling saved a falling child by slowing down time, feeling a mix of fear and triumph.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Back at school, Ling felt eerie as she realized the implications of her powers. Could she control them fully, or was she a danger to others?",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Ling decided to confide in her mentor, Mr. Myles. His understanding and advice offered her a peaceful resolution to her inner turmoil.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Firday",
+      "text": "Empowered, Ling decided to use her abilities for the city. She prevented an accident on the bridge by redirecting the flow of traffic with her energy.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The city faced a new threat—an impending storm that threatened to flood the streets. Ling formulated a plan, feeling both nervous and epic.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Victorious, Ling used her power to divert the storm, saving countless lives and earning the city's gratitude. Her week ended in a triumphant celebration.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "As the sun set on Sunday, Ling Patterson knew her journey had only just begun, but she was ready for whatever came next.",
+  "moral": "With great power comes great responsibility."
+}

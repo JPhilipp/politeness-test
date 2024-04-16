@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Nancy Thompson: Instructor by Day, Hero by Night",
+  "summary": "Nancy Thompson, a 35-year-old instructor, discovers her powers and uses them to avert a disaster in her city over the course of a week.",
+  "summaryGerman": "Nancy Thompson, eine 35-jährige Lehrerin, entdeckt ihre Kräfte und nutzt sie, um im Laufe einer Woche eine Katastrophe in ihrer Stadt zu verhindern.",
+  "summaryDutch": "Nancy Thompson, een 35-jarige instructrice, ontdekt haar krachten en gebruikt ze om in de loop van een week een ramp in haar stad te voorkomen.",
+  "summaryFrench": "Nancy Thompson, une instructrice de 35 ans, découvre ses pouvoirs et les utilise pour éviter une catastrophe dans sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Nancy Thompson starts her week feeling energetic as she teaches a class on advanced communication skills, unaware of the strange shimmering light she notices in her peripheral vision.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "The light becomes a spark. As she heads home, she's drawn to an alley where the spark transforms into a portal. Nancy tentatively steps through, finding herself in a parallel dimension.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Armed with newfound abilities to manipulate time, Nancy returns, feeling triumphant. She experiments, stopping a bike thief with a flick of her wrist.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Nancy uses her powers subtly at work to help colleagues solve complex problems faster, spreading happiness and productivity.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Firday",
+      "text": "Her abilities become known to a mysterious figure who confronts her, warning her of a looming danger that only she can prevent.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Nancy spends her Saturday honing her skills, preparing for the unknown. Her efforts feel epic as she masters her control over time.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The challenge arrives - a chemical spill threatening her city. Nancy averts the disaster with precision, sealing the toxic leaks in reversed time while the city remains peacefully unaware.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the new week began, Nancy resumed her ordinary life, teaching by day, but now ever-ready to protect her city by night.",
+  "moral": "Great power comes with great responsibility and an opportunity to make a significant difference."
+}

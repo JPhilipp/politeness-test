@@ -1,0 +1,46 @@
+{
+  "title": "The Vibrant Voices of Oscar Young",
+  "summary": "Oscar Young, a 79-year-old with a love for tutoring and singing, finds himself gaining superpowers that allow him to influence people through his voice, leading him to face and overcome a challenging evil in his community.",
+  "summaryGerman": "Oscar Young, ein 79-jähriger Liebhaber von Nachhilfe und Gesang, entdeckt, dass er Superkräfte erlangt, die es ihm ermöglichen, Menschen mit seiner Stimme zu beeinflussen, was ihn dazu führt, ein herausforderndes Übel in seiner Gemeinschaft zu konfrontieren und zu überwinden.",
+  "summaryDutch": "Oscar Young, een 79-jarige liefhebber van bijles geven en zingen, ontdekt dat hij superkrachten krijgt waarmee hij mensen kan beïnvloeden met zijn stem, wat hem leidt tot het confronteren en overwinnen van een uitdagend kwaad in zijn gemeenschap.",
+  "summaryFrench": "Oscar Young, âgé de 79 ans et amateur de tutorat et de chant, découvre qu'il acquiert des superpouvoirs qui lui permettent d'influencer les gens avec sa voix, ce qui le conduit à affronter et à surmonter un mal redoutable dans sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar accidentally discovers his ability to resonate deeply with others simply using his voice while giving a singing lesson. He feels energetic.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tueday",
+      "text": "Testing his new powers, Oscar calms a neighborhood dispute by singing a captivating tune, bringing a peaceful resolution. He feels triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Oscar starts understanding that his voice could be used for more. He explores its limits by uplifting the spirits of hospital patients. The vibe is peaceful.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Oscar faces scepticism from those who question his intentions, fearing he might manipulate others. The mood is a bit eerie.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Determined to use his gift for good, Oscar organizes a large community sing-along to promote unity. It's an epic event.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After his efforts, Oscar discovers a local crime ring using similar influence for bad. The day feels both energetic and tense.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Oscar uses his voice to expose the criminals during a public event, harmonizing the truth into his melody. The mood is triumphant and heroic.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "In a week, Oscar Young not only uncovered his powers but used them to harmonize his community against adversity.",
+  "moral": "The voice of one can resonate with the hearts of many."
+}

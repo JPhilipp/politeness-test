@@ -1,0 +1,46 @@
+{
+  "title": "The Melodic Guardian: The Saga of Heidi Mitchell",
+  "summary": "Over one week, 78-year-old Heidi Mitchell, who enjoys tutoring and playing musical instruments, discovers her powers to influence emotions through music, uses them to solve community problems, and finally embraces her role as a local hero.",
+  "summaryGerman": "Innerhalb einer Woche entdeckt die 78-jährige Heidi Mitchell, die gerne unterrichtet und Musikinstrumente spielt, ihre Kräfte, Emotionen durch Musik zu beeinflussen, nutzt sie, um Probleme in der Gemeinschaft zu lösen, und akzeptiert schließlich ihre Rolle als lokale Heldin.",
+  "summaryDutch": "In één week ontdekt de 78-jarige Heidi Mitchell, die graag lesgeeft en muziekinstrumenten bespeelt, haar krachten om emoties door muziek te beïnvloeden, gebruikt ze om problemen in de gemeenschap op te lossen, en accepteert ze uiteindelijk haar rol als lokale held.",
+  "summaryFrench": "En une semaine, Heidi Mitchell, 78 ans, qui aime donner des cours particuliers et jouer d'un instrument de musique, découvre ses pouvoirs pour influencer les émotions à travers la musique, les utilise pour résoudre des problèmes communautaires, et finit par embrasser son rôle de héros local.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Heidi Mitchell discovers her extraordinary ability to affect people's emotions while playing her violin.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Testing her powers, Heidi plays melodies that unexpectedly calm a feuding neighborhood.",
+      "mood": "triuphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Heidi tutors a struggling student and uses her musical talent to boost the student's confidence, with noticeable improvement.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Encouraged by her success, Heidi organizes a small concert in her backyard, bringing together various community members.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The concert is a hit; neighbors leave feeling more connected and peaceful than ever.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Satuday",
+      "text": "Local media catch wind of Heidi's story, dubbing her 'The Melodic Guardian', and she starts receiving invitations to play at community events.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Heidi feels fulfilled and ready to embrace her new role in the community.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "And so, Heidi Mitchell learned that even at 78, one can discover new purposes and change the world one note at a time.",
+  "moral": "It's never too late to discover or embrace your true potential."
+}

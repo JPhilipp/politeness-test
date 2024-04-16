@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Eve Thomas, The Sage of the City",
+  "summary": "Eve Thomas, a retired teacher, discovers her ability to manipulate time while helping her community. Throughout the week, she uses her powers to solve local problems, culminating in a dramatic rescue.",
+  "summaryGerman": "Eve Thomas, eine pensionierte Lehrerin, entdeckt ihre Fähigkeit, die Zeit zu manipulieren, während sie ihrer Gemeinde hilft. Im Laufe der Woche nutzt sie ihre Kräfte, um lokale Probleme zu lösen, die in einer dramatischen Rettungsaktion gipfeln.",
+  "summaryDutch": "Eve Thomas, een gepensioneerde leerkracht, ontdekt haar vermogen om tijd te manipuleren terwijl ze haar gemeenschap helpt. Gedurende de week gebruikt ze haar krachten om lokale problemen op te lossen, uitmondend in een dramatische redding.",
+  "summaryFrench": "Eve Thomas, une enseignante à la retraite, découvre sa capacité à manipuler le temps tout en aidant sa communauté. Tout au long de la semaine, elle utilise ses pouvoirs pour résoudre des problèmes locaux, aboutissant à un sauvetage dramatique.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Eve Thomas, feeling energetic, decides to start a community gardening project to help beautify her neighborhood.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While mentoring a young student, Eve accidentally reverses time for a few seconds. This discovery leaves her feeling eerie but also curious.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wensday",
+      "text": "Eve experiments with her newfound powers, managing to extend the time she spends tutoring her students. She feels triumphant as she helps them grasp difficult concepts.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Confident in her abilities, Eve uses her powers to fix several minor but long-standing issues around her neighborhood, making her feel happy and useful.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Eve tries to control her powers more finely, leading to accidental mishaps but ultimately gaining more control over them, leaving her feeling epic.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Eve's heroic acts have not gone unnoticed. The local news interviews her, causing a sense of peaceful pride.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "A crisis occurs when a local building catches fire. Using her time-manipulation skills, Eve delays the spread long enough for everyone to evacuate safely. The city hails her as a hero.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "Eve Thomas realized that no matter the age, one could still make a significant impact on the community.",
+  "moral": "The true power of any individual lies in their ability to positively impact those around them."
+}

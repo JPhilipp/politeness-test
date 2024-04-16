@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Romeo Coleman: The Wisdom Hero",
+  "summary": "Over one week, 66-year-old Romeo Coleman uses his powers of advice and wisdom to help his community, uncovering a sinister plot and ultimately saving his neighborhood from a corporate takeover.",
+  "summaryGerman": "Über eine Woche hinweg nutzt der 66-jährige Romeo Coleman seine Kräfte der Beratung und Weisheit, um seiner Gemeinde zu helfen, deckt eine finstere Verschwörung auf und rettet letztendlich sein Viertel vor einer Unternehmensübernahme.",
+  "summaryDutch": "Gedurende één week gebruikt de 66-jarige Romeo Coleman zijn krachten van advies en wijsheid om zijn gemeenschap te helpen, onthult een sinister complot en redt uiteindelijk zijn buurt van een bedrijfsovername.",
+  "summaryFrench": "Pendant une semaine, Romeo Coleman, 66 ans, utilise ses pouvoirs de conseil et de sagesse pour aider sa communauté, découvre un complot sinistre et sauve finalement son quartier d'une prise de contrôle par une entreprise.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Romeo Coleman starts his week feeling energetic as he aids a local youth group in career counseling, inspiring them with tales of resilience and dedication.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesdey",
+      "text": "Feeling romantic, Romeo spends the day revitalizing his long-standing relationship with his childhood sweetheart by reminiscing about their youth and planning for the future.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Romeo feels eerie during a late evening walk when he overhears scheming voices discussing a take-over of the local park for a large scale commercial development.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Triumphant, Romeo gathers evidence of the corporate plans and convenes a community meeting to strategize on how to protect their beloved park.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "An epic stand at the city hall, with Romeo leading the community, presenting their case passionately, winning public and media support.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The mood is peaceful as the community celebrates the city's decision to decline the corporate development proposal, thanks to Romeo's tireless efforts and eloquent advocacy.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Romeo, feeling happy and fulfilled, spends a quiet day reflecting on the week's victories and enjoying well-deserved praise from his neighbors and friends.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "With the park safe and the community stronger than ever, Romeo Coleman proves that wisdom and compassion can truly make a hero.",
+  "moral": "Never underestimate the power of community and experienced wisdom in facing societal challenges."
+}

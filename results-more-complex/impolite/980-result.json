@@ -1,0 +1,46 @@
+{
+  "title": "The Embroidering Avenger: The Week of Yousef Cox",
+  "summary": "Yousef Cox, a mild-mannered artist by day, uses his unique powers of precision and creativity gained from his hobbies to fight crime and restore peace to his city over the course of one eventful week.",
+  "summaryGerman": "Yousef Cox, tagsüber ein sanftmütiger Künstler, nutzt seine einzigartigen Fähigkeiten der Präzision und Kreativität, die er durch seine Hobbys erlangt hat, um Verbrechen zu bekämpfen und innerhalb einer ereignisreichen Woche Frieden in seiner Stadt wiederherzustellen.",
+  "summaryDutch": "Yousef Cox, overdag een zachtaardige kunstenaar, gebruikt zijn unieke krachten van precisie en creativiteit, verkregen uit zijn hobby's, om misdaad te bestrijden en vrede te herstellen in zijn stad gedurende een bewogen week.",
+  "summaryFrench": "Yousef Cox, artiste doux de jour, utilise ses pouvoirs uniques de précision et de créativité acquis grâce à ses passe-temps pour lutter contre le crime et restaurer la paix dans sa ville au cours d'une semaine mouvementée.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Yousef Cox discovers a mystical thread that glows in the dark, inspiring his week of heroism.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Using the glowing thread, Yousef stitches a message revealing a corrupt politician's secrets on a public mural.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Yousef dodges a dangerous confrontation with the politician's henchmen, barely escaping to continue his mission.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Regaining strength, Yousef spends a day designing a series of crime-fighting gadgets, using his artistic skills.",
+      "mood": "productive"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Yousef activates his gadgets during a city-wide festival, thwarting a heist in the busiest square.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The city celebrates Yousef’s courage, unaware of his secret identity, with scenes of joy and dancing.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his adventures, Yousef resumes his peaceful life, his dual identity still safe.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus, Yousef Cox lived to stitch another pattern in the fabric of his city's destiny.",
+  "moral": "Creativity is a superpower that can uncover truth and restore justice."
+}

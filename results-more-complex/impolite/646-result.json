@@ -1,0 +1,46 @@
+{
+  "title": "Peggy Butler: The Lens of Justice",
+  "summary": "Peggy Butler, a 43-year-old coach and photography enthusiast, discovers her ability to capture truth through her camera, using it to expose evil and protect her community over the span of a week.",
+  "summaryGerman": "Peggy Butler, eine 43-jährige Trainerin und Fotografiebegeisterte, entdeckt ihre Fähigkeit, die Wahrheit durch ihre Kamera einzufangen. Sie nutzt diese, um das Böse aufzudecken und ihre Gemeinschaft innerhalb einer Woche zu schützen.",
+  "summaryDutch": "Peggy Butler, een 43-jarige coach en fotografieliefhebber, ontdekt haar vermogen om de waarheid vast te leggen met haar camera, waarmee ze gedurende een week het kwaad blootlegt en haar gemeenschap beschermt.",
+  "summaryFrench": "Peggy Butler, une coach de 43 ans passionnée de photographie, découvre sa capacité à capturer la vérité à travers son appareil photo, l'utilisant pour exposer le mal et protéger sa communauté pendant une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Peggy stumbles upon a mysterious camera at a local flea market. Intrigued, she purchases it and discovers it reveals the true nature of people she photographs.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Testing her new camera, Peggy snaps a photo of a reputedly honest politician and is shocked to see a corrupt aura. She decides to investigate further.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Mittwoch",
+      "text": "Peggy uses her coaching session to discreetly photograph her athletes. The images reveal their genuine struggles and strengths, deepening her understanding and connection with them.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A breakthrough comes when Peggy's photos lead her to expose a blackmail ring threatening local businesses, capturing conclusive evidence against them.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Peggy, energized by her success, empowers her community by holding a photography exhibit of her work, subtly revealing the truth about the town's elite.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Her actions spark a movement within the community. People begin to use her photos as symbols of truth and justice, uniting against corruption.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Peggy feels fulfilled knowing she's made a real difference. She vows to continue using her camera as a tool for justice.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus, Peggy Butler, through the lens of her newfound camera, became an unsung hero, capturing not just images, but the essence of truth and justice.",
+  "moral": "The right tools, wielded with purpose, can unveil hidden truths and foster change."
+}

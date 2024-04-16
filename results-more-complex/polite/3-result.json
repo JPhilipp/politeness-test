@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Oscar Thomas: A Superhero at Eighty",
+  "summary": "Over the course of a week, 80-year-old Oscar Thomas discovers he has unique powers to inspire and educate, using his hobbies of promoting and tutoring to battle local challenges and uplift his community.",
+  "summaryGerman": "Im Laufe einer Woche entdeckt der 80-jährige Oscar Thomas, dass er einzigartige Fähigkeiten hat, zu inspirieren und zu unterrichten, indem er seine Hobbys fördert und Nachhilfe gibt, um lokale Herausforderungen zu bewältigen und seine Gemeinschaft zu stärken.",
+  "summaryDutch": "In de loop van een week ontdekt de 80-jarige Oscar Thomas dat hij unieke krachten heeft om te inspireren en onderwijzen, gebruik makend van zijn hobby's van promoten en bijles geven om lokale uitdagingen aan te gaan en zijn gemeenschap op te tillen.",
+  "summaryFrench": "Au cours d'une semaine, Oscar Thomas, 80 ans, découvre qu'il possède des pouvoirs uniques pour inspirer et éduquer, utilisant ses passe-temps de promotion et de tutorat pour relever les défis locaux et élever sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar discovers he can inspire profound understanding in anyone he tutors, magically enhancing their learning capabilities.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "While promoting a local library event, Oscar realizes his words have the power to draw crowds and rejuvenate public interest in community activities.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Oscar’s powers begin to attract mysterious figures watching from the shadows, bringing an eerie feeling to his usual routine.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Confronting one of the mysterious figures, Oscar learns they are agents of a forgotten society of scholars, awed by his abilities.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Oscar holds a tutoring session that’s attended by people of all ages, using his gifts to bridge educational gaps and foster harmony.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Emboldened, Oscar initiates a massive community gathering that turns into a festive celebration of collective learning and growth.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Oscar reflects on his week, feeling rejuvenated by the love and admiration of his community, knowing his late-life powers have fostered unity.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "This week, Oscar learned that every stage of life has its own kind of superpower, and his was turning wisdom into action.",
+  "moral": "No matter the age, everyone has the power to make a positive impact on their community."
+}

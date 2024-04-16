@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Jin Carter: City's Unseen Guardian",
+  "summary": "Jin Carter, a 38-year-old advisor and fitness enthusiast, discovers his ability to manipulate time during a week of personal challenges and community threats, using his powers to protect his city.",
+  "summaryGerman": "Jin Carter, ein 38-jähriger Berater und Fitnessbegeisterter, entdeckt seine Fähigkeit, die Zeit zu manipulieren, während einer Woche persönlicher Herausforderungen und Gemeinschaftsbedrohungen, und nutzt seine Kräfte, um seine Stadt zu schützen.",
+  "summaryDutch": "Jin Carter, een 38-jarige adviseur en fitnessliefhebber, ontdekt zijn vermogen om de tijd te manipuleren tijdens een week van persoonlijke uitdagingen en gemeenschapsdreigingen, en gebruikt zijn krachten om zijn stad te beschermen.",
+  "summaryFrench": "Jin Carter, un conseiller et passionné de fitness de 38 ans, découvre sa capacité à manipuler le temps au cours d'une semaine de défis personnels et de menaces communautaires, utilisant ses pouvoirs pour protéger sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Jin Carter begins his week feeling energetic as he exercises at dawn. He discovers he can pause time momentarily when a car almost runs into a pedestrian and he stops it to save them.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "After yesterday's events, Jin tests his new ability in private. He is triumphant when he successfully pauses and resumes time while avoiding drawing public attention.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Jin feels eerie today, his senses heightened as he realizes the implications of his powers. He spots a burglary in progress and discreetly uses his power to stall the thieves until the police arrive.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "While advising at the community center, Jin feels happy as he uses his knowledge to help people better their lives. He secretly uses his time manipulation to extend a counseling session for a troubled youth.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friaday",
+      "text": "Jin feels sad after overhearing people express fear over the recent 'miracles'. He contemplates the loneliness of his secret life.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Feeling romantic, Jin goes on a date, managing not to use his powers and focusing on genuine human connection. He starts to think about sharing his secret.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Jin feels epic as he prevents a large scale disaster, a gas station explosion, unseen and unknown, deciding it's time to embrace his role as the city's guardian.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus, Jin Carter embraced his dual life, destined to safeguard his city both as an advisor and as a mysterious hero.",
+  "moral": "Great power requires not just responsibility but a profound understanding of when to act and when to step back."
+}

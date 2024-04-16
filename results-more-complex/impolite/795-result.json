@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Pit Kelly: Photography and Justice",
+  "summary": "Over the course of one week, 62-year-old Pit Kelly, who enjoys photography and leading, discovers his superpowers and saves his city from a menacing threat.",
+  "summaryGerman": "Im Verlauf einer Woche entdeckt der 62-jährige Pit Kelly, der sich für Fotografie und Führung interessiert, seine Superkräfte und rettet seine Stadt vor einer bedrohlichen Gefahr.",
+  "summaryDutch": "Gedurende een week ontdekt Pit Kelly, 62 jaar oud en liefhebber van fotografie en leiderschap, zijn superkrachten en redt hij zijn stad van een dreigend gevaar.",
+  "summaryFrench": "Au cours d'une semaine, Pit Kelly, 62 ans, passionné de photographie et de leadership, découvre ses superpouvoirs et sauve sa ville d'une menace imminente.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Pit Kelly, a retirement-age former photographer, discovers he can manipulate light while leading a photography workshop. An unsettling feeling overwhelms him as he accidently blinds a bystander with a flash.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesdxy",
+      "text": "Embracing his new powers, Pit spends the day experimenting and fine-tuning his ability. He feels triumphant as he learns to bend light to create invisibility cloaks.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "News of a local gang disturbing the peace reaches Pit. He decides to help, using his powers to disarm the criminals by blinding them temporarily. The community thanks him, making him feel happy and valued.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Pit encounters another user of superpowers, but their intentions are harmful. A brief battle ensues in a shadowy alley, leaving Pit feeling both energetic and wary.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The battle continues, and Pit uses his leadership skills and photographic techniques to strategize, creating illusions. Pit feels an adrenaline rush as he narrowly escapes a dangerous trap.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After a tough week, Pit spends the day photographing the city’s landscapes, finding peace while contemplating how his life has shifted. His mood is serene, immensely enjoying the quiet moments.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Pit, now recognized as a protector of the city, leads a community gathering to teach others how they can contribute to their own safety. The lesson is heartfelt and the atmosphere is romantic as people share stories and hope.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Thus, Pit Kelly proved that superheroes don't always need capes, sometimes just a camera and a good heart.",
+  "moral": "Every ability can be a superpower if used to help and unite people."
+}

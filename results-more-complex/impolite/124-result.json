@@ -1,0 +1,46 @@
+{
+  "title": "The Untiring Vigilance of Ling Bell",
+  "summary": "Ling Bell, a 68-year-old superhero with a penchant for training and assisting, discovers a plot to overthrow the city, which she thwarts over one action-packed week.",
+  "summaryGerman": "Ling Bell, eine 68-jährige Superheldin mit einer Vorliebe für Training und Unterstützung, entdeckt eine Verschwörung zur Übernahme der Stadt, die sie innerhalb einer aktionsreichen Woche vereitelt.",
+  "summaryDutch": "Ling Bell, een 68-jarige superheld met een voorliefde voor training en bijstand, ontdekt een complot om de stad over te nemen, wat ze binnen één actievolle week verijdelt.",
+  "summaryFrench": "Ling Bell, une super-héroïne de 68 ans passionnée par l'entraînement et l'assistance, découvre un complot pour renverser la ville, qu'elle déjoue au cours d'une semaine pleine d'action.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Bell starts her week by training young heroes at the local gym, unaware of the sinister meeting happening across town.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "She overhears a suspicious plan while helping at a community center. Uncertain, she decides to keep a watchful eye.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesay",
+      "text": "Using her remarkable detective skills, Ling tracks the conspirators to a hidden warehouse. She's determined but cautious.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Ling gathers evidence and recruits her trusted allies. A plan is starting to form, setting the stage for a daring confrontation.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "During the night, Ling and her team stealthily prevent a major attack intended to disrupt the city's main power grid.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The city is bustling with life as usual, all thanks to Ling’s efforts, though hardly anyone knows it. Ling feels content yet focused for more.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "A peaceful train ride turns into a chance encounter with the recently thwarted villain. Ling’s calm demeanor discourages any further conflict.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "In the quiet twilight of Sunday, Ling Bell smiles, knowing the city is safe once more.",
+  "moral": "Everlasting vigilance is the cost of peace."
+}

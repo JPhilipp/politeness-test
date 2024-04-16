@@ -1,0 +1,46 @@
+{
+  "title": "The Editing Avenger: The Heroic Week of Sue Morgan",
+  "summary": "Sue Morgan, a 73-year-old retired editor, unexpectedly gains powers from a mystical book and uses her new abilities to combat illiteracy and misinformation in her community over a week.",
+  "summaryGerman": "Sue Morgan, eine 73-jährige pensionierte Herausgeberin, erhält unerwartet Kräfte aus einem mystischen Buch und nutzt ihre neuen Fähigkeiten, um innerhalb einer Woche Analphabetismus und Fehlinformationen in ihrer Gemeinde zu bekämpfen.",
+  "summaryDutch": "Sue Morgan, een 73-jarige gepensioneerde redacteur, krijgt onverwacht krachten van een mystiek boek en gebruikt haar nieuwe vaardigheden om analfabetisme en misinformatie in haar gemeenschap gedurende een week te bestrijden.",
+  "summaryFrench": "Sue Morgan, une éditrice retraitée de 73 ans, reçoit des pouvoirs inattendus d'un livre mystique et utilise ses nouvelles capacités pour lutter contre l'illettrisme et la désinformation dans sa communauté pendant une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Sue Morgan discovers a mystical book hidden within the stacks of her local library. As she opens it, glowing letters leap into her eyes, imbuing her with the power to bring words to life.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Excited by her new powers, Sue begins tutoring struggling readers at a nearby school, where her powers allow words to visually manifest, captivating and helping the children.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedneday",
+      "text": "Sue's efforts make local news. Initially overwhelmed, she harnesses media attention to advocate for literacy, inspiring a community-driven reading initiative.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Facing opposition from a group spreading misinformation, Sue uses her powers to correct false public signs and documents, bringing truth to light.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Sue meets with local authors and educators, editing educational materials to make them more accessible, ensuring her legacy of literacy continues.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a large community gathering, Sue demonstrates her powers, transforming a dull reading event into an engaging, magical experience for everyone.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her extraordinary week, Sue feels fulfilled, knowing she has positively impacted her community and ignited a passion for reading and truth.",
+      "mood": "sad"
+    }
+  ],
+  "ending": "As Sue closed her book that Sunday evening, the glow from its pages dimmed, but the light of knowledge it ignited in her community burned brighter than ever.",
+  "moral": "With great power comes great responsibility to enlighten and educate."
+}

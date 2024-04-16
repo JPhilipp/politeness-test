@@ -1,0 +1,46 @@
+{
+  "title": "The Green Guardian: The Adventures of Sue Morris",
+  "summary": "Sue Morris, a 25-year-old gardening enthusiast and instructor, discovers her ability to control plants and uses it to thwart a local environmental threat over the span of one week.",
+  "summaryGerman": "Sue Morris, eine 25-jährige Gartenbau-Enthusiastin und Lehrerin, entdeckt ihre Fähigkeit, Pflanzen zu kontrollieren und verwendet sie, um eine lokale Umweltbedrohung innerhalb einer Woche zu verhindern.",
+  "summaryDutch": "Sue Morris, een 25-jarige tuinliefhebster en instructrice, ontdekt haar vermogen om planten te controleren en gebruikt dit om een lokale milieudreiging binnen een week te dwarsbomen.",
+  "summaryFrench": "Sue Morris, une passionnée de jardinage et instructrice de 25 ans, découvre sa capacité à contrôler les plantes et l'utilise pour contrecarrer une menace environnementale locale en l'espace d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Sue Morris was volunteering at the community garden when she first noticed her strange new power: plants seemed to grow and thrive with just a touch. The realization left her feeling both eerie and energetic.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Testing her new abilities, Sue spent the day at her own garden, marveling as flowers bloomed instantly under her fingertips. Her mood was triumphant as she envisioned the good she could do.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "During her instructing job at the local school, Sue discreetly used her powers to enhance the school’s green spaces, filling her students and herself with happiness.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thurday",
+      "text": "Sue stumbled upon a plan by a local corporation to build on protected wetlands. The news filled her with a sad determination.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Sue organized a protest, using her abilities to showcase the rapid destruction of plant life. The event was charged, romantic, as the community rallied around her.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Armed with evidence and public support, Sue confronted the corporation’s executives. Her argument was so persuasive and her cause so clear, that the executives decided to abandon their plans.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Celebrating their victory, the community spent the day planting new gardens with Sue, who felt a deep peace knowing she had protected her beloved nature.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "With leaves whispering in the wind, Sue realized that every small action contributes to a larger impact, with her powers as a testament to the extraordinary potential hidden in everyday passions.",
+  "moral": "Even the smallest actions can have a profound impact on preserving our world."
+}

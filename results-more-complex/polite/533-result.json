@@ -1,0 +1,46 @@
+{
+  "title": "The Consulting Crusader: The Tale of Frank Anderson",
+  "summary": "Frank Anderson, a 48-year-old consultant and coach, unexpectedly gains superpowers and uses his newfound abilities to protect his community from a series of threats, all while balancing his everyday life.",
+  "summaryGerman": "Frank Anderson, ein 48-jähriger Berater und Coach, bekommt unerwartet Superkräfte und nutzt seine neu gewonnenen Fähigkeiten, um seine Gemeinde vor einer Reihe von Bedrohungen zu schützen, während er sein alltägliches Leben ausbalanciert.",
+  "summaryDutch": "Frank Anderson, een 48-jarige consultant en coach, krijgt onverwachts superkrachten en gebruikt zijn nieuw verworven vaardigheden om zijn gemeenschap te beschermen tegen een reeks bedreigingen, terwijl hij zijn dagelijks leven in evenwicht houdt.",
+  "summaryFrench": "Frank Anderson, un consultant et coach de 48 ans, obtient par surprise des superpouvoirs et utilise ses nouvelles capacités pour protéger sa communauté contre une série de menaces, tout en équilibrant sa vie quotidienne.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "The week begins like any other for Frank Anderson, but during a coaching session, a mysterious artifact grants him superhuman wisdom and problem-solving abilities.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Amazed by his powers, Frank helps resolve a complex dispute in his community, earning the respect and gratitude of the locals.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Weddensday",
+      "text": "Frank's abilities attract the attention of a dubious organization, leading to a covert conflict to protect his identity and loved ones.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Through clever planning and leveraging his consulting skills, Frank outsmarts the organization's agents in a suspenseful game of cat and mouse.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Taking a day off, Frank focuses on personal growth and spends the day with his family, strengthening their bonds and sharing his hopes and fears.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Armed with a better understanding of his powers and purpose, Frank holds a free community coaching session, inspiring others to find their strength.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "As the week closes, Frank reflects on his journey and vows to continue using his powers for good, maintaining his double life as a consultant by day and a hero by night.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Thus, Frank continues his unique dual life, balancing his role as a consultant and guardian of his community, one wise decision at a time.",
+  "moral": "Great power not only brings opportunities but also challenges; how we handle them defines us."
+}

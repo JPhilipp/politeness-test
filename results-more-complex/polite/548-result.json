@@ -1,0 +1,46 @@
+{
+  "title": "The Spectacular Week of Kevin Rivera: Programmer by Day, Hero by Night",
+  "summary": "Kevin Rivera, a 36-year-old with a passion for acting and programming, discovers his superpowers and battles a mysterious threat to his city over the course of a week.",
+  "summaryGerman": "Kevin Rivera, ein 36-Jähriger mit einer Leidenschaft für Schauspiel und Programmieren, entdeckt seine Superkräfte und bekämpft eine mysteriöse Bedrohung seiner Stadt im Laufe einer Woche.",
+  "summaryDutch": "Kevin Rivera, een 36-jarige met een passie voor acteren en programmeren, ontdekt zijn superkrachten en strijdt tegen een mysterieuze dreiging in zijn stad gedurende een week.",
+  "summaryFrench": "Kevin Rivera, âgé de 36 ans et passionné par le théâtre et la programmation, découvre ses superpouvoirs et lutte contre une menace mystérieuse qui pèse sur sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Kevin Rivera stumbles upon a hidden underground lab beneath his home where he uncovers an AI he had been designing years ago. The AI unexpectedly bestows him with superhuman abilities.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Testing his new powers, Kevin helps prevent a subway accident. Amazed by his own abilities, he feels a surge of responsibility to protect his city.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Kevin designs a costume with programmable features that assist him in his new role as a hero. He spends hours coding and rehearsing lines.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thhursday",
+      "text": "The city faces its first minor attack by drones. Kevin uses his programming skills and acting prowess to deceive the drones' AI and neutralize the threat.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "News spreads about a new hero in town. Kevin juggles media attention with his daytime job, finding it challenging but rewarding to inspire others.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A major villain emerges, overpowering the city’s defenses. Kevin leverages his new powers and strategic thinking to confront and ultimately outwit the villain.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "After a week of turmoil, Kevin enjoys a peaceful sunset, proud of his contribution but aware that the path ahead will be challenging.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the sun sets, Kevin Rivera stands tall against the city skyline, a silent guardian ready for whatever comes next.",
+  "moral": "Embrace your unique talents; they might one day become your superpower."
+}

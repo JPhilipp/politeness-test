@@ -1,0 +1,46 @@
+{
+  "title": "The Incredible Adventures of Judy Cox",
+  "summary": "At 67, Judy Cox discovers her hidden powers during a week full of mentoring and adventures, learning that it's never too late to become a hero.",
+  "summaryGerman": "Mit 67 entdeckt Judy Cox ihre verborgenen Kräfte während einer Woche voller Mentoring und Abenteuer und lernt, dass es nie zu spät ist, ein Held zu werden.",
+  "summaryDutch": "Op 67-jarige leeftijd ontdekt Judy Cox haar verborgen krachten tijdens een week vol mentoring en avonturen, en leert dat het nooit te laat is om een held te worden.",
+  "summaryFrench": "À 67 ans, Judy Cox découvre ses pouvoirs cachés pendant une semaine pleine de mentorat et d'aventures, apprenant qu'il n'est jamais trop tard pour devenir un héros.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy Cox, age 67, unexpectedly hovered off her spinning class floor. A peculiar glow surrounded her, hinting at newfound powers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuersday",
+      "text": "After revealing her powers to her mentee, they experimented together. Judy discovered she could manipulate time while spinning!",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Judy used her new abilities to rewind a small local crisis, preventing a car accident. Word of her deeds started to spread.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Overwhelmed by media attention, Judy longed for her old life. She retreated to her mentorship role, finding solace in guiding others.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Realizing her potential, Judy embraced her role as a local hero, combining her power with her passion for mentoring to help her community.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A romantic evening was spent with an old friend who admired Judy's courage and new journey, reminding her of the personal joys her powers brought.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Judy hosted a community event, passing on her knowledge and inspiring others to embrace their unique talents, no matter their age.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus, Judy Cox became not only a mentor in spinning but also in life, spinning new tales as a local hero.",
+  "moral": "It's never too late to spin a new tale in your life's journey."
+}

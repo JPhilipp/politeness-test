@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Advisor: The Chronicles of Ivan Barnes",
+  "summary": "Ivan Barnes, a 20-year-old advisor and tutor, discovers his ability to influence people’s actions through advice. Over a week, he builds his powers, faces challenges, and ultimately uses his abilities to prevent a disaster.",
+  "summaryGerman": "Ivan Barnes, ein 20-jähriger Berater und Tutor, entdeckt seine Fähigkeit, das Handeln von Personen durch Ratschläge zu beeinflussen. Über eine Woche hinweg baut er seine Kräfte auf, steht vor Herausforderungen und nutzt schließlich seine Fähigkeiten, um eine Katastrophe zu verhindern.",
+  "summaryDutch": "Ivan Barnes, een 20-jarige adviseur en tutor, ontdekt zijn vermogen om mensen te beïnvloeden door advies. Gedurende een week bouwt hij zijn krachten op, staat hij voor uitdagingen en gebruikt hij uiteindelijk zijn vaardigheden om een ramp te voorkomen.",
+  "summaryFrench": "Ivan Barnes, un conseiller et tuteur de 20 ans, découvre sa capacité à influencer les actions des gens par des conseils. Au cours d'une semaine, il développe ses pouvoirs, fait face à des défis et utilise finalement ses capacités pour prévenir un désastre.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ivan Barnes, while tutoring, inadvertently coaches a student to not only excel in academics but also to reconcile with a longstanding rival, discovering his unique power of persuasion.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Testing his newfound abilities, Ivan subtly guides his neighbors to resolve a community issue peacefully, leaving him amazed by his own effectiveness.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "A mysterious figure approaches Ivan, warning him that his powers could attract dangerous attention. The encounter leaves Ivan with an eerie feeling.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Determined to understand the scope of his powers, Ivan spends the day experimenting, helping people make better choices, boosting his confidence and energy.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Ivan faces a dilemma when asked to influence a political decision. He struggles with the ethics of his abilities, making it a day of introspection and sadness.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After much reflection, Ivan decides to use his gifts only for unequivocal good. His resolve is tested when he averts a potential school crisis by advising a troubled youth.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week’s tumultuous events, Ivan writes about his experiences, vowing to be a silent guardian of his community.",
+      "mood": "peaceful"
+    }
+  ],
+  "moral": "With great power comes great responsibility.",
+  "ending": "And so, Ivan Barnes remained the unseen advisor, his legacy whispered in the corridors where minds grow and decisions are born."
+}

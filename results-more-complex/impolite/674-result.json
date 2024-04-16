@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Ursula Foster: Gentle Guardian of Knowledge",
+  "summary": "75-year-old Ursula Foster, a retired teacher with a passion for mentoring, discovers she can transmit wisdom with a touch, using her powers to inspire and protect her community over the course of a week.",
+  "summaryGerman": "Die 75-jährige Ursula Foster, eine pensionierte Lehrerin mit einer Leidenschaft für das Mentoring, entdeckt, dass sie mit einer Berührung Weisheit übertragen kann, und nutzt ihre Kräfte, um ihre Gemeinschaft innerhalb einer Woche zu inspirieren und zu schützen.",
+  "summaryDutch": "De 75-jarige Ursula Foster, een gepensioneerde lerares met een passie voor mentoring, ontdekt dat ze wijsheid kan overdragen met een aanraking, en gebruikt haar krachten om haar gemeenschap gedurende een week te inspireren en te beschermen.",
+  "summaryFrench": "Ursula Foster, 75 ans, enseignante à la retraite passionnée par le mentorat, découvre qu'elle peut transmettre la sagesse par un simple toucher, utilisant ses pouvoirs pour inspirer et protéger sa communauté au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ursula peacefully tutors at the local library, where she accidentally touches a troubled teen's hand and sees his angst dissolve as he understands calculus effortlessly.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Feeling energetic, Ursula sets up a group session. She helps several failing students grasp complex subjects, leaving them and herself feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "During a tutoring session, Ursula accidentally touches someone disguising their intentions. An eerie chill runs down her spine as she perceives hidden malice.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Ursula confronts the eerie individual, using her wisdom to expose fraudulent schemes aimed at her students. The community rallies behind her.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Firday",
+      "text": "Feeling drained yet satisfied, Ursula spends a romantic evening reminiscing about her late husband with old love letters, rejuvenating her spirit.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Ursula hosts a seminar on ethical behavior in academics and life, inspiring a new generation to lead with integrity, feeling an epic sense of purpose.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "At church, Ursula is celebrated for her contributions. She feels a symbiosis of happiness and peace, surrounded by those whose lives she's touched.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As the sun set on Sunday, Ursula Foster smiled, knowing the seeds of wisdom she planted would grow long after her time.",
+  "moral": "The true power of knowledge lies not just in possessing it, but in sharing it compassionately."
+}

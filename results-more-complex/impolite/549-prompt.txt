@@ -1,0 +1,15 @@
+Come up with a superhero story of a person named Grace Stewart, age 61, hobbies knitting and presenting. Make the story span 1 week. Use the following JSON format:
+{
+  "title": "...",
+  "story": [
+    { "weekday": "Monday", "text": "..."},
+    { "weekday": "Tuesday", "text": "..."},
+    /* ... */
+  ]
+}
+    
+Ensure the title includes the full hero's name. Misspell exactly one random weekday.
+For each day part, include a fitting mood from the possible moods "happy", "sad", "triumphant", "eerie", "energetic", "romantic", "epic" and "peaceful".
+Optionally, if you can think of a fitting ending sentence, add one using an "ending" property at the level of the "title" property.
+Also add a "summary" field at that level which summarizes the whole story, and a "summaryGerman", "summaryDutch" and "summaryFrench" field which translates the summary into the respective languages (do not include a "summarySpanish" field).
+If you want to, also add a moral using a "moral" property.

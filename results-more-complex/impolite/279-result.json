@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Supermentor Judy Garcia",
+  "summary": "This story details a week in the life of 80-year-old Judy Garcia, who discovers her superpower to inspire and guide with merely her words, turning around the troubled youths of her city.",
+  "summaryGerman": "Diese Geschichte beschreibt eine Woche im Leben der 80-jährigen Judy Garcia, die ihre Superkraft entdeckt, allein mit ihren Worten zu inspirieren und zu leiten, und die problematischen Jugendlichen ihrer Stadt umdreht.",
+  "summaryDutch": "Dit verhaal beschrijft een week uit het leven van de 80-jarige Judy Garcia, die haar superkracht ontdekt om alleen met haar woorden te inspireren en te leiden, en de problematische jongeren van haar stad om te draaien.",
+  "summaryFrench": "Cette histoire détaille une semaine de la vie de Judy Garcia, 80 ans, qui découvre son superpouvoir d'inspirer et de guider par ses seules paroles, transformant les jeunes en difficulté de sa ville.",
+  "story": [
+    {
+      "weekday": "Mondai",
+      "text": "The serenity of Judy's morning routine is interrupted by a troubling call about local youth vandalism. Motivated, Judy decides the best way to combat this is through her wisdom and experience.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Judy visits the local high school to speak to the students. Her tales of old days, filled with challenges and triumphs, capture their interest, making her feel fulfilled and peaceful.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "While mentoring a particularly troubled teen, Judy realizes her advice sparks real change in their attitude. Her joy is palpable; she feels as if she's glowing with a subtle, unknown power.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News spreads of Judy's impact, and she is invited to speak on a local radio station. Her energetic presence and poignant stories inspire countless listeners city-wide.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Challenged by the skepticism of some listeners, Judy sets up a community rally. The event surpasses all expectations, turning the skeptic’s doubt into wide-eyed belief.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Judy's efforts culminate in a large gathering in the park, where many of her former mentees come to express their gratitude, making Judy feel like a true hero.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Judy realizes that her superpower isn’t something extraordinary, but the ability to make a difference simply by caring and sharing her wisdom.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Judy Garcia proves that the truest superpowers are often the ones we carry within us all along.",
+  "moral": "Never underestimate the power of compassion and wisdom to foster change."
+}

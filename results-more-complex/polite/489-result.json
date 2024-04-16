@@ -1,0 +1,46 @@
+{
+  "title": "The Quilting Guardian: Zelda Parker's Unexpected Week",
+  "summary": "Zelda Parker, age 43 and a tutor and quilter by hobby, discovers her hidden powers to manipulate fabric and uses her skills to heroically save her town from an unforeseen threat.",
+  "summaryGerman": "Zelda Parker, 43 Jahre alt und in ihrer Freizeit Tutorin und Quilterin, entdeckt ihre verborgenen Fähigkeiten, Stoffe zu manipulieren, und nutzt ihre Fähigkeiten, um ihre Stadt heldenhaft vor einer unvorhergesehenen Bedrohung zu retten.",
+  "summaryDutch": "Zelda Parker, 43 jaar oud en hobbyistische tutor en quilter, ontdekt haar verborgen krachten om stof te manipuleren en gebruikt haar vaardigheden om haar stad heroïsch te redden van een onvoorziene bedreiging.",
+  "summaryFrench": "Zelda Parker, âgée de 43 ans et tutrice et quilteuse à temps perdu, découvre ses pouvoirs cachés pour manipuler les tissus et utilise ses compétences pour sauver héroïquement sa ville d'une menace imprévue.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda Parker spends her morning tutoring local students in mathematics, feeling energetic and enthusiastic about helping young minds grow.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While quilting a new design for a community project, Zelda accidentally pricks her finger, causing the fabric to shimmer and reshape magically. She feels a mix of shock and awe.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesay",
+      "text": "Empowered by her newfound abilities, Zelda experiments with her powers, transforming ordinary fabrics into protective shields. She feels triumphant in her secret workshop.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News spreads of a storm approaching. Zelda decides to use her quilting talents to create large protective covers for the local shelters, feeling very determined.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Her efforts prove vital as the storm hits, with her magical quilts protecting buildings and homes. Locals begin to whisper about a mysterious protector.",
+      "mood": "heroic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Zelda reveals her identity at the town meeting, pledging to use her powers for the good of all. The town celebrates their new hero; Zelda feels joyful and accepted.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Zelda quilts peacefully in her garden, pondering on how normal life has woven into the extraordinary. She feels content and hopeful.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Zelda Parker, once just a tutor and quilter, now stands as a guardian to her beloved town, her life forever intertwined with the threads of fate.",
+  "moral": "Hidden talents can lead to unexpected heroism when courageously embraced."
+}

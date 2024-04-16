@@ -1,0 +1,46 @@
+{
+  "title": "The Unknown Adventures of Ling Morgan",
+  "summary": "Ling Morgan, a 51-year-old tutor, discovers her ability to influence thoughts which she uses to guide her community towards positive changes over the span of a week.",
+  "summaryGerman": "Ling Morgan, eine 51-jährige Tutorin, entdeckt ihre Fähigkeit, Gedanken zu beeinflussen, die sie nutzt, um ihre Gemeinschaft innerhalb einer Woche zu positiven Veränderungen zu führen.",
+  "summaryDutch": "Ling Morgan, een 51-jarige tutor, ontdekt haar vermogen om gedachten te beïnvloeden, die ze gebruikt om haar gemeenschap binnen een week naar positieve veranderingen te leiden.",
+  "summaryFrench": "Ling Morgan, une tutrice de 51 ans, découvre sa capacité à influencer les pensées qu'elle utilise pour guider sa communauté vers des changements positifs sur l'étendue d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Morgan woke up to her usual routine, unaware that today would be different. As she tutored her students, she realized her advice was unusually insightful, deeply influencing their decisions.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Curious about her newfound influence, Ling spent the day experimenting subtly with her abilities during her advising sessions. She helped resolve long-standing conflicts among her peers.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "With confidence growing, Ling used her powers more openly, guiding her community towards improvements and healing frayed relations at the local community center.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Despite her successes, Ling felt a pang of doubt about the ethics of her abilities. She spent a quiet day reflecting on her actions and their implications, seeking guidance from her late mentor's writings.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "After much thought, Ling decided to set strict moral guidelines for using her powers. She felt energized and ready to make a responsible impact.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Ling organized a community gathering to openly share her experiences and set an example of transparency and ethical use of her powers. The community offered their support and admiration.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Feeling at peace, Ling spent her day preparing new material for her tutoring sessions, integrating lessons about ethical decision-making and personal growth.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Ling Morgan became not only a tutor but a wise guardian of her community, wielding her powers with responsibility and grace.",
+  "moral": "With great power comes great responsibility."
+}

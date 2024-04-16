@@ -1,0 +1,46 @@
+{
+  "title": "The Harmonic Hero - The Tale of Xavier Wright",
+  "summary": "Xavier Wright, a lecturer and conductor, discovers his ability to manipulate sound and uses it to thwart a heinous plot threatening his city over the course of a week.",
+  "summaryGerman": "Xavier Wright, ein Dozent und Dirigent, entdeckt seine Fähigkeit, Schall zu manipulieren, und verwendet sie, um eine niederträchtige Verschwörung, die seine Stadt bedroht, innerhalb einer Woche zu vereiteln.",
+  "summaryDutch": "Xavier Wright, een docent en dirigent, ontdekt zijn vermogen om geluid te manipuleren en gebruikt dit om een sinister complot dat zijn stad bedreigt binnen een week te dwarsbomen.",
+  "summaryFrench": "Xavier Wright, conférencier et chef d'orchestre, découvre sa capacité à manipuler le son et l'utilise pour déjouer un complot odieux menaçant sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Xavier Wright starts his week with the usual morning lecture at the university. However, he notices strange vibrations whenever he speaks, causing the auditorium lights to flicker.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Forming a hypothesis, Xavier tests his voice in the music hall while conducting. Miraculously, he manipulates sound waves to enhance the orchestra's performance.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Motivated by his new-found powers, Xavier experiments more, learning to create different sound frequencies. He enjoys a quiet night of research and melody, feeling that his abilities can do more good.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thurday",
+      "text": "News breaks of a criminal gang using sonic technology to commit thefts. Concerned, Xavier decides it's time to act. He prepares his plan to confront the threat in an epic showdown.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Xavier confronts the criminals during their next heist. Using his power, he disrupts their equipment, causing chaos and enabling the police to arrest them. His heroic act makes the evening news.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Basking in his success, Xavier holds a special concert, demonstrating his unique talents. The community gathers, applauding his bravery and extraordinary abilities.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Xavier feels content knowing he has found a new purpose. He spends a quiet day with close friends and family, discussing future possibilities.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus ends the week when Xavier Wright became more than a teacher and conductor; he became a hero.",
+  "moral": "Discover your unique skills and use them for the greater good."
+}

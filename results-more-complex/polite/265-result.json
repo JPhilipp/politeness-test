@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Frank Bennett",
+  "summary": "Frank Bennett, a 60-year-old counselor and lecturer, discovers his latent superpowers and uses them to inspire and protect his community.",
+  "summaryGerman": "Frank Bennett, ein 60-jähriger Berater und Dozent, entdeckt seine verborgenen Superkräfte und nutzt sie, um seine Gemeinschaft zu inspirieren und zu schützen.",
+  "summaryDutch": "Frank Bennett, een 60-jarige counselor en docent, ontdekt zijn latente superkrachten en gebruikt ze om zijn gemeenschap te inspireren en te beschermen.",
+  "summaryFrench": "Frank Bennett, un conseiller et conférencier de 60 ans, découvre ses superpouvoirs latents et les utilise pour inspirer et protéger sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank Bennett woke up feeling unusually energetic. During a morning jog, he unexpectedly stopped a robbery using his newfound strength and agility.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Still adjusting to his powers, Frank accidentally revealed them during a university lecture, leading to a flurry of questions. He handled it gracefully, using the opportunity to teach about morality and responsibility.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Frank spent the day counseling troubled youths, feeling a deep connection with them and using his insight to reach them on a new level.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News of Frank’s powers spread, making him a target. He encountered his first villain, a disgraced scientist, leading to an eerie face-off under the moonlit sky.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "After a challenging battle, with the support of the community, Frank emerged victorious. He felt more connected to those he protected and inspired.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Using his new status, Frank organized a community meeting, promoting peace and collaboration. The event ended with a romantic dance, where he reconnected with an old friend.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Frank felt proud and happy. He spent the day writing and planning future lectures on the impact of individual actions on community welfare.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And so, Frank Bennett used his unexpected gift not just to fight crime, but to uplift and educate, realizing one’s power lies not just in strength but in the heart.",
+  "moral": "True heroes use their powers to inspire and uplift, teaching by example."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Romeo White: The Voice of Valor",
+  "summary": "Romeo White, a 46-year-old superhero with public speaking powers, faces a new adversary and uses his skills and experiences over a week to save his city.",
+  "summaryGerman": "Romeo White, ein 46-jähriger Superheld mit der Kraft der Rhetorik, stellt sich einem neuen Gegner und nutzt seine Fähigkeiten und Erfahrungen über eine Woche, um seine Stadt zu retten.",
+  "summaryDutch": "Romeo White, een 46-jarige superheld met krachten op het gebied van publiek spreken, confronteert een nieuwe tegenstander en gebruikt zijn vaardigheden en ervaringen gedurende een week om zijn stad te redden.",
+  "summaryFrench": "Romeo White, un super-héros de 46 ans doté de pouvoirs de prise de parole en public, affronte un nouvel adversaire et utilise ses compétences et ses expériences pendant une semaine pour sauver sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Romeo White discovers that a new villain, The Silencer, plans to mute the city's voices. Determined to stop him, Romeo prepares by enhancing his vocal abilities.",
+      "mood": "determined"
+    },
+    {
+      "weekday": "Tueesday",
+      "text": "Romeo holds a public speech educating the people about the importance of free speech, which spreads awareness of The Silencer’s evil plans.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "News of Romeo's speech reaches The Silencer, who retaliates with a sound-wave device causing widespread silence. Romeo feels temporarily defeated.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Using his instructional talent, Romeo collaborates with local scientists to develop a counteracting device that amplifies voices.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Romeo leads a city-wide demonstration using the amplifying devices. This show of unity weakens The Silencer's control, marking the beginning of his fall.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The collective efforts lead to the capture of The Silencer. Romeo speaks at a celebration event, recognized as a protector of free speech in the city.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "A peaceful day follows the intense week. Romeo spends time reflecting on his journey and the resilience of the community he helped galvanize.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "In the victory of his voice, Romeo White reinforced the power of collective speech and the undying spirit of a city that refused to be silenced.",
+  "moral": "The power of voice and unity can shatter even the most potent silences."
+}

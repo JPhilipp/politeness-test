@@ -1,0 +1,46 @@
+{
+  "title": "The Nifty Adventures of Nancy Allen: Senior Superhero",
+  "summary": "Nancy Allen, a lively 72-year-old with a love for mentoring and dancing, discovers her unique superpower of boosting people’s spirits, embarking on a week-long adventure to right small-town wrongs with her newfound abilities.",
+  "summaryGerman": "Nancy Allen, eine lebhafte 72-jährige Frau, die Leidenschaft für Mentoring und Tanzen hat, entdeckt ihre einzigartige Superkraft, die Stimmung der Menschen zu heben, und begibt sich auf ein wöchentliches Abenteuer, um kleine Ungerechtigkeiten in ihrer Stadt mit ihren neu gefundenen Fähigkeiten zu bekämpfen.",
+  "summaryDutch": "Nancy Allen, een levendige 72-jarige met een liefde voor mentorschap en dansen, ontdekt haar unieke superkracht om mensen op te beuren, en begint aan een week lang avontuur om kleine stadsonrechtvaardigheden recht te zetten met haar nieuw gevonden vaardigheden.",
+  "summaryFrench": "Nancy Allen, une pétillante septuagénaire passionnée de mentorat et de danse, découvre son pouvoir unique de redonner le moral aux gens, s'embarquant dans une aventure hebdomadaire pour corriger les petites injustices de sa ville avec ses nouvelles capacités.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Nancy discovered her power to spread joy while calming a distressed neighbor. The discovery left her feeling triumphant and ready for more.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Empowered, Nancy danced through the park, unknowingly spreading happiness. People around her started feeling mysteriously uplifted.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Encouraged by her powers, Nancy organized a dance workshop for local youth, feeling incredibly energetic as she taught.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Nancy dealt with her first challenge, using her powers to resolve a dispute at the local cafe, feeling not just helpful, but heroic.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Firday",
+      "text": "After a misunderstanding about her powers caused some skepticism, Nancy felt a bit sad but resolved to prove herself.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Nancy helped a young couple reconcile after a fight, her advice and warm presence lending a romantic air to their reunion.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Nancy felt peaceful, knowing she made a difference, joyfully ending her day at a local dance gathering.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Nancy's quiet neighborhood might never be the same, but everyone looked forward to Mondays now more than ever.",
+  "moral": "No matter the age, one can always be a hero in their own unique way."
+}

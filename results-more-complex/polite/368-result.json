@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Grace Morris: The Unexpected Guardian",
+  "summary": "Grace Morris, a 49-year-old advising and cooking enthusiast, unwittingly discovers her superpowers and takes on the challenge of protecting her town from a mysterious threat, learning the importance of courage and community along the way.",
+  "summaryGerman": "Grace Morris, eine 49-jährige Beratungs- und Kochbegeisterte, entdeckt unwissentlich ihre Superkräfte und stellt sich der Herausforderung, ihre Stadt vor einer geheimnisvollen Bedrohung zu schützen, und lernt dabei die Wichtigkeit von Mut und Gemeinschaft.",
+  "summaryDutch": "Grace Morris, een 49-jarige enthousiasteling in adviseren en koken, ontdekt onbedoeld haar superkrachten en gaat de uitdaging aan om haar stad te beschermen tegen een mysterieuze dreiging, waarbij ze het belang van moed en gemeenschap leert.",
+  "summaryFrench": "Grace Morris, passionnée de conseil et de cuisine âgée de 49 ans, découvre par hasard ses super pouvoirs et relève le défi de protéger sa ville contre une menace mystérieuse, apprenant ainsi l'importance du courage et de la communauté.",
+  "moral": "True heroism lies in the unexpected moments and in the will to protect and connect with others.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Grace Morris begins her week as usual by advising at the local community center, feeling energetic as she helps others solve their problems.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuwsday",
+      "text": "While cooking her favorite pasta recipe for a charity event, Grace accidentally discovers her ability to control fire—a secret power triggered by her passion and care.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Excited yet nervous, Grace experiments with her newfound powers, which leads to an unexpected incident, making her feel eerie about her abilities.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Grace decides to embrace her powers and consults a mentor from her advising network for guidance on how to use them responsibly.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A mysterious threat looms over the town, and Grace feels triumphant as she manages to prevent a fire with her special abilities, earning the admiration of the townfolk.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With her confidence growing, Grace hosts a cooking class to bring her community together, using the class to subtly teach safety and preparedness, fostering a romantic atmosphere.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The town celebrates Grace's courage with a fest, where she feels deeply connected to her community and peaceful at the heroic role she's grown into.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Grace Morris had transformed, from a humble adviser and cook to a brave protector, finding strength in the life she had always loved."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Creative Crusader: The Tale of Kevin Hayes",
+  "summary": "Kevin Hayes, a 41-year-old advertising professional with a passion for drawing, inadvertently gains the power to alter reality with his sketches. Over the span of one week, he transforms from an everyday man into a superhero, combating crime and corruption.",
+  "summaryGerman": "Kevin Hayes, ein 41-jähriger Werbefachmann mit einer Leidenschaft für das Zeichnen, gewinnt unabsichtlich die Fähigkeit, die Realität mit seinen Skizzen zu verändern. Innerhalb einer Woche verwandelt er sich von einem Alltagsmann in einen Superhelden, der Kriminalität und Korruption bekämpft.",
+  "summaryDutch": "Kevin Hayes, een 41-jarige reclameprofessional met een passie voor tekenen, krijgt per ongeluk de kracht om de realiteit met zijn schetsen te veranderen. In de loop van een week verandert hij van een alledaagse man in een superheld, die misdaad en corruptie bestrijdt.",
+  "summaryFrench": "Kevin Hayes, un professionnel de la publicité de 41 ans passionné de dessin, acquiert par inadvertance le pouvoir de modifier la réalité avec ses croquis. En l'espace d'une semaine, il se transforme d'un homme ordinaire en un super-héros, luttant contre le crime et la corruption.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Kevin Hayes, while sketching during his lunch break at the advertising agency, accidentally spills a mysterious chemical on his drawing pad. As soon as the liquid touches the drawn lines, the images begin to shimmer and suddenly materialize into reality.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Excited and slightly overwhelmed by his newfound abilities, Kevin starts experimenting. He draws a locked safe and miraculously finds the real version in front of him. A sense of responsibility begins to dawn on him.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesay",
+      "text": "Seeing the rising crime reports, Kevin considers using his powers for good. He sketches a series of crime-stopping gadgets and equips himself. After stopping a local burglary with his inventions, Kevin feels triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "As news spreads of a mysterious new hero, Kevin feels the pressure but is determined to help more. He sketches a disguise and becomes known as 'The Creative Crusader', vowing to clean up the city's streets.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Kevin's story hits the news, and while his identity remains hidden, he becomes a subject of public interest. Balancing his daily job and nightly heroics, Kevin draws a peaceful corner of the world in his sketchpad to relax.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The villainous Mr. Cynic, who profits from the city's corruption, learns of Kevin’s impact and attempts to stop him. Using his drawings, Kevin creates protective barriers and gadgets to fend off the assaults.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "In a final epic showdown, Kevin confronts Mr. Cynic at the city’s central square. With a powerful drawing that symbolizes justice and peace, he captures the villain, restoring peace to the city.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "And thus, with pen and courage, Kevin Hayes transformed his city, one sketch at a time.",
+  "moral": "Imagination is not only the uniquely human capacity to envision that which is not; it is the foundation of all invention and innovation."
+}

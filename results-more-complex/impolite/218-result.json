@@ -1,0 +1,46 @@
+{
+  "title": "Alice Simmons: The Melody of Justice",
+  "summary": "Alice Simmons, a 32-year-old music conductor, discovers her ability to manipulate sound waves during a weeklong adventure, using her powers to combat crime and teach valuable lessons in her community.",
+  "summaryGerman": "Alice Simmons, eine 32-jährige Dirigentin, entdeckt während eines einwöchigen Abenteuers ihre Fähigkeit, Schallwellen zu manipulieren, und nutzt ihre Kräfte, um Verbrechen zu bekämpfen und wertvolle Lektionen in ihrer Gemeinschaft zu vermitteln.",
+  "summaryDutch": "Alice Simmons, een 32-jarige muziekdirigent, ontdekt haar vermogen om geluidsgolven te manipuleren tijdens een week lang avontuur, en gebruikt haar krachten om misdaad te bestrijden en waardevolle lessen te geven in haar gemeenschap.",
+  "summaryFrench": "Alice Simmons, une cheffe d'orchestre de 32 ans, découvre sa capacité à manipuler les ondes sonores au cours d'une aventure d'une semaine, utilisant ses pouvoirs pour combattre le crime et enseigner des leçons précieuses dans sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Alice discovers her sound manipulation abilities during a chaotic rehearsal when she unintentionally stops a falling stage light with a powerful note.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Inspired, Alice spends the day experimenting with her new powers, learning to control frequencies to create different effects.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Alice foils a robbery at a local bank using a disorienting sonic boom, feeling a mix of excitement and responsibility with her powers.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Faced with doubts, Alice reflects on her role and fears the danger it could bring to her students; she seeks counsel from a trusted mentor.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Fiday",
+      "text": "Rejuvenated by supportive words, Alice crafts a musical program to teach kids about courage and integrity, subtly integrating sound lessons.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Alice holds a concert in the park; unknown to the audience, she uses the event to subtly scan for and neutralize hidden threats, keeping her city safe.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "At a local award ceremony, Alice is honored for her community service, not for her secret heroics but for her public contributions as a teacher.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "As the applause roared, Alice knew her strongest power was not in her hands, but in her heart.",
+  "moral": "True heroism lies not just in great acts, but in the daily courage to make a positive difference."
+}

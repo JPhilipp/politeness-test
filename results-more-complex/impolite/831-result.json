@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Mallory James: A Superhero's Legacy",
+  "summary": "Mallory James, a 68-year-old tutor, discovers her ability to manipulate time during a week of tutoring, leading her to avert a disaster and change her community.",
+  "summaryGerman": "Mallory James, eine 68-jährige Tutorin, entdeckt ihre Fähigkeit, die Zeit während einer Tutoringwoche zu manipulieren, was sie dazu bringt, eine Katastrophe zu verhindern und ihre Gemeinschaft zu verändern.",
+  "summaryDutch": "Mallory James, een 68-jarige tutor, ontdekt haar vermogen om tijd te manipuleren tijdens een week van tutoring, wat haar leidt tot het afwenden van een ramp en het veranderen van haar gemeenschap.",
+  "summaryFrench": "Mallory James, une tutrice de 68 ans, découvre sa capacité à manipuler le temps pendant une semaine de tutorat, ce qui la conduit à éviter un désastre et à changer sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Mallory James felt a strange sensation as she explained mathematical theories to her pupil. The clock on the wall seemed to pause momentarily.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Testing her newfound powers, Mallory discovered she could rewind a few seconds back. She used it to correct a student's mistake before it discouraged him.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Mallory eagerly shared her secret with her close friend, who encouraged her to explore this gift more responsibly.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursaday",
+      "text": "A minor earthquake hit the city. Mallory slowed down time and safely evacuated her tutoring class before anything could fall.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The news of Mallory’s heroic act spread, and she was invited to a community meeting to discuss safety protocols.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "At the meeting, Mallory felt overwhelmed but used her experience as a tutor to effectively communicate her ideas, improving the town's disaster response plans.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Mallory decided to use her powers to continue to protect and educate her community.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Mallory James never expected to be a superhero, but life had its own plans.",
+  "moral": "Even the most ordinary people can have extraordinary impact with the right abilities and intentions."
+}

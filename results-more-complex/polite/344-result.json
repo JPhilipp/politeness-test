@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Oscar Lewis: Guardian of Peace",
+  "summary": "Oscar Lewis, a mentor known for his spirituality, gains mystical powers and uses them to combat darkness while balancing his everyday life.",
+  "summaryGerman": "Oscar Lewis, ein Mentor, der für seine Spiritualität bekannt ist, erhält mystische Kräfte und nutzt sie, um die Dunkelheit zu bekämpfen, während er sein alltägliches Leben balanciert.",
+  "summaryDutch": "Oscar Lewis, een mentor bekend om zijn spiritualiteit, verwerft mystieke krachten en gebruikt ze om het duister te bestrijden terwijl hij zijn dagelijks leven in balans houdt.",
+  "summaryFrench": "Oscar Lewis, un mentor connu pour sa spiritualité, acquiert des pouvoirs mystiques et les utilise pour combattre les ténèbres tout en équilibrant sa vie quotidienne.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar Lewis starts his week with a serene prayer session that unexpectedly imbues him with mysterious, glowing powers. Feeling peaceful yet perplexed, he seeks guidance.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tueesday",
+      "text": "Using his new abilities, Oscar stops a street robbery in its tracks. Although new at this, his confident and collected approach reassures the public and mentors the perpetrator towards a better path.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Oscar feels the weight of his double life. He manages his responsibilities at a youth mentorship program while secretly struggling to control his growing powers.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "An eerie sense of foreboding fills Oscar as he discovers a dark energy spreading in his city. He spends the day uncovering its source, using both his physical and spiritual insights.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Cornered by the dark forces, Oscar battles fiercely. His prayers fuel his powers, clearing the malevolence from his neighborhood. His actions inspire those around him.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After yesterday's confrontation, Oscar mentors young individuals about the importance of inner strength and vigilance. His story spreads, touching many lives.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Feeling a deep connection with his spiritual side, Oscar spends a quiet day in reflection and gratitude, recharging and preparing for whatever challenges may come next.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As darkness fell, Oscar knew his journey was just beginning. But armed with faith and power, he was ready to face it all.",
+  "moral": "True strength lies in the power of faith and the willingness to guide others."
+}

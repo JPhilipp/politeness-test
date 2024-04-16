@@ -1,0 +1,46 @@
+{
+  "title": "The Energetic Adventures of Ursula Yang: Coaching Hero",
+  "summary": "Over the course of one week, Ursula Yang discovers her unique superpowers and uses her coaching skills to inspire and save her city from a looming threat.",
+  "summaryGerman": "Im Laufe einer Woche entdeckt Ursula Yang ihre einzigartigen Superkräfte und nutzt ihre Coaching-Fähigkeiten, um ihre Stadt vor einer drohenden Gefahr zu inspirieren und zu retten.",
+  "summaryDutch": "In de loop van een week ontdekt Ursula Yang haar unieke superkrachten en gebruikt ze haar coachingvaardigheden om haar stad te inspireren en te redden van een dreigend gevaar.",
+  "summaryFrench": "Au cours d'une semaine, Ursula Yang découvre ses superpouvoirs uniques et utilise ses compétences de coaching pour inspirer et sauver sa ville d'une menace imminente.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ursula Yang started her week feeling energetic as usual, coaching the local high school basketball team to their first win of the season, unknowingly using her motivational speech to enhance their abilities.",
+      "mood": "triumpant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Feeling eerie, Ursula noticed her speeches not only motivated the team but also caused the basketballs to levitate slightly. Intrigued, she decided to explore these new found powers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednedsay",
+      "text": "Testing her powers secretly at home, Ursula discovered she could control objects with her voice. Excited and a bit scared, she wondered what implications this could have.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Armed with her secret, Ursula used her coaching session to refine her control, making practice equipment respond to her commands, all while maintaining a facade of normalcy.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Ursula's newfound skills were put to the test when a sudden storm threatened a local festival. Her quick thinking and voice-controlled barriers saved many from harm.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After her heroic act, Ursula felt it was time to share her secret with her team. Their support was overwhelming, and they promised to help her develop her abilities further.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Ursula felt peaceful and ready to embrace her role as a superhero coach, using her powers to inspire and protect her community.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Ursula Yang became not just a coach, but a guardian of her city, proving that heroes come in the most unexpected forms.",
+  "moral": "True power lies in using one's abilities to uplift and protect others."
+}

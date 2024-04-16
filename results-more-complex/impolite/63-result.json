@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Oscar Parker: A Hero In Plain Sight",
+  "summary": "Oscar Parker, a mild-mannered tutor, discovers his ability to manipulate time, using it to prevent accidents and solve crises throughout a week, ultimately embracing his role as a local superhero.",
+  "summaryGerman": "Oscar Parker, ein zurückhaltender Tutor, entdeckt seine Fähigkeit, die Zeit zu manipulieren, nutzt sie, um Unfälle zu verhindern und Krisen zu lösen, und akzeptiert schließlich seine Rolle als lokaler Superheld.",
+  "summaryDutch": "Oscar Parker, een bescheiden tutor, ontdekt zijn vermogen om tijd te manipuleren, gebruikt het om ongelukken te voorkomen en crises op te lossen, en omarmt uiteindelijk zijn rol als lokale superheld.",
+  "summaryFrench": "Oscar Parker, un tuteur modeste, découvre sa capacité à manipuler le temps, l'utilise pour prévenir les accidents et résoudre les crises tout au long d'une semaine, et finit par embrasser son rôle de super-héros local.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "At the local coffee shop, Oscar Parker, a 36-year-old tutor, pauses time to prevent a child from running into the street. The chill of the moment leaves him both startled and energized.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesdday",
+      "text": "Experimenting further, Oscar helps an elderly lady retrieve her lost cat by freezing time, allowing him to climb and safely retrieve the cat from a tall tree. The serene sunset adds a peaceful mood to the triumph.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Oscar faces a dilemma as he stops a robbery in progress. The rush of the moment and the gratitude of the victims make him feel truly triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A strange, eerie feeling overtakes Oscar as he realizes someone has been watching him manipulate time. His secret might not be safe for long.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Oscar confronts the stranger, who turns out to be another time manipulator. They share a romantic walk discussing their powers and responsibilities.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Together, they avert a major accident on a busy intersection, acting like a well-coordinated team. The day ends on an epic note as they begin to plan how to use their powers for greater good.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Oscar feels happy and fulfilled, confident in his new role as a hero. He spends the day advising young super heroes, sharing lessons of courage and moral responsibility.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And so, Oscar Parker decided to use his gifts not just in his neighborhood but wherever duty called, ready to pause time and make a difference.",
+  "moral": "With great power comes the responsibility to use it wisely and for the benefit of others."
+}

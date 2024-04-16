@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Bob King: A Superhero at 67",
+  "summary": "Bob King, a 67-year-old retired teacher, discovers his late-blooming superpowers during a week of mentoring and social service, ultimately saving his community from unexpected danger.",
+  "summaryGerman": "Bob King, ein 67-jähriger pensionierter Lehrer, entdeckt während einer Woche des Mentorings und sozialen Engagements seine spät aufblühenden Superkräfte und rettet letztendlich seine Gemeinde vor unerwarteter Gefahr.",
+  "summaryDutch": "Bob King, een 67-jarige gepensioneerde leraar, ontdekt zijn laat ontluikende superkrachten tijdens een week van mentorschap en maatschappelijke dienstverlening, en redt uiteindelijk zijn gemeenschap van onverwacht gevaar.",
+  "summaryFrench": "Bob King, un enseignant retraité de 67 ans, découvre ses superpouvoirs tardifs pendant une semaine de mentorat et de service social, sauvant finalement sa communauté d'un danger inattendu.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Bob King starts his week with a peaceful morning of gardening, unknowingly absorbing a mysterious energy from a meteorite fragment in his soil.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Feeling unusually energetic, Bob volunteers at a local school, where he effortlessly lifts a car off a trapped cat, astonishing everyone.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Bob mentors young teachers and uses his new powers to repair broken school equipment instantly, making him feel triumphant and useful.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Rumors of Bob's deeds spread, making his Thursday eerie as mysterious figures observe him from a distance.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Local criminals attempt to exploit Bob's powers. He outsmarts them with his wisdom and new abilities, leading to a dramatic showdown.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The community rallies around Bob, celebrating his heroism with a romantic evening event, where he shares a dance with his long-time crush.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Bob feels happy and decides to use his superpowers to continue teaching, mentoring, and protecting his community.",
+      "mood": "happy"
+    }
+  ],
+  "moral": "No matter the age, you're never too old to make a difference.",
+  "ending": "And so, Bob King lived each new day as a mentor, a hero, and a beloved figure in his community."
+}

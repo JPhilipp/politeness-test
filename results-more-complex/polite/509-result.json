@@ -1,0 +1,46 @@
+{
+  "title": "Zelda Reed: The Code Crusader",
+  "summary": "Zelda Reed, a programmer and crochet enthusiast, discovers her superpowers and embarks on a journey to save her city from a mysterious cyber-threat, all while balancing her daily life. Over a week, she grows into her newfound abilities and saves the day in a truly epic showdown.",
+  "summaryGerman": "Zelda Reed, eine Programmiererin und Häkelbegeisterte, entdeckt ihre Superkräfte und begibt sich auf eine Reise, um ihre Stadt vor einer mysteriösen Cyber-Bedrohung zu retten, während sie ihr tägliches Leben in Einklang bringt. Innerhalb einer Woche wächst sie in ihre neu entdeckten Fähigkeiten hinein und rettet in einem wahrhaft epischen Showdown den Tag.",
+  "summaryDutch": "Zelda Reed, een programmeur en haakliefhebber, ontdekt haar superkrachten en begint aan een reis om haar stad te redden van een mysterieuze cyberdreiging, terwijl ze haar dagelijkse leven in evenwicht houdt. Gedurende een week groeit ze in haar nieuw gevonden vaardigheden en redt de dag in een werkelijk epische confrontatie.",
+  "summaryFrench": "Zelda Reed, une programmeuse et passionnée de crochet, découvre ses super-pouvoirs et se lance dans une aventure pour sauver sa ville d'une menace cybernétique mystérieuse, tout en équilibrant sa vie quotidienne. En une semaine, elle grandit dans ses nouvelles capacités et sauve la journée lors d'un affrontement épique.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda Reed starts her week like any other, programming at a tech company. But while crocheting a scarf at lunch, she finds the yarn imbued with a strange glow that grants her the power to manipulate digital devices.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuseday",
+      "text": "Testing her new abilities, Zelda discreetly stops a subway train from a malfunction that would have caused chaos. She feels a blend of excitement and responsibility.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "A mysterious hacker group causes citywide blackouts. Zelda uses her crocheting to weave a protective net around the city’s main servers, thwarting further attacks.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Feeling the weight of her dual life, Zelda struggles with keeping her secret from her colleagues and friends, which casts a shadow over her day.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "As the hacker group launches a full-scale attack, Zelda, after a pep talk from an unexpected ally, feels ready to face them in what could be the final showdown.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During an intense cyber battle, Zelda’s programming skills and superpowers synergize, allowing her to trace the attack back to its source and neutralize it.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "With the city safe again, Zelda spends a peaceful day crocheting with friends, her heroic deeds known only to her and a trusted few, pondering her future as the Code Crusader.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "The city would sleep well tonight, unaware of how close it had come to chaos, all thanks to Zelda Reed, whose double life had just begun.",
+  "moral": "The blend of ordinary talents and extraordinary circumstances can create a hero from anyone."
+}

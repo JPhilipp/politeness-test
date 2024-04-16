@@ -1,0 +1,46 @@
+{
+  "title": "The Chronicles of Victor Johnson: Guiding Light",
+  "summary": "Victor Johnson, a 26-year-old tutor, discovers his ability to see into the future during a week of guiding and tutoring, using it to avert a disaster and become a local hero.",
+  "summaryGerman": "Victor Johnson, ein 26-jähriger Tutor, entdeckt seine Fähigkeit, während einer Woche des Unterrichtens und Tutoring in die Zukunft zu sehen. Er nutzt sie, um eine Katastrophe zu verhindern und wird ein lokaler Held.",
+  "summaryDutch": "Victor Johnson, een 26-jarige tutor, ontdekt zijn vermogen om tijdens een week van begeleiding en tutoring in de toekomst te kijken. Hij gebruikt het om een ramp te voorkomen en wordt een lokale held.",
+  "summaryFrench": "Victor Johnson, un tuteur de 26 ans, découvre sa capacité à voir dans l'avenir pendant une semaine d'encadrement et de tutorat, l'utilisant pour éviter un désastre et devenir un héros local.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Victor Johnson starts his week feeling enthusiastic and energetic as he prepares for a week full of tutoring sessions in physics and mathematics.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While reviewing material, Victor unexpectedly foresees a serious accident at the local subway station later that day. He decides to act.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesdsay",
+      "text": "Victor arrives at the station just in time to guide everyone to safety, moments before the accident takes place, feeling triumphant about his newfound abilities.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Questioning the origins of his powers, Victor spends a peaceful day researching and reflecting, hoping to understand his visions better.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Victor uses his vision to successfully tutor a struggling student, foreseeing the academic difficulties and customizing his teaching approach accordingly, sharing a happy moment.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Victor feels a romantic stir when he meets a fellow tutor who appears interested in both his teaching methods and his heroic act.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The community recognizes Victor's heroics with a small ceremony, leaving him feeling respected and valued, closing the week on an epic note.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Victor Johnson learned that true heroism lies in using one's unique abilities to light the way for others.",
+  "moral": "Embrace your unique talents and use them to make a positive impact in the world."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Eerie Escapades of Nancy Stewart: The Counselor with a Secret",
+  "summary": "Nancy Stewart, a 60-year-old counselor by day, reveals her secret powers to combat a mysterious force terrorizing her community over a week.",
+  "summaryGerman": "Nancy Stewart, tagsüber Beraterin, enthüllt ihre geheimen Kräfte, um über eine Woche hinweg eine mysteriöse Kraft zu bekämpfen, die ihre Gemeinde terrorisiert.",
+  "summaryDutch": "Nancy Stewart, overdag een counselor, onthult haar geheime krachten om gedurende een week een mysterieuze kracht te bestrijden die haar gemeenschap terroriseert.",
+  "summaryFrench": "Nancy Stewart, conseillère de jour, révèle ses pouvoirs secrets pour combattre une force mystérieuse qui terrorise sa communauté pendant une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Nancy starts her week peacefully at the local community center, offering wise counsel to her clients. Little does she know, eerie disturbances are about to unfold.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "The disturbances escalate as local pets start to behave oddly. Nancy, sensing something amiss, uses her hidden telepathic abilities to calm the animals, feeling increasingly eerie.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wenesday",
+      "text": "Reports of strange shadows fill the town. Nancy confronts these spectral figures, revealing her ability to manipulate light to dispel shadows.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The source of the disturbances, a forgotten cavern beneath the town, draws Nancy's attention. She ventures inside, her heart heavy with the sad history it holds.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Inside the cavern, Nancy discovers ancient artifacts charging the eerie phenomena. She uses her wisdom to deactivate them, restoring normality.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Grateful townsfolk celebrate Nancy's heroics. Her mysterious powers no longer a secret, she feels a romantic sense of connection with her community.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Nancy reflects on her adventurous week at a local gathering, feeling triumphant yet eager to return to her quieter life of counseling.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Nancy Stewart proved that heroes come in unlikely forms, and that peace often prevails through unseen battles.",
+  "moral": "Never underestimate the extraordinary capabilities hidden in ordinary individuals."
+}

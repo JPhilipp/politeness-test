@@ -1,0 +1,46 @@
+{
+  "title": "The Energetic Adventures of Heidi Hughes",
+  "summary": "Heidi Hughes discovers her ability to manipulate kinetic energy during her morning spin class. Throughout the week, she learns to control her powers, mentors young athletes, and confronts a mysterious figure causing unrest in the city.",
+  "summaryGerman": "Heidi Hughes entdeckt ihre Fähigkeit, kinetische Energie während ihres Morgenspin-Kurses zu manipulieren. Im Laufe der Woche lernt sie, ihre Kräfte zu kontrollieren, junge Athleten zu betreuen und sich einer geheimnisvollen Gestalt zu stellen, die in der Stadt Unruhe stiftet.",
+  "summaryDutch": "Heidi Hughes ontdekt haar vermogen om kinetische energie te manipuleren tijdens haar ochtendspinles. Gedurende de week leert ze haar krachten te controleren, mentort jonge atleten en confronteert een mysterieus figuur die onrust in de stad veroorzaakt.",
+  "summaryFrench": "Heidi Hughes découvre sa capacité à manipuler l'énergie cinétique pendant son cours de spinning matinal. Tout au long de la semaine, elle apprend à contrôler ses pouvoirs, à encadrer de jeunes athlètes et à affronter une figure mystérieuse qui sème le trouble dans la ville.",
+  "moral": "With great power comes great responsibility.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Heidi Hughes starts her week with an invigorating spinning class. Midway through, she suddenly feels a surge of energy and accidentally speeds up all the bikes in the room.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Experimenting with her new powers, Heidi learns she can control the kinetic energy around her. She spends the day helping her friends complete a local marathon more easily, sharing her energy.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "In her mentoring role, Heidi advises young athletes on balancing sports and education, subtly using her energy to enhance their training sessions.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thirsday",
+      "text": "Heidi encounters a mysterious figure draining energy from the city's power grid. She feels an eerie connection to them.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Heidi decides to confront the energy thief. After a thrilling chase through the city, she manages to talk to him, learning he is a lost soul seeking help.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Utilizing her mentorship experience, Heidi helps the former thief find a purpose by guiding him to use his powers for good.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Celebrating the week's successes, Heidi hosts a community spin class, using her powers to energize and inspire all attendees.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Heidi Hughes found her true power not just in her abilities, but in empowering others."
+}

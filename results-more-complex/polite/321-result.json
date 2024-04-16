@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Brush of Walter Parker",
+  "summary": "Walter Parker, a 51-year-old who loves coaching and painting, discovers his powers to influence reality with his art, using them to combat a creeping darkness over his city.",
+  "summaryGerman": "Walter Parker, ein 51-jähriger, der Coaching und Malerei liebt, entdeckt seine Fähigkeiten, die Realität mit seiner Kunst zu beeinflussen und verwendet sie, um eine sich ausbreitende Dunkelheit in seiner Stadt zu bekämpfen.",
+  "summaryDutch": "Walter Parker, een 51-jarige die van coaching en schilderen houdt, ontdekt zijn krachten om met zijn kunst de realiteit te beïnvloeden en gebruikt ze om een sluipende duisternis in zijn stad te bestrijden.",
+  "summaryFrench": "Walter Parker, un homme de 51 ans qui aime l'entraînement et la peinture, découvre ses pouvoirs pour influencer la réalité avec son art, qu'il utilise pour combattre une obscurité envahissante dans sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Walter Parker spends his evening painting a serene lakeside vista and suddenly the scene comes to life, as water begins to drip from the canvas.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Empowered by yesterday's discovery, Walter experiments by painting birds. As he finishes, the painted birds fly off the canvas, filling his studio with enthusiastic chirps.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "While coaching his local basketball team, he sketches the opposing team as a troupe of sloths in his notebook. Suddenly, the opponents start moving sluggishly, ensuring a win for Walter's team.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thrusday",
+      "text": "Realizing the potential of his powers, Walter paints a dark cloud over his city vanishing. As he paints, the actual dark clouds dissipating bring sunshine to a previously gloomy city.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Walter attempts a romantic painting of a couple under starlight. That night, he meets someone special under remarkably similar circumstances, suggesting his art might influence his life too.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Inspired, Walter paints an epic battle between light and darkness over his cityscape. The next day, news reports indicate a mysterious dissipation of the pervasive gloom among citizens.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "As the week closes, Walter reflects on how his actions have reshaped his world and decides to continue using his art for the greater good, painting a peaceful future.",
+      "mood": "reflective"
+    }
+  ],
+  "ending": "And so, Walter Parker continued painting realities, quietly shaping a better tomorrow.",
+  "moral": "Create with intent, for even the smallest strokes can change the world."
+}

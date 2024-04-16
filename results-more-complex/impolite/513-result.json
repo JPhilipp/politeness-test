@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Zelda Young: Guardian of Knowledge",
+  "summary": "Zelda Young, a devoted mentor, discovers her superpowers while tutoring kids, leading her to combat ignorance in her city and ultimately foil a cyber-attack intended to wipe educational resources online.",
+  "summaryGerman": "Zelda Young, eine engagierte Mentorin, entdeckt ihre Superkräfte, während sie Kinder unterrichtet, was sie dazu bringt, gegen Unwissenheit in ihrer Stadt zu kämpfen und letztendlich einen Cyber-Angriff zu vereiteln, der darauf abzielt, Bildungsressourcen online zu löschen.",
+  "summaryDutch": "Zelda Young, een toegewijde mentor, ontdekt haar superkrachten tijdens het begeleiden van kinderen, waardoor ze de strijd aangaat met onwetendheid in haar stad en uiteindelijk een cyberaanval verijdelt die bedoeld was om onderwijsmiddelen online te wissen.",
+  "summaryFrench": "Zelda Young, une mentor dévouée, découvre ses superpouvoirs tout en tutorant des enfants, ce qui la conduit à combattre l'ignorance dans sa ville et finalement à déjouer une cyber-attaque destinée à effacer les ressources éducatives en ligne.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda Young spent her morning tutoring children in mathematics, feeling energetic about the visible progress her students made.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "During a tutoring session, Zelda accidentally projected a problem solution onto the board with a wave of her hand, revealing her superpower.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednedsay",
+      "text": "Zelda experimented with her powers at home, realizing she can manipulate digital information, feeling eerie about the implications.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Zelda decided to use her superpower for good, helping students remotely by fixing misinformation in their online resources.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "She encountered an encrypted message online, hinting at a cyber-attack aimed at erasing educational content over the weekend.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Working all day, Zelda traced the cyber-attack to its source and managed to avert the crisis, saving countless educational resources.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Zelda rested, reflecting on her week and realizing the responsibility her powers came with, feeling at peace with her role as a guardian.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Zelda vowed to continue defending the realm of knowledge, one day at a time.",
+  "moral": "With great power comes great responsibility; use your abilities to foster wisdom and protect learning."
+}

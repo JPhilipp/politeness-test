@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Ivan Rogers: A Hero at 65",
+  "summary": "Over one week, Ivan Rogers, a retired businessman with a passion for mentoring, discovers his unique powers of influencing the future. He uses this newfound ability to transform his community for the better.",
+  "summaryGerman": "Über eine Woche hinweg entdeckt Ivan Rogers, ein pensionierter Geschäftsmann mit einer Leidenschaft für Mentoring, seine einzigartigen Fähigkeiten, die Zukunft zu beeinflussen. Er nutzt diese neu gewonnene Fähigkeit, um seine Gemeinde zum Besseren zu verändern.",
+  "summaryDutch": "Gedurende één week ontdekt Ivan Rogers, een gepensioneerde zakenman met een passie voor mentoring, zijn unieke vermogen om de toekomst te beïnvloeden. Hij gebruikt deze nieuw gevonden vaardigheid om zijn gemeenschap ten goede te veranderen.",
+  "summaryFrench": "Au cours d'une semaine, Ivan Rogers, un homme d'affaires à la retraite passionné de mentorat, découvre ses pouvoirs uniques d'influencer l'avenir. Il utilise cette capacité nouvellement trouvée pour transformer sa communauté en mieux.",
+  "moral": "It's never too late to discover new strengths and contribute positively to society.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ivan Rogers starts his day feeling energetic. While mentoring young entrepreneurs at a local community center, he inexplicably predicts a startup’s success, feeling oddly confident in his vision.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesady",
+      "text": "Still puzzled by yesterday’s accuracy, Ivan advises another startup. Within hours, news breaks that they secured major funding, and Ivan feels a surge of triumph.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Curiosity leads Ivan to test his new ability. He mentors a struggling writer, foreseeing a bestselling book. Later, a famous publisher calls the writer for a meeting. It's all quite eerie.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Filled with a romantic desire to help others, Ivan spends the day connecting emotionally with people, advising them kindly. His words seem to uplift everyone he speaks to.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Ivan formally accepts his role, he decides to use his powers widespread. He organizes a large meeting to mentor local businesses and community projects, feeling utterly epic.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Not all reactions are positive. Some skeptics challenge Ivan’s abilities, casting doubt. Despite this, Ivan remains peaceful, confident in his purpose.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The week concludes with Ivan reflecting on his experiences. He feels sad that the weekend is ending but hopes to continue guiding everyone towards success.",
+      "mood": "sad"
+    }
+  ],
+  "ending": "Thus the week ended, leaving the legacy of Ivan Rogers, a hero not in cape, but with a vision, forever etched in the hearts of those he lifted."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Hubert Bryant: Mentor of Might",
+  "summary": "Throughout one extraordinary week, teenager Hubert Bryant discovers his superpowers and uses them to protect his city while balancing his life as a mentor and promoter.",
+  "summaryGerman": "Während einer außergewöhnlichen Woche entdeckt der Teenager Hubert Bryant seine Superkräfte und nutzt sie, um seine Stadt zu schützen, während er sein Leben als Mentor und Promoter ausbalanciert.",
+  "summaryDutch": "Gedurende één buitengewone week ontdekt tiener Hubert Bryant zijn superkrachten en gebruikt deze om zijn stad te beschermen, terwijl hij zijn leven als mentor en promotor in evenwicht houdt.",
+  "summaryFrench": "Au cours d'une semaine extraordinaire, l'adolescent Hubert Bryant découvre ses superpouvoirs et les utilise pour protéger sa ville tout en équilibrant sa vie de mentor et de promoteur.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Hubert Bryant starts his week feeling energetic after mentoring a successful community event. Unbeknownst to him, a mysterious gem he received as a token of appreciation holds supernatural powers.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Hubert notices unusual strength during his morning routine. Experimenting, he accidentally breaks a door. Realizing his newfound power, he decides to explore its limits.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Hubert saves a cat stuck in a tall tree, his first act as a superhero. His confidence grows, and he embraces his role to protect the weak.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tursday",
+      "text": "Rumors of a new hero in town spread. Hubert feels torn between his normal life and superhero duties but manages to handle both with enthusiasm.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Hubert becomes a local celebrity. While promoting a charity event, he discreetly thwarts a robbery, merging his two worlds seamlessly.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a mentoring session, Hubert teaches the value of helping others. He inspires his peers to act righteously, spreading goodness beyond his direct actions.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Hubert feels happy and fulfilled. He vows to continue his double life, balancing his personal passions with his responsibilities as a hero.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, Hubert Bryant, the young mentor, becomes the beacon of hope and justice in his city, inspiring all who know his story.",
+  "moral": "Embracing your true identity and powers can allow you to make a significant difference in the world and your community."
+}

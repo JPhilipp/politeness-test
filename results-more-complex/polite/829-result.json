@@ -1,0 +1,46 @@
+{
+  "title": "The Embroidering Avenger: Charlie Rodriguez",
+  "summary": "Charlie Rodriguez, a 77-year-old superhero, uses his unique talents in embroidery and producing to battle crime and solve mysteries in his community over the course of a week.",
+  "summaryGerman": "Charlie Rodriguez, ein 77-jähriger Superheld, nutzt seine einzigartigen Talente in der Stickerei und Produktion, um innerhalb einer Woche Verbrechen zu bekämpfen und Rätsel in seiner Gemeinde zu lösen.",
+  "summaryDutch": "Charlie Rodriguez, een 77-jarige superheld, gebruikt zijn unieke talenten in borduren en produceren om gedurende een week criminaliteit te bestrijden en mysteries in zijn gemeenschap op te lossen.",
+  "summaryFrench": "Charlie Rodriguez, un super-héros de 77 ans, utilise ses talents uniques en broderie et en production pour lutter contre le crime et résoudre des mystères dans sa communauté au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Charlie discovers a mysterious map sewn into one of his old embroidery projects.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Decoding the map, Charlie finds it points to a legendary hidden treasure in his own neighborhood.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wensday",
+      "text": "Charlie teams up with local youths, teaching them embroidery skills to create disguises for their treasure hunt.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The group encounters a gang of thieves also hunting for the treasure. Charlie cleverly distracts them with a theatrical performance.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Using the clues embroidered into their costumes, the team locates the treasure: a time capsule filled with historical artifacts.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Charlie helps to organize a community festival to celebrate their discovery and showcase their embroidered artworks.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The treasures and stories of the week are added to the local museum, with Charlie honored as a hero.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Charlie Rodriguez proves that heroes come in all ages, and every skill, no matter how quaint, can save the day.",
+  "moral": "Never underestimate the power of creativity and community in making a difference."
+}

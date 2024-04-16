@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Linda Brooks: Counselor by Day, Hero by Night",
+  "summary": "Linda Brooks, a 57-year-old with a passion for counseling, discovers her hidden powers and uses them to resolve conflicts and bring peace to her community over the course of a week.",
+  "summaryGerman": "Linda Brooks, eine 57-jährige Frau mit einer Leidenschaft für Beratung, entdeckt ihre verborgenen Fähigkeiten und nutzt sie, um Konflikte zu lösen und innerhalb einer Woche Frieden in ihrer Gemeinde zu bringen.",
+  "summaryDutch": "Linda Brooks, een 57-jarige met een passie voor counseling, ontdekt haar verborgen krachten en gebruikt ze om conflicten op te lossen en vrede te brengen in haar gemeenschap gedurende een week.",
+  "summaryFrench": "Linda Brooks, âgée de 57 ans avec une passion pour le conseil, découvre ses pouvoirs cachés et les utilise pour résoudre des conflits et apporter la paix dans sa communauté au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Linda Brooks starts her week feeling energetic as she manages to mediate a particularly challenging case at the community center.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tudsday",
+      "text": "An eerie chill sweeps over Linda during a late evening walk, where she stumbles upon a mysterious amulet that grants her the power to perceive people’s emotions vividly.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Empowered by her newfound abilities, Linda uses her emotional insight to diffuse a heated argument in her neighborhood, feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Continuing her regular counseling sessions, she uses her powers to better understand her clients' needs, achieving a deep, peaceful connection with them.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Linda feels happy as news of her mediating successes spreads, and she is invited to a local talk show to discuss conflict resolution.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Using her powers and experience, Linda holds a community workshop on empathy and understanding, which turns out to be incredibly romantic as participants deeply connect with each other.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The week concludes with an epic community gathering organized by Linda, celebrating unity and her role as a secret hero.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "As the sun set on Sunday, Linda smiled, knowing she had made her world a better place, one heart at a time.",
+  "moral": "Hidden powers can emerge from the most unexpected places, and using them for the greater good can transform communities."
+}

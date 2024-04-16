@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Editor: The Week of Pit Harris",
+  "summary": "Pit Harris, a 66-year-old with a passion for persuading and editing, discovers his ability to alter reality by editing written descriptions of the world, using his powers to resolve conflicts and restore peace throughout a turbulent week.",
+  "summaryGerman": "Pit Harris, ein 66-Jähriger mit einer Leidenschaft für Überzeugung und Bearbeitung, entdeckt seine Fähigkeit, die Realität zu verändern, indem er schriftliche Beschreibungen der Welt bearbeitet. Er nutzt seine Kräfte, um Konflikte zu lösen und in einer turbulenten Woche Frieden wiederherzustellen.",
+  "summaryDutch": "Pit Harris, een 66-jarige met een passie voor overtuigen en redigeren, ontdekt zijn vermogen om de realiteit te veranderen door geschreven beschrijvingen van de wereld te bewerken. Hij gebruikt zijn krachten om conflicten op te lossen en vrede te herstellen gedurende een turbulente week.",
+  "summaryFrench": "Pit Harris, un passionné de persuasion et d'édition âgé de 66 ans, découvre sa capacité à modifier la réalité en éditant des descriptions écrites du monde. Il utilise ses pouvoirs pour résoudre des conflits et rétablir la paix tout au long d'une semaine tumultueuse.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Pit Harris stumbles upon an old journal that changes the events described within when edited. He tests his newfound power by rewriting a minor event; to his surprise, it alters reality. The day feels eerie yet exhilarating.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Emboldened, Pit decides to address a local dispute. He edits a public notice to reflect a more favorable outcome, and the parties involved amicably resolve their conflict. The mood is triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wedneday",
+      "text": "Choosing to refine his abilities, Pit spends the day editing past grievances among neighbors. Soon, the community is buzzing with tales of unexpected reconciliations. Pit feels energized by his impactful work.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Overworking starts to take its toll and Pit realizes the gravity of altering reality so casually. A quiet day of reflection leads to an understanding of his responsibility. The mood is peaceful.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With a balanced approach, Pit masterfully edits a city council's contentious meeting minutes, leading to a groundbreaking resolution for the community. Today feels epic in its accomplishments.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "As word of his deeds spreads, Pit encounters skepticism. He spends the day editing personal stories for individuals, restoring their faith in his abilities. The mood is a mix of romance and happiness.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "In a grand gesture, Pit edits a local newspaper's front page, creating a narrative of hope and resilience. The city wakes up inspired. The final day concludes on a happy note.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "In the quiet of his study, Pit Harris laid down his pen, confident that the world was a little bit better for his edits.",
+  "moral": "With great power comes great responsibility; use it wisely to create harmony."
+}

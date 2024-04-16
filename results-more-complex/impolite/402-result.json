@@ -1,0 +1,38 @@
+{
+  "title": "The Week of Mallory Hernandez: Tutor of Destiny",
+  "summary": "Mallory Hernandez, a 35-year-old superhero with a passion for tutoring and persuading, uncovers and foils a devious plot while balancing her everyday duties.",
+  "summaryGerman": "Mallory Hernandez, eine 35-jährige Superheldin mit einer Leidenschaft für Nachhilfe und Überzeugung, entdeckt und vereitelt eine hinterhältige Verschwörung, während sie ihre alltäglichen Pflichten bewältigt.",
+  "summaryDutch": "Mallory Hernandez, een 35-jarige superheldin met een passie voor bijles geven en overtuigen, ontdekt en verijdelt een sluw complot terwijl ze haar dagelijkse taken in evenwicht houdt.",
+  "summaryFrench": "Mallory Hernandez, une super-héroïne de 35 ans passionnée par le tutorat et la persuasion, découvre et déjoue un complot perfide tout en jonglant avec ses obligations quotidiennes.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Mallory starts her week feeling energetic, tutoring local kids and instilling them with a love of learning and confidence."
+    },
+    {
+      "weekday": "Tuseday",
+      "text": "While persuading a shy student to participate in the science fair, Mallory notices suspicious activities around the school. Her mood shifts to eerie."
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Mallory investigates the suspicious figures and discovers a plot to steal the school’s new tech equipment. She feels triumphant as she gathers evidence."
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Using her persuasion skills, she convinces the authorities to take action. There’s a peaceful aura as the situation seems under control."
+    },
+    {
+      "weekday": "Friday",
+      "text": "Mallory heroically intercepts the crooks during their heist attempt. The confrontation is epic, demonstrating her dual power of intellect and strength."
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The community holds a small ceremony to thank her. The mood is romantic as she is given flowers by a thankful student she helped in the past."
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Mallory feels serene. She spends time continuing her tutoring work, feeling happy to have made a difference."
+    }
+  ],
+  "moral": "Knowledge and persuasion can be just as powerful as physical strength in the fight for justice."
+}

@@ -1,0 +1,45 @@
+{
+  "title": "The Week of Zelda Long: A Superhero in Disguise",
+  "summary": "Over the course of a week, 74-year-old Zelda Long, using her wisdom and unique powers, helps her community overcome various challenges, proving that heroism knows no age.",
+  "summaryGerman": "Im Laufe einer Woche hilft die 74-jährige Zelda Long mit ihrer Weisheit und einzigartigen Kräften ihrer Gemeinschaft, verschiedene Herausforderungen zu überwinden, was beweist, dass Heldentum kein Alter kennt.",
+  "summaryDutch": "Gedurende een week helpt Zelda Long, 74 jaar oud, met haar wijsheid en unieke krachten haar gemeenschap om verschillende uitdagingen te overwinnen, wat bewijst dat heldendom geen leeftijd kent.",
+  "summaryFrench": "Au cours d'une semaine, Zelda Long, âgée de 74 ans, utilise sa sagesse et ses pouvoirs uniques pour aider sa communauté à surmonter divers défis, prouvant ainsi que l'héroïsme ne connaît pas d'âge.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda Long spends her morning at the local library, where she incidentally stops a sneaky theft using her ability to manipulate time, allowing her to alert security without raising alarm.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesdey",
+      "text": "While giving her weekly counseling session, Zelda senses the deep sadness of a young man. Through gentle discussion, she helps him find the courage to seek help, transforming his despair into hope.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "A sudden storm traps residents in their homes. Zelda, undeterred, extends her protective aura over her neighborhood, keeping everyone safe and turning a frightening evening into a quiet, secure night.",
+      "mood": "heroic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Zelda uses her free day to dive into her favorite mystery novel, unknowingly preparing her for the eerie occurrences the following night.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Zelda encounters a mysterious figure causing unrest. Using her intellect and the insights from her recently read novel, she unravels the mystery, revealing the figure to be a misunderstood spirit.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Zelda organizes a community gathering, sharing her life experiences and the importance of harmony and wisdom. Inspired, her neighbors feel more connected and appreciative of each other.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ending her week, Zelda reflects on her actions and their impacts, feeling content. Her powers, combined with her wisdom, have quietly safeguarded and uplifted her community.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As the sun sets on Sunday, Zelda closes her book, knowing that even the smallest acts can make a big difference."
+}

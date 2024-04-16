@@ -1,0 +1,46 @@
+{
+  "title": "The Eerie Empathy of Eve Allen",
+  "summary": "Eve Allen discovers her superpower of absorbing emotions, uses it to help those around her, and ultimately resolves a city-wide panic by calming everyone's emotions.",
+  "summaryGerman": "Eve Allen entdeckt ihre Superkraft, Emotionen zu absorbieren, nutzt sie, um den Menschen um sie herum zu helfen, und löst letztendlich eine stadtweite Panik, indem sie die Emotionen aller beruhigt.",
+  "summaryDutch": "Eve Allen ontdekt haar superkracht om emoties te absorberen, gebruikt deze om de mensen om haar heen te helpen, en lost uiteindelijk een stadsbrede paniek op door ieders emoties te kalmeren.",
+  "summaryFrench": "Eve Allen découvre son super pouvoir d'absorber les émotions, l'utilise pour aider ceux autour d'elle, et résout finalement une panique à l'échelle de la ville en calmant les émotions de tout le monde.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Eve Allen, during a session counseling a particularly distressed client, experiences a sudden and overwhelming rush of emotions, not just from within but as if absorbed from her client too.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Testing her new-found abilities in private, Eve touches a tree and feels a deep, serene sadness - the tree is dying from pollution. She vows to use this power to empathize and act.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Wednosday",
+      "text": "Eve touches multiple people in the park, absorbing fragments of their emotional states. She feels exhausted but empowered by the ability to understand so deeply.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "She helps a quarrelling couple understand each other's feelings by transferring emotions from one to the other, creating a night of peace and understanding.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Eve feels emotionally saturated and decides to isolate herself in nature. She meditates to cleanse the overwhelming emotions she's absorbed.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A panic spreads across the city due to a false alarm about an imminent disaster. Eve, reaching out, absorbs waves of fear and replaces it with calm, radiating peace.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The city, now peaceful again, celebrates their unnamed hero. Eve smiles, realizing the potential of her powers and the importance of emotional healing in society.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "In a world overwhelmed with emotions, Eve Allen became a beacon of serene understanding.",
+  "moral": "Understanding and managing one's emotions is crucial to fostering empathy and peace."
+}

@@ -1,0 +1,45 @@
+{
+  "title": "The Week of Mallory Gonzalez: The Consulting Crusader",
+  "summary": "Mallory Gonzalez, a 70-year-old retired superhero, uses her skills in consulting and counseling to tackle and solve a mysterious chain of events affecting her neighborhood, culminating in the triumphant prevention of a major disaster.",
+  "summaryGerman": "Mallory Gonzalez, eine 70-jährige pensionierte Superheldin, nutzt ihre Fähigkeiten in Beratung und Betreuung, um eine mysteriöse Ereigniskette, die ihr Viertel betrifft, zu bewältigen und zu lösen, die mit der triumphalen Verhinderung einer großen Katastrophe endet.",
+  "summaryDutch": "Mallory Gonzalez, een 70-jarige gepensioneerde superheld, gebruikt haar vaardigheden in consultatie en counseling om een mysterieuze reeks gebeurtenissen die haar buurt treffen aan te pakken en op te lossen, uitmondend in het triomfantelijke voorkomen van een grote ramp.",
+  "summaryFrench": "Mallory Gonzalez, une super-héroïne retraitée de 70 ans, utilise ses compétences en conseil et en counseling pour s'attaquer et résoudre une chaîne mystérieuse d'événements affectant son quartier, aboutissant à la prévention triomphante d'une grande catastrophe.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Despite her age, Mallory begins her week full of energy, joyfully meeting with local community leaders to offer her expertise.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Mallory feels an eerie sense of unease as she overhears plans of a mysterious new construction project that could threaten the local park.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Mallory spends a peaceful day gathering information and consulting old friends about the legalities of community land use.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thurdsay",
+      "text": "Armed with evidence and community support, Mallory leads a triumphant town hall meeting that calls for action against the construction project.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Mallory feels happy as the community’s response is overwhelmingly positive, with many offering to help stop the project.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The day is spent in strategic planning sessions, where Mallory’s experience in counseling helps soothe and inspire her neighbors.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The week concludes with an epic gathering of the community, successfully halting the construction project before it begins.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Mallory Gonzalez watched the sunset over the protected park, knowing her city was a little safer thanks to her efforts."
+}

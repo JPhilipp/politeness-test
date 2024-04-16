@@ -1,0 +1,46 @@
+{
+  "title": "The Quilting Guardian: The Adventures of Yvonne Edwards",
+  "summary": "Over the course of a week, Yvonne Edwards, a 58-year-old quilting enthusiast, discovers her latent superpowers of premonition and healing through her quilting hobby to save her community from a sinister threat.",
+  "summaryGerman": "Im Laufe einer Woche entdeckt Yvonne Edwards, eine 58-jährige Quilting-Enthusiastin, ihre verborgenen Superkräfte der Vorahnung und Heilung durch ihr Quilting-Hobby, um ihre Gemeinde vor einer finsteren Bedrohung zu retten.",
+  "summaryDutch": "In de loop van een week ontdekt Yvonne Edwards, een 58-jarige quilting enthousiast, haar latente superkrachten van voorspelling en genezing door haar hobby om haar gemeenschap te redden van een sinistere dreiging.",
+  "summaryFrench": "Au cours d'une semaine, Yvonne Edwards, une passionnée de quilting de 58 ans, découvre ses superpouvoirs latents de prémonition et de guérison grâce à son passe-temps pour sauver sa communauté d'une menace sinistre.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Yvonne Edwards stumbles upon a mysterious piece of fabric with glowing threads while sorting through material at her local fabric store.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Working on her new quilt, Yvonne experiences a sudden vision of an accident at the town square.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Wednesdau",
+      "text": "Yvonne rushes to the square to find the crowd panicked; she calms them with her sudden ability to heal a small child using her quilt.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News spreads of her miraculous deeds; Yvonne is approached by community leaders requesting her help with planning disaster-prevention strategies.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "While planning, Yvonne receives more visions that guide the community to avoid future disasters.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The town holds a celebration in Yvonne's honor; she feels content but senses her abilities grow stronger as she continues quilting.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Yvonne decides to set up a workshop, teaching others to quilt while secretly passing on the knowledge of how to harness their hidden powers for good.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Thus began the legendary tale of Yvonne Edwards, who quilted not just with threads, but with strands of fate and hope.",
+  "moral": "Every skill, no matter how ordinary it seems, has the potential to bring extraordinary good."
+}

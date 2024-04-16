@@ -1,0 +1,46 @@
+{
+  "title": "The Chronicles of Oscar White: The Silent Guardian",
+  "summary": "Oscar White, a 34-year-old who enjoys reading and instructing, discovers his latent superhuman abilities. Throughout a week, he learns to manage these powers and uses them to protect the city from emergent threats, ultimately embracing his role as a quiet yet decisive hero.",
+  "summaryGerman": "Oscar White, ein 34-jähriger Leseratte und Lehrer, entdeckt seine latenten übermenschlichen Fähigkeiten. Innerhalb einer Woche lernt er, diese Kräfte zu kontrollieren und verwendet sie, um die Stadt vor aufkommenden Bedrohungen zu schützen, und nimmt schließlich seine Rolle als stiller, aber entscheidender Held an.",
+  "summaryDutch": "Oscar White, een 34-jarige die van lezen en onderwijzen houdt, ontdekt zijn latente supermenselijke vaardigheden. Gedurende een week leert hij deze krachten te beheersen en gebruikt ze om de stad te beschermen tegen opkomende bedreigingen, en omarmt uiteindelijk zijn rol als een stille maar beslissende held.",
+  "summaryFrench": "Oscar White, un homme de 34 ans qui aime lire et enseigner, découvre ses capacités surhumaines latentes. Tout au long d'une semaine, il apprend à gérer ces pouvoirs et les utilise pour protéger la ville contre les menaces émergentes, finissant par embrasser son rôle de héros discret mais décisif.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar White stumbles upon an ancient book in the library that reveals the secrets of latent superpowers. As he reads, an unknown energy fills the room, igniting a spark within him.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Awakened with newfound abilities, Oscar experiments discreetly, realizing he can manipulate sound and silence. His day is spent learning to control these powers, full of curiosity and wonder.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Oscar saves a local school from a mysterious gas leak by silently evacuating the building and alerting authorities without revealing his identity. He feels the weight of his responsibility.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Reflecting on yesterday’s events, Oscar spends the day absorbing knowledge on heroes of the past, strengthening his resolve to become a protector of his city. He instructs a close friend on safety without divulging his secrets.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A crisis unfolds as a bridge is about to collapse with vehicles on it. Using his powers, Oscar manipulates the sound waves to stabilize the structure temporarily, buying time for a safe evacuation.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Rumors of a silent hero start circulating in the city. Oscar feels a romantic pull towards his normal life, yet understands his duty as a guardian. He spends a quiet day with loved ones, contemplating his dual life.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Embracing his role fully, Oscar dedicates himself to training and preparing for whatever challenges may come next. His resolve is stronger than ever, ready to protect the innocent quietly but effectively.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As the week closed, Oscar stood on the city's rooftops, overlooking the twinkling lights and whispering streets below, a silent guardian ready for the shadows of the night.",
+  "moral": "Great power comes with great responsibility, and true heroes are those who accept it with humility and courage."
+}

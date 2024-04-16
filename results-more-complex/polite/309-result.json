@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Ling Wood: Editing Justice",
+  "summary": "Ling Wood discovers his supernatural editing powers, using them to expose corruption and crime in his city over the course of a week.",
+  "summaryGerman": "Ling Wood entdeckt seine übernatürlichen Bearbeitungskräfte, mit denen er Korruption und Verbrechen in seiner Stadt im Laufe einer Woche aufdeckt.",
+  "summaryDutch": "Ling Wood ontdekt zijn bovennatuurlijke bewerkingskrachten, waarmee hij corruptie en misdaad in zijn stad gedurende een week blootlegt.",
+  "summaryFrench": "Ling Wood découvre ses pouvoirs de montage surnaturels, qu'il utilise pour exposer la corruption et le crime dans sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Wood sits at his desk, editing late-night crime footage. Unexpectedly, the screen flickers and he suddenly sees crimes happening in real-time. Shocked and intrigued, he marks down the events to investigate.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesaday",
+      "text": "Using his editing skills, Ling enhances the videos, identifying the criminals. He tips off the local police anonymously, leading to several arrests.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Emboldened by his successes, Ling Wood publishes a video compilation of unresolved crimes, appealing to the public for information. His channel gains unexpected popularity.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Despite growing recognition, Ling feels a deep sadness. He recognizes that his city is more corrupt than he imagined. Determined, he continues his nighttime training routines, building both physical and mental strength.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A corrupt official tries to intimidate Ling into stopping his investigations. Undeterred, Ling uses this confrontation as content for a new viral video, exposing the official.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With corruption exposed, Ling enjoys a peaceful walk in the park. He meets an old friend who praises his bravery, sparking a new feeling of romance.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ling's story culminates in a large public gathering thanking him. He feels victorious and hopeful, realizing he’s inspired others to act against injustice.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "As Ling Wood watched the city's sun set, he knew his journey was not over, but that he had changed his city forever.",
+  "moral": "The power of truth and determination can transform darkness into light."
+}

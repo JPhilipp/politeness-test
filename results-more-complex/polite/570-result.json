@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Linda White: Reading Counselor Hero",
+  "summary": "Linda White, a 44-year-old superhero, uses her love for reading and counseling to defuse a crisis in her city. Over a week, she solves mysteries and helps bring peace to the community.",
+  "summaryGerman": "Linda White, eine 44-jährige Superheldin, nutzt ihre Liebe zum Lesen und zur Beratung, um eine Krise in ihrer Stadt zu entschärfen. Innerhalb einer Woche löst sie Rätsel und hilft, Frieden in die Gemeinschaft zu bringen.",
+  "summaryDutch": "Linda White, een 44-jarige superheldin, gebruikt haar liefde voor lezen en counseling om een crisis in haar stad te ontmantelen. Gedurende een week lost ze mysteries op en helpt ze vrede te brengen in de gemeenschap.",
+  "summaryFrench": "Linda White, une superhéroïne de 44 ans, utilise son amour de la lecture et du conseil pour désamorcer une crise dans sa ville. Au cours d'une semaine, elle résout des mystères et aide à ramener la paix dans la communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Linda starts her week by discovering a mysterious letter hidden among the books in the library, hinting at a hidden secret in the city. She feels energetic as she prepares to uncover it.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While counseling one of her clients, Linda learns about rumors of underground movements threatening the city’s peace. Her mood turns eerie as she senses the gravity of the situation.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wndesday",
+      "text": "Using her knowledge from countless books, Linda successfully leads the police to a suspect, feeling triumphant as her clues pay off in the investigation.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Linda spends a quiet day at the community center, offering comfort and advice to worried citizens. Her mood is peaceful, knowing she's making a difference.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A surprise turn of events leads Linda to a secret meeting. She feels romantic tension as she collaborates with an old friend to formulate a plan.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Linda and her team execute the plan to neutralize the threat. The day is charged with energy and ends with a community celebration, leaving her happy and fulfilled.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Linda spends her day reading a new book and counseling young superheroes, feeling epic and inspired by her own actions.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Linda closed her book with a smile, ready for whatever new adventures may come her way.",
+  "moral": "The power to change the world can often be found in wisdom and the willingness to listen."
+}

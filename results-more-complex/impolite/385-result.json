@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Linda Green: Mentor by Day, Hero by Night",
+  "summary": "Linda Green, a 24-year-old with hobbies of mentoring and helping, discovers her superpowers and fights her city's darkness, growing as a hero over a bustling week.",
+  "summaryGerman": "Linda Green, eine 24-jährige mit den Hobbys Mentoring und Hilfe, entdeckt ihre Superkräfte und bekämpft die Dunkelheit ihrer Stadt, während sie innerhalb einer geschäftigen Woche als Heldin wächst.",
+  "summaryDutch": "Linda Green, een 24-jarige met hobby's zoals mentoring en helpen, ontdekt haar superkrachten en bestrijdt de duisternis in haar stad, terwijl ze in een drukke week uitgroeit tot een heldin.",
+  "summaryFrench": "Linda Green, âgée de 24 ans et passionnée de mentorat et d'aide, découvre ses superpouvoirs et lutte contre les ténèbres de sa ville, devenant une héroïne tout au long d'une semaine chargée.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Linda Green spends her day mentoring at a local youth club, oblivious that the city conceals a mystical artifact that would unveil her latent powers. An eerie feeling follows her home.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuessday",
+      "text": "While helping a struggling student, Linda accidentally touches an ancient amulet that awakens her ability to manipulate natural elements. She feels both shocked and energetic.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Testing her new powers in a secluded park, Linda vows to use them for good. Her determination feels triumphant as she saves a bird from a fallen tree.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Reports of a mysterious shadow haunting the city reach Linda. Donning a disguise, she investigates, finding hints of an old nemesis back in town, setting the stage for an epic confrontation.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The shadow attacks during a city festival, causing chaos. Linda intervenes, using her powers to protect the citizens and battling the shadow into submission, her heroism on full display.",
+      "mood": "heroic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The city celebrates their mysterious new hero. Linda, back in her civilian guise, feels a romantic spark with a fellow volunteer, hinting at a new subplot in her life.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Linda feels peaceful, realizing her true potential not just as a mentor but as a protector of her city. She pledges to keep her identity secret, safeguarding her normal life.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "With newfound powers and purpose, Linda Green faces forward, ready to balance life and heroism.",
+  "moral": "With great power comes great responsibility, and even the humblest beginnings can lead to heroic ends."
+}

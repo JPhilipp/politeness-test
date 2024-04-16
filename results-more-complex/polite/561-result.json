@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Peggy Hall: Guiding Light of the City",
+  "summary": "Peggy Hall, a 24-year-old tour guide, discovers her ability to guide more than just tours when she uses her powers to save her city from disaster over the course of a week.",
+  "summaryGerman": "Peggy Hall, eine 24-jährige Stadtführerin, entdeckt ihre Fähigkeit, mehr als nur Touren zu leiten, als sie ihre Kräfte nutzt, um ihre Stadt im Laufe einer Woche vor einer Katastrophe zu retten.",
+  "summaryDutch": "Peggy Hall, een 24-jarige rondleidster, ontdekt haar vermogen om meer te gidsen dan alleen tours wanneer ze haar krachten gebruikt om haar stad te redden van een ramp gedurende een week.",
+  "summaryFrench": "Peggy Hall, une guide touristique de 24 ans, découvre sa capacité à guider plus que des visites lorsqu'elle utilise ses pouvoirs pour sauver sa ville d'une catastrophe au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Peggy Hall started her week as usual, guiding tourists around the city. Little did she know, her life was about to change.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While leading a tour, Peggy inadvertently discovered her ability to sense imminent dangers. Today, she sensed an impending subway accident and guided the group away just in time.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesaday",
+      "text": "Confused but determined, Peggy experimented with her new powers. She realized she could guide people from harm's way with uncanny accuracy.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Word of Peggy’s heroics spread. People from all over the city sought her guidance, looking to feel safe in their daily commutes.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A known supervillain threatened the city’s peace. Peggy used her unique guiding abilities to evacuate civilians from danger zones, saving countless lives.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Exhausted but not defeated, Peggy spent a quieter day, reflecting on her new role and responsibilities as a protector.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "As the sun set, Peggy stood atop the city’s highest tower, watching over her beloved community, ready to guide them into another week and beyond.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Peggy Hall became not just a guide but a guardian, forever watching over and guiding her city to safety and prosperity.",
+  "moral": "Sometimes, our true purpose is just waiting to be discovered within our everyday lives."
+}

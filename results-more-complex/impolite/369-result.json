@@ -1,0 +1,46 @@
+{
+  "title": "The Strategic Pursuits of Walter Butler",
+  "summary": "Walter Butler discovers he can organize time itself, which he uses to prevent a disaster and learn about the true value of meticulous planning.",
+  "summaryGerman": "Walter Butler entdeckt, dass er die Zeit selbst organisieren kann, was er nutzt, um eine Katastrophe zu verhindern und den wahren Wert akribischer Planung zu lernen.",
+  "summaryDutch": "Walter Butler ontdekt dat hij zelf tijd kan organiseren, wat hij gebruikt om een ramp te voorkomen en de ware waarde van nauwkeurige planning te leren.",
+  "summaryFrench": "Walter Butler découvre qu'il peut organiser le temps lui-même, qu'il utilise pour éviter un désastre et apprendre la vraie valeur de la planification minutieuse.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Walter Butler, a 27-year-old organizing consultant, wakes up to find that his ability to structure and strategize extends beyond his job - he can organize time. Realizing this power, he saves a falling toddler using his newly discovered skills.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuseday",
+      "text": "As Walter experiments with his power, he accidentally stretches a minute into an hour, making his morning jog last frustratingly long. He decides to better understand and control this ability.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Walter begins using his power to optimize his daily activities, finding joy in perfectly aligning his schedule with absolute precision.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Noticing increased stress from his non-stop optimized schedule, Walter feels isolated. He seeks advice from a wise elder who suggests that not everything in life should be controlled.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Walter uses his powers to facilitate a large community event. His flawless timing ensures it’s a massive success, bringing the community closer together.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a romantic dinner, Walter resists the urge to control time, instead embracing the unpredictable moments that make life special.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "A storm threatens a local festival. Walter, mastering his powers, coordinates the community’s efforts in real time, averting a crisis and earning the town’s admiration.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus, Walter Butler learned that while time can be mastered, the true master appreciates both the orderly and the unexpected moments of life.",
+  "moral": "Control is useful, but the uncontrollable can bring its own joys."
+}

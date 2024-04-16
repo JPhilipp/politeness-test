@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Transformation: The Epic Tale of Jin James",
+  "summary": "Jin James, a counselor by day, discovers his hidden powers following a mysterious encounter, embarking on a heroic journey in a single week striving to balance his new abilities with his everyday life.",
+  "summaryGerman": "Jin James, tagsüber ein Berater, entdeckt seine verborgenen Kräfte nach einer geheimnisvollen Begegnung und begibt sich in einer einzigen Woche auf eine heldenhafte Reise, um seine neuen Fähigkeiten mit seinem alltäglichen Leben in Einklang zu bringen.",
+  "summaryDutch": "Jin James, overdag een raadgever, ontdekt zijn verborgen krachten na een mysterieuze ontmoeting en gaat op een heroïsche reis in slechts één week om zijn nieuwe krachten in evenwicht te brengen met zijn dagelijks leven.",
+  "summaryFrench": "Jin James, conseiller le jour, découvre ses pouvoirs cachés après une rencontre mystérieuse et entreprend un voyage héroïque en une seule semaine pour équilibrer ses nouvelles capacités avec sa vie quotidienne.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Jin starts his week as usual at the counseling center, feeling energetic as he helps clients navigate their challenges.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While following his evening routine jog, Jin encounters a strange, glowing object that grants him superhuman strength and agility.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Jin tests his new powers, stopping a small crime in progress, feeling both triumphant and overwhelmed by his new responsibilities.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Struggling to control his powers during a counseling session, Jin accidentally reveals them, resulting in mixed reactions which leaves him feeling sad.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Jin meets a fellow hero who offers guidance and training, creating a sense of hope and romance on his journey.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Fully embracing his role, Jin saves a bus from a catastrophic accident, becoming a local hero and feeling epic.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Jin feels peaceful as he understands that balancing his powers with his passion for counseling can bring unique help to those in need.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus, Jin James found his calling not just as a counselor, but as a protector of the city, ready to face whatever comes next.",
+  "moral": "Embrace your unique abilities to bring about change, balancing personal skills with newfound powers for the greater good."
+}

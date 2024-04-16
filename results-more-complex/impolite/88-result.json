@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Frank Torres: A Director's Legacy",
+  "summary": "Frank Torres, a 75-year-old director and teacher, discovers his ability to inspire real change and becomes a superhero in his community over the span of one week.",
+  "summaryGerman": "Frank Torres, ein 75-jähriger Regisseur und Lehrer, entdeckt seine Fähigkeit, wahre Veränderung zu inspirieren und wird innerhalb einer Woche zum Superhelden seiner Gemeinde.",
+  "summaryDutch": "Frank Torres, een 75-jarige regisseur en leraar, ontdekt zijn vermogen om echte verandering teweeg te brengen en wordt in de loop van een week een superheld in zijn gemeenschap.",
+  "summaryFrench": "Frank Torres, un réalisateur et enseignant de 75 ans, découvre sa capacité à inspirer un véritable changement et devient un super-héros dans sa communauté en l'espace d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "On a serene Monday morning, Frank Torres stands before his film class, filled with a peaceful calm as he teaches the nuances of directing.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Inspired by a classroom discussion about heroes, Frank decides to apply these ideas to his community, feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesady",
+      "text": "Frank begins city-wide initiatives using cinema for social change, instigating eerie silence from traditional naysayers, yet he pushes forward.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Rumors of his deeds spread, energizing Frank and his students to plan a large-scale public event showcasing films about local heroes.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "During the event, Frank meets a budding filmmaker, a romantic encounter that adds an unexpected but beautiful twist to his week.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "As the festival concludes, the public's overwhelming support turns the mood epic, and Frank realizes the magnitude of his impact.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on a week of unimaginable achievements, Frank feels a deep, contented peace wash over him as he looks at the community he’s transformed.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Frank Torres not only directed films but also directed change, leaving an indelible mark on his community.",
+  "moral": "Even one person’s passion can ignite widespread transformation when coupled with action."
+}

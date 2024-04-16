@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Peggy Smith: Advertising's Grand Hero",
+  "summary": "Throughout one week, 72-year-old Peggy Smith, who loves advertising and counseling, transforms her community using her extraordinary compassion and a newfound superpower of persuasive communication. She deters a robbery, inspires local businesses, saves a broken family, and brings happiness to her town.",
+  "summaryGerman": "Im Laufe einer Woche verwandelt die 72-jährige Peggy Smith, die Werbung und Beratung liebt, mit ihrem außergewöhnlichen Mitgefühl und einer neu entdeckten Superkraft der überzeugenden Kommunikation ihre Gemeinde. Sie vereitelt einen Raubüberfall, inspiriert lokale Unternehmen, rettet eine zerrüttete Familie und bringt ihrem Ort Glück.",
+  "summaryDutch": "Gedurende een week transformeert de 72-jarige Peggy Smith, die van reclame en advies houdt, haar gemeenschap met haar buitengewoon medeleven en een nieuw gevonden superkracht van overtuigende communicatie. Ze stopt een overval, inspireert lokale bedrijven, redt een gebroken familie en brengt geluk in haar stad.",
+  "summaryFrench": "Tout au long d'une semaine, Peggy Smith, 72 ans, passionnée de publicité et de conseil, transforme sa communauté grâce à sa compassion extraordinaire et un nouveau super pouvoir de communication persuasive. Elle déjoue un cambriolage, inspire des entreprises locales, sauve une famille en déroute et apporte du bonheur à sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Peggy discovers her ability to persuade anyone to do good using just her words during a calm morning chat at the local coffee shop.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Utilizing her new skills, Peggy talks a young thief out of robbing the local bakery, convincing him to pursue education in baking instead.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesay",
+      "text": "She spends her afternoon at a counseling session, helping a family resolve their long-standing disputes, bringing them closer than ever before.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Peggy orchestrates a campaign to boost local business, creating ads that highlight community and solidarity, resulting in record sales for the area.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "At a charity event, Peggy's heartfelt speech about community support moves the crowd to tears, raising unprecedented funds for local causes.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "She holds a free counseling workshop in the park, teaching people how to communicate effectively and use persuasion for positive changes.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Peggy feels content knowing she has made a real difference in her community, inspiring others to spread kindness and charity.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Peggy Smith, at the age of 72, proved that heroes come in all ages and sizes, wielding the power of words to heal and unite.",
+  "moral": "The true power of a superhero lies not in their might but in their ability to inspire change through compassion and understanding."
+}

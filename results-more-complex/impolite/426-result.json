@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Oscar Jenkins: Librarian by Day, Hero by Night",
+  "summary": "Oscar Jenkins, a mild-mannered librarian, discovers his ability to manipulate time after an ancient book accident. Over the span of a week, he uses his powers to thwart a series of crimes and disasters in his city, ultimately facing a moral dilemma about the limits of his powers.",
+  "summaryGerman": "Oscar Jenkins, ein bescheidener Bibliothekar, entdeckt seine Fähigkeit, die Zeit zu manipulieren, nach einem Unfall mit einem antiken Buch. Innerhalb einer Woche nutzt er seine Kräfte, um eine Reihe von Verbrechen und Katastrophen in seiner Stadt zu vereiteln und steht schließlich vor einem moralischen Dilemma bezüglich der Grenzen seiner Macht.",
+  "summaryDutch": "Oscar Jenkins, een bescheiden bibliothecaris, ontdekt zijn vermogen om tijd te manipuleren na een ongeluk met een oud boek. Gedurende een week gebruikt hij zijn krachten om een reeks misdaden en rampen in zijn stad te voorkomen, uiteindelijk geconfronteerd met een moreel dilemma over de grenzen van zijn krachten.",
+  "summaryFrench": "Oscar Jenkins, un bibliothécaire discret, découvre sa capacité à manipuler le temps après un accident avec un livre ancien. Au cours d'une semaine, il utilise ses pouvoirs pour déjouer une série de crimes et de catastrophes dans sa ville, faisant face à un dilemme moral sur les limites de ses pouvoirs.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar Jenkins discovers an ancient, mystical book hidden in the restricted section of the library. As he reads, the book glows and he accidentally imbibes a power: time manipulation.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Testing his new abilities, Oscar stops time to save a child from an oncoming car. Euphoric, he realizes the potential to help others.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Oscar prevents a bank robbery by freezing the robbers in time, but begins to feel the strain of his powers on his body.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thrusday",
+      "text": "Feeling drained but determined, Oscar uses his powers to research historical disasters and debates whether he should change past events.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Oscar stops a massive factory accident, saving countless lives but drawing attention from mysterious figures who seem aware of his abilities.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Confronted by the enigmatic figures, Oscar learns they are guardians of time and warns against further interference with the timeline.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the guardians' warnings, Oscar decides to limit his use of powers to immediate, undeniable crises, preserving the natural flow of time.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the sun set on a quiet Sunday, Oscar Jenkins returned to his life as a librarian, forever changed, but careful with the threads of time.",
+  "moral": "With great power comes great responsibility."
+}

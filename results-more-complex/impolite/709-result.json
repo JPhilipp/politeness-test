@@ -1,0 +1,46 @@
+{
+  "title": "Xavier Thomas and the Secret of the Solar Eclipse",
+  "summary": "Over the course of a week, Xavier Thomas discovers his hidden powers during a rare solar eclipse, using them to overcome challenges in his community while maintaining his daily life as a tutor and consultant.",
+  "summaryGerman": "Im Laufe einer Woche entdeckt Xavier Thomas seine verborgenen Kräfte während einer seltenen Sonnenfinsternis und nutzt sie, um Herausforderungen in seiner Gemeinde zu überwinden, während er sein tägliches Leben als Tutor und Berater weiterführt.",
+  "summaryDutch": "Gedurende een week ontdekt Xavier Thomas zijn verborgen krachten tijdens een zeldzame zonsverduistering, en gebruikt ze om uitdagingen in zijn gemeenschap te overwinnen terwijl hij zijn dagelijkse leven als tutor en consultant voortzet.",
+  "summaryFrench": "Au cours d'une semaine, Xavier Thomas découvre ses pouvoirs cachés lors d'une rare éclipse solaire, les utilisant pour surmonter les défis dans sa communauté tout en maintenant sa vie quotidienne en tant que tuteur et consultant.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Xavier Thomas starts his week feeling energetic, ready to embrace his consulting sessions and tutoring responsibilities. Little does he know, a rare celestial event is about to change his life.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuedsay",
+      "text": "While tutoring, Xavier notices an odd shimmer in his peripheral vision. It's subtle, but it's there. His curiosity piqued, he prepares to investigate further.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Investigation leads Xavier to an ancient artifact buried beneath the city's library. As he touches it, a surge of power rushes through him. He feels unstoppable.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Using his newfound powers to secretly solve local problems, Xavier feels exhilarated but torn. He wonders whether he should reveal his secret identity.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A city-wide disaster strikes. Without hesitation, Xavier uses his powers publicly for the first time, saving countless lives. The city hails the mysterious hero.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Now known as 'The Solar Sage,' Xavier ponders the future of his double life. He realizes that with great power comes a daunting but exciting new duty.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Xavier spends a peaceful day reflecting. He decides to use his powers for good, integrating them with his normal life. The balance he achieves brings him serenity.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the sun sets on Sunday evening, Xavier Thomas smiles, ready for whatever comes next, with the power of the sun itself at his fingertips.",
+  "moral": "True power lies in finding balance between our gifts and our everyday responsibilities."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Remarkable Week of Judy Hernandez, Superhero Baker",
+  "summary": "Judy Hernandez, a 76-year old with hobbies in baking and spinning, discovers her superpowers, confronts a villain, saves her town and learns the true strength of community.",
+  "summaryGerman": "Judy Hernandez, eine 76-jährige mit Hobbys im Backen und Spinnen, entdeckt ihre Superkräfte, konfrontiert einen Bösewicht, rettet ihre Stadt und lernt die wahre Stärke der Gemeinschaft kennen.",
+  "summaryDutch": "Judy Hernandez, een 76-jarige met hobby's in bakken en spinnen, ontdekt haar superkrachten, confronteert een schurk, redt haar stad en leert de ware kracht van de gemeenschap kennen.",
+  "summaryFrench": "Judy Hernandez, 76 ans, passionnée de pâtisserie et de filage, découvre ses super pouvoirs, affronte un méchant, sauve sa ville et comprend la véritable force de la communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy discovers she can manipulate dough with her mind while baking for a local charity event, feeling initially eerie but ultimately happy.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Excited by her newfound powers, Judy practices at home, lifting heavier ingredients and objects, feeling energetic and empowered.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednedsay",
+      "text": "Judy uses her powers to fix a broken community center kitchen, feeling triumphant and beloved as the community thanks her.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "She encounters a villain threatening the local bakery; Judy cunningly uses her powers to thwart his plan, feeling heroic and epic.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The town recognizes Judy's heroics. She shares lessons and some spins at the celebration, creating a romantic and joyful atmosphere.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Judy starts teaching other elderly locals how to harness any unexpected powers, feeling peaceful and content with helping others grow.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Judy feels happy and fulfilled, realizing the strength and connections in her community.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "With a gentle smile and a heart full of joy, Judy continued to bake and spin, certain that every loaf and thread spun with love held a little bit of magic.",
+  "moral": "With great power comes great responsibility, and the simplest acts can make the biggest differences."
+}

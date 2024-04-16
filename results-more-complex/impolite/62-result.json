@@ -1,0 +1,46 @@
+{
+  "title": "The Embroidering Hero: Jin Hughes Saves the City",
+  "summary": "Jin Hughes, a 36-year-old with a passion for embroidery, discovers her ability to control threads and uses it to protect her city from a looming disaster over the course of a week.",
+  "summaryGerman": "Jin Hughes, 36 Jahre alt mit einer Leidenschaft für Stickerei, entdeckt ihre Fähigkeit, Fäden zu kontrollieren und benutzt sie, um ihre Stadt über den Verlauf einer Woche vor einer drohenden Katastrophe zu schützen.",
+  "summaryDutch": "Jin Hughes, 36 jaar oud met een passie voor borduren, ontdekt haar vermogen om draden te beheersen en gebruikt dit om haar stad te beschermen tegen een dreigende ramp gedurende een week.",
+  "summaryFrench": "Jin Hughes, âgée de 36 ans et passionnée de broderie, découvre sa capacité à contrôler les fils et l'utilise pour protéger sa ville d'une catastrophe imminente au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Jin Hughes stumbles upon a curious embroidery pattern that imbues her with mystical thread-manipulating powers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Jin experiments with her new abilities, rescuing a cat stuck in a tree by weaving a safety net from nearby yarn.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "A mysterious storm threatens the city. Jin uses her power to fortify buildings with thread barricades, averting minor accidents.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "With the storm intensifying, Jin brilliantly orchestrates a city-wide network of thread shields, convincing local officials to follow her plans.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The city, now safely under Jin's protection, celebrates her bravery. She feels a deep connection to the people she saved.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Jin refines her control, enhancing her thread techniques while teaching young followers how to embroider and imbibe modest powers.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Jin realizes the potential her abilities and her influence have to inspire and protect. She vows to continue her vigilant guardianship.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And so, Jin Hughes embroidered her mark upon the hearts of all she protected, threading the way for a new kind of hero.",
+  "moral": "Even the most unassuming skills, when used with passion and innovation, can lead to great power and responsibility."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Embroidering Educator: The Adventures of Linda Walker",
+  "summary": "Linda Walker, a seemingly ordinary tutor with a love for embroidery, discovers her ability to manipulate threads of fate, using her skills to battle against unforeseen challenges over a week.",
+  "summaryGerman": "Linda Walker, eine scheinbar gewöhnliche Tutorin mit einer Liebe zur Stickerei, entdeckt ihre Fähigkeit, die Fäden des Schicksals zu manipulieren, und nutzt ihre Fähigkeiten, um sich im Laufe einer Woche unvorhergesehenen Herausforderungen zu stellen.",
+  "summaryDutch": "Linda Walker, een ogenschijnlijk gewone tutor met een liefde voor borduren, ontdekt haar vermogen om de draden van het lot te manipuleren, en gebruikt haar vaardigheden om gedurende een week onvoorziene uitdagingen aan te gaan.",
+  "summaryFrench": "Linda Walker, une tutrice apparemment ordinaire avec un amour pour la broderie, découvre sa capacité à manipuler les fils du destin, utilisant ses compétences pour lutter contre des défis imprévus au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Linda enjoyed a peaceful morning tutoring mathematics and spent her evening starting an intricate embroidery of a cityscape.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "During a tutoring session, her embroidery thread began glowing, translating an abstract problem into a clear solution mysteriously. Intrigued, Linda felt the first surge of her new power.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "Linda tested her powers, finding she could influence events slightly by weaving specific patterns. Today, each stitch helped a student ace a test, leaving Linda feeling energetic and hopeful.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The news reported a local crisis. Linda felt compelled to help, using her abilities to craft a safety net from ropes, saving lives. Her heroism felt unreal yet triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Enjoying a brief romance with a fellow volunteer during the rescue, Linda explored the romantic side of her life, stitching a keepsake for her new friend.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Challenged by a villain who sought to control her abilities, Linda's day turned into an epic battle of wills. Through clever patterns, she bested her foe, securing her destiny as a protector.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Linda felt happy and fulfilled, ready to embrace both her roles as tutor and hero, intertwining her passions with her newly discovered power.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, Linda Walker wove her destiny not just in thread, but in the lives she touched, becoming a true hero in her community.",
+  "moral": "Your unique skills can make you a hero in unexpected ways."
+}

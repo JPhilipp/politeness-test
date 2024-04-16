@@ -1,0 +1,46 @@
+{
+  "title": "The Incredible Adventures of Mallory Reed",
+  "summary": "Over one week, Mallory Reed discovers her unique powers of persuasion and influence, using them to solve community problems and inspire those around her while facing personal and supernatural challenges.",
+  "summaryGerman": "Im Verlauf einer Woche entdeckt Mallory Reed ihre einzigartigen Überzeugungs- und Einflusskräfte, nutzt sie, um Gemeinschaftsprobleme zu lösen und die Menschen um sie herum zu inspirieren, während sie persönlichen und übernatürlichen Herausforderungen begegnet.",
+  "summaryDutch": "In de loop van een week ontdekt Mallory Reed haar unieke krachten van overreding en invloed, gebruikt deze om gemeenschapsproblemen op te lossen en de mensen om haar heen te inspireren, terwijl ze persoonlijke en bovennatuurlijke uitdagingen het hoofd biedt.",
+  "summaryFrench": "Au cours d'une semaine, Mallory Reed découvre ses pouvoirs uniques de persuasion et d'influence, les utilisant pour résoudre les problèmes de la communauté et inspirer ceux qui l'entourent tout en faisant face à des défis personnels et surnaturels.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Mallory Reed, feeling energetic, begins her week by tutoring a group of struggling students. She unexpectedly calms a tense argument using just her words, realizing her potential influence.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tudsday",
+      "text": "On Tuesday, Mallory feels a bit eerie when she notices animals following her commands. At the park, she diffuses a potential dog fight with a soft whisper, leaving bystanders in awe.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "On Wednesday, feeling happy, Mallory uses her morning to help a local charity strategize their next campaign. She feels joy in seeing her plans improve the lives around her.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Feeling romantic, Mallory helps an old couple rekindle their love by coaching the husband to write poetry. The couple's thankful tears reflect the light of a peaceful sunset.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Mallory, feeling triumphant, confronts a corrupt local businessman. With a crowd gathered, she speaks passionately, swaying the public's opinion and pressuring him into confessing his wrongdoings.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Feeling epic, Mallory attends a local festival, where she is suddenly called upon to mediate a dispute between two festival leaders. Her diplomatic skills avert a major crisis.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "On Sunday, Mallory reflects on her week, feeling peaceful. She realizes her unique gifts are meant for mentoring, tutoring, and beyond, aiming to protect and inspire her community.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Mallory Reed, embracing her newfound abilities, continues to nurture and guide, knowing that her journey has only just begun.",
+  "moral": "The true power lies not in strength, but in the ability to inspire and enact change through kindness and wisdom."
+}

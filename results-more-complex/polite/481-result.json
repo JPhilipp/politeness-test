@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Ling Evans: Guardian of the Game",
+  "summary": "Ling Evans, a 35-year-old advisor and sports enthusiast, discovers her supernatural ability to inspire and protect her community through the power of sport and wisdom, facing various challenges and ultimately saving her city from disaster.",
+  "summaryGerman": "Ling Evans, eine 35-jährige Beraterin und Sportbegeisterte, entdeckt ihre übernatürlichen Fähigkeiten, ihre Gemeinschaft durch die Kraft des Sports und der Weisheit zu inspirieren und zu schützen, sieht sich verschiedenen Herausforderungen gegenüber und rettet letztendlich ihre Stadt vor einer Katastrophe.",
+  "summaryDutch": "Ling Evans, een 35-jarige adviseur en sportliefhebber, ontdekt haar bovennatuurlijke vermogen om haar gemeenschap te inspireren en te beschermen door de kracht van sport en wijsheid, geconfronteerd met verschillende uitdagingen en uiteindelijk haar stad te redden van een ramp.",
+  "summaryFrench": "Ling Evans, conseillère et passionnée de sport âgée de 35 ans, découvre sa capacité surnaturelle à inspirer et protéger sa communauté grâce au pouvoir du sport et de la sagesse, faisant face à divers défis et finalement en sauvant sa ville d'une catastrophe.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Evans started her week with an unexpected encounter at the local gym, where she discovered she could perceive people's hidden strengths and vulnerabilities. This revelation came when she helped a struggling young athlete regain confidence, sparking a feeling of triumph.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "After advising a local sports team on strategic plays, Ling noticed some strange shadows lurking near the stadium. The day took an eerie turn as she pursued these suspicious figures, learning they were part of a plot to sabotage the city’s major sports event.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "With the sports event at risk, Ling devoted her Wednesday to strategizing. She used her advisory skills and new-found abilities to formulate a plan to protect the event, feeling undeniably energetic and driven by a sense of duty to her community.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Ling spent the day training with local athletes, sharing her insights and boosting their morale. Her romantic interest, also an athlete, joined her, making the day’s preparations feel especially meaningful and romantic.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The day of the event arrived, and Ling was everywhere, securing the venue and inspiring athletes and spectators alike. As the event successfully concluded without incident, she felt a surge of happiness and solidarity with her city.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Fatigued yet fulfilled, Ling took a well-deserved day off. She reflected on her extraordinary week, feeling peaceful as she relaxed at a quiet café, journaling her thoughts and the lessons learned.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "As news spread of her heroics, Ling was celebrated by the community. The gratitude of her fellow citizens filled her with immense pride and joy, rounding out an epic week of unexpected heroism and community spirit.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus, Ling Evans proved that true heroes arise from the courage to act and the wisdom to lead, making an indelible mark on her community.",
+  "moral": "The real power lies not just in physical strength, but in the courage to inspire and lead with wisdom and heart."
+}

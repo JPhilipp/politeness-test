@@ -1,0 +1,46 @@
+{
+  "title": "The Incredible Adventures of Bob Turner, the Dancing Prayer",
+  "summary": "Bob Turner, a 62-year-old who loves dancing and praying, discovers he can manipulate time during his dance routines. Throughout the week, he uses his newfound powers to help his community, learning valuable lessons about life and purpose.",
+  "summaryGerman": "Bob Turner, ein 62-jähriger, der das Tanzen und Beten liebt, entdeckt, dass er während seiner Tanzroutinen die Zeit manipulieren kann. Im Laufe der Woche nutzt er seine neu entdeckten Kräfte, um seiner Gemeinschaft zu helfen und wertvolle Lebenslektionen zu lernen.",
+  "summaryDutch": "Bob Turner, een 62-jarige die van dansen en bidden houdt, ontdekt dat hij tijdens zijn dansroutines de tijd kan manipuleren. Gedurende de week gebruikt hij zijn nieuwgevonden krachten om zijn gemeenschap te helpen, en leert hij waardevolle lessen over het leven en doel.",
+  "summaryFrench": "Bob Turner, un homme de 62 ans qui aime danser et prier, découvre qu'il peut manipuler le temps pendant ses routines de danse. Tout au long de la semaine, il utilise ses nouveaux pouvoirs pour aider sa communauté, apprenant de précieuses leçons sur la vie et le but.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Bob Turner begins his week feeling peaceful as he attends a prayer meeting at his local church. That evening, while practicing his dance moves, he notices the clock hands moving backwards.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Excited and a bit scared, Bob tests his newfound power by turning minor moments back, like spilling tea. He realizes the potential of his gift to do good.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Empowered, Bob helps a young couple by rewinding a heated argument they had, guiding them to reconcile peacefully and share a romantic dinner.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Bob uses his power to help an elderly man avoid a nasty fall, feeling triumphant as the man thanks him profoundly, unaware of the temporal intervention.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Feeling responsible for his powers, Bob dances into the city council meeting to delay a decision on a park demolition, ensuring the community’s voice is heard.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Bob spends a quiet day at home, reflecting on his week and the lives he’s touched. He realizes how combining his passions has fulfilled a deeper purpose.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "During a final prayer at church, Bob feels a calm assurance that he is using his gift rightly. His week of extraordinary events comes to a satisfying, peaceful closure.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As Bob danced back home under the starlit sky, he knew his life would never be ordinary again.",
+  "moral": "Embrace your uniqueness, for even in the ordinary lies the power to create extraordinary change."
+}

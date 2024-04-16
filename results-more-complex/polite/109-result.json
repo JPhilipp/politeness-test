@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Ivan Butler: The Knitting Visionary",
+  "summary": "Ivan Butler, a 59-year-old superhero with a passion for knitting and publicizing, uses his unique powers to save his city from a mystical threat over the course of a week.",
+  "summaryGerman": "Ivan Butler, ein 59-jähriger Superheld mit einer Leidenschaft für Stricken und Publizieren, verwendet seine einzigartigen Kräfte, um seine Stadt im Laufe einer Woche vor einer mystischen Bedrohung zu retten.",
+  "summaryDutch": "Ivan Butler, een 59-jarige superheld met een passie voor breien en publiceren, gebruikt zijn unieke krachten om zijn stad te redden van een mystieke bedreiging gedurende een week.",
+  "summaryFrench": "Ivan Butler, un super-héros de 59 ans passionné de tricot et de publication, utilise ses pouvoirs uniques pour sauver sa ville d'une menace mystique au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ivan Butler discovers ancient yarn in his knitting shop which grants him the power to weave protective shields out of thin air.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Using his newfound powers, Ivan creates a huge public art display, unwittingly trapping a lurking mystical creature.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedesday",
+      "text": "The creature reveals it's only trying to return to its realm. Ivan feels a bond, as he too feels misplaced in his desire to be both a hero and a craftsman.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Ivan publicizes the creature's plight. The city rallies to his cause, inspired by his compassionate approach.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Together with the city's support, Ivan knits a massive gateway to help the creature return home.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "As the gateway opens, Ivan and the creature share a peaceful moment, reflecting on their week together.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The creature departs, and the city celebrates Ivan's bravery. Ivan realizes his shop and his publicizing skills can serve greater goods.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "With the mystical threat gone and his city safe, Ivan Butler continued to balance his life between his hobbies and heroism.",
+  "moral": "Even unusual hobbies can reveal extraordinary talents and lead to unexpected heroism."
+}

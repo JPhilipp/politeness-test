@@ -1,0 +1,46 @@
+{
+  "title": "The Counselor Chronicles: David Martin's Week of Wisdom",
+  "summary": "Over one week, David Martin, a counselor with a secret, aids his community by day and fights crime by night using his unique powers of empathy and persuasion.",
+  "summaryGerman": "Über eine Woche hinweg hilft David Martin, ein Berater mit einem Geheimnis, tagsüber seiner Gemeinde und bekämpft nachts Verbrechen, indem er seine einzigartigen Kräfte der Empathie und Überzeugung nutzt.",
+  "summaryDutch": "Gedurende één week helpt David Martin, een counselor met een geheim, overdag zijn gemeenschap en bestrijdt 's nachts misdaad met zijn unieke krachten van empathie en overreding.",
+  "summaryFrench": "Pendant une semaine, David Martin, un conseiller avec un secret, aide sa communauté le jour et combat le crime la nuit en utilisant ses pouvoirs uniques d'empathie et de persuasion.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "David begins his week as usual, counseling at the community center and feeling peaceful. Unknown to most, he senses a growing distress among the town's youth.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "After advising a troubled teen, David encounters a gang intimidating locals. Transforming into his alter ego, 'The Empathizer', he uses his persuasive abilities to disband the gang, feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednisday",
+      "text": "David senses eerie energies at the local park. Investigating as 'The Empathizer', he uncovers an illegal operation. Using tactical communication, he safely alerts authorities.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Rejuvenated, David spends his day hosting a workshop on conflict resolution, feeling energetic and spreading positivity.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "David, feeling romantic, takes a day off to spend with his partner, reconnecting and sharing his concerns about the increasing dangers in his dual life.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a community event, David hears of a crisis at the local bank. As 'The Empathizer', he negotiates with a desperate thief to release hostages, ending on an epic note.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, David feels both happy and sad. Happy to have helped many, but sad for the hidden burdens he must bear alone.",
+      "mood": "sad"
+    }
+  ],
+  "ending": "As the sun sets, David Martin realizes that true heroism lies in the strength of one's choices and the resolve to stand for peace each day.",
+  "moral": "The true essence of heroism is not in the magnitude of power, but in the depth of compassion and the courage to make a difference."
+}

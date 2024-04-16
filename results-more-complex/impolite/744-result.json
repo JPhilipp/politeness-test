@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Heroics of Heidi Howard",
+  "summary": "A 63-year-old teacher named Heidi Howard discovers her ability to manipulate time, using it to resolve local conflicts and teach valuable life lessons, ultimately saving her town from a disaster.",
+  "summaryGerman": "Eine 63-jährige Lehrerin namens Heidi Howard entdeckt ihre Fähigkeit, die Zeit zu manipulieren, nutzt sie, um lokale Konflikte zu lösen und wertvolle Lebenslektionen zu lehren, und rettet letztendlich ihre Stadt vor einer Katastrophe.",
+  "summaryDutch": "Een 63-jarige lerares genaamd Heidi Howard ontdekt haar vermogen om tijd te manipuleren, gebruikt het om lokale conflicten op te lossen en waardevolle levenslessen te geven, en redt uiteindelijk haar stad van een ramp.",
+  "summaryFrench": "Une enseignante de 63 ans nommée Heidi Howard découvre sa capacité à manipuler le temps, l'utilise pour résoudre des conflits locaux et enseigner de précieuses leçons de vie, et sauve finalement sa ville d'une catastrophe.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Heidi Howard, while organizing her old teaching awards at home, accidentally discovers her power to rewind time by a few seconds. She practices her newfound ability, feeling a mix of disbelief and excitement.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "She decides to test her powers at school. During a heated debate in her social studies class, she discreetly uses her power to rewind and steer the discussion to prevent an argument, leaving her feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Feeling confident, Heidi begins to use her power more openly to correct small mistakes her students make, helping them to understand their lessons better, which makes her feel energetic.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Heidi helps solve a misunderstanding between two colleagues by rewinding their conversation and subtly guiding them to express themselves more clearly. The day ends on a peaceful note.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A local crisis erupts when a small fire in a nearby building threatens to spread. Using her time manipulation, Heidi coordinates the evacuation, providing instructions that prevent panic and chaos, proving herself a hero.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Her heroics become the talk of the town. Heidi feels overwhelmed but proud as people thank her. She spends a well-deserved quiet day reflecting on her impact, with her mood turning romantic as she walks through the park where she first started teaching.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Inspired by her actions, Heidi decides to hold a community class about the importance of quick thinking and bravery. The session ends with laughter and applause, sealing her status as a local legend.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "In a single week, Heidi Howard went from retired teacher to beloved time-manipulating hero, showing that sometimes, the greatest powers come when least expected.",
+  "moral": "Never underestimate the power of experience and the will to make a difference."
+}

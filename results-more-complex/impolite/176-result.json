@@ -1,0 +1,46 @@
+{
+  "title": "The Sculpted Guardian: The Tale of David Russell, Heroic Sculptor",
+  "summary": "David Russell, a 30-year-old sculptor and instructor, discovers his ability to animate his sculptures to protect the city from escalating threats, embracing his role as a new superhero over the course of a week.",
+  "summaryGerman": "David Russell, ein 30-jähriger Bildhauer und Lehrer, entdeckt seine Fähigkeit, seine Skulpturen zum Leben zu erwecken, um die Stadt vor eskalierenden Bedrohungen zu schützen, und akzeptiert seine Rolle als neuer Superheld im Laufe einer Woche.",
+  "summaryDutch": "David Russell, een 30-jarige beeldhouwer en instructeur, ontdekt zijn vermogen om zijn sculpturen tot leven te wekken om de stad te beschermen tegen escalerende bedreigingen, en omarmt zijn rol als nieuwe superheld gedurende een week.",
+  "summaryFrench": "David Russell, un sculpteur et instructeur de 30 ans, découvre sa capacité à animer ses sculptures pour protéger la ville contre des menaces croissantes, en embrassant son rôle de nouveau super-héros au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "David Russell, while sculpting a new piece at his studio, accidentally discovers his unique power: his sculptures come to life through his touch. Intrigued and slightly apprehensive, he experiments further.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuessday",
+      "text": "Motivated by his new abilities, David decides to sculpt a guardian figure, testing if it could act under his commands. Overnight, the sculpture secretly stops a burglary, proving its worth.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "News of the mysterious 'stone guardian' spreads in the city. David, feeling a mix of pride and responsibility, begins creating more sculptures, envisioning a safer neighbourhood.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "While giving a sculpting class, David subtly uses his power to fix a student's failing project, inspiring his class and boosting his confidence in his mysterious abilities.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "David's creations, now all over the city, start to attract media attention. Feeling the pressure of keeping his identity hidden, he struggles with the decision to go public.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "David takes a day off to reflect in the park, sculpting small animals for children. There, he meets a fellow artist who encourages him to embrace his gift, strengthening his resolve.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Fully accepting his role, David unveils his identity to the world via a live broadcast, showcasing his sculpted guardians in action. The city celebrates him as a hero.",
+      "mood": "epic"
+    }
+  ],
+  "moral": "Embrace your unique talents; they can be your greatest superpowers.",
+  "ending": "With his secret revealed and his city safe, David Russell continued to shape both art and destiny, proving that heroes come in many forms."
+}

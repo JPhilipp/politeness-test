@@ -1,0 +1,46 @@
+{
+  "title": "Linda Morgan: The Crocheting Counselor",
+  "summary": "Linda Morgan's quiet life takes a turn when she discovers her power to heal and advise others with her crocheting creations, leading her through a week of unexpected heroics.",
+  "summaryGerman": "Lindas ruhiges Leben nimmt eine Wendung, als sie ihre Fähigkeit entdeckt, andere mit ihren Häkelkreationen zu heilen und zu beraten, was sie durch eine Woche unerwarteter Heldentaten führt.",
+  "summaryDutch": "Linda Morgans rustige leven neemt een wending wanneer ze haar kracht ontdekt om anderen te genezen en te adviseren met haar haakcreaties, wat haar leidt door een week van onverwachte heldendaden.",
+  "summaryFrench": "La vie tranquille de Linda Morgan prend un tournant lorsqu'elle découvre son pouvoir de guérir et de conseiller les autres avec ses créations au crochet, la menant à travers une semaine de prouesses inattendues.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "The week starts with Linda discovering a mysterious yarn in her crochet basket. Intrigued, she uses it to craft a scarf and feels an unusual surge of energy.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Wearing her new scarf, Linda helps a lost child in the park find their parents. The scarf glows subtly, and the child calms down instantly, guided by its warmth.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wensday",
+      "text": "News of her deed spreads, and a local community group asks Linda to speak at their meeting. Her advice, empowered by the scarf, helps resolve long-standing disputes.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Motivated by her successful week, Linda starts a side project creating therapeutic crochet kits for anxiety relief distributed at local clinics.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "At a clinic, Linda encounters a skeptical doctor who doubts the power of her crocheting. After a live demonstration, the doctor is amazed and becomes a supporter.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Inspired by the positive feedback, Linda organizes a community crochet session in the park, where many experience the healing effects firsthand.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Linda feels content knowing her hobby not only brings joy but also offers tangible benefits to her community.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "As the sun sets on Sunday evening, Linda smiles, her creations spread out before her, weaving a blanket of peace over her beloved town.",
+  "moral": "Often, the greatest powers are hidden in the simplest acts of kindness and creativity."
+}

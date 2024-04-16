@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Voyage of Ivan Adams",
+  "summary": "Ivan Adams, an 18-year-old with hobbies in following and teaching, discovers his ability to become invisible. Over the course of a week, he learns to control his powers, helping people along the way and foiling a crime.",
+  "summaryGerman": "Ivan Adams, ein 18-Jähriger mit Hobbys im Verfolgen und Lehren, entdeckt seine Fähigkeit, unsichtbar zu werden. Im Laufe einer Woche lernt er, seine Kräfte zu kontrollieren, hilft Menschen auf seinem Weg und vereitelt ein Verbrechen.",
+  "summaryDutch": "Ivan Adams, een 18-jarige met hobby's in volgen en lesgeven, ontdekt zijn vermogen om onzichtbaar te worden. In de loop van een week leert hij zijn krachten te beheersen, helpt mensen onderweg en verijdelt een misdaad.",
+  "summaryFrench": "Ivan Adams, un jeune de 18 ans aux hobbies suivants et enseignants, découvre sa capacité à devenir invisible. Au cours d'une semaine, il apprend à contrôler ses pouvoirs, aidant les gens en chemin et déjouant un crime.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ivan Adams discovers he can turn invisible after accidentally vanishing during a school presentation.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesdsay",
+      "text": "Amazed by his new skill, Ivan spends the day experimenting with invisibility at the park, helping a small child recover a lost toy unnoticed.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Ivan teaches his trusted friend about his power and together, they brainstorm potential good deeds.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Sensing trouble, Ivan uses his invisibility to thwart a theft at a local store, feeling a rush of adrenaline and responsibility.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Struggling with the moral implications of his power, Ivan debates whether he should limit his interference in daily life.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Inspired by his recent actions, Ivan begins teaching a small group of interested peers about ethics and personal responsibility.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The town celebrates Ivan's quiet contributions, though they do not know the true extent of his involvement.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "In the end, Ivan decides to use his powers for subtle, yet impactful acts of kindness, embracing his role as a silent guardian of his community.",
+  "moral": "Great power not only brings great responsibility, but also the necessity for discretion and thoughtfulness."
+}

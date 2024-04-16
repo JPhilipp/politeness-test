@@ -1,0 +1,46 @@
+{
+  "title": "The Gardening Guardian: Walter Green's Heroic Week",
+  "summary": "Walter Green is a regular 50-year-old who discovers extraordinary powers linked to nature. Throughout the week, he uses his newfound abilities to fight environmental threats and assist his community.",
+  "summaryGerman": "Walter Green ist ein normaler 50-Jähriger, der außergewöhnliche Kräfte entdeckt, die mit der Natur verbunden sind. Im Laufe der Woche nutzt er seine neu entdeckten Fähigkeiten, um Umweltbedrohungen zu bekämpfen und seiner Gemeinde zu helfen.",
+  "summaryDutch": "Walter Green is een gewone 50-jarige die buitengewone krachten ontdekt die verbonden zijn met de natuur. Gedurende de week gebruikt hij zijn nieuw gevonden vaardigheden om milieu-dreigingen te bestrijden en zijn gemeenschap te helpen.",
+  "summaryFrench": "Walter Green est un homme de 50 ans ordinaire qui découvre des pouvoirs extraordinaires liés à la nature. Tout au long de la semaine, il utilise ses nouvelles capacités pour lutter contre les menaces environnementales et aider sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Walter discovers a glowing elixir buried in his garden that grants him the power to encourage rapid plant growth and purification of air. He feels exhilarated and hopeful.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuseday",
+      "text": "Testing his powers, Walter revitalizes a local park, transforming it from a barren wasteland to a lush green space. Children play happily, and residents thank him.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "News of Walter's actions spreads, attracting attention from local gangs who see his powers as a threat. He narrowly escapes an ambush, feeling rattled but alive.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Determined to safeguard his community, Walter uses his abilities to thicken hedges and create natural barriers around the neighborhood, providing a safe haven.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Walter holds a gardening workshop, coaching locals on sustainable practices and how to nurture their environment, feeling fulfilled and peaceful.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "As he becomes a local hero, Walter plans more projects such as a community garden. The town holds a small ceremony in his honor, where he feels loved and supported.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Walter feels a deep connection with the earth more than ever. He vows to protect it, realizing his true calling.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Thus, Walter embraced his role as The Gardening Guardian, flourishing alongside the green world he vowed to protect.",
+  "moral": "Even the most ordinary among us can have an extraordinary impact on the world."
+}

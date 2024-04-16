@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Trent Sanders: A Superhero at Age 78",
+  "summary": "Over one week, retiree Trent Sanders discovers his unexpected powers, saves his neighborhood, and brings his community closer together, while finding a new zest for life.",
+  "summaryGerman": "In einer Woche entdeckt der Rentner Trent Sanders seine unerwarteten Fähigkeiten, rettet seine Nachbarschaft und bringt seine Gemeinde näher zusammen, während er eine neue Lebensfreude findet.",
+  "summaryDutch": "In een week ontdekt gepensioneerde Trent Sanders zijn onverwachte krachten, redt hij zijn buurt en brengt hij zijn gemeenschap dichter bij elkaar, terwijl hij een nieuwe levenslust vindt.",
+  "summaryFrench": "En une semaine, le retraité Trent Sanders découvre ses pouvoirs inattendus, sauve son quartier et rapproche sa communauté, tout en retrouvant un nouveau goût de vivre.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "On a peaceful Monday morning, 78-year-old Trent Sanders discovered he could manipulate time when he accidentally reversed time to fix a broken vase. Feeling both intrigued and apprehensive, he pondered the implications of his new power.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Using his newfound power, Trent spent a triumphant Tuesday rescuing his neighbors from minor accidents and mishaps around the neighborhood. His discrete interventions prevented numerous injuries and inspired him to use his powers more actively.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Midweek brought a challenge: a local school faced closure due to a bureaucratic error. Trent, feeling energetic, organized a town hall meeting. Time manipulation helped him gather all necessary stakeholders in record time.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursady",
+      "text": "On Thursday, an eerie silence fell over Trent’s street as a known criminal gang targeted his neighborhood. Trent used his ability to slow down time, carefully outmaneuvering the criminals and aiding the police in their capture.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Feeling romantic, Trent spent Friday evening at a community gala, celebrating the week’s successes. He found joy in his ability to ensure everyone arrived on time and had a wonderful evening, bringing him closer to his community.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Energized by the support of his new friends, Trent held a workshop on Saturday to teach others about time management. He subtly included tips on harnessing one's personal abilities to create positive changes.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "On a peaceful Sunday, reflecting on his week, Trent realized he had not only discovered a superpower but also ignited a sense of purpose and heroism in his later years.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the sun set, Trent Sanders knew his greatest adventures were just beginning.",
+  "moral": "No matter the age, one can always become a hero."
+}

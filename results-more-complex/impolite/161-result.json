@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Heroics of Hubert Reed",
+  "summary": "Hubert Reed, a 59-year-old with a passion for sports and lecturing, discovers his latent superpowers over a transformative week, using them to tackle everyday challenges and a surprising threat to his community.",
+  "summaryGerman": "Hubert Reed, ein 59-jähriger mit einer Leidenschaft für Sport und Vorträge, entdeckt seine verborgenen Superkräfte während einer transformativen Woche und nutzt sie, um alltägliche Herausforderungen und eine überraschende Bedrohung für seine Gemeinde zu bewältigen.",
+  "summaryDutch": "Hubert Reed, een 59-jarige met een passie voor sport en lezingen, ontdekt zijn latente superkrachten gedurende een transformerende week, en gebruikt deze om alledaagse uitdagingen en een verrassende bedreiging voor zijn gemeenschap aan te pakken.",
+  "summaryFrench": "Hubert Reed, un homme de 59 ans passionné par le sport et les conférences, découvre ses super pouvoirs latents au cours d'une semaine transformatrice, les utilisant pour relever les défis quotidiens et une menace surprenante pour sa communauté.",
+  "story": [
+    {
+      "weekday": "Mondy",
+      "text": "Hubert Reed wakes feeling unusually energetic. During a morning jog, he accidentally discovers his ability to run at superhuman speed.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "With cautious curiosity, he tests his newfound speed again, dashing around the local park and enjoying the thrill without revealing his secret.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Hubert uses his speed to prevent a minor accident at the community center and feels a deep sense of fulfillment.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Intrigued by his abilities, he visits a scientist friend who helps him explore the extent of his powers and theorizes their sudden emergence.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Embracing his role as a local guardian, Hubert discreetly uses his speed to solve small community problems, spreading unseen positivity.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a lecture at the community college, a sudden crisis tests Hubert's heroism as he covertly saves the audience from a dangerous malfunction.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Feeling empowered, Hubert decides to dedicate his new life to protecting and educating his community, blending his passions seamlessly.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "And so, Hubert Reed transformed from a simple man into a guardian, proving that heroes can emerge at any stage of life.",
+  "moral": "It's never too late to be a hero in your own unique way."
+}

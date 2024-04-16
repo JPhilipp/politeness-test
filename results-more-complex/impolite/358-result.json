@@ -1,0 +1,46 @@
+{
+  "title": "The Crocheting Consultant: The Adventures of Jin Kelly",
+  "summary": "Jin Kelly, a 63-year-old superhero with a knack for crocheting and consulting, discovers his power to manipulate time during a local crisis, saving his town from a mysterious threat over the course of a week.",
+  "summaryGerman": "Jin Kelly, ein 63 Jahre alter Superheld mit einer Vorliebe für Häkeln und Beratung, entdeckt seine Fähigkeit, die Zeit zu manipulieren, während einer lokalen Krise und rettet seine Stadt innerhalb einer Woche vor einer geheimnisvollen Bedrohung.",
+  "summaryDutch": "Jin Kelly, een 63-jarige superheld met een voorliefde voor haken en adviseren, ontdekt zijn kracht om de tijd te manipuleren tijdens een lokale crisis, en redt zijn stad van een mysterieuze bedreiging over de loop van een week.",
+  "summaryFrench": "Jin Kelly, un superhéros de 63 ans passionné de crochet et de conseil, découvre son pouvoir de manipuler le temps lors d'une crise locale, sauvant sa ville d'une menace mystérieuse au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Jin Kelly begins his usual morning routine, crocheting a colorful scarf, when suddenly, he notices time slowing down around him. Unaware that this moment would mark the beginning of his newfound abilities.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Empowered but puzzled, Jin visits a longtime friend and fellow hobbyist, seeking advice. They theorize that his connection to yarn and focused mental state while crocheting might be triggering his time manipulation.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "Testing his powers, Jin manages to stop time during a consultation to prevent a bad investment, subtly rearranging documents. He feels a rush of both thrill and responsibility with his capabilities.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "While crocheting at the local park, Jin overhears news of a planned robbery near his area. Preparing to intervene, he practices his time-stopping ability, aiming for precise control.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Jin successfully stops time, thwarting the robbery by leading the police to the scene undetected. His actions stay anonymous but celebrated by the community.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Taking a peaceful day off, Jin reflects on the events of the week, crocheting a victory blanket, and realizing the potential to use his powers for good beyond personal gain.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Jin decides to offer his consulting services pro bono to local businesses, using his skills and powers to foster community growth and resilience.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, every stitch Jin made in his yarn not only crafted garments but wove the very fabric of time, shaping the future of his town.",
+  "moral": "Even the simplest hobbies can reveal extraordinary purposes."
+}

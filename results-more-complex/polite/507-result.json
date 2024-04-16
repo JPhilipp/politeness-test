@@ -1,0 +1,46 @@
+{
+  "title": "The Spinning Consultant: The Adventures of Judy Gray",
+  "summary": "Judy Gray discovers her powers of spinning objects at high speeds and uses them to solve crimes. Over the course of a week, she transitions from a regular teenager with a love for hobbies into a local hero, bringing peace and justice to her community.",
+  "summaryGerman": "Judy Gray entdeckt ihre Kräfte, Objekte mit hoher Geschwindigkeit zu drehen und nutzt sie, um Verbrechen zu lösen. Im Laufe einer Woche verwandelt sie sich von einer normalen Teenagerin mit einer Liebe zu Hobbys in eine lokale Heldin, die ihrer Gemeinschaft Frieden und Gerechtigkeit bringt.",
+  "summaryDutch": "Judy Gray ontdekt haar krachten om objecten met hoge snelheid te draaien en gebruikt ze om misdaden op te lossen. In de loop van een week verandert ze van een normale tiener met een liefde voor hobby's in een lokale heldin, die vrede en gerechtigheid brengt in haar gemeenschap.",
+  "summaryFrench": "Judy Gray découvre ses pouvoirs de faire tourner des objets à grande vitesse et les utilise pour résoudre des crimes. Au cours d'une semaine, elle passe d'une adolescente ordinaire avec un amour pour les passe-temps à une héroïne locale, apportant paix et justice à sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy Gray, an ordinary teenager with a knack for spinning and consulting, finds herself dizzy after spinning unusually fast. This strange incident leads her to discover her ability to manipulate objects by spinning them with her mind.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Judy tests her new powers by stopping a runaway bicycle using only her powers. Amazed by her abilities, she vows to use them for good.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "At school, Judy confides in her best friend about her powers. Together, they brainstorm ways Judy might use her abilities to help others.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "An opportunity arises when Judy overhears a plan for a local bank robbery. Using her consulting skills, she devises a plan to thwart the criminals.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Judy heroically prevents the bank robbery by spinning the robbers’ getaway car tires, rendering them immobile. The town starts to buzz about a new hero.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Satruday",
+      "text": "As news of her heroics spreads, Judy feels overwhelmed but also empowered. She spends the day practicing control over her powers.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Inspired by her own growth, Judy decides to create a secret identity – The Spinning Consultant – dedicating herself to fighting crime in her city.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And so, Judy Gray embraced her destiny, spinning her way to justice.",
+  "moral": "Discover your unique talents, and use them to make a positive difference in the world."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Oscar Lewis: The Ageless Seller",
+  "summary": "Oscar Lewis, a 72-year-old with a knack for sales and secrets, discovers his latent superpowers, using them to fight crime in his neighborhood.",
+  "summaryGerman": "Oscar Lewis, ein 72-jähriger mit einem Talent für Verkauf und Geheimnisse, entdeckt seine latenten Superkräfte und nutzt sie, um in seiner Nachbarschaft Verbrechen zu bekämpfen.",
+  "summaryDutch": "Oscar Lewis, een 72-jarige met een talent voor verkoop en geheimen, ontdekt zijn latente superkrachten en gebruikt ze om misdaad in zijn buurt te bestrijden.",
+  "summaryFrench": "Oscar Lewis, âgé de 72 ans, doué pour la vente et les secrets, découvre ses superpouvoirs latents et les utilise pour combattre le crime dans son quartier.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "On a peaceful morning, Oscar discovered he could hear conversations from miles away while sipping his tea. Amazed by his newfound power, he decided to listen for any trouble brewing in town.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Energized and curious, Oscar heard a hint of a planned robbery. Using his decades of conversational prowess, he followed the whispers back to a local gang planning the heist.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Oscar visited the gang undercover. He pitched his remarkable sales techniques to them as a diversion, secretly gathering information about their plans and identities.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "With detailed knowledge of the plot, Oscar alerted the authorities. However, he also chose to misdirect the gang, selling them fake escape routes.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The plan worked perfectly. The gang was caught, and the town hailed Oscar as a hero. He enjoyed the thrill of his secret being valuable to his community's safety.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Feeling satisfied yet somber, Oscar reflected on the week’s exploits. He decided to use his powers for community surveillance regularly, embracing his role as a guardian.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ending the week on a high note, Oscar held a small session on safety and awareness for his neighborhood, feeling more connected and responsible for his fellow citizens.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And so, Oscar Lewis continued to blend his daily life with his secret adventures, safeguarding his community one sale at a time.",
+  "moral": "One is never too old to make a difference, and sometimes, hidden talents can serve the greater good."
+}

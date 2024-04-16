@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Heroism of Bob Miller",
+  "summary": "Bob Miller, a 61-year-old quilter and guide, discovers his mysterious superpowers and saves his town from an unexpected disaster.",
+  "summaryGerman": "Bob Miller, ein 61-jähriger Quilter und Führer, entdeckt seine mysteriösen Superkräfte und rettet seine Stadt vor einer unerwarteten Katastrophe.",
+  "summaryDutch": "Bob Miller, een 61-jarige quilter en gids, ontdekt zijn mysterieuze superkrachten en redt zijn stad van een onverwachte ramp.",
+  "summaryFrench": "Bob Miller, un quilteur et guide de 61 ans, découvre ses superpouvoirs mystérieux et sauve sa ville d'une catastrophe inattendue.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Bob Miller starts his day with his usual morning walk, feeling unusually energetic. He stumbles upon a glowing rock in the park which imbues him with superpowers.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Feeling euphoric and powerful, Bob explores his new found strength and ability to manipulate fabric, his mood romantic as he contemplates the possible good he can do.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Wednezday",
+      "text": "Bob prevents a major accident at a local festival by creating a massive quilt barrier in seconds, displaying his power publicly for the first time.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News of his deeds spreads. While many praise him, the mood turns eerie as some question the source of his powers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Bob uses his abilities to guide lost hikers back to safety, his peaceful nature calming those around him.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Villains seeking to exploit Bob’s powers kidnap him, demanding he use his abilities for evil. These events escalate to an epic showdown.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Bob cleverly uses his skills to escape and subdue the villains, with the help of his quilting group. The town celebrates their new hero, feeling deeply happy and secure.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As the sun set that Sunday evening, Bob, surrounded by friends and family, realized that anyone can be a hero in their own unique way.",
+  "moral": "Real heroes come in all ages, and often from the most unexpected places."
+}

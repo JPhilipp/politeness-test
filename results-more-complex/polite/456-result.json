@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Zelda Martin: A Superhero Story",
+  "summary": "Zelda Martin, a 50-year-old community supporter and preacher, discovers her ability to heal with words and actions, facing challenges and transforming her community over one impactful week.",
+  "summaryGerman": "Zelda Martin, eine 50-jährige Gemeindehelferin und Predigerin, entdeckt ihre Fähigkeit, mit Worten und Taten zu heilen, stellt sich Herausforderungen und verwandelt ihre Gemeinde in einer eindrucksvollen Woche.",
+  "summaryDutch": "Zelda Martin, een 50-jarige gemeenschapsondersteuner en prediker, ontdekt haar vermogen om met woorden en daden te genezen, staat voor uitdagingen en transformeert haar gemeenschap gedurende een impactvolle week.",
+  "summaryFrench": "Zelda Martin, une précheuse et supportrice de la communauté de 50 ans, découvre sa capacité à guérir par les mots et les actes, relève des défis et transforme sa communauté en une semaine impactante.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda Martin starts her week with a peaceful sermon that unexpectedly soothes the longstanding feud in her community, realizing her words might have special powers.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Feeling triumphant, Zelda helps a local school rally around a fundraiser, inspiring the students and staff with her energetic speeches and support.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "An eerie silence takes over the town as mysterious ailments afflict its residents. Zelda uses her newfound abilities to comfort and heal those in distress.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Zelda feels sad after witnessing the scale of challenges facing her community but is moved to work harder to support those in need.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The community starts to notice Zelda's deeds, and a romantic interest emerges among the crowd. Yet, she remains focused on her mission to heal and support.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Zelda’s efforts culminate in an epic community gathering where everyone she's helped comes together to celebrate her. She realizes the full scope of her impacts.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ending her week on an energetic note, Zelda prepares a plan to extend her support beyond her locality, feeling more empowered than ever.",
+      "mood": "energetic"
+    }
+  ],
+  "ending": "And so, Zelda Martin’s words and deeds continued to ripple across lands far and wide.",
+  "moral": "The power of kind words and supportive actions can reshape communities and heal hearts."
+}

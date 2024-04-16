@@ -1,0 +1,46 @@
+{
+  "title": "The Astounding Week of Heidi White: Advisor by Day, Hero by Night",
+  "summary": "Over one week, Heidi White balances her day-time hobbies of advising and producing with her secret life as a superhero, confronting threats and saving her city from various dangers.",
+  "summaryGerman": "Über eine Woche hinweg balanciert Heidi White ihre tagsüber ausgeübten Hobbys des Beratens und Produzierens mit ihrem geheimen Leben als Superheldin, indem sie Bedrohungen begegnet und ihre Stadt vor verschiedenen Gefahren rettet.",
+  "summaryDutch": "Gedurende een week balanceert Heidi White haar dagelijkse hobby's van adviseren en produceren met haar geheime leven als superheldin, waarbij ze dreigingen het hoofd biedt en haar stad redt van verschillende gevaren.",
+  "summaryFrench": "Pendant une semaine, Heidi White équilibre ses hobbies de jour en conseil et production avec sa vie secrète de superhéroïne, confrontant les menaces et sauvant sa ville de divers dangers.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Heidi advised a struggling local theater on improving their shows, feeling happy and fulfilled.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "That night, she thwarted a robbery with her quick thinking and agility, leaving her feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Heidi produced a successful charity event, which was unexpectedly interrupted by a mysterious figure. The mood was eerie.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thorsday",
+      "text": "Investigating the mysterious figure led Heidi to find a corrupted businessman planning to demolish an orphanage for profit. Her determination intensified.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "After exposing the businessman's plans to the public, Heidi watched as the community came together to save the orphanage, feeling a deep sense of peace.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Heidi spent the day reflecting on her week, taking comfort in her dual life balancing both her passions and heroic duties.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Her heroic actions became the talk of the city, celebrated as an epic tale of bravery and smart leadership.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "In the heart of the city, under the silvery light of the moon, Heidi White smiled, knowing her secret was safe yet another day.",
+  "moral": "True heroism lies in the balance between everyday duties and extraordinary actions."
+}

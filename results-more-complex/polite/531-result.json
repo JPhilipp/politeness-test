@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Guardian: Judy Price's Week of Valor",
+  "summary": "At age 53, Judy Price, a consultant and teacher, discovers her latent powers of invisibility and foresight, using them to thwart a series of crimes and bring peace to her neighborhood over the course of a week.",
+  "summaryGerman": "Im Alter von 53 Jahren entdeckt Judy Price, Beraterin und Lehrerin, ihre verborgenen Kräfte der Unsichtbarkeit und Voraussicht und nutzt sie, um im Laufe einer Woche eine Reihe von Verbrechen zu vereiteln und Frieden in ihrer Nachbarschaft zu bringen.",
+  "summaryDutch": "Op 53-jarige leeftijd ontdekt Judy Price, een consultant en lerares, haar latente krachten van onzichtbaarheid en vooruitziendheid, en gebruikt ze om een reeks misdaden te dwarsbomen en vrede te brengen in haar buurt gedurende een week.",
+  "summaryFrench": "À 53 ans, Judy Price, consultante et enseignante, découvre ses pouvoirs latents d'invisibilité et de prévoyance, les utilisant pour déjouer une série de crimes et apporter la paix dans son quartier au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy Price begins her week feeling a strange sensation, as she finds herself turning invisible during a morning consulting session. Unnerved yet intrigued, she explores her newfound ability.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesay",
+      "text": "Harnessing her power, Judy stops a theft at a local school where she teaches part-time. No one sees her, but the saved items are mysteriously returned.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Judy feels the pull of responsibility, deciding to patrol her neighborhood during the nights. She encounters a lost child whom she guides home invisibly, ensuring the child’s safety.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Realizing the potential of her powers, Judy consults with a trusted friend in law enforcement, seeking advice without revealing her secret identity.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Buoyed by the success of her covert operations, Judy confidently averts a dangerous traffic incident caused by a reckless driver—again unseen.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Judy tutors young students, instilling in them values of integrity and justice, while reflecting on her week’s unnoticed heroics.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the impact of her invisible interventions, Judy commits herself to continue guarding the neighborhood, blending her daily routine with her secret nighttime vigilance.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As Judy Price closed her eyes that Sunday night, she understood that true heroes are often unseen but never unimportant.",
+  "moral": "The greatest acts of heroism are often the ones unnoticed."
+}

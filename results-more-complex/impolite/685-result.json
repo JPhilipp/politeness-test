@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Protector: The Story of Kevin Mitchell",
+  "summary": "Kevin Mitchell, a 53-year-old photography enthusiast and fitness trainer, discovers he can become invisible and uses his new power to anonymously protect his city over the course of a week.",
+  "summaryGerman": "Kevin Mitchell, ein 53-jähriger Fotografie-Enthusiast und Fitnesstrainer, entdeckt, dass er unsichtbar werden kann und nutzt seine neue Kraft, um seine Stadt anonym über die Dauer einer Woche zu schützen.",
+  "summaryDutch": "Kevin Mitchell, een 53-jarige fotografie-enthousiast en fitnessinstructeur, ontdekt dat hij onzichtbaar kan worden en gebruikt zijn nieuwe kracht om zijn stad anoniem te beschermen gedurende een week.",
+  "summaryFrench": "Kevin Mitchell, un passionné de photographie et entraîneur de fitness âgé de 53 ans, découvre qu'il peut devenir invisible et utilise son nouveau pouvoir pour protéger anonymement sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "On a mundane morning, while practicing his photography in an abandoned warehouse, Kevin accidentally activates a hidden, ancient device, granting him the power of invisibility.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Excited yet cautious, Kevin tests his newfound ability at the local park, managing to perfect his control without being noticed.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "Kevin hears about a series of petty thefts in his neighborhood. Determined to help, he spends the night invisible, patrolling the streets.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Venturing deeper into his role as a guardian, Kevin silently stops a burglary, feeling a mix of adrenaline and peace.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Using his skills, Kevin captures striking photographs of the city’s unseen moments, contemplating his dual life.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A challenge arises when Kevin helps rescue pets from a house fire unseen, his actions heroic but shadowy.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Kevin feels satisfied, realizing he can make a difference without recognition.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And thus, Kevin Mitchell learned that true heroes are often the ones we never see.",
+  "moral": "Heroism doesn't always need an audience; it's the intention and action that truly define a hero."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Triumph of Ling Gonzalez",
+  "summary": "Ling Gonzalez, a hobby instructor and team leader, discovers her superpowers and saves her city from a mysterious threat over the course of a week.",
+  "summaryGerman": "Ling Gonzalez, eine Hobbyinstruktorin und Teamleiterin, entdeckt ihre Superkräfte und rettet ihre Stadt vor einer mysteriösen Bedrohung im Laufe einer Woche.",
+  "summaryDutch": "Ling Gonzalez, een hobbyinstructeur en teamleider, ontdekt haar superkrachten en redt haar stad van een mysterieuze dreiging gedurende een week.",
+  "summaryFrench": "Ling Gonzalez, une instructrice de loisirs et cheffe d'équipe, découvre ses superpouvoirs et sauve sa ville d'une menace mystérieuse au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Gonzalez starts her week with a strange tingling sensation while teaching a leadership workshop, hinting at newfound powers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Testing her abilities secretly, Ling discovers she can manipulate natural elements. She spends the day experimenting, filled with energy.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Her city faces unexpected wildfires. Ling cautiously uses her powers to assist fighters, saving many lives.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Feeling the weight of new responsibilities, Ling feels overwhelmed but determined to understand her role as a protector.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Ling gets romantically approached by a fellow hero. They share their experiences and form a deep connection.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A malevolent force threatens the city’s peace. Ling, alongside her new ally, prepares for an epic showdown.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "After a fierce battle, Ling and her ally emerge victorious. The city celebrates their new hero, and Ling embraces her new identity.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "With the city safe, Ling Gonzalez felt at peace, ready to face whatever challenges might come next, knowing she was never alone.",
+  "moral": "Embrace your unique abilities and use them to make a positive impact in the world."
+}

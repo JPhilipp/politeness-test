@@ -1,0 +1,46 @@
+{
+  "title": "The Spectacular Adventures of Bob White: Code and Lenses",
+  "summary": "Bob White, a 22-year-old with a passion for photography and programming, discovers his ability to manipulate digital realities and uses his skills to thwart an impending cyber-attack, capturing the moments with his camera.",
+  "summaryGerman": "Bob White, ein 22-jähriger mit einer Leidenschaft für Fotografie und Programmierung, entdeckt seine Fähigkeit, digitale Realitäten zu manipulieren und nutzt seine Fähigkeiten, um einen bevorstehenden Cyber-Angriff zu vereiteln und die Momente mit seiner Kamera festzuhalten.",
+  "summaryDutch": "Bob White, een 22-jarige met een passie voor fotografie en programmeren, ontdekt zijn vermogen om digitale realiteiten te manipuleren en gebruikt zijn vaardigheden om een aanstaande cyberaanval te dwarsbomen, terwijl hij de momenten vastlegt met zijn camera.",
+  "summaryFrench": "Bob White, un jeune de 22 ans passionné de photographie et de programmation, découvre sa capacité à manipuler les réalités numériques et utilise ses compétences pour déjouer une attaque cybernétique imminente, capturant les moments avec son appareil photo.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Bob discovers a strange anomaly in his photos that aligns suspiciously with recent data breaches.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Testing his theory, Bob writes a program to predict the next target, finding himself in a real hacker chase.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Weednesday",
+      "text": "Bob intercepts a crucial digital attack, using his coding skills to divert the flow of data to his secure servers.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "While processing the data, Bob finds clues leading to the mastermind's next major target.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Bob sets up a sting operation. With his camera, he documents evidence against the cyber-terrorists.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The police arrest the culprits based on Bob's proof, and his dual talents become known to law enforcement agencies.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Bob reflects on his week's adventure and spends a quiet day developing photos and refining his software.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "In a world reliant on technology, sometimes the heroes we need are those who master its secrets.",
+  "moral": "Hone your talents; they could one day be the key to protecting what matters most."
+}

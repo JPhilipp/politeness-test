@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Ling Walker: The Guide of Destiny",
+  "summary": "Ling Walker, a 48-year-old consultant, discovers her ability to influence the future by guiding people's decisions. Throughout a week, she confronts dilemmas and adversaries, ultimately shaping her community's fate.",
+  "summaryGerman": "Ling Walker, eine 48-jährige Beraterin, entdeckt ihre Fähigkeit, die Zukunft zu beeinflussen, indem sie die Entscheidungen der Menschen leitet. Innerhalb einer Woche stellt sie sich Dilemmata und Gegnern und formt letztendlich das Schicksal ihrer Gemeinde.",
+  "summaryDutch": "Ling Walker, een 48-jarige consultant, ontdekt haar vermogen om de toekomst te beïnvloeden door mensen te adviseren in hun beslissingen. Gedurende een week confronteert zij dilemma's en tegenstanders, uiteindelijk de toekomst van haar gemeenschap vormend.",
+  "summaryFrench": "Ling Walker, consultante de 48 ans, découvre sa capacité à influencer l'avenir en guidant les décisions des gens. Tout au long d'une semaine, elle fait face à des dilemmes et des adversaires, formant finalement le destin de sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Walker begins her week feeling uneasy about a recent consulting project. She discovers her guidance has surprisingly altered someone's life path dramatically.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thuesday",
+      "text": "Intrigued by the impact of her work, Ling decides to explore her ability further. She meets with a young entrepreneur, advising him in a way that could revolutionize his business outlook.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Ling faces backlash from a rival consultant, who challenges her methods and ethics. A heated debate ensues, showcasing Ling’s resilience under pressure.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Feeling the strain, Ling seeks solace in her hobby of guiding tours around her city. While exploring, she accidentally uncovers crucial information about a community issue.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Using the information discovered, Ling devises a plan to address the community issue, rallying support from locals to implement her strategies.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Ling's efforts culminate in a large community meeting. As she presents her vision, she realizes the true extent of her influence—both good and challenging.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Ling feels satisfied with the changes she's ignited. Inspired, she vows to use her abilities to continuously shape a better future for all.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "With newfound resolve and a heart full of purpose, Ling Walker stood ready to guide her community toward a brighter tomorrow.",
+  "moral": "The power to change the world often lies in the willingness to guide others with wisdom and courage."
+}

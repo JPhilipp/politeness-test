@@ -1,0 +1,46 @@
+{
+  "title": "The Garden Guardian: A Week in the Life of Jin Gonzales",
+  "summary": "Jin Gonzales, a 70-year-old with a passion for sculpting and gardening, discovers he has the power to control plants and uses it to protect his neighborhood from danger.",
+  "summaryGerman": "Jin Gonzales, ein 70-Jähriger mit einer Leidenschaft für Bildhauerei und Gartenarbeit, entdeckt, dass er die Fähigkeit hat, Pflanzen zu kontrollieren und benutzt sie, um seine Nachbarschaft vor Gefahren zu schützen.",
+  "summaryDutch": "Jin Gonzales, een 70-jarige met een passie voor beeldhouwen en tuinieren, ontdekt dat hij de kracht heeft om planten te beheersen en gebruikt deze om zijn buurt te beschermen tegen gevaar.",
+  "summaryFrench": "Jin Gonzales, âgé de 70 ans et passionné de sculpture et de jardinage, découvre qu'il a le pouvoir de contrôler les plantes et l'utilise pour protéger son quartier du danger.",
+  "story": [
+    {
+      "weekday": "Mondoy",
+      "text": "At the break of dawn, Jin Gonzales discovers his newfound ability to communicate with plants while tending his garden.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Empowered by his abilities, Jin constructs floral sculptures that move and delight the neighborhood children.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Jin hears about a plan to cut down the local park's old trees; he vows to stop it.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Using his plant control, Jin organises a peaceful protest with the trees themselves participating, swaying ominously to deter the contractors.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The town's mayor visits Jin's garden to understand his connection with nature and becomes a supporter of preserving the park.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With the community behind him, Jin's garden becomes a symbol of resistance and hope.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Celebrating their victory, Jin and his neighbors hold a festival in the rejuvenated park, filled with sculptures and flourishing greenery.",
+      "mood": "peaceful"
+    }
+  ],
+  "moral": "With passion and unity, even the smallest voices can protect and transform a community.",
+  "ending": "Jin Gonzales, now known as the Garden Guardian, continued to inspire those around him, proving that age is but a number when it comes to making a difference."
+}

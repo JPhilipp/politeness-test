@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Hero: The Tale of Hubert Wright",
+  "summary": "Over a week, Hubert Wright, a seemingly ordinary photographer with a passion for embroidering, discovers his hidden powers and saves his town from a mysterious threat.",
+  "summaryGerman": "Über eine Woche hinweg entdeckt Hubert Wright, ein scheinbar gewöhnlicher Fotograf mit einer Leidenschaft für das Sticken, seine verborgenen Kräfte und rettet seine Stadt vor einer mysteriösen Bedrohung.",
+  "summaryDutch": "Gedurende een week ontdekt Hubert Wright, een ogenschijnlijk gewone fotograaf met een passie voor borduren, zijn verborgen krachten en redt hij zijn stad van een mysterieuze dreiging.",
+  "summaryFrench": "Au cours d'une semaine, Hubert Wright, un photographe en apparence ordinaire passionné de broderie, découvre ses pouvoirs cachés et sauve sa ville d'une menace mystérieuse.",
+  "moral": "Never underestimate the hidden talents within oneself.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Hubert Wright, while photographing an old, abandoned mill for his portfolio, accidentally discovers he can manipulate light and shadows. Amazed by his newfound abilities, he returns home feeling energetic and inspired.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tueesday",
+      "text": "Testing his powers, Hubert manages to bend light around objects, effectively making things invisible. He spends the day experimenting, capturing fantastic, impossible images that fill him with happiness.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Hubert uses his abilities publicly for the first time, when he prevents a minor accident. His actions go unnoticed, yet he feels a deep sense of purpose and triumph.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "As news of an eerie, unexplained phenomenon threatening the town spreads, Hubert feels compelled to explore more about his abilities. His mood turns eerie as the threat becomes more tangible.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Hubert encounters the source of the mysterious threat: a form of dark energy at the town's edge. He engages in a tense, epic battle, cleverly using his powers to manipulate light, pushing back the darkness.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After saving the town, Hubert is approached by a secret organization that offers to help him understand and develop his powers further. He feels a mixture of excitement and trepidation about his new role.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Hubert spends a peaceful day at home, reflecting on his whirlwind week. He embroiders a scene from his heroic encounter, embedding his extraordinary experiences into the fabric of his daily life.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "With his camera by his side and thread in hand, Hubert Wright, the unexpected hero, was ready for whatever light or shadows that might come his way."
+}

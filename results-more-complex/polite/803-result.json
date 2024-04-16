@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Valor: Frank Howard's Heroic Journey",
+  "summary": "Frank Howard discovers his hidden superpowers and saves his city from a mysterious threat over the course of a week, growing into his role as a true hero.",
+  "summaryGerman": "Frank Howard entdeckt seine verborgenen Superkräfte und rettet seine Stadt vor einer geheimnisvollen Bedrohung im Laufe einer Woche, während er in seine Rolle als wahrer Held hineinwächst.",
+  "summaryDutch": "Frank Howard ontdekt zijn verborgen superkrachten en redt zijn stad van een mysterieuze dreiging gedurende een week, terwijl hij uitgroeit tot een echte held.",
+  "summaryFrench": "Frank Howard découvre ses super-pouvoirs cachés et sauve sa ville d'une menace mystérieuse au cours d'une semaine, devenant ainsi un véritable héros.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank Howard starts his week with a usual morning jog. As the sun rises, he suddenly feels a surge of energy, inexplicably lifting him off the ground.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Curious about his newfound abilities, Frank spends the day experimenting. He discovers he can fly and has super strength. Determined, he decides to use these powers for good.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Frank intervenes in a bank robbery, easily overpowering the thieves. His heroic act is captured on video and begins circulating on social media.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Media attention floods Frank's life. He keeps a low profile, focusing on helping his community, repairing broken infrastructure, and supporting local shelters.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Rumors of a strange, dark force lurking in the city reach Frank. He meets with local leaders and plans a surveillance operation to uncover the threat.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During his patrols, Frank encounters the dark force—a mysterious villain with powers of manipulation. An epic battle ensues throughout the city streets.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Frank ultimately triumphs over the villain, using his own strengths of leadership and bravery. The city celebrates their new hero, feeling safer and inspired.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As the sun sets on a peaceful Sunday, Frank Howard looks out over his city, ready for whatever challenges may come next.",
+  "moral": "True heroism comes from using one's powers to lead and uplift others."
+}

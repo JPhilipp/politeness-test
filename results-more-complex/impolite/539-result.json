@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Judy Washington: Hero In the Hallways",
+  "summary": "Judy Washington, a 70-year-old retired teacher, discovers a hidden power that allows her to transport through time during one extraordinary week, using her abilities to teach and inspire past and current students.",
+  "summaryGerman": "Judy Washington, eine 70-jährige pensionierte Lehrerin, entdeckt während einer außergewöhnlichen Woche eine verborgene Kraft, die es ihr ermöglicht, durch die Zeit zu reisen, um vergangene und aktuelle Schüler zu unterrichten und zu inspirieren.",
+  "summaryDutch": "Judy Washington, een 70-jarige gepensioneerde lerares, ontdekt een verborgen kracht die haar in staat stelt om gedurende een buitengewone week door de tijd te reizen, waarbij ze haar vaardigheden gebruikt om vroegere en huidige studenten te onderwijzen en te inspireren.",
+  "summaryFrench": "Judy Washington, une enseignante à la retraite de 70 ans, découvre un pouvoir caché qui lui permet de se transporter dans le temps pendant une semaine extraordinaire, utilisant ses capacités pour enseigner et inspirer les élèves passés et actuels.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "On a peaceful Monday morning, Judy found a mysterious book in the library that glowed when she touched it, sparking her time-travel abilities.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tudsday",
+      "text": "Judy accidentally teleported to her former classroom in 1985, where she inspired a young student who was struggling with confidence.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Back in the present, Judy used her story of yesterday to motivate her tutoring group, feeling more energetic than ever.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Teleporting to the future, Judy witnessed the adulthood success of her past students, which filled her with pride and happiness.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "An invitation to speak at a conference about her journey had Judy feeling triumphant, as she prepared to share her story.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "At the conference, her speech was moving, inspirational, and sprinkled with romance when she mentioned her late husband who always supported her dreams.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her incredible week, Judy decided to write a book, hoping to inspire future generations forever.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus, Judy Washington's legend was just beginning.",
+  "moral": "No matter the age, you can always discover new abilities that can lead to inspiring others."
+}

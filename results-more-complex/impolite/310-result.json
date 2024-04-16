@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Journey of Sue Gray, Super Counselor",
+  "summary": "Sue Gray discovers she can influence emotions with her words, helping her city cope with a sudden wave of sadness. Over one week, she learns to control her powers, ultimately becoming a local hero recognized for her emotional healing.",
+  "summaryGerman": "Sue Gray entdeckt, dass sie mit ihren Worten Emotionen beeinflussen kann, um ihrer Stadt zu helfen, mit einer plötzlichen Welle der Traurigkeit fertig zu werden. Innerhalb einer Woche lernt sie, ihre Kräfte zu kontrollieren und wird schließlich als lokale Heldin anerkannt, die für ihre emotionale Heilung bekannt ist.",
+  "summaryDutch": "Sue Gray ontdekt dat ze met haar woorden emoties kan beïnvloeden, waarmee ze haar stad helpt om te gaan met een plotselinge golf van verdriet. Gedurende een week leert ze haar krachten te beheersen, en uiteindelijk wordt ze erkend als een lokale heldin voor haar emotionele genezing.",
+  "summaryFrench": "Sue Gray découvre qu'elle peut influencer les émotions avec ses mots, aidant sa ville à faire face à une vague soudaine de tristesse. En une semaine, elle apprend à contrôler ses pouvoirs, devenant finalement une héroïne locale reconnue pour sa guérison émotionnelle.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "As Sue gave a counseling session, she accidentally discovered her words could literally uplift a person’s spirits. Suddenly, every client left happier than ever.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "News of Sue’s ‘magic counseling’ spread, drawing crowds. She felt overwhelmed but managed to help a heartbroken teenager feel hopeful again.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednensday",
+      "text": "A mysterious figure visited Sue, warning her that her powers could attract unwanted attention. The eerie encounter left Sue unsettled.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Her city was struck by an inexplicable wave of sadness. Sue worked tirelessly, using her powers to imbue citizens with peace and resilience.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Sue felt the strain of continuously using her powers but was encouraged by the smiles returning to people’s faces.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A major confrontation occurred when a villain attempted to harness Sue’s abilities for nefarious purposes. Sue triumphed, saving her community’s emotional well-being.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The community gathered to thank Sue, giving her a medal of honor. She realized her life’s calling was being a superhero, not just a counselor.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As Sue stood among her neighbors, she understood the true extent of her power – not just to heal, but to inspire.",
+  "moral": "The power to change emotions is the power to change the world."
+}

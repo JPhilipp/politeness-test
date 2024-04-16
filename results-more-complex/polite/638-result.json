@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Adventures of Frank Wright",
+  "summary": "Frank Wright, a retired marketer turned guide, discovers his ability to become invisible and uses it to protect his city from trouble while exploring his new powers.",
+  "summaryGerman": "Frank Wright, ein pensionierter Marketer, der zum Führer wurde, entdeckt seine Fähigkeit, unsichtbar zu werden und verwendet sie, um seine Stadt vor Unannehmlichkeiten zu schützen, während er seine neuen Kräfte erkundet.",
+  "summaryDutch": "Frank Wright, een gepensioneerde marketeer die gids werd, ontdekt zijn vermogen om onzichtbaar te worden en gebruikt dit om zijn stad te beschermen tegen problemen, terwijl hij zijn nieuwe krachten verkent.",
+  "summaryFrench": "Frank Wright, un marketeur à la retraite devenu guide, découvre sa capacité à devenir invisible et l'utilise pour protéger sa ville des problèmes tout en explorant ses nouveaux pouvoirs.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank Wright, an energetic retired marketer, unexpectedly discovers his ability to become invisible after a strange encounter in a mystical part of the local museum.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Excited about his new power, Frank uses his invisibility to overhear plans of a local gang planning to rob the museum. He feels triumphant knowing he can prevent it.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wensday",
+      "text": "Using his marketing savvy, Frank creates an anonymous campaign hinting at increased security at the museum, causing the gang to delay their plans.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Frank spends the day testing and mastering his invisibility, exploring its limits and potentials in peaceful solitude.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "As the gang reschedules their heist, Frank invisibly infiltrates their meeting spot and gathers crucial evidence to pass to the police.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With the gang arrested, Frank feels happy and satisfied, relaxing as he guides a group of tourists through the city, sharing cryptic tales of an unseen hero.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Frank feels content knowing his dual life as a guide and a superhero brings a unique flavor to his retirement.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "At 63, Frank Wright proved it's never too late to become a hero.",
+  "moral": "No matter your age, you have the power to make a difference."
+}

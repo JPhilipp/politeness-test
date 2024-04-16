@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Trent Cooper: Directing Heroics",
+  "summary": "Trent Cooper, a 37-year-old with a passion for directing and selling, discovers his unexpected superpowers and spends a week using them to solve community problems while balancing his daily life.",
+  "summaryGerman": "Trent Cooper, ein 37-Jähriger mit einer Leidenschaft für Regie und Verkauf, entdeckt seine unerwarteten Superkräfte und verbringt eine Woche damit, sie zu nutzen, um Probleme in der Gemeinde zu lösen und gleichzeitig sein tägliches Leben zu balancieren.",
+  "summaryDutch": "Trent Cooper, een 37-jarige met een passie voor regisseren en verkopen, ontdekt zijn onverwachte superkrachten en besteedt een week aan het gebruik ervan om problemen in de gemeenschap op te lossen terwijl hij zijn dagelijks leven in balans houdt.",
+  "summaryFrench": "Trent Cooper, un homme de 37 ans passionné par la mise en scène et la vente, découvre ses superpouvoirs inattendus et passe une semaine à les utiliser pour résoudre des problèmes communautaires tout en équilibrant sa vie quotidienne.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Trent Cooper finds an ancient ring in his attic, which grants him the power to inspire and directly influence people's actions with his words.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tueseday",
+      "text": "Trent uses his newfound powers at work to boost sales and resolve conflicts among his team, leading to a record-setting day.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Inspired by his abilities, Trent directs a community play overnight, which inadvertently brings together estranged community members.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Trent encounters his first challenge: a local gang causing chaos. He directs them towards positive community actions using his persuasive powers.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Trent feels the strain of balancing his dual life, experiencing moments of doubt and loneliness despite his incredible week.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Rejuvenated by community support, Trent organizes a massive charity event, leading it with energy and charisma.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Trent vows to use his powers responsibly, feeling a peaceful sense of duty towards his city.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus, Trent Cooper learned that with great power comes not just responsibility, but a chance to make a world of difference.",
+  "moral": "True heroism lies in using one's abilities to benefit others and bring communities together."
+}

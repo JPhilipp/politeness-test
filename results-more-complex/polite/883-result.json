@@ -1,0 +1,46 @@
+{
+  "title": "The Harmonic Protector: The Adventures of David Evans",
+  "summary": "Over one week, 75-year-old David Evans uses his musical talents and negotiation skills to stop a supernatural threat in his community, restoring peace and harmony.",
+  "summaryGerman": "Über eine Woche hinweg nutzt der 75-jährige David Evans seine musikalischen Talente und Verhandlungsfähigkeiten, um eine übernatürliche Bedrohung in seiner Gemeinde zu stoppen und Frieden und Harmonie wiederherzustellen.",
+  "summaryDutch": "Gedurende één week gebruikt de 75-jarige David Evans zijn muzikale talenten en onderhandelingsvaardigheden om een bovennatuurlijke bedreiging in zijn gemeenschap te stoppen, waardoor vrede en harmonie worden hersteld.",
+  "summaryFrench": "Pendant une semaine, David Evans, 75 ans, utilise ses talents musicaux et ses compétences en négociation pour arrêter une menace surnaturelle dans sa communauté, restaurant la paix et l'harmonie.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "David Evans starts his week thrilled when a mysterious melody plays in his dreams, hinting at a hidden message.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Discovering that the melody corresponds to an ancient lore, David starts to research more about its origins and potential dangers.",
+      "mood": "intriguing"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Contacts in the music world aid David in decrypting the melody's content, leading him to understand it's a prayer to calm a restless spirit.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Tursday",
+      "text": "Using his negotiation skills, David convenes a meeting with spiritual leaders and musicians to discuss a plan of action.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "David leads the group in a powerful, harmonious performance designed to appease the spirit, weaving his arrangement into their playing.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The restless spirit responds! It appears during the performance, sharing its tale of unrequited love and loss which has trapped it on this plane.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "With the spirit's story told and its angst expressed through music, it finds peace. David watches as it ascends to the afterlife, knowing he has restored harmony to his community.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, David Evans proved that even at 75, one could still make a symphonic difference.",
+  "moral": "Age does not diminish our ability to impact the world around us; it often enriches it."
+}

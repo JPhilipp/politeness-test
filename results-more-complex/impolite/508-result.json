@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Valor: Mallory Collins' Journey",
+  "summary": "Mallory Collins, a 29-year-old with a passion for coaching and photography, discovers her superpowers and confronts a threat to her city over the course of a week, learning the true essence of heroism.",
+  "summaryGerman": "Mallory Collins, eine 29-Jährige mit einer Leidenschaft für Coaching und Fotografie, entdeckt ihre Superkräfte und stellt sich einer Bedrohung für ihre Stadt im Laufe einer Woche, und lernt das wahre Wesen des Heldentums kennen.",
+  "summaryDutch": "Mallory Collins, een 29-jarige met een passie voor coaching en fotografie, ontdekt haar superkrachten en gaat een bedreiging voor haar stad te lijf gedurende een week, en leert de ware essentie van heldendom.",
+  "summaryFrench": "Mallory Collins, une jeune femme de 29 ans passionnée par l'encadrement et la photographie, découvre ses superpouvoirs et affronte une menace pour sa ville au cours d'une semaine, apprenant ainsi la véritable essence de l'héroïsme.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Mallory discovers her ability to manipulate light while photographing a sunrise, an eerie yet enthralling moment.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "She tests her powers by creating light illusions, feeling energetic and excited about her newfound abilities.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Mallory uses her powers to avert an accident, saving several people with a display of light barriers.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "By night, she captures stunning photographs using her powers, merging hobbies and heroics, feeling peaceful.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A villain known as The Shadower surfaces, plunging the city into darkness; Mallory plans her confrontation.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The confrontation is epic, with Mallory using her mastery of light to dispel darkness and expose The Shadower’s true form.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The city celebrates Mallory as a hero. She reflects on her week, realizing that true heroism comes from within and the willingness to act.",
+      "mood": "triumphant"
+    }
+  ],
+  "moral": "True heroism lies not only in the power one wields but also in the courage to use it for the greater good.",
+  "ending": "Thus, the city found a new guardian in Mallory Collins, the Light Bringer."
+}

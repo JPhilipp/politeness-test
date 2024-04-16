@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Heroism of Hubert Mitchell",
+  "summary": "Over one week, Hubert Mitchell, a 71-year-old retired teacher and coach, discovers he has latent superpowers which he uses to tackle local challenges and mysteries.",
+  "summaryGerman": "Über eine Woche entdeckt Hubert Mitchell, ein 71-jähriger pensionierter Lehrer und Trainer, dass er latente Superkräfte hat, die er nutzt, um lokale Herausforderungen und Geheimnisse zu bewältigen.",
+  "summaryDutch": "Gedurende één week ontdekt Hubert Mitchell, een 71-jarige gepensioneerde leraar en coach, dat hij latente superkrachten heeft die hij gebruikt om lokale uitdagingen en mysteries aan te gaan.",
+  "summaryFrench": "Pendant une semaine, Hubert Mitchell, un enseignant et coach à la retraite de 71 ans, découvre qu'il possède des superpouvoirs latents qu'il utilise pour relever des défis locaux et des mystères.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Hubert Mitchell starts his week feeling a mysterious surge of energy while volunteering at the local high school.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "After hearing of a burglary in the neighborhood, Hubert surprises himself by lifting a car to retrieve a child's lost toy underneath. The act leaves him and his neighbors in awe.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wdnesday",
+      "text": "Hubert, feeling curious about his new abilities, experiments with them. He spends the day helping neighbors with heavy lifting and tasks, spreading joy and laughter.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A local reporter catches wind of Hubert's deeds. Intrigued, she spends the day interviewing him, sparking interest in the community about this unexpected hero.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Hubert attends a community event as a guest of honor. Here, he openly demonstrates his powers in public for the first time, garnering widespread admiration and applause.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Hubert reflects on his week and decides to start a training program for seniors to help them discover their hidden potentials.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The city officially recognizes Hubert’s contributions, dedicating a park in his name. Hubert feels content and hopeful about helping others find their inner strengths.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "And so, Hubert Mitchell, once a humble teacher, became a beacon of hope and inspiration to his town.",
+  "moral": "Never underestimate the impact one individual can have on a community, regardless of age."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Kevin Hayes: Mentor by Day, Hero by Night",
+  "summary": "Kevin Hayes, a 41-year-old mentor, uncovers his secret abilities and faces challenges, balancing his life while helping his community.",
+  "summaryGerman": "Kevin Hayes, ein 41-jähriger Mentor, entdeckt seine geheimen Fähigkeiten und stellt sich Herausforderungen, während er sein Leben ausbalanciert und seiner Gemeinde hilft.",
+  "summaryDutch": "Kevin Hayes, een 41-jarige mentor, ontdekt zijn geheime vaardigheden en gaat uitdagingen aan, terwijl hij zijn leven in evenwicht brengt en zijn gemeenschap helpt.",
+  "summaryFrench": "Kevin Hayes, un mentor de 41 ans, découvre ses capacités secrètes et fait face à des défis, équilibrant sa vie tout en aidant sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Kevin Hayes starts his week feeling energetic as he advises young entrepreneurs at a local startup hub. Unknown to him, his advice unknowingly inspires one of the attendees to invent a breakthrough in renewable energy.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Feeling happy and fulfilled from his successful mentoring session, Kevin spends his evening at a community center. As night falls, he hears distant cries for help and discovers his ability to sense distress from afar.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "Using his newfound abilities, Kevin tracks down the source of the cries. He rescues a family from a burning building, feeling triumphant yet secretive about his heroics.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Kevin feels eerie when he senses that someone is stalking him, possibly due to his heroic act the previous night. His day is spent in cautious observation, trying to understand if his secret is safe.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Energized again, Kevin uses his mentor role to subtly teach about safety and awareness, integrating his heroic perspective without revealing his secret identity.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A quiet romantic dinner with an old friend helps Kevin feel peaceful. He contemplates sharing his secret but decides the time isn’t right.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The week ends with an epic community gathering where Kevin feels overjoyed seeing the impact of his dual lives blending seamlessly. He realizes his role as a mentor extends beyond normal expectations.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "As lights dim over the city, Kevin smiles, knowing both his worlds can coexist in harmony.",
+  "moral": "Real heroes are those who find strength in helping others, both in the spotlight and the shadows."
+}

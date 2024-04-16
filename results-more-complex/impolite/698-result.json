@@ -1,0 +1,45 @@
+{
+  "title": "The Astonishing Adventures of Eve Peterson",
+  "summary": "Eve Peterson, a 37-year-old mentor and exercise enthusiast, discovers her superpowers after a strange meteor shower, leading her to embrace her new identity while facing challenges and ultimately saving her city.",
+  "summaryGerman": "Eve Peterson, eine 37-jährige Mentorin und Sportbegeisterte, entdeckt ihre Superkräfte nach einem seltsamen Meteoritenschauer, was dazu führt, dass sie ihre neue Identität annimmt, während sie Herausforderungen meistert und letztendlich ihre Stadt rettet.",
+  "summaryDutch": "Eve Peterson, een 37-jarige mentor en fitnessliefhebber, ontdekt haar superkrachten na een vreemde meteorenregen, waardoor ze haar nieuwe identiteit omarmt terwijl ze uitdagingen aangaat en uiteindelijk haar stad redt.",
+  "summaryFrench": "Eve Peterson, mentor de 37 ans et passionnée d'exercice, découvre ses superpouvoirs après une étrange pluie de météores, ce qui la conduit à embrasser sa nouvelle identité tout en faisant face à des défis et en finissant par sauver sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Eve Peterson starts her week like any other, mentoring young professionals and hitting the gym. Unbeknownst to her, a celestial event is about to change her life forever.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuedsay",
+      "text": "During her morning jog, Eve witnesses a meteor shower. A small meteorite crashes near her and she feels a strange energy surge as she approaches it.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Eve notices unusual abilities; she can hear distant conversations and see through walls. Initially frightened, she decides to use these powers to help her mentees and locals.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "While experimenting with her powers at a secluded park, Eve saves a child from a falling tree branch, revealing her heroics to the public for the first time.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The local news has caught wind of Eve's deeds. She struggles with her new fame but continues her day job while helping people in secret at night.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A villain emerges, threatening the city’s safety with technology to harness the same cosmic energy. Eve must stop him before it’s too late.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Eve confronts the villain in a tense battle, using both her new powers and her mentoring skills to outsmart him. She successfully disarms the dangerous device and saves the city.",
+      "mood": "romantic"
+    }
+  ],
+  "moral": "With great power comes great responsibility."
+}

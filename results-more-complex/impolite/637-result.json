@@ -1,0 +1,46 @@
+{
+  "title": "The Extraordinary Week of Ivan Moore, Teacher and Unseen Hero",
+  "summary": "Ivan Moore, a 53-year-old teacher, discovers his ability to boost people's confidence telepathically, leading to a week where he secretly transforms his community",
+  "summaryGerman": "Ivan Moore, ein 53-jähriger Lehrer, entdeckt seine Fähigkeit, die Selbstsicherheit der Menschen telepathisch zu stärken, was zu einer Woche führt, in der er heimlich seine Gemeinschaft verwandelt",
+  "summaryDutch": "Ivan Moore, een 53-jarige leraar, ontdekt zijn vermogen om de zelfverzekerdheid van mensen telepathisch te versterken, wat leidt tot een week waarin hij heimelijk zijn gemeenschap transformeert",
+  "summaryFrench": "Ivan Moore, enseignant de 53 ans, découvre sa capacité à renforcer la confiance des gens par télépathie, conduisant à une semaine où il transforme secrètement sa communauté",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ivan begins the week puzzled by an unusual surge of joy and warmth emanating from him whenever he interacts with his students and colleagues. They appear notably energized and more confident after talking with him.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thuesday",
+      "text": "While teaching, Ivan notices his ability primarily triggers when discussing future dreams and goals. After talking with him, several students boldly volunteer for tasks they usually avoid, revealing his impact.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Ivan tentatively experiments with his ability among his neighbors during a community meeting. He whispers inspiring thoughts, leaving the room buzzing with new collaborative ideas and plans.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The word about Ivan’s inspiring presence spreads, and he's invited to speak at a local business conference. His session ends with a standing ovation and several attendees finding new resolve for their challenges.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A local journalist, intrigued, approaches Ivan for an interview. He explains his desire to uplift those around him but chooses to keep his telepathic ability a secret to maintain normalcy and not frighten people.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Ivan spends a quiet day at home, reflecting on the impact of his newfound ability. He decides to write a book to subtly share his insights on encouragement and growth without revealing his powers.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "During a relaxed walk, Ivan is recognized by parents who thank him for influencing their children positively. Overwhelmed with gratitude and purpose, Ivan feels deeply satisfied knowing he's changing lives quietly.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "In the quiet moments of life, the greatest heroes are those who uplift others without seeking fame.",
+  "moral": "True heroism lies in uplifting others, often unseen and without expectation of reward."
+}

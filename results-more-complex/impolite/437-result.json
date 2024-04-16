@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Valor: Jin Bennett’s Unexpected Heroism",
+  "summary": "Jin Bennett discovers an ability to manipulate time when tutoring a student and embarks on a journey of heroism and self-discovery over the course of a week.",
+  "summaryGerman": "Jin Bennett entdeckt beim Unterrichten eines Schülers die Fähigkeit, die Zeit zu manipulieren, und begibt sich auf eine Reise der Heldentat und Selbstfindung über eine Woche.",
+  "summaryDutch": "Jin Bennett ontdekt het vermogen om tijd te manipuleren wanneer hij een student lesgeeft en begint aan een reis van heldenmoed en zelfontdekking gedurende een week.",
+  "summaryFrench": "Jin Bennett découvre la capacité de manipuler le temps lorsqu'il donne des cours à un étudiant et se lance dans un voyage d'héroïsme et de découverte de soi sur une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Jin Bennett, a 31-year-old tutor and knitting enthusiast, experiences a strange phenomenon while helping a student with math. As he explains a complex concept, time seems to briefly pause around him.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Intrigued by yesterday's event, Jin attempts to recreate the moment. To his astonishment, he succeeds, stopping time for a few seconds. He spends the rest of the day experimenting with his newfound ability.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Jin uses his power to avert a small accident in the neighborhood: a child nearly runs into the street in front of an oncoming car. Jin freezes time, moving the child to safety.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thrusday",
+      "text": "Word of Jin’s act spreads, and the community begins to see him as a hero. He feels a mixture of pride and nervousness as he wonders about the extent of his powers.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Jin is approached by a local journalist who wants to cover his story. He is cautious but agrees, hoping to inspire others, not realizing that his interview would attract unwanted attention.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "An unknown figure approaches Jin, offering to help him understand and control his powers better. Jin, suspecting the figure’s intentions are not pure, declines the offer and decides to find more trustworthy help.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Jin spends the day at a local park, knitting and reflecting on his role. His peaceful day is interrupted when he uses his powers to help a choking child, confirming his commitment to using his powers for good.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Humbled and empowered, Jin Bennett embraces his role as a local hero, ready to face the challenges ahead with his unique gift.",
+  "moral": "With great power comes not only great responsibility, but also the opportunity for profound self-discovery and positive impact."
+}

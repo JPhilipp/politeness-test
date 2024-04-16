@@ -1,0 +1,46 @@
+{
+  "title": "The Week Alice Jackson Became a Superhero",
+  "summary": "Alice Jackson, a 51-year-old with a passion for baking and consulting, transforms into a superhero over the course of a week to thwart a neighborhood threat, learning about her own courage and strength in the process.",
+  "summaryGerman": "Alice Jackson, eine 51-jährige mit einer Leidenschaft fürs Backen und Beratung, verwandelt sich über die Woche in eine Superheldin, um eine Bedrohung in der Nachbarschaft zu vereiteln, und lernt dabei über ihren eigenen Mut und ihre Stärke.",
+  "summaryDutch": "Alice Jackson, 51 jaar oud en gepassioneerd door bakken en adviseren, verandert in de loop van een week in een superheldin om een bedreiging in haar buurt te stoppen, en leert zo over haar eigen moed en kracht.",
+  "summaryFrench": "Alice Jackson, 51 ans, passionnée de pâtisserie et de conseil, se transforme en super-héroïne au cours d'une semaine pour contrer une menace de quartier, découvrant ainsi son propre courage et sa force.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Alice Jackson discovers a strange glowing stone in her garden that grants her the power to manipulate time. She spends the day experimenting with her new abilities, feeling both amazed and energetic.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesady",
+      "text": "Alice uses her time-bending powers to help her neighbors resolve minor conflicts and mishaps. By freezing moments, she creates resolutions that leave everyone feeling happier.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "A mysterious figure notices Alice's powers and challenges her, threatening the serenity of the neighborhood. The day ends with Alice feeling slightly eerie yet determined.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "With her powers growing stronger, Alice trains by revisiting challenging moments from her past and re-scripting them. She feels triumphant as her confidence grows.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Alice meets with a long-time mentor for advice on handling her superhero role responsibly. The conversation is heartfelt and leaves Alice feeling peaceful and validated.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The confrontation with the mysterious figure looms. Alice uses her powers to outsmart the antagonist, harnessing her skills in a dramatic and epic showdown.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The community gathers to celebrate Alice's heroism with a street party. Alice bakes her famous cakes, feeling loved and appreciated. The sense of unity is romantic and uplifting.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "As the week closed, Alice realized that true heroism isn't about the powers one has, but about how one chooses to use them.",
+  "moral": "The greatest power lies in choosing to do good and impacting the world positively."
+}

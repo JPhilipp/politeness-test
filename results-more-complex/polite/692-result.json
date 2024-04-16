@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Zelda Bennett: Hero in the Director's Chair",
+  "summary": "Zelda Bennett, a 46-year-old who enjoys acting and directing, discovers her superpowers and saves her town from a mysterious threat, all while managing her latest theatrical production.",
+  "summaryGerman": "Zelda Bennett, eine 46-jährige, die sich für Schauspiel und Regie begeistert, entdeckt ihre Superkräfte und rettet ihre Stadt vor einer mysteriösen Bedrohung, während sie gleichzeitig ihre neueste Theaterproduktion leitet.",
+  "summaryDutch": "Zelda Bennett, een 46-jarige die geniet van acteren en regisseren, ontdekt haar superkrachten en redt haar stad van een mysterieuze dreiging, terwijl ze haar nieuwste theaterproductie beheert.",
+  "summaryFrench": "Zelda Bennett, âgée de 46 ans et passionnée de jeu et de mise en scène, découvre ses superpouvoirs et sauve sa ville d'une menace mystérieuse, tout en gérant sa dernière production théâtrale.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda Bennett, while preparing for the opening night of her latest play, unexpectedly averts a lighting rig collapse, revealing her super strength. This eerily timed rescue starts an unusual week.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Puzzled by her newfound abilities, Zelda manages to direct her actors with unprecedented clarity and vision, feeling unusually energetic as she works late into the night.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wensday",
+      "text": "A mysterious figure visits Zelda at the theater, hinting at her untapped potential and the origin of her powers, intensifying the mystery around her abilities.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "As Zelda experiments with her powers, she realizes she can manipulate sound and light, enhancing her directing skills. This revelation is both empowering and daunting.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Utilizing her powers, Zelda thwarts a robbery near the theater. Her heroic act is caught on video, making her a local celebrity and bringing unexpected attention.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With the community buzzing about her heroics, Zelda finds romantic interest from an admirer who appreciates her bravery and talent. They spend a peaceful day getting to know each other.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "On the closing night of her play, Zelda combines her directing prowess with her superpowers, delivering a performance that moves the audience deeply, ending the week on a high note.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As the curtains fell, Zelda Bennett stood, bathed in applause, not just for the show but for becoming a true hero of her town.",
+  "moral": "Embrace your unique talents; they are what make you capable of doing extraordinary things."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Zelda Harris: The Cooking Guide Hero",
+  "summary": "Zelda Harris, a 77-year-old with hobbies of cooking and guiding, becomes a superhero saving her town from eerie disturbances using her culinary skills and guiding wisdom over a week.",
+  "summaryGerman": "Zelda Harris, eine 77 Jahre alte Frau mit den Hobbys Kochen und Führen, wird zur Superheldin, die ihre Stadt mit ihren kulinarischen Fähigkeiten und weisen Führungskünsten innerhalb einer Woche vor unheimlichen Störungen rettet.",
+  "summaryDutch": "Zelda Harris, een 77-jarige met hobby's als koken en gidsen, wordt een superheldin die haar stad redt van onheilspellende verstoringen met haar culinaire vaardigheden en leidende wijsheid gedurende een week.",
+  "summaryFrench": "Zelda Harris, âgée de 77 ans et passionnée de cuisine et de guidage, devient une superhéroïne qui sauve sa ville des perturbations sinistres en utilisant ses compétences culinaires et sa sagesse de guide pendant une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda Harris starts her week with a mysterious knock at the door, revealing a secret ingredient needed to stop an eerie fog enveloping her town.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Empowered by her culinary knowledge, Zelda cooks up a storm, literally, dispersing the fog with a spicy sauce that transforms the weather.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Taking a break from cooking, Zelda guides a group of locals through the fog-free town, sharing stories and her heroic deed.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Zelda uncovers more about the mystical ingredient during a local cooking show where she's the guest of honor.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With her heroic actions on everyone's lips, Zelda receives an unexpected visit from a neighboring town's mayor, requesting her help with a similar eerie atmosphere.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Zelda's weekend kicks off with a community feast she organized, serving dishes infused with her special ingredients to ensure communal protection.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Resting after her heroics, Zelda spends a quiet day reflecting on her achievements and planning her new recipes and guiding tours.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the sun set on the seventh day, Zelda Harris smiled, knowing she had changed lives with her skillet and stories - a truly unique superhero.",
+  "moral": "No matter your age, your passions can lead to heroic deeds."
+}

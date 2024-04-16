@@ -1,0 +1,46 @@
+{
+  "title": "The Courageous Week of Victor James: Coaching Hero",
+  "summary": "Victor James, a 42-year-old with a passion for coaching and counseling, discovers his superpower of empathy, helping him connect with and save his community from despair throughout one transformative week.",
+  "summaryGerman": "Victor James, ein 42-Jähriger mit einer Leidenschaft für Coaching und Beratung, entdeckt seine Superkraft der Empathie, die ihm hilft, sich mit seiner Gemeinschaft zu verbinden und sie innerhalb einer umwälzenden Woche vor Verzweiflung zu retten.",
+  "summaryDutch": "Victor James, een 42-jarige met een passie voor coaching en counseling, ontdekt zijn superkracht van empathie, waarmee hij zich kan verbinden met en zijn gemeenschap kan redden van wanhoop gedurende een transformerende week.",
+  "summaryFrench": "Victor James, âgé de 42 ans et passionné de coaching et de counseling, découvre son superpouvoir d'empathie, lui permettant de se connecter avec sa communauté et de la sauver du désespoir tout au long d'une semaine transformative.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Victor James starts his week feeling energetic as he prepares a workshop on emotional resilience for his local community center.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "While coaching a troubled youth, Victor discovers his ability to literally feel others' emotions, helping him guide the boy away from negative influences.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Victor uses his newfound powers at a group counseling session, bonding deeply with participants, which left him feeling both happy and a bit eerie.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News of his uncanny ability spreads, and Victor feels overwhelmed but manages to remain peaceful as he meditates on his role.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "An emergency call leads Victor to talk down a local man from a crisis, showcasing his heroic empathy in a very public manner.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The community gathers to celebrate Victor’s contributions, making it a romantic evening as he connects with a fellow volunteer.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Victor feels happy and triumphant, realizing the true extent of his impact.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "With great power comes great responsibility, and Victor was ready to embrace his new life as a community hero.",
+  "moral": "Even the simplest acts of kindness and understanding can provide immense strength to those in need."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Walter Coleman: The Hero of Harmony City",
+  "summary": "Walter Coleman, a 23-year-old instructor with a passion for advertising, discovers his superpower of manipulating sound and vibrations to solve crimes and save the city from a week-long threat.",
+  "summaryGerman": "Walter Coleman, ein 23-jähriger Lehrer mit einer Leidenschaft für Werbung, entdeckt seine Superkraft, Klänge und Vibrationen zu manipulieren, um Verbrechen zu lösen und die Stadt eine Woche lang vor Bedrohungen zu schützen.",
+  "summaryDutch": "Walter Coleman, een 23-jarige instructeur met een passie voor reclame, ontdekt zijn superkracht om geluid en trillingen te manipuleren om misdaden op te lossen en de stad een week lang te redden van een dreiging.",
+  "summaryFrench": "Walter Coleman, un instructeur de 23 ans passionné par la publicité, découvre son superpouvoir de manipulation des sons et des vibrations pour résoudre des crimes et sauver la ville d'une menace qui dure une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Walter Coleman, while instructing a class on multimedia advertising, inadvertently discovers his ability to manipulate sound waves. This peculiar talent surfaces after a bizarre incident during a live campaign demonstration where sounds harmonize to prevent a technical failure, leaving everyone in awe and Walter curious.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Motivated by yesterdays' events, Walter experiments with his newfound powers after classes. He learns he can amplify, mute, and distort sounds. While practicing, he overhears a suspicious conversation about a planned robbery near his neighborhood. With determination, he decides to use his powers to stop it.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Using his sound manipulation abilities, Walter disrupts the communication among the robbers, leading to their confusion and eventual arrest by the local police. His actions make local headlines, labeling him as 'The Harmonic Protector'. Walter feels a deep sense of responsibility to protect his city.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Questions about the ethics of using his powers for eavesdropping and intervention trouble Walter. He spends a day in contemplation and discussions with his mentor, who encourages him to consider the greater good. Walter ends the day feeling conflicative, yet understands his powers can bring positive change.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Walter decides to embrace his role as a hero. Developing a secretive alter-ego, he starts creating advertising campaigns promoting community vigilance and encouraging civic responsibility under the guise of public service announcements.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Disaster strikes when a major bridge in Harmony City begins to collapse due to structural failure. Walter uses his powers to resonate with the failing metal and temporarily stabilizes the bridge, allowing everyone to safely evacuate.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Exhausted but satisfied, Walter spends a quiet day reflecting on his week as Harmony City's unsung hero. He realizes that with great power comes great responsibility, and he is now ready to fully embrace his new role.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus began Walter Coleman's journey as the savior of sounds, a beacon of hope for Harmony City.",
+  "moral": "Great power should be embraced and used for the common good, even if its discovery is accidental."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Meditative Adventures of Bob Brown",
+  "summary": "Bob Brown, a 69-year-old advising and meditation enthusiast, unwittingly becomes a hero over a week as he uses his advising skills to solve community problems, while maintaining his inner peace.",
+  "summaryGerman": "Bob Brown, ein 69-jähriger Beratungs- und Meditationsenthusiast, wird unwissentlich innerhalb einer Woche zum Helden, als er seine Beratungsfähigkeiten nutzt, um Probleme in der Gemeinschaft zu lösen, während er seine innere Ruhe bewahrt.",
+  "summaryDutch": "Bob Brown, een 69-jarige liefhebber van adviseren en mediteren, wordt ongewild een held gedurende een week, terwijl hij zijn adviesvaardigheden gebruikt om gemeenschapsproblemen op te lossen en zijn innerlijke vrede behoudt.",
+  "summaryFrench": "Bob Brown, passionné de conseil et de méditation âgé de 69 ans, devient involontairement un héros en une semaine lorsqu'il utilise ses compétences en conseil pour résoudre les problèmes de la communauté, tout en préservant sa paix intérieure.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Bob Brown begins his week by meditating in the park where he overhears a couple in distress about their failing coffee shop. Intent on helping, he advises them on improving their business strategy.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Energized by the success with the coffee shop, Bob sets up a small advising booth in the park. He spends the day helping fellow seniors with investment advice.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Bob’s booth catches the attention of local media who do a story on him, inspiring more people in town to seek his advice. The park has never been busier.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "With increased attention, Bob also faces skepticism. A group challenges the effectiveness of his advice. Bob decides to meditate on this issue, seeking inner guidance.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Bob triumphantly proves the skeptics wrong by showing the success of those he advised, including the coffee shop couple experiencing increased sales.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Feeling that his work is too demanding, Bob spends the day in a retreat, meditating by a lake. His peacefulness attracts other retreat goers who join him.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Bob reflects on his unusual week. Although unexpected, he's content with the joy his advice brought to his community. He spends a quiet day at home, recharging for another week.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And so, in a quiet whisper of the wind through the trees, Bob Brown's week as an unexpected hero comes to a peaceful close.",
+  "moral": "Even the simplest acts of kindness and advice can ripple into monumental impacts."
+}

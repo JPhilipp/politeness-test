@@ -1,0 +1,46 @@
+{
+  "title": "The Days of Walter Bennett: From Consultant to Catalyst",
+  "summary": "Walter Bennett, a 26-year-old marketing consultant, discovers his ability to manipulate emotions through promotions, sparking a journey of self-discovery and heroism as he confronts a mysterious figure bent on exploiting his powers.",
+  "summaryGerman": "Walter Bennett, ein 26-jähriger Marketingberater, entdeckt seine Fähigkeit, Emotionen durch Werbung zu manipulieren, was eine Reise der Selbsterkenntnis und des Heldentums auslöst, als er auf eine mysteriöse Figur trifft, die darauf aus ist, seine Kräfte auszunutzen.",
+  "summaryDutch": "Walter Bennett, een 26-jarige marketingconsultant, ontdekt zijn vermogen om emoties te manipuleren door promoties, wat een reis van zelfontdekking en heldendom ontketent als hij geconfronteerd wordt met een mysterieuze figuur die erop uit is zijn krachten te exploiteren.",
+  "summaryFrench": "Walter Bennett, un consultant en marketing de 26 ans, découvre sa capacité à manipuler les émotions à travers les promotions, déclenchant un voyage de découverte de soi et d'héroïsme lorsqu'il affronte une figure mystérieuse déterminée à exploiter ses pouvoirs.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Walter stumbles upon a device at a marketing seminar that amplifies emotional responses. Initially startled, he uses it to elevate the moods of his audience, feeling an eerie sense of power.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Excited by his new ability, Walter experiments more, influencing small crowds during product promotions, growing more energetic as he senses the potential.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "A chance encounter with a skeptical journalist leads to a romantic evening. Walter finds himself longing to reveal his secret but decides against it for now.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursay",
+      "text": "Walter is approached by a shadowy figure who knows about his new power. The figure threatens to expose him unless he agrees to manipulate a major event.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Refusing to be blackmailed, Walter prepares to confront the mysterious figure. He feels a surge of triumph as he plans his own promotional campaign to expose the threat.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The campaign is an epic spectacle, drawing massive attention. Walter uses his abilities openly, turning public opinion against the sinister figure and revealing his malevolent plans.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "With the community around him, Walter feels peaceful and vindicated. He resolves to use his powers for good, safeguarding emotions and promoting genuine positivity.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "In the end, Walter Bennett not only saved his city but also discovered the true potential within himself to bring about positive change.",
+  "moral": "The true power lies in using one's abilities for the good of others and not just oneself."
+}

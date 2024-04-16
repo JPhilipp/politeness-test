@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Power: Yvonne Wang's Heroic Journey",
+  "summary": "Yvonne Wang, a 79-year-old artist, discovers her superpowers of influencing reality through her drawings, which she uses over the course of a week to undo wrongs and guide her community to peace and safety.",
+  "summaryGerman": "Yvonne Wang, eine 79-jährige Künstlerin, entdeckt ihre Superkräfte, die Realität durch ihre Zeichnungen zu beeinflussen, die sie im Laufe einer Woche nutzt, um Unrecht rückgängig zu machen und ihre Gemeinschaft zu Frieden und Sicherheit zu führen.",
+  "summaryDutch": "Yvonne Wang, een 79-jarige kunstenares, ontdekt haar superkrachten om de realiteit te beïnvloeden door haar tekeningen, die ze gedurende een week gebruikt om onrecht te herstellen en haar gemeenschap naar vrede en veiligheid te leiden.",
+  "summaryFrench": "Yvonne Wang, une artiste de 79 ans, découvre ses superpouvoirs pour influencer la réalité à travers ses dessins, qu'elle utilise au cours d'une semaine pour annuler les torts et guider sa communauté vers la paix et la sécurité.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Yvonne Wang felt an unusual surge of energy as she sketched her local park. Her drawings began to shimmer, and to her astonishment, the scenery in her artwork came to life, filling with vibrant colors and birds singing. ",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "With curiosity, Yvonne experimented by drawing a vandalized neighborhood fountain. Once complete, the real fountain miraculously restored itself. Yvonne realized her sketches could change reality!",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Emboldened by her power, Yvonne spent the day drawing safety improvements for a dangerous intersection. By evening, the changes materialized, and the community rejoiced at their new, safer streets.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A local child, lost in the nearby woods, prompted Yvonne to draw the forest paths guiding him to safety. As she sketched, she felt her intentions weaving through the woods. Soon, the boy was found.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Yvonne decided to address the lonely hearts in her community. She sketched portraits of people together, laughing and sharing moments. Her drawings sparked unexpected reunions and new friendships.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Her actions had not gone unnoticed. The local news documented her miraculous works, dubbing her 'The Guiding Artist'. The community gathered to thank her, bringing her sketches as gifts.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Yvonne drew a large, celebratory gathering in the park. As she added the final touches, the event came to life, culminating in a real-world celebration of her newfound abilities.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And so, Yvonne Wang became a revered hero, illustrating that age is no barrier to changing the world, one drawing at a time.",
+  "moral": "Every individual has the power to make a positive impact in their community, regardless of age."
+}

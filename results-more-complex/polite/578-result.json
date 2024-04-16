@@ -1,0 +1,46 @@
+{
+  "title": "The Energetic Adventures of Romeo Lee",
+  "summary": "Romeo Lee, a 36-year-old spinning instructor and counselor, discovers his powers of super-speed and empathy, using them to thwart a mysterious figure causing chaos in the city, all while balancing his everyday life and his secret superhero identity.",
+  "summaryGerman": "Romeo Lee, ein 36-jähriger Spinning-Instruktor und Berater, entdeckt seine Kräfte der Superschnelligkeit und Empathie, mit denen er eine mysteriöse Gestalt bekämpft, die in der Stadt Chaos verursacht, während er sein alltägliches Leben und seine geheime Superhelden-Identität ausbalanciert.",
+  "summaryDutch": "Romeo Lee, een 36-jarige spinninginstructeur en counselor, ontdekt zijn krachten van supersnelheid en empathie, waarmee hij een mysterieuze figuur die chaos in de stad veroorzaakt, dwarsboomt, terwijl hij zijn dagelijks leven en zijn geheime superheldenidentiteit in evenwicht houdt.",
+  "summaryFrench": "Romeo Lee, un instructeur de spinning et conseiller âgé de 36 ans, découvre ses pouvoirs de super-vitesse et d'empathie, qu'il utilise pour contrer une figure mystérieuse causant le chaos dans la ville, tout en équilibrant sa vie quotidienne et son identité secrète de super-héros.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Romeo Lee starts his week feeling energetic, teaching a spinning class that sparks an unusual rush of speed and awareness.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "After counseling a troubled teen with peculiar accuracy, Romeo realizes his enhanced empathetic abilities which help him understand and soothe the teen’s concerns.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "While jogging, Romeo encounters a shadowy figure causing trouble; using his newfound speed, he confronts but doesn't catch the mysterious villain.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thrusday",
+      "text": "Romeo struggles with keeping his superhero identity secret, finding it hard to focus on his daily routines and relationships, feeling slightly overwhelmed.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Empowering others during his counseling sessions, Romeo feels triumphant as he notices subtle changes in the community, sensing a decrease in negative energy.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Using both his super-speed and empathic powers, Romeo devises a plan to trap the villain, leading an epic confrontation at the city park, supported by the community he helped uplift.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The villain captured, peace restored in the city, Romeo enjoys a peaceful day, reflecting on his actions, ready to face any new challenges ahead",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Romeo Lee stood atop the city skyline, ready to spin into action at a moment's notice, ever vigilant.",
+  "moral": "The true power lies within oneself, but it can shine brightest when used to help others."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Grace Davis, the Guiding Promoter",
+  "summary": "Grace Davis, a 55-year-old with a passion for guiding and promoting, unexpectedly gains powers and helps her community through a series of mysterious events across one week.",
+  "summaryGerman": "Grace Davis, eine 55-jährige mit einer Leidenschaft für Führung und Promotion, gewinnt unerwartet Kräfte und hilft ihrer Gemeinde durch eine Reihe mysteriöser Ereignisse über eine Woche.",
+  "summaryDutch": "Grace Davis, een 55-jarige met een passie voor gidsen en promoten, krijgt onverwachts krachten en helpt haar gemeenschap door een reeks mysterieuze gebeurtenissen gedurende een week.",
+  "summaryFrench": "Grace Davis, 55 ans avec une passion pour le guidage et la promotion, gagne des pouvoirs par surprise et aide sa communauté à travers une série d'événements mystérieux tout au long d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Grace Davis discovers her newfound ability to control digital media with her mind while preparing a promotional event, turning a simple gathering into a city-wide highlight.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Tested by her fears, Grace faces local skeptics, but wins them over with an impressive presentation of her powers at the local community center.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "While volunteering as a city guide, Grace uses her abilities to enhance the experience, making historical figures seemingly come to life through augmented reality.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "After an anonymous tip, Grace thwarts a digital theft at the local museum by creating impenetrable firewalls on the fly.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "As word spreads of her deeds, Grace starts receiving messages from people needing guidance and help, which she addresses from her small office, feeling the weight of her new role.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A grand celebration is held in her honor where Grace is officially recognized as the town's protector. She feels the romance of heroism amidst public adoration.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Grace spends a peaceful day at home, reflecting on her week and planning how she can use her powers for future benefits.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And thus, Grace Davis transformed from an ordinary promoter to a celebrated hero, proving that anyone can make a difference.",
+  "moral": "With great power comes great responsibility, and even the most ordinary skills can translate into extraordinary acts of heroism."
+}

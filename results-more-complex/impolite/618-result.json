@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Heidi King: The Heroic Mentor",
+  "summary": "Heidi King, a 58-year-old superhero with a passion for mentoring and crocheting, uses her unique powers to help her community over one transformative week. Each day reveals new challenges and triumphs as she balances her hobbies with her heroics.",
+  "summaryGerman": "Heidi King, eine 58-jährige Superheldin mit einer Leidenschaft für Mentoring und Häkeln, nutzt ihre einzigartigen Fähigkeiten, um ihrer Gemeinde über eine transformative Woche hinweg zu helfen. Jeder Tag offenbart neue Herausforderungen und Triumphe, während sie ihre Hobbys mit ihren Heldentaten ausbalanciert.",
+  "summaryDutch": "Heidi King, een 58-jarige superheldin met een passie voor mentoring en haken, gebruikt haar unieke krachten om haar gemeenschap te helpen gedurende een transformerende week. Elke dag onthult nieuwe uitdagingen en triomfen terwijl ze haar hobby's met haar heldendaden in evenwicht houdt.",
+  "summaryFrench": "Heidi King, une super-héroïne de 58 ans passionnée par le mentorat et le crochet, utilise ses pouvoirs uniques pour aider sa communauté pendant une semaine transformative. Chaque jour révèle de nouveaux défis et triomphes alors qu'elle équilibre ses hobbies avec ses actes héroïques.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Heidi discovers a local park endangered by pollution, and gathers volunteers to clean it up.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While mentoring at the community center, Heidi overhears plans of a malign scheme to tear down a historic building.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesady",
+      "text": "Using her diplomatic skills, Heidi convinces the city council to preserve the building, saving a piece of her town's history.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "After a long day, Heidi relaxes by crocheting winter hats for homeless people, finding joy and peace in giving.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The mayor, recognizing her efforts, invites Heidi to lead a new initiative for community development.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Heidi organizes a city-wide mentoring day, inspiring others to share their skills and experiences.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Heidi feels grateful for her ability to impact her community positively.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Heidi King's week of small actions led to big changes, proving that every day holds the potential for heroism.",
+  "moral": "Every act of kindness, no matter how small, can make a difference."
+}

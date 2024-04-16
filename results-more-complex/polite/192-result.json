@@ -1,0 +1,46 @@
+{
+  "title": "The Incredible Week of Ling Simmons: From Counselor to Hero",
+  "summary": "Ling Simmons, a 51-year-old counseling instructor, unknowingly gains powers from a cosmic storm, uses these abilities to save his city, and learns the importance of believing in one’s hidden strengths.",
+  "summaryGerman": "Ling Simmons, ein 51-jähriger Ausbilder für Beratung, erhält unwissentlich Kräfte aus einem kosmischen Sturm, nutzt diese Fähigkeiten, um seine Stadt zu retten, und lernt die Bedeutung, an seine verborgenen Stärken zu glauben.",
+  "summaryDutch": "Ling Simmons, een 51-jarige instructeur in counseling, krijgt onbewust krachten van een kosmische storm, gebruikt deze vaardigheden om zijn stad te redden, en leert het belang van geloven in zijn verborgen krachten.",
+  "summaryFrench": "Ling Simmons, un instructeur de conseil de 51 ans, acquiert à son insu des pouvoirs d'une tempête cosmique, utilise ces capacités pour sauver sa ville et apprend l'importance de croire en ses forces cachées.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Simmons begins his week normally, teaching and counseling at the local community center. However, he feels an eerie sensation after a sudden storm during his commute home.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "The next day, Ling notices he can hear conversations from far away, initially dismissing it as exhaustion. His curiosity piques as he accidentally overhears a cry for help blocks away.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednedsay",
+      "text": "Seizing the courage, Ling follows the distant cries and rescues a cat trapped on a high ledge. He climbs with unexplained agility and speed, saving the cat and beginning to realize his new powers.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "With his confidence growing, Ling starts experimenting with his abilities, discovering he can also move objects with his mind. He spends the day helping neighbors in secret.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Ling becomes a talk of the town. Eyewitnesses of his secret heroics lead to communal gossip and mystery. Ling feels both thrilled and overwhelmed by his unintended fame.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After a local bridge begins to collapse, Ling, without hesitation, uses his powers in public for the first time, holding the bridge together long enough for everyone to cross safely.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Ling decides to embrace his role as a hero. He starts planning how to balance his life as a counselor and his responsibilities as a newfound protector of the city.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Ling Simmons learned that sometimes, the greatest powers come from the most unexpected places.",
+  "moral": "Embrace the unexpected, for one's true potential might be hidden just beneath the surface."
+}

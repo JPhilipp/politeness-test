@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Ling Mitchell: A Superhero at 75",
+  "summary": "Ling Mitchell, a 75-year-old retired coach, discovers a hidden ability to foresee potential dangers and spends a week using this power to avert disasters and guide his community.",
+  "summaryGerman": "Ling Mitchell, ein 75-jähriger pensionierter Trainer, entdeckt die verborgene Fähigkeit, potenzielle Gefahren vorherzusehen, und verbringt eine Woche damit, diese Kraft zu nutzen, um Katastrophen abzuwenden und seiner Gemeinschaft zu helfen.",
+  "summaryDutch": "Ling Mitchell, een 75-jarige gepensioneerde coach, ontdekt een verborgen vermogen om potentiële gevaren te voorspellen en besteedt een week aan het gebruik van deze kracht om rampen te voorkomen en zijn gemeenschap te begeleiden.",
+  "summaryFrench": "Ling Mitchell, un entraîneur retraité de 75 ans, découvre une capacité cachée à prévoir les dangers potentiels et passe une semaine à utiliser ce pouvoir pour éviter des désastres et guider sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Mitchell wakes with a strange clarity, foretelling a fire at the local school. He hurries to alert the authorities, preventing a catastrophe. His week of heroism begins.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Feeling triumphant from his success, Ling spends the day visiting local businesses, subtly advising on safety improvements, his intuition sharper than ever.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesdqy",
+      "text": "An eerie sense of danger leads Ling to the bridge where he convinces a despondent stranger to step away from the edge, offering hope and extending his coaching beyond the field.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Today, Ling feels an unusual pull towards the park. He goes there and inadvertently stops a robbery, using his old coaching whistle to attract attention.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Ling spends the day reflecting on his newfound purpose and the lives he's impacted, understanding the true power of his unique gift.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Ling holds a community meeting to share safety tips, unknowingly preventing a future mishap through his wise, preemptive advice.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "With a week full of unexpected heroics behind him, Ling relaxes at his home, feeling a profound connection to his community.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Ling Mitchell, at 75, discovered that it's never too late to become a hero.",
+  "moral": "You are never too old to make a difference in the world."
+}

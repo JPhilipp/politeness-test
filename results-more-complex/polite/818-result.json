@@ -1,0 +1,46 @@
+{
+  "title": "The Serene Strength of Zelda James",
+  "summary": "Zelda James, a 47-year-old counselor with a passion for prayer, discovers her supernatural powers to heal and guide, using her abilities to fight against the despair in her community over a week of profound transformation.",
+  "summaryGerman": "Zelda James, eine 47-jährige Beraterin mit einer Leidenschaft für Gebete, entdeckt ihre übernatürlichen Fähigkeiten zu heilen und zu führen. Sie nutzt ihre Fähigkeiten, um innerhalb einer Woche tiefgreifender Verwandlung gegen die Verzweiflung in ihrer Gemeinde zu kämpfen.",
+  "summaryDutch": "Zelda James, een 47-jarige counselor met een passie voor gebed, ontdekt haar bovennatuurlijke krachten om te genezen en te leiden, en gebruikt haar vaardigheden om gedurende een week van diepgaande transformatie tegen de wanhoop in haar gemeenschap te vechten.",
+  "summaryFrench": "Zelda James, conseillère âgée de 47 ans passionnée de prières, découvre ses pouvoirs surnaturels de guérison et de guidance. Elle utilise ses capacités pour lutter contre le désespoir dans sa communauté au cours d'une semaine de transformation profonde.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda starts her week feeling a subtle pull towards the local park, where she discovers she can heal minor ailments. This discovery leaves her feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "With new-found conviction, Zelda spends her day counseling troubled youth, using prayer and her healing touch, spreading peace and hope.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wensday",
+      "text": "In the middle of the week, Zelda encounters a sinister force causing anguish in her community. She bravely confronts it, feeling eerie yet determined.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Zelda's confrontation leads to a battle of wills. She emerges victorious, finding an inner strength she never knew she had, feeling epic.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Energized by her recent victories, Zelda organizes a community gathering to celebrate resilience and unity, feeling energetic and joyful.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Reflecting on her achievements, Zelda spends a quiet day in prayer and counseling, reaffirming her commitment to help others, feeling deeply content.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Zelda's ability flourishes further—she inspires and heals many at a large prayer meeting, feeling blessed and happy.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Zelda James stood as a beacon of hope and healing, reminding her community that the truest power lies in unity and faith.",
+  "moral": "The greatest strength often emerges in times of trial, fueled by faith and a heart willing to serve."
+}

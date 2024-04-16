@@ -1,0 +1,46 @@
+{
+  "title": "The Negotiator: Oscar King's Heroic Week",
+  "summary": "Oscar King, a 44-year-old superhero, uses his negotiation skills and physical strength to thwart a villain’s plans, protect his city, and inspire others.",
+  "summaryGerman": "Oscar King, ein 44-jähriger Superheld, nutzt seine Verhandlungsfähigkeiten und körperliche Stärke, um die Pläne eines Bösewichts zu durchkreuzen, seine Stadt zu schützen und andere zu inspirieren.",
+  "summaryDutch": "Oscar King, een 44-jarige superheld, gebruikt zijn onderhandelingsvaardigheden en fysieke kracht om de plannen van een schurk te dwarsbomen, zijn stad te beschermen en anderen te inspireren.",
+  "summaryFrench": "Oscar King, un super-héros de 44 ans, utilise ses compétences en négociation et sa force physique pour contrecarrer les plans d'un méchant, protéger sa ville et inspirer les autres.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "In the quiet dawn, Oscar King foiled a robbery at the local bank using his impressive negotiation tactics, convincing the thieves to surrender peacefully to authorities.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While jogging, Oscar overheard plans of a sinister plot targeting the city council. Using his contacts, he began to gather more information.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Oscar used his negotiation skills to broker a meeting between feuding city gangs, aiming to secure a truce and lessen violence in his city.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thurday",
+      "text": "Oscar discovered the identity of the mastermind behind the plot: a disgraced former politician seeking revenge. He prepared to confront him.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Confronting the villain in a deserted warehouse, Oscar managed to outsmart him using a mix of psychological tactics and physical prowess, saving the council.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The city celebrated its peace, and Oscar used this day to train local youths in self-defense, turning his victory into a community strength.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Oscar felt deeply satisfied knowing his city was safer because of his efforts, resolving to remain vigilant.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "And so, Oscar King continued to watch over his city, always ready to negotiate peace or fight if necessary, embodying the spirit of a true hero.",
+  "moral": "The true strength of a hero lies in their ability to inspire and uplift others, not just in their prowess."
+}

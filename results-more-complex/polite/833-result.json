@@ -1,0 +1,46 @@
+{
+  "title": "Zelda Griffin: The Rise of Cybertech",
+  "summary": "Zelda Griffin, a 19-year-old programming enthusiast and fitness lover, discovers her ability to control electronic devices with her mind. Over a week, she transforms from a regular teen to a superhero, using her abilities to thwart a cyber attack on her city.",
+  "summaryGerman": "Zelda Griffin, eine 19-jährige Programmierbegeisterte und Fitnessliebhaberin, entdeckt ihre Fähigkeit, elektronische Geräte mit ihrem Verstand zu steuern. Innerhalb einer Woche verwandelt sie sich von einer normalen Jugendlichen zu einer Superheldin, die ihre Fähigkeiten nutzt, um einen Cyberangriff auf ihre Stadt zu vereiteln.",
+  "summaryDutch": "Zelda Griffin, een 19-jarige programmeerenthousiasteling en fitnessliefhebber, ontdekt haar vermogen om elektronische apparaten met haar geest te besturen. In een week tijd transformeert ze van een normale tiener naar een superheldin die haar vaardigheden gebruikt om een cyberaanval op haar stad te verijdelen.",
+  "summaryFrench": "Zelda Griffin, passionnée de programmation et de fitness âgée de 19 ans, découvre sa capacité à contrôler les appareils électroniques avec son esprit. En une semaine, elle se transforme d'une adolescente ordinaire en une super-héroïne, utilisant ses capacités pour déjouer une cyberattaque sur sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda discovers her ability to interact with electronics while debugging some code at her university. An unexpected electrical surge amplifies her innate abilities.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Teusday",
+      "text": "Trying to grasp the extent of her new powers, Zelda spends the day experimenting with different devices, realizing she can control them remotely.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Her best friend catches her mid-experiment. Together, they brainstorm potential uses and ethical dilemmas of her abilities.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News of a possible cyber attack reaches Zelda's ears. She decides to take a proactive approach and starts monitoring digital transmissions.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Zelda intercepts a critical piece of data that reveals the hacker's intentions and location. She prepares to confront the threat head-on.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "In a stunning display of her abilities, Zelda manages to foil the hacker’s plan, safeguarding the city’s digital infrastructure.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflection and celebration. The city honors Zelda as a new hero. She contemplates the responsibility of her powers and her future role in the world.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Zelda learns that with great power comes immense responsibility, pledging to use her abilities for the good of all.",
+  "moral": "The discovery of one's talents should be guided by wisdom and a responsibility towards others."
+}

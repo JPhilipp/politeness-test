@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Ursula Rodriguez: The Wise Guardian of the City",
+  "summary": "Ursula Rodriguez, a 59-year-old advising and preaching enthusiast, discovers her ability to influence people's morals and decisions. Over the span of a week, she uses her newfound powers to avert crises and guide her community, ultimately realizing the importance of her seemingly ordinary hobbies, which are anything but.",
+  "summaryGerman": "Ursula Rodriguez, eine 59-jährige Beratungs- und Predigtliebhaberin, entdeckt ihre Fähigkeit, die Moral und Entscheidungen der Menschen zu beeinflussen. Im Laufe einer Woche nutzt sie ihre neu gefundenen Kräfte, um Krisen abzuwenden und ihre Gemeinde zu leiten, und erkennt schließlich die Bedeutung ihrer scheinbar gewöhnlichen Hobbys, die alles andere als gewöhnlich sind.",
+  "summaryDutch": "Ursula Rodriguez, een 59-jarige liefhebber van adviseren en prediken, ontdekt haar vermogen om invloed uit te oefenen op de moraal en beslissingen van mensen. Gedurende een week gebruikt ze haar nieuw gevonden krachten om crises af te wenden en haar gemeenschap te leiden, en realiseert zich uiteindelijk het belang van haar schijnbaar gewone hobby's, die allesbehalve gewoon zijn.",
+  "summaryFrench": "Ursula Rodriguez, passionnée de conseil et de prêche âgée de 59 ans, découvre sa capacité à influencer la morale et les décisions des gens. Au fil d'une semaine, elle utilise ses pouvoirs nouvellement trouvés pour éviter les crises et guider sa communauté, réalisant finalement l'importance de ses hobbies apparemment ordinaires, qui sont tout sauf cela.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ursula begins her week feeling peaceful, spending the day reflecting on recent community issues and how she might help.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tueesday",
+      "text": "Her insights reach the ears of a local troubled youth, whom she talks down from making a harmful decision, using soft, guiding words.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Ursula feels a new surge of energy and organizes a town hall meeting to address rising local conflicts.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "At the meeting, Ursula's words resonate deeply, calming frayed nerves and sewing peace among her neighbors.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Using her advice, the community begins to solve problems collaboratively, leading to a sense of collective triumph.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Ursula reflects on her intense week. Though tired, she feels happy seeing her community's progress and unity.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Her advising and preaching, once a simple hobby, are now heralded as essential, showing how ordinary people can make extraordinary differences.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus, Ursula realized that the greatest superheroes are not always the ones in capes, but those who wield the power of words and wisdom.",
+  "moral": "Never underestimate the impact of wisdom and compassionate guidance."
+}

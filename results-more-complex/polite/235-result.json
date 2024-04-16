@@ -1,0 +1,46 @@
+{
+  "title": "The Embroidering Hero: Sue Ward Saves the Week",
+  "summary": "Sue Ward, a 51-year-old with a passion for embroidering and serving, discovers her unique power to bring peace and joy through her hobbies, facing a series of challenges that culminate in saving her community from despair.",
+  "summaryGerman": "Sue Ward, eine 51-jährige mit einer Leidenschaft für Stickerei und Dienst, entdeckt ihre einzigartige Kraft, durch ihre Hobbys Frieden und Freude zu bringen, und steht einer Reihe von Herausforderungen gegenüber, die in der Rettung ihrer Gemeinschaft vor Verzweiflung gipfeln.",
+  "summaryDutch": "Sue Ward, een 51-jarige met een passie voor borduren en dienen, ontdekt haar unieke kracht om vrede en vreugde te brengen door haar hobby's, geconfronteerd met een reeks uitdagingen die culmineren in het redden van haar gemeenschap van wanhoop.",
+  "summaryFrench": "Sue Ward, âgée de 51 ans avec une passion pour la broderie et le service, découvre son pouvoir unique d'apporter la paix et la joie à travers ses passions, faisant face à une série de défis qui culminent dans le sauvetage de sa communauté du désespoir.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Sue Ward, feeling energetic, organized a local craft group, introducing them to the joys of embroidery.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tueaday",
+      "text": "A mysterious figure challenged the group's right to the community center. Sue, feeling triumphant, successfully defended their space by hosting a mega embroidery event.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "With the community center secured, Sue spent a peaceful day teaching new embroidery techniques, fostering camaraderie and warmth.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Rumors of a developer wanting to demolish the community center stirred an eerie feeling. Sue began plotting a preservation campaign.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Sue led a service project, stitching inspirational banners for a protest. Her community rallied, feeling united and energetic.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The day of the protest was epic. Sue's banners became symbols of resilience. The developer backed down, moved by the community's spirit.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Celebrating their victory, Sue and her neighbors enjoyed a peaceful potluck, with Sue's embroidered tablecloths as centerpieces.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Sue Ward transformed her love for embroidery into a powerful tool for community preservation.",
+  "moral": "Never underestimate the power of passion combined with community spirit."
+}

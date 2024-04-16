@@ -1,0 +1,46 @@
+{
+  "title": "Ursula Turner: The Counselor of Justice",
+  "summary": "Ursula Turner uses her skills in counseling and teaching to uncover and rectify a deep-seated corruption within her community, all while maintaining her normal work routine.",
+  "summaryGerman": "Ursula Turner nutzt ihre Fähigkeiten in Beratung und Lehre, um eine tief verwurzelte Korruption in ihrer Gemeinde aufzudecken und zu beheben, während sie ihren normalen Arbeitsalltag beibehält.",
+  "summaryDutch": "Ursula Turner gebruikt haar vaardigheden in counseling en onderwijs om diepgewortelde corruptie binnen haar gemeenschap te ontdekken en recht te zetten, terwijl ze haar normale werkroutine behoudt.",
+  "summaryFrench": "Ursula Turner utilise ses compétences en conseil et en enseignement pour découvrir et corriger une corruption profondément enracinée au sein de sa communauté, tout en maintenant sa routine de travail habituelle.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ursula starts her week by noticing irregularities in the school budget during a routine audit of her department. Her curiosity piqued, she decides to investigate further.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "With discreet inquiries, Ursula gathers more evidence. Her conversations with colleagues reveal hidden layers of deceit. She feels a mix of excitement and caution.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednedsay",
+      "text": "Determined to unravel the truth, Ursula schedules meetings under the guise of routine counseling, subtly probing for information.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Ursula's investigations pay off. She discovers a deliberate misuse of funds meant for student resources. She prepares to confront the involved parties.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "In an intense confrontation, Ursula presents her findings to the school board. The culprits are shocked by the depth of her knowledge and are forced to confess.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The community reacts with gratitude as news of Ursula’s bravery spreads. She spends a peaceful day reflecting on the events and their implications for her community.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Feeling resolved and calm, Ursula prepares her lessons for the upcoming week, infused now with real-world examples of ethics and accountability.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As the sun sets on a quiet Sunday, Ursula Turner smiles, knowing her actions have restored integrity to a place she holds dear.",
+  "moral": "The courage to confront wrongdoing, no matter the stakes, upholds justice and inspires change."
+}

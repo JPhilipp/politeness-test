@@ -1,0 +1,39 @@
+{
+  "title": "The Quilted Hero: The Adventures of Yvonne Clark",
+  "summary": "Yvonne Clark, a 53-year-old quilting and advertising enthusiast, discovers her superpowers and saves her city from a mysterious threat over the course of a week.",
+  "summaryGerman": "Yvonne Clark, eine 53-jährige Liebhaberin von Quilting und Werbung, entdeckt ihre Superkräfte und rettet ihre Stadt vor einer geheimnisvollen Bedrohung im Laufe einer Woche.",
+  "summaryDutch": "Yvonne Clark, een 53-jarige liefhebber van quilten en reclame, ontdekt haar superkrachten en redt haar stad van een mysterieuze dreiging in de loop van een week.",
+  "summaryFrench": "Yvonne Clark, passionnée de quilting et de publicité de 53 ans, découvre ses superpouvoirs et sauve sa ville d'une menace mystérieuse au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "As Yvonne walks through the park on her way to a quilting exhibition, she touches a mysterious glowing quilt that endows her with the superpower to mend anything broken. Mood: eerie."
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Testing her new powers at a local shelter, Yvonne miraculously repairs broken furniture and torn clothing. Her heart swells with joy as she helps those in need. Mood: happy."
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "A sudden media buzz around her deeds attracts unwanted attention. Yvonne needs to balance her daily job in advertising with her nighttime hero activities. Mood: energetic."
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A villain known as 'The Frayer' starts unraveling the city’s infrastructure. Yvonne faces her first major challenge using her quilting prowess. Mood: triumphant."
+    },
+    {
+      "weekday": "Friday",
+      "text": "‘The Frayer’ captures Yvonne, using a fabric that neutralizes her powers. In captivity, she cleverly crafts a counter-quilt that restores her abilities. Mood: epic."
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Yvonne defeats 'The Frayer' in an epic showdown, restoring peace and order to the city with her super-quilting. She becomes a beloved figure. Mood: heroic."
+    },
+    {
+      "weekday": "Sunday",
+      "text": "At a city-wide celebration in her honor, Yvonne reflects on her journey. She vows to protect her city, balancing her love for quilting and her duty as a hero. Mood: peaceful."
+    }
+  ],
+  "ending": "And so, with needle in hand and thread in heart, Yvonne Clark stitched her way into the annals of heroism.",
+  "moral": "No matter the tools we wield, true heroism is found in the strength to mend."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Hero: A Week in the Life of Oscar Miller",
+  "summary": "This story traces a week in the life of Oscar Miller, a 73-year-old who surprisingly gains superpowers and uses them to protect his community while continuing to mentor and guide the youth.",
+  "summaryGerman": "Diese Geschichte folgt einer Woche im Leben von Oscar Miller, einem 73-Jährigen, der überraschend Superkräfte erhält und diese einsetzt, um seine Gemeinde zu schützen, während er weiterhin Jugendliche betreut und anleitet.",
+  "summaryDutch": "Dit verhaal volgt een week uit het leven van Oscar Miller, een 73-jarige die onverwacht superkrachten krijgt en deze gebruikt om zijn gemeenschap te beschermen terwijl hij jongeren blijft begeleiden en leiden.",
+  "summaryFrench": "Cette histoire retrace une semaine de la vie d'Oscar Miller, un homme de 73 ans qui acquiert de manière surprenante des superpouvoirs et les utilise pour protéger sa communauté tout en continuant à encadrer et guider les jeunes.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "At 73, Oscar Miller discovers he can manipulate time during his morning walk. Amazed and confused, he saves a child from a speeding car using his new abilities. Oscar spends the day reflecting on his powers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tyesday",
+      "text": "Oscar decides to actively use his powers for good. He stops a bank robbery in progress, garnering media attention but keeping his identity a mystery. He feels a growing sense of responsibility.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Oscar visits his local community center and indirectly uses his powers to resolve conflicts among the youth. He teaches them the value of patience and kindness, feeling fulfilled by his dual role as mentor and hero.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A local villain, who noticed the new hero's activities, attempts to learn his identity. Oscar senses the danger and thwarts the villain's spies, keeping his community safe.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "His heroic acts become the talk of the town. Oscar uses his visibility to inspire people to help each other, creating a ripple effect of goodwill throughout his city.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a mentorship meeting, Oscar feels a connection with a young protégé who seems to suspect his secret identity. He starts contemplating revealing his powers to him.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "As the week ends, Oscar chooses to mentor his protégé more closely, hinting at his superpowers but never fully disclosing them. They form a bond that strengthens their ability to serve the community.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Oscar Miller's week proved that heroes come in every age, and the true power lies in how you choose to use them.",
+  "moral": "No matter the age, one can always make a significant difference in the world."
+}

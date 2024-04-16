@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Hero: The Story of David Perez",
+  "summary": "At 71, David Perez uses his hobbies, embroidering and advising, as tools to secretly aid his community, solving issues and conflicts throughout the week.",
+  "summaryGerman": "Mit 71 Jahren nutzt David Perez seine Hobbys, das Sticken und Beraten, als Werkzeuge, um seiner Gemeinde heimlich zu helfen, indem er Probleme und Konflikte während der Woche löst.",
+  "summaryDutch": "Op 71-jarige leeftijd gebruikt David Perez zijn hobby's, borduren en adviseren, als hulpmiddelen om zijn gemeenschap in het geheim te helpen door de hele week problemen en conflicten op te lossen.",
+  "summaryFrench": "À 71 ans, David Perez utilise ses passe-temps, la broderie et le conseil, comme outils pour aider secrètement sa communauté, résolvant des problèmes et des conflits tout au long de la semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "At the local park, David secretly repairs torn community banners with his embroidery skills, restoring beauty to the gathering place.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "David hears of a dispute among neighbors over property lines. He provides sagely advice that helps them reach an amicable agreement.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "While advising at the local youth center, David helps resolve conflicts among the children, fostering an environment of unity and respect.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "David crafts a beautiful quilt for a charity auction, which is greatly admired and raises a substantial amount for good causes.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "David counsels a young couple struggling in their relationship, offering them hope and strategies for better communication.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "While embroidering at a local café, David overhears plans for small-town vandalism. Using diplomacy, he persuades the youngsters to volunteer instead.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "David spends the day relaxing and reflecting on his week, planning new ways to silently help his community in the future.",
+      "mood": "eerie"
+    }
+  ],
+  "ending": "And so, David Perez continued to weave not only threads but also the hearts of his community, unseen yet indispensable.",
+  "moral": "True heroism lies not only in grand gestures, but in the quiet, everyday acts of kindness."
+}

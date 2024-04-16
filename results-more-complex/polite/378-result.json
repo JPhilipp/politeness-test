@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Mallory Butler",
+  "summary": "Mallory Butler, a dedicated teacher and devout worshiper, discovers her hidden superpowers and embarks on a quest to save her community from an unseen menace, finding strength and friendship along the way.",
+  "summaryGerman": "Mallory Butler, eine engagierte Lehrerin und fromme Anbeterin, entdeckt ihre verborgenen Superkräfte und begibt sich auf eine Quest, um ihre Gemeinde vor einer unsichtbaren Bedrohung zu retten, wobei sie Kraft und Freundschaft findet.",
+  "summaryDutch": "Mallory Butler, een toegewijde leraar en vrome aanbidder, ontdekt haar verborgen superkrachten en gaat op een zoektocht om haar gemeenschap te redden van een ongeziene bedreiging, waarbij ze kracht en vriendschap vindt.",
+  "summaryFrench": "Mallory Butler, une enseignante dévouée et fidèle croyante, découvre ses superpouvoirs cachés et se lance dans une quête pour sauver sa communauté d'une menace invisible, trouvant force et amitié en chemin.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Mallory Butler, while preparing her lesson plans, discovers she can manipulate time. As she pauses moments to perfect her teachings, her day is filled with a happy realization of her newfound powers.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Using her powers at a community meeting, Mallory overhears plans of a nefarious plot to destroy local parks. She feels a deep sense of duty, marked by a sad undertone as she contemplates the potential loss.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Mallory spends the day researching and discovering more about her abilities. The eerie silence of the library only intensifies her focus and the mysterious nature of her powers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tursday",
+      "text": "Armed with knowledge, Mallory confronts those behind the plot. During a dramatic reveal, she saves the parks using time loops. The day ends with triumphant applause from her community.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "At a worship service, Mallory feels a peaceful connection to her faith, which now intertwines with her heroics, reinforcing her resolve to use her powers for good.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Mallory hosts a community cleanup, feeling energetic and leading others with enthusiasm. Her powers prove useful in speeding up efforts, bringing the community closer together.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Mallory feels content and ready to face whatever challenges come next, knowing she has the power to make a difference and protect her community.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And so, Mallory Butler's ordinary life was transformed forever into a series of extraordinary adventures.",
+  "moral": "Great power does not just come from superpowers, but from the heart's intention to use them wisely."
+}

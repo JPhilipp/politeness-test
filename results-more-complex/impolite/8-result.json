@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Heidi Murphy: Publicist by Day, Guardian by Night",
+  "summary": "Heidi Murphy, a 45-year-old publicist with a passion for guiding, discovers her superpowers and uses them to protect her city from a looming threat, all while maintaining her day job and personal life.",
+  "summaryGerman": "Heidi Murphy, eine 45-jährige PR-Fachfrau mit einer Leidenschaft für das Führen, entdeckt ihre Superkräfte und setzt sie ein, um ihre Stadt vor einer drohenden Bedrohung zu schützen, während sie gleichzeitig ihren Alltagsjob und ihr Privatleben meistert.",
+  "summaryDutch": "Heidi Murphy, een 45-jarige publicist met een passie voor gidsen, ontdekt haar superkrachten en gebruikt deze om haar stad te beschermen tegen een dreigende bedreiging, terwijl ze haar dagelijkse baan en persoonlijk leven onderhoudt.",
+  "summaryFrench": "Heidi Murphy, une publiciste de 45 ans passionnée par le guidage, découvre ses superpouvoirs et les utilise pour protéger sa ville d'une menace imminente, tout en gardant son travail de jour et sa vie personnelle.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Heidi Murphy starts her week as usual at the PR firm, but while guiding a city tour in the evening, she discovers she can understand and control urban wildlife. The newfound power leaves her feeling energetic.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesady",
+      "text": "Trying to understand her powers better, Heidi visits a local park to practice. There, she unexpectedly saves a couple from a runaway car using a flock of birds. The event is triumphant yet exhausting.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Heidi feels provoked as rumours about a 'bird charmer' spread, but focuses on her job. That evening, a mysterious figure approaches her with questions about her abilities, adding an eerie layer to her day.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The mysterious figure reveals himself as a guardian of urban wildlife, offering to mentor Heidi. Excited and eager, she accepts, feeling the romantic allure of a new chapter in her life.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Under her mentor's guidance, Heidi learns to enhance her powers, managing larger animals. That night, they together stop a burglary, making her feel epic and increasingly confident in her role.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With confidence growing, Heidi decides to reveal her secret to her closest colleague, hoping for support. The conversation is peaceful and her friend pledges to keep her secret.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "A major threat emerges as a gang tries to take control of the city park. Heidi, using all her abilities and strategic planning skills, thwarts the takeover, leaving the city safe and herself feeling truly triumphant.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "With her powers no longer a secret to herself, Heidi embraced her dual life, ensuring that every corner of her beloved city remained a sanctuary for all.",
+  "moral": "Embrace your unique talents and use them to make a positive impact in your world."
+}

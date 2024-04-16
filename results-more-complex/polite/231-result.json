@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Trent Long: Salesman by Day, Hero by Night",
+  "summary": "Trent Long discovers his superpower of persuasive influence, using it to battle corporate greed while balancing his life as a sales trainer.",
+  "summaryGerman": "Trent Long entdeckt seine Superkraft der überzeugenden Einflussnahme und verwendet sie, um die Unternehmensgier zu bekämpfen, während er sein Leben als Verkaufstrainer ausbalanciert.",
+  "summaryDutch": "Trent Long ontdekt zijn superkracht van overtuigende invloed en gebruikt deze om bedrijfsgreed te bestrijden terwijl hij zijn leven als verkooptrainer in evenwicht houdt.",
+  "summaryFrench": "Trent Long découvre son super-pouvoir d'influence persuasive et l'utilise pour lutter contre la cupidité des entreprises tout en équilibrant sa vie de formateur commercial.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Trent Long starts his week feeling energized. While instructing a sales seminar, he inadvertently discovers he can influence people's decisions with just his words.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Trent tests his new-found ability on small scales, subtly steering his clients towards more ethical purchasing decisions. The feeling of using his power for good is exhilarating.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tursday",
+      "text": "A mysterious figure approaches Trent, warning him that his powers could de destabilizing. Trent feels an eerie chill as he ponders the implications.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Determined to master his abilities, Trent spends the day researching and practicing. He resolves to only use his powers for the betterment of society.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A local business tycoon learns of Trent's abilities and attempts to hire him for a massive, unethical sales campaign. Trent declines, reinforcing his moral stance.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "In a bold move, Trent decides to expose the tycoon's exploitative practices. He orchestrates a massive information leak, and the public outcry is immediate.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "As the week closes, Trent reflects on his actions and the chaotic week. He feels hopeful, knowing he has made a difference.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As Trent Long looked over the city he had vowed to protect, he knew that this was just the beginning.",
+  "moral": "True power lies in using one's abilities for the greater good, not personal gain."
+}

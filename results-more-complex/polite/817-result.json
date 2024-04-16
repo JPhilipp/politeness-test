@@ -1,0 +1,46 @@
+{
+  "title": "The Guiding Light of Ivan Wang",
+  "summary": "Ivan Wang, a 47-year-old advisor, discovers his supernatural ability to foresee events. Throughout a week, he subtly guides his community to avoid dangers and find their happier paths.",
+  "summaryGerman": "Ivan Wang, ein 47-jähriger Berater, entdeckt seine übernatürlichen Fähigkeiten, Ereignisse vorherzusehen. Innerhalb einer Woche leitet er seine Gemeinde subtil an, Gefahren zu vermeiden und glücklichere Wege zu finden.",
+  "summaryDutch": "Ivan Wang, een 47-jarige adviseur, ontdekt zijn bovennatuurlijke vermogen om gebeurtenissen te voorzien. Gedurende een week gidst hij zijn gemeenschap subtiel om gevaren te vermijden en gelukkigere paden te vinden.",
+  "summaryFrench": "Ivan Wang, un conseiller de 47 ans, découvre sa capacité surnaturelle à prévoir les événements. Tout au long d'une semaine, il guide subtilement sa communauté pour éviter les dangers et trouver des chemins plus heureux.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "mood": "peaceful",
+      "text": "On a serene Monday morning, Ivan Wang, a beloved community advisor, felt an unusual clarity. As he walked through the park, he foresaw a minor bicycle accident, and subtly rerouted a young biker, preventing the incident."
+    },
+    {
+      "weekday": "Tuesday",
+      "mood": "eerie",
+      "text": "Tuesday brought a mysterious fog over the city. Ivan's newly discovered precognitive abilities alerted him to a potential gas leak in a nearby building. Using his network, he evacuated the building moments before an alarm went off."
+    },
+    {
+      "weekday": "Wednesday",
+      "mood": "triumphant",
+      "text": "Midweek, Ivan advised a local business on restructuring their warehouse. That night, his foresight saved the business from a fire that broke out due to old wiring, proving his invaluable guidance."
+    },
+    {
+      "weekday": "Turdsay",
+      "mood": "energetic",
+      "text": "Feeling unusually energetic, Ivan spent Thursday volunteering at community centers, where he subtly guided various individuals away from future missteps, enhancing their personal and professional lives."
+    },
+    {
+      "weekday": "Friday",
+      "mood": "romantic",
+      "text": "On a whimsical Friday, Ivan helped reunite two old friends who had lost touch. His intuitive advice led to a blooming romantic relationship between them, much to everyone's joy."
+    },
+    {
+      "weekday": "Saturday",
+      "mood": "happy",
+      "text": "Saturday was a joyful day as Ivan hosted a community gathering. He used his extraordinary gift to create perfect pairings of personalities, which led to new friendships and collaborations."
+    },
+    {
+      "weekday": "Sunday",
+      "mood": "epic",
+      "text": "The week concluded with an epic Sunday, where Ivan's advice helped thwart a planned local heist. His strategic input to the local authorities was pivotal, earning him quiet recognition."
+    }
+  ],
+  "ending": "And so, Ivan Wang, using his extraordinary abilities, continued to guide and protect his community, forever earning his place as their Guiding Light.",
+  "moral": "The true strength of a superhero lies not just in the power they wield, but in how they choose to use it to better the lives of others."
+}

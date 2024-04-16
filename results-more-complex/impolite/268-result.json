@@ -1,0 +1,46 @@
+{
+  "title": "The Sculpting Savior: The Tale of Nancy Jones",
+  "summary": "Nancy Jones, a 55-year-old sculpting instructor, harnesses her unique power to turn things into sculptures to thwart a heist, unravel a mystery, and ultimately save her town over the span of a week.",
+  "summaryGerman": "Nancy Jones, eine 55-jährige Skulpturenlehrerin, nutzt ihre einzigartige Fähigkeit, Dinge in Skulpturen zu verwandeln, um einen Überfall zu vereiteln, ein Rätsel zu lösen und letztendlich ihre Stadt im Verlauf einer Woche zu retten.",
+  "summaryDutch": "Nancy Jones, een 55-jarige beeldhouwinstructrice, gebruikt haar unieke kracht om dingen in sculpturen te veranderen om een overval te verijdelen, een mysterie te ontrafelen en uiteindelijk haar stad te redden gedurende de loop van een week.",
+  "summaryFrench": "Nancy Jones, une instructrice de sculpture âgée de 55 ans, utilise son pouvoir unique de transformer les choses en sculptures pour déjouer un cambriolage, résoudre un mystère et finalement sauver sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Nancy Jones begins her week sculpting a new piece for the local community center, feeling peaceful yet unaware of the adventure ahead.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "An eerie silence at the community center leads Nancy to discover plans for a heist targeting the center’s new art installation. Her curiosity is piqued.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wedesday",
+      "text": "Using her unique ability, Nancy transforms a listening device found near the center into a sculpture, learning it belonged to art thieves.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Nancy crafts small sculpted spies to gather more information, feeling energetic as she turns her art into espionage tools.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "She catches the thieves in the act, freezing them into sculptures momentarily, long enough for the police to arrive, her heart racing triumphantly.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The community celebrates Nancy as a hero. She feels happy, giving an inspiring speech about the power of art and vigilance.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Nancy feels content in her quiet studio, her sculptures around her, embodying the peace and security she has restored.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "In the quiet of her studio, surrounded by her creations, Nancy sculpted not just art, but safety and inspiration for her entire community.",
+  "moral": "Even ordinary skills, when combined with creativity and courage, can achieve extraordinary feats."
+}

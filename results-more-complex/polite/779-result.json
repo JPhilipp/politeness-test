@@ -1,0 +1,46 @@
+{
+  "title": "The Inspiring Adventures of Walter Kelly",
+  "summary": "Walter Kelly, a 39-year-old inspirational speaker, unwittingly gains the power to control emotions, which he uses over a week to tackle various challenges, ultimately discovering the importance of balance in using his powers.",
+  "summaryGerman": "Walter Kelly, ein 39-jähriger inspirierender Redner, erlangt ungewollt die Fähigkeit, Emotionen zu kontrollieren, die er über eine Woche nutzt, um verschiedene Herausforderungen zu bewältigen und letztendlich die Bedeutung des Gleichgewichts im Einsatz seiner Kräfte zu entdecken.",
+  "summaryDutch": "Walter Kelly, een 39-jarige inspirerende spreker, krijgt onbewust de kracht om emoties te beheersen, die hij gedurende een week gebruikt om verschillende uitdagingen aan te gaan, uiteindelijk ontdekt hij het belang van evenwicht bij het gebruik van zijn krachten.",
+  "summaryFrench": "Walter Kelly, un orateur inspirant de 39 ans, acquiert involontairement le pouvoir de contrôler les émotions, qu'il utilise pendant une semaine pour relever divers défis, découvrant finalement l'importance de l'équilibre dans l'utilisation de ses pouvoirs.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Walter Kelly discovers his new abilities when his motivational speech unexpectedly calms an agitated crowd.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Empowered by his success, Walter uses his power to resolve a conflict at a local community center, leaving everyone feeling hopeful.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "During a workshop, Walter overuses his powers, causing attendees to feel unnaturally euphoric, raising concerns about the ethical implications.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tursday",
+      "text": "Feeling guilty, Walter spends the day reevaluating his approach and decides to use his power more judiciously.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Testing his resolution, Walter assists a couple in crisis by subtly guiding their emotions, leading to a heartfelt reconciliation.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Walter addresses a large assembly, masterfully balancing his power to inspire rather than control, earning him respect and adoration.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Walter feels content with his progress and confident in his ability to use his powers for good, promising to champion ethical use of extraordinary abilities.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Walter Kelly learned that true power lies not in control, but in inspiration and wise restraint.",
+  "moral": "With great power comes the need for great responsibility and discretion."
+}

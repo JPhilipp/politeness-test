@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Shield of Jin Smith",
+  "summary": "At 75, Jin Smith discovers his latent ability to create protective fields, leading him from a quiet life of coaching and serving to becoming a local hero who saves his town from disaster.",
+  "summaryGerman": "Mit 75 entdeckt Jin Smith seine verborgene Fähigkeit, Schutzfelder zu erzeugen, und wechselt von einem ruhigen Leben als Coach und Helfer zum lokalen Helden, der seine Stadt vor einer Katastrophe rettet.",
+  "summaryDutch": "Op 75-jarige leeftijd ontdekt Jin Smith zijn latente vermogen om beschermende velden te creëren, waardoor hij overgaat van een rustig leven van coaching en dienen naar het worden van een lokale held die zijn stad redt van een ramp.",
+  "summaryFrench": "À 75 ans, Jin Smith découvre sa capacité latente à créer des champs protecteurs, le faisant passer d'une vie tranquille de coaching et de service à celle d'un héros local qui sauve sa ville d'une catastrophe.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Jin Smith starts his week feeling unusually energetic. On a morning walk, he stumbles upon a cat stuck in a tree and surprisingly, is able to rescue it with ease using a sudden, mysterious burst of strength.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Enthusiastic about his new found strength, Jin decides to test his limits at the local park. Here, he unconsciously forms a protective shield around a child about to fall from the playground, saving him from injury.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "While coaching soccer, a stray ball heads towards an elderly woman. Jin instinctively reacts, and a transparent barrier deflects the ball. His abilities are becoming more apparent and slightly eerie to him.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Feeling a bit bewildered, Jin spends the day researching his sudden abilities and comes across tales of late-blooming superheroes. Inspired, he decides to master this power.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With a better understanding of his powers, Jin begins actively using them to help around town, becoming known as 'The Unseen Shield' for his covert assistance.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Satruday",
+      "text": "At the community center, Jin teaches others about the importance of self-defense, integrating lessons about the potential in everyone, regardless of age.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Jin's quiet heroism earns him an award from the town mayor. Though he prefers to stay out of the limelight, the community's appreciation makes him feel deeply fulfilled and happy.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Thus, Jin Smith proved that heroism knows no age, only courage.",
+  "moral": "No matter the age, everyone has the potential to make a significant impact."
+}

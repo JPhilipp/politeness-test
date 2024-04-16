@@ -1,0 +1,46 @@
+{
+  "title": "The Coding Crusader: The Adventures of Ling Wright",
+  "summary": "Ling Wright, a 45-year-old tutor and programmer, discovers a secret ability to manipulate digital devices with her mind. Over a week, she transitions from everyday routine to embracing her new powers to thwart a cyber-threat, balancing tutoring, programming, and her new role as a superhero.",
+  "summaryGerman": "Ling Wright, eine 45-jährige Tutorin und Programmiererin, entdeckt die geheime Fähigkeit, digitale Geräte mit ihrem Verstand zu manipulieren. Innerhalb einer Woche geht sie vom alltäglichen Routineleben dazu über, ihre neuen Kräfte zu nutzen, um einer Cyber-Bedrohung entgegenzutreten, wobei sie das Tutoring, Programmieren und ihre neue Rolle als Superheldin ausbalanciert.",
+  "summaryDutch": "Ling Wright, een 45-jarige tutor en programmeur, ontdekt een geheime vaardigheid om digitale apparaten met haar geest te manipuleren. In de loop van een week gaat zij over van dagelijkse routine naar het omarmen van haar nieuwe krachten om een cyberdreiging af te weren, terwijl ze haar werk als tutor en programmeur en haar nieuwe rol als superheldin in evenwicht houdt.",
+  "summaryFrench": "Ling Wright, une tutrice et programmeuse de 45 ans, découvre une capacité secrète à manipuler les dispositifs numériques avec son esprit. Au cours d'une semaine, elle passe de la routine quotidienne à l'adoption de ses nouveaux pouvoirs pour contrer une menace cybernétique, équilibrant le tutorat, la programmation et son nouveau rôle de super-héros.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Wright starts her week typically, tutoring students and working on software projects, feeling energetic but unaware of the strange surges flowing through her devices at home.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While debugging code, Ling unexpectedly interfaces with her computer mentally. Amazed and eerie, she spends hours experimenting with this new-found ability.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesady",
+      "text": "Emboldened by her powers, Ling uses her skills covertly to resolve her students’ technical issues, feeling triumphant as she makes their learning smoother.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Ling encounters a hidden virus spreading through the city’s networks. Tapping into her abilities, she feels an epic responsibility to stop it.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The cyber-battle intensifies. Ling, now dubbed 'The Coding Crusader' by those few who know, works tirelessly, her energy palpable as she outmaneuvers the digital menace.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A moment of peace as Ling teaches her regular programming class, secretly using her powers to enhance the learning experience, feeling peaceful and content.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The threat neutralized, Ling reflects on her week. Balancing her double life, she feels happy to return to a simpler Sunday, preparing for another week ahead.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As Ling prepared for the week ahead, she knew that life had changed forever, but she was ready to face it with new courage.",
+  "moral": "Embrace change, for it may bring unexpected gifts that empower you to make the world a better place."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Quilting Hero: Linda Gray Saves the Day",
+  "summary": "A 75-year-old woman named Linda Gray, known for her hobbies of cooking and quilting, discovers powers that come to her aid during a city crisis. Over a week, her unnoticed abilities shape into heroic acts that save her community.",
+  "summaryGerman": "Eine 75-jährige Frau namens Linda Gray, bekannt für ihre Hobbys Kochen und Quilten, entdeckt Kräfte, die ihr während einer Stadtkrise zur Hilfe kommen. Im Laufe einer Woche entwickeln sich ihre unbemerkten Fähigkeiten zu heldenhaften Taten, die ihre Gemeinde retten.",
+  "summaryDutch": "Een 75-jarige vrouw genaamd Linda Gray, bekend om haar hobby's koken en quilten, ontdekt krachten die haar te hulp komen tijdens een stadscrisis. Gedurende een week vormen haar onopgemerkte vaardigheden zich tot heroïsche daden die haar gemeenschap redden.",
+  "summaryFrench": "Une femme de 75 ans nommée Linda Gray, connue pour ses hobbies, la cuisine et le patchwork, découvre des pouvoirs qui lui viennent en aide pendant une crise urbaine. Au cours d'une semaine, ses capacités passées inaperçues se transforment en actes héroïques qui sauvent sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Linda discovers her quilts can shield people from harm when a kitchen accident is averted by her quick reflexes and a quilt.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuedsday",
+      "text": "Using her culinary skills, Linda cooks a meal that mysteriously cures the neighborhood's flu outbreak, raising spirits all around.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Her home becomes a refuge during a sudden storm. Her quilts provide warmth and safety, creating a peaceful shelter.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "When the power goes out city-wide, Linda’s quilts, imbued with glowing threads, light up her community center.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Linda holds a quilting and cooking workshop, empowering others with her skills and inspiring new heroes in the community.",
+      "mood": "inspiring"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The mayor recognizes Linda for her extraordinary acts, giving her a community award in a heartfelt ceremony.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Linda feels content knowing her unique passions can serve others, vowing to continue her unlikely heroics.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "In the heart of the city, Linda’s gentle strength weaves a new tapestry of hope.",
+  "moral": "No matter the age, you can always become a hero in your own unique way."
+}

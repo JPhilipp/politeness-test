@@ -1,0 +1,46 @@
+{
+  "title": "The Yarn Guardian: The Epic Week of Trent Sanchez",
+  "summary": "Trent Sanchez, a 74-year-old who loves knitting and crocheting, discovers a mystical yarn that grants him superpowers. Over a week, he uses his newfound abilities to thwart crimes and spread warmth and comfort through his crafts.",
+  "summaryGerman": "Trent Sanchez, ein 74-jähriger, der Stricken und Häkeln liebt, entdeckt ein mystisches Garn, das ihm Superkräfte verleiht. Über eine Woche hinweg nutzt er seine neu gewonnenen Fähigkeiten, um Verbrechen zu vereiteln und Wärme und Komfort durch seine Handarbeiten zu verbreiten.",
+  "summaryDutch": "Trent Sanchez, een 74-jarige die van breien en haken houdt, ontdekt een mystieke garen die hem superkrachten geeft. Gedurende een week gebruikt hij zijn nieuw verworven vaardigheden om misdaden te dwarsbomen en warmte en comfort te verspreiden door zijn ambachten.",
+  "summaryFrench": "Trent Sanchez, âgé de 74 ans et passionné de tricot et de crochet, découvre un fil mystique qui lui donne des superpouvoirs. Pendant une semaine, il utilise ses nouvelles capacités pour contrecarrer les crimes et diffuser chaleur et confort à travers son artisanat.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Trent discovers a shimmering skein of yarn in his attic that glows softly in the dark. As he touches it, a surge of energy flows through him, making him feel unusually energetic.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "With cautious curiosity, Trent knits a scarf using the mystical yarn. Upon wearing it, he realizes he can hear people's pleas for help from miles away.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Trent decides to rescue a kitten stuck high in a tree. After crafting a soft, stretchy ladder from the yarn, he climbs effortlessly to save the pet, feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News spreads of a yarn-clad hero. Trent spends the day crocheting warm clothes for a homeless shelter, feeling fulfilled and peaceful.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Firday",
+      "text": "A small fire breaks out in a local store. Trent creates a fire retardant throw in minutes, hurling it over the flames and extinguishing them, engulfed in an aura of heroism.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "At the park, Trent spots two youths attempting to vandalize benches. Using his yarn, he crafts a net and peacefully entangles them until authorities arrive, feeling sad for the misguided teens.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "A charity event invites Trent as a guest. His story inspires many, leading to a community-wide knitting event. The shared joy makes the day exceptionally romantic and happy.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "In just one week, Trent Sanchez turned a surprising discovery into a legacy of goodwill, proving you’re never too old to be a hero.",
+  "moral": "Small acts of kindness can weave together to create a tapestry of community and hope."
+}

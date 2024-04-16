@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Counsellor: Victor Brown's Week of Heroism",
+  "summary": "Over the course of a week, Victor Brown, an ordinary counselor with a penchant for hobbies, unexpectedly gains the ability to influence people's emotions, which he uses to resolve conflicts and spread positivity in his community.",
+  "summaryGerman": "Im Laufe einer Woche gewinnt Victor Brown, ein gewöhnlicher Berater mit einer Vorliebe für Hobbys, unerwartet die Fähigkeit, die Emotionen der Menschen zu beeinflussen, die er nutzt, um Konflikte zu lösen und Positivität in seiner Gemeinde zu verbreiten.",
+  "summaryDutch": "Gedurende een week krijgt Victor Brown, een gewone counselor met een voorliefde voor hobby's, onverwachts het vermogen om de emoties van mensen te beïnvloeden, die hij gebruikt om conflicten op te lossen en positiviteit in zijn gemeenschap te verspreiden.",
+  "summaryFrench": "Au cours d'une semaine, Victor Brown, un conseiller ordinaire passionné de hobbies, gagne soudainement la capacité d'influencer les émotions des gens, qu'il utilise pour résoudre des conflits et répandre de la positivité dans sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Victor Brown wakes up feeling ordinary, unaware that today marks the beginning of his transformation. After counseling a conflicted couple at his community center, he finds himself feeling unusually energetic.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesdsay",
+      "text": "Victor notices his new ability to subtly influence emotions, sparking a joyful reconciliation between two former friends over a group hobby session. He feels triumphant, sensing the potential of his powers.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Expanding his reach, Victor advises a local youth group. To his surprise, his words foster a newfound harmony and motivation among the members. The day closes on a peaceful note.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A city council meeting threatened by tensions ends upbeat and hopeful thanks to Victor's discreet emotional nudging. His day is filled with quiet victories, and he feels increasingly energetic.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Victor encounters his biggest challenge yet: mediating a potential neighborhood dispute. With a calm demeanor and heartfelt words, he turns the confrontation into an understanding, leaving everyone happy.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "At a community fair, Victor uses his powers to enhance the festive atmosphere, earning him unsought praise and admiration. He reflects on his impact, feeling content and epic.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his incredible week, Victor vows to use his new powers wisely, ensuring that his actions always aim to unite. As the sun sets, he feels a profound sense of peace.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Victor Brown continued to be a discreet superhero, molding the moods of his town towards greater harmony.",
+  "moral": "With great power comes great responsibility, and sometimes, the smallest acts can result in the most significant changes."
+}

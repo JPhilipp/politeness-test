@@ -1,0 +1,46 @@
+{
+  "title": "The Enlightening Adventures of Trent Peterson",
+  "summary": "Over one week, Trent Peterson discovers his unique abilities to imbue knowledge instantly. He uses these powers to help others learn and overcome challenges.",
+  "summaryGerman": "Über eine Woche entdeckt Trent Peterson seine einzigartigen Fähigkeiten, Wissen sofort zu vermitteln. Er nutzt diese Kräfte, um anderen beim Lernen und Überwinden von Herausforderungen zu helfen.",
+  "summaryDutch": "Gedurende een week ontdekt Trent Peterson zijn unieke vaardigheden om onmiddellijk kennis over te brengen. Hij gebruikt deze krachten om anderen te helpen leren en uitdagingen te overwinnen.",
+  "summaryFrench": "Pendant une semaine, Trent Peterson découvre ses capacités uniques à transmettre instantanément des connaissances. Il utilise ces pouvoirs pour aider les autres à apprendre et à surmonter des défis.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Trent, while tutoring a struggling student, accidentally discovers his power to instantly transfer understanding of complex topics with a touch.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Excited by his new-found abilities, Trent helps several classmates excel in their studies, feeling a surge of energy.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wensday",
+      "text": "Word spreads about Trent's abilities. An unknown figure observes him from a distance, setting an eerie tone to the evening.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Trent is approached by a mysterious group interested in his powers for dubious purposes. He declines, determined to use his powers for good.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Trent forms a network of student helpers, inspiring them to spread knowledge and assist others across campus, cultivating a peaceful community.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a romantic walk, Trent helps his date understand the beauty of the stars through enhanced perception, sharing a magical night.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "A major exam is effortlessly passed by many due to Trent's tutoring. The campus celebrates their collective success, ending the week on a high note.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And so, Trent Peterson continued to light the path of knowledge, one touch at a time.",
+  "moral": "Use your unique talents to uplift and help others."
+}

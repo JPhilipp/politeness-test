@@ -1,0 +1,46 @@
+{
+  "title": "The Quiet Guardian: The Story of Nancy Edwards",
+  "summary": "Nancy Edwards, a 78-year-old who loves counseling and praying, discovers her unique ability to heal emotional wounds. Throughout one week, she helps her community cope with various struggles, ultimately showing that heroes come in many forms.",
+  "summaryGerman": "Nancy Edwards, eine 78-jährige Frau, die es liebt zu beraten und zu beten, entdeckt ihre einzigartige Fähigkeit, emotionale Wunden zu heilen. Innerhalb einer Woche hilft sie ihrer Gemeinde, mit verschiedenen Problemen fertig zu werden und zeigt, dass Helden viele Formen annehmen können.",
+  "summaryDutch": "Nancy Edwards, een 78-jarige vrouw die van counseling en bidden houdt, ontdekt haar unieke vermogen om emotionele wonden te genezen. Gedurende een week helpt ze haar gemeenschap om te gaan met verschillende strijden, uiteindelijk tonend dat helden in vele vormen komen.",
+  "summaryFrench": "Nancy Edwards, âgée de 78 ans et passionnée par le conseil et la prière, découvre sa capacité unique à guérir les blessures émotionnelles. Tout au long d'une semaine, elle aide sa communauté à faire face à diverses luttes, montrant finalement que les héros prennent de nombreuses formes.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Nancy Edwards feels a surge of energy as she prays in the morning, sensing a new power to heal. She spends the day counseling her neighbors, helping them find peace in their troubles.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesdag",
+      "text": "While walking through the park, Nancy encounters a distraught young man. She sits with him, and after their talk, he feels noticeably calmer, his spirits lifted.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "The local community center asks Nancy to host a group session. Her gentle words and understanding nature help many open up about their fears and find comfort.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A couple at odds seeks Nancy’s guidance. Through her wise advice, the couple finds a pathway to mend their relationship, rediscovering love and respect for each other.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "News of Nancy's unique abilities spreads, attracting more people seeking solace. She feels thrilled to be helping at such a scale, realizing the full extent of her powers.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a session, Nancy feels overwhelmed by the emotional weight she’s been carrying. She spends a quiet day at home to recharge, reflecting on the week’s events.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Renewed, Nancy returns to her routine of counseling and praying, feeling a divine confirmation that her late-found powers are a gift meant to be shared with the world.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And so, Nancy Edwards found her calling not in the vigor of youth, but in the wisdom of age, proving that true power lies in the spirit and the heart.",
+  "moral": "It's never too late to discover your true potential and make a significant impact."
+}

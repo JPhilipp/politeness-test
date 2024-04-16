@@ -1,0 +1,46 @@
+{
+  "title": "The Embroidering Guardian: The Tale of Sue Evans",
+  "summary": "Sue Evans, a 57-year-old who loves coaching and embroidering, discovers her powers of healing and protection, which she uses to safeguard her community over a week of unexpected challenges.",
+  "summaryGerman": "Sue Evans, eine 57-jährige, die gerne coacht und stickt, entdeckt ihre Heil- und Schutzkräfte, die sie nutzt, um ihre Gemeinschaft über eine Woche unerwarteter Herausforderungen zu schützen.",
+  "summaryDutch": "Sue Evans, een 57-jarige die van coaching en borduren houdt, ontdekt haar krachten van genezing en bescherming, die ze gebruikt om haar gemeenschap te beschermen gedurende een week van onverwachte uitdagingen.",
+  "summaryFrench": "Sue Evans, 57 ans, passionnée de coaching et de broderie, découvre ses pouvoirs de guérison et de protection, qu'elle utilise pour sauvegarder sa communauté pendant une semaine de défis inattendus.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Sue Evans begins her week at the local community center, coaching kids in basketball. Mid-session, she effortlessly mends a torn jersey with a swift motion, surprising everyone",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tudesday",
+      "text": "While embroidering a tapestry at dawn, Sue hears a distant cry for help. She rushes outside, discovering her embroidery threads have extended, guiding her to a lost child in the park.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "With local media intrigued by the mysterious rescuer, Sue humbly evades fame, focusing instead on training her abilities to control her thread manipulate at will.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "During coaching, a sudden fire breaks out in the community center. Sue uses her threads to create a safe pathway, guiding everyone to safety and extinguishing the fire with a crafted water barrier.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "News of Sue's heroics spread, and her old friends organize a gathering to celebrate her bravery. Sue feels overwhelmed but grateful for the support.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Sue spends a peaceful day at home, reflecting on her new role and practicing her powers, embroidering a beautiful wall hanging that illustrates her week's heroic events.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The Mayor invites Sue to the town hall, honoring her as a guardian of the town with a plaque that reads 'The Embroidering Guardian'. Sue promises to continue protecting her beloved community.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus, Sue Evans embraced her unique powers, weaving safety and care into the fabric of her town.",
+  "moral": "Embrace your unique talents, as they might one day lead to extraordinary contributions."
+}

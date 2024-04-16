@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Alice Coleman: The Knitting Guardian",
+  "summary": "Alice Coleman, a 29-year-old advisor and knitting enthusiast, discovers her superpowers while saving her city from a mysterious threat over the course of a week.",
+  "summaryGerman": "Alice Coleman, eine 29-jährige Beraterin und Strickliebhaberin, entdeckt ihre Superkräfte, während sie ihre Stadt im Laufe einer Woche vor einer mysteriösen Bedrohung rettet.",
+  "summaryDutch": "Alice Coleman, een 29-jarige adviseur en breiliefhebber, ontdekt haar superkrachten terwijl ze haar stad redt van een mysterieuze dreiging gedurende een week.",
+  "summaryFrench": "Alice Coleman, une conseillère de 29 ans passionnée de tricot, découvre ses superpouvoirs tout en sauvant sa ville d'une menace mystérieuse au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Alice Coleman, while advising at the local community center, accidentally thwarts a robbery using extraordinary reflexes she never knew she had. The incident leaves her curious and slightly euphoric.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Confused but determined, Alice tests her newfound abilities at home, knitting a bulletproof scarf in record time. Her curiosity turns into excitement, as she feels a newfound sense of purpose.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Word of her heroics spreads, and a mysterious figure asks for her help to solve a series of strange events in town. Alice agrees, feeling a mix of apprehension and duty.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "In her quest, Alice uses her tactical advice to outsmart a group of cyber criminals attempting to hack the city's power grid. Her actions save the city from a massive blackout.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "During a confrontation with the leader of the cyber criminals, Alice's hand-crafted accessories deflect enemy attacks, protecting her and bystanders. In the aftermath, she feels an overwhelming sense of protection toward her city.",
+      "mood": "heroic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The mayor awards Alice with a medal for bravery and asks her to lead a new safety initiative. As she stands before the crowd, her heart swells with pride and love for her community.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Alice sits quietly knitting in her living room, realizing she has found her true calling. She promises herself to protect her city, peacefully knitting between adventures.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the sun sets on a quiet Sunday evening, Alice Coleman smiles, her knitting needles clicking rhythmically, ready for whatever challenge comes next.",
+  "moral": "Embrace your unique talents; they might just be your superpowers."
+}

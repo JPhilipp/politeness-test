@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Guardian: The Tale of Jin Gonzales",
+  "summary": "Jin Gonzales, a 54-year-old with a passion for tutoring, discovers his ability to become invisible and uses it to subtly guide and protect his community over the course of a week.",
+  "summaryGerman": "Jin Gonzales, ein 54-jähriger mit einer Leidenschaft für das Nachhilfegeben, entdeckt seine Fähigkeit, unsichtbar zu werden, und nutzt sie, um seine Gemeinschaft über den Verlauf einer Woche subtil zu führen und zu schützen.",
+  "summaryDutch": "Jin Gonzales, een 54-jarige met een passie voor bijles geven, ontdekt zijn vermogen om onzichtbaar te worden en gebruikt dit om zijn gemeenschap gedurende een week subtiel te leiden en te beschermen.",
+  "summaryFrench": "Jin Gonzales, 54 ans, passionné par le tutorat, découvre sa capacité à devenir invisible et l'utilise pour guider et protéger subtilement sa communauté au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Jin Gonzales felt a strange sensation while tutoring his eager students; to his amazement, he realized he could become invisible. Eager to test his new power, he spent the day experimenting in private.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Jin used his invisibility to wander the library, subtly guiding lost visitors to their sought-after books, feeling a profound sense of service, yet unseen.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "During a community meeting about local safety, Jin secretly disarmed a heated argument by invisibly adjusting the environment, leading to a more harmonious discussion.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Turdsay",
+      "text": "Jin felt a deep sadness today, realizing that while he could solve others' problems invisibly, his own loneliness as an unseen presence grew heavier.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Trying to lift his spirits, Jin attended a live concert, using his invisibility to fix sound equipment and enhance the show, igniting the crowd’s energy and his own.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Jin encountered a young couple struggling with a personal issue. Invisible and unnoticed, he subtly influenced their conversation, reigniting their passion and trust in each other.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Jin felt proud yet pensive, contemplating how many more he could help in secret. He decided to continue his unseen duties, feeling a new purpose stirring within.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus, Jin Gonzales embraced his role as the invisible guardian, forever altering lives from the shadows, wielding his power with a gentle, guiding hand.",
+  "moral": "Great power can be used gently and subtly to foster peace and happiness."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Jin Martinez: A Week of Unveiled Powers",
+  "summary": "Jin Martinez, a dedicated teacher, discovers his ability to manipulate time throughout a rollercoaster week, realizing the importance of balancing power and responsibility.",
+  "summaryGerman": "Jin Martinez, ein engagierter Lehrer, entdeckt im Laufe einer Achterbahnwoche seine Fähigkeit, die Zeit zu manipulieren, und erkennt die Bedeutung des Gleichgewichts zwischen Macht und Verantwortung.",
+  "summaryDutch": "Jin Martinez, een toegewijde leraar, ontdekt zijn vermogen om tijdens een achtbaanweek met tijd te manipuleren, en realiseert het belang van het balanceren van macht en verantwoordelijkheid.",
+  "summaryFrench": "Jin Martinez, un enseignant dévoué, découvre sa capacité à manipuler le temps tout au long d'une semaine de montagnes russes, réalisant l'importance de l'équilibre entre pouvoir et responsabilité.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Jin Martinez begins his week feeling energetic, teaching a challenging physics class filled with enthusiastic students who inspire him with their questions and discoveries.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While tutoring in the library, Jin is abruptly taken aback when his watch mysteriously fast-forwards two hours. Puzzled but intrigued, he ponders over this odd occurrence into the night, feeling slightly eerie.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Fascinated by the time anomaly, Jin conducts experiments after class. He discovers he can control these time shifts. Excited about his newfound ability, he feels triumphant, envisioning the good he could do.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Jin cautiously uses his power to lengthen a day to help struggling students prepare for their exams. Watching their grateful smiles, he feels peaceful, knowing he has made a positive impact.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Firday",
+      "text": "Pushing his limits, Jin accidentally sends himself a day into the past, causing confusion. Worrying about the consequences of his abilities, he spends the day feeling tense and anxious.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Jin decides to keep his powers a secret, understanding the risks. Focused on his hobbies and personal life, the day is romantic as he celebrates his decision with his partner.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Realizing the potential dangers of misusing his powers, Jin resolves to use them sparingly and wisely. His decision fills him with a sense of epic responsibility as he prepares for another teaching week.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Balancing time and mind, Jin Martinez embraced his dual role with cautious optimism, ready to shape futures both in and outside the classroom.",
+  "moral": "With great power comes great responsibility."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Unstitchable Rescues: The Tale of Frank Long",
+  "summary": "Frank Long, a 52-year-old with a passion for sewing and exercising, discovers his own superpower of superhuman strength and resilience. Over a week, he goes from a mundane life to a superhero, saving his city and improving his community.",
+  "summaryGerman": "Frank Long, ein 52-jähriger mit einer Leidenschaft für Nähen und Sport, entdeckt seine Superkraft der übermenschlichen Stärke und Widerstandsfähigkeit. Innerhalb einer Woche wechselt er vom alltäglichen Leben zum Superhelden, rettet seine Stadt und verbessert seine Gemeinde.",
+  "summaryDutch": "Frank Long, een 52-jarige met een passie voor naaien en sporten, ontdekt zijn eigen superkracht van bovenmenselijke kracht en veerkracht. In een week gaat hij van een alledaags leven naar een superheld, redt zijn stad en verbetert zijn gemeenschap.",
+  "summaryFrench": "Frank Long, un homme de 52 ans passionné de couture et d'exercice, découvre sa propre superpuissance de force et de résilience surhumaines. En une semaine, il passe d'une vie banale à celle d'un super-héros, sauvant sa ville et améliorant sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank Long, feeling energetic, decides to make costumes for orphaned children as part of a charity project. While sewing, he pricks his finger, triggering a sudden surge of strength.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Testing his newfound power at the gym, Frank is able to lift weights far beyond his usual limit. Inspired, he saves a fellow gym-goer trapped under heavy weight equipment.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesdyy",
+      "text": "News of Frank’s heroic act spreads. People are curious but eerie rumors also start to swirl around his mysterious strength.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Despite the rumors, Frank feels peaceful and continues his routine, sewing more costumes and training, unknowingly preparing for bigger challenges ahead.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A local crisis erupts as a building catches fire. Frank sews a fire-resistant suit in record time and rescues those trapped inside, becoming a hero in the public's eyes.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Romantically, the community starts to love Frank. He begins to see himself not just as a savior but as an integrated part of the community, attending banquets in his honor.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Feeling triumphant, Frank uses his talents to establish a community center for sewing and fitness, encouraging others to discover their own hidden strengths.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "Frank Long shows that with great power comes great responsibility, and even greater heart.",
+  "moral": "One's ordinary skills, when uniquely combined, can lead to extraordinary heroism."
+}

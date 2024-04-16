@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Strength of Eve Campbell",
+  "summary": "Eve Campbell, a 68-year-old with a passion for mentoring and knitting, discovers her hidden powers of telekinesis after a week of peculiar events, using them to protect her neighborhood",
+  "summaryGerman": "Eve Campbell, eine 68-jährige mit einer Leidenschaft für Mentoring und Stricken, entdeckt ihre verborgenen Telekinese-Kräfte nach einer Woche voller eigenartiger Ereignisse und nutzt sie, um ihre Nachbarschaft zu schützen",
+  "summaryDutch": "Eve Campbell, een 68-jarige met een passie voor mentoring en breien, ontdekt haar verborgen telekinetische krachten na een week van eigenaardige gebeurtenissen en gebruikt ze om haar buurt te beschermen",
+  "summaryFrench": "Eve Campbell, âgée de 68 ans, passionnée de mentorat et de tricot, découvre ses pouvoirs télékinétiques cachés après une semaine d'événements particuliers, les utilisant pour protéger son quartier",
+  "story": [
+    {
+      "weekday": "Monday",
+      "mood": "peaceful",
+      "text": "Eve Campbell begins her week as usual, mentoring at the local community center and finishing the day with her knitting club, unaware of the changes that are about to unfold."
+    },
+    {
+      "weekday": "Tuseday",
+      "mood": "eerie",
+      "text": "While walking home, Eve feels a strange sensation when her fingers brush against a streetlamp, causing it to flicker intensely without any apparent reason."
+    },
+    {
+      "weekday": "Wednesday",
+      "mood": "sad",
+      "text": "Eve struggles with her new-found abilities, accidentally breaking her favorite knitting needles with an uncontrolled burst of power, leaving her feeling isolated and confused."
+    },
+    {
+      "weekday": "Thursday",
+      "mood": "energetic",
+      "text": "Determined to understand her powers, Eve experiments at home, discovering she can move objects with her mind. She starts controlling her abilities, lifting yarns and needles effortlessly."
+    },
+    {
+      "weekday": "Friday",
+      "mood": "epic",
+      "text": "A crisis occurs when a fire breaks out in a neighbor's house. Eve skillfully uses her telekinesis to rescue the pet trapped inside, controlling the flames to create a safe path."
+    },
+    {
+      "weekday": "Saturday",
+      "mood": "triumphant",
+      "text": "News of Eve's heroic act spreads, and she is celebrated in her community. Feeling empowered, she decides to use her powers for good, keeping her neighborhood safe."
+    },
+    {
+      "weekday": "Sunday",
+      "mood": "romantic",
+      "text": "At the end of a whirlwind week, Eve goes on a date with her long-time friend, sharing her secret and knitting a scarf together under the stars, celebrating her new path in life."
+    }
+  ],
+  "ending": "And thus, Eve Campbell, the knitting mentor, became a new kind of guardian, her gentle strength a beacon in her community.",
+  "moral": "Hidden strengths can emerge from the most unexpected places."
+}

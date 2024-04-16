@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Linda Alexander: Teacher by Day, Hero by Night",
+  "summary": "Linda Alexander, a 35-year-old teacher, discovers her ability to manipulate time during a school incident. Over a week, she balances her normal job and new superpowers, helping her city and gaining confidence.",
+  "summaryGerman": "Linda Alexander, eine 35-jährige Lehrerin, entdeckt ihre Fähigkeit, die Zeit zu manipulieren, während eines Vorfalls in der Schule. Über eine Woche hinweg balanciert sie ihren normalen Job und ihre neuen Superkräfte, hilft ihrer Stadt und gewinnt an Selbstvertrauen.",
+  "summaryDutch": "Linda Alexander, een 35-jarige lerares, ontdekt haar vermogen om tijd te manipuleren tijdens een incident op school. Gedurende een week balanceert ze haar normale baan en nieuwe superkrachten, helpt ze haar stad en wint ze aan zelfvertrouwen.",
+  "summaryFrench": "Linda Alexander, une enseignante de 35 ans, découvre sa capacité à manipuler le temps lors d'un incident à l'école. Pendant une semaine, elle équilibre son travail habituel et ses nouveaux superpouvoirs, aidant sa ville et gagnant en confiance.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "While teaching, Linda accidentally slows time, saving a student from a falling bookshelf. Shocked by her newfound power, she decides to explore it further.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tueasday",
+      "text": "Linda spends the evening experimenting with her time manipulation, learning to control it better. She finds peace in knowing she can now protect her students effectively.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Using her power, Linda thwarts a small robbery on her way home. Feeling triumphant, she embraces her role as a nighttime protector.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Linda encounters another new hero with similar powers. They team up to tackle larger threats, and she feels energetic and excited about her new alliance.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Together, they stop a major bank heist. Linda's confidence as a hero grows, and she feels more connected to her city.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Linda decides to share her secret with her closest colleague, who supports her dual life. The conversation turns unexpectedly romantic, deepening their bond.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Taking a well-deserved break, Linda reflects on her week. Proud and peaceful, she prepares lessons for her students, integrating real-life heroics into her teachings.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As Linda strides into the classroom on Monday morning, she carries with her the secret confidence of a true superhero, ready to inspire and protect.",
+  "moral": "True heroism lies not only in extraordinary actions, but in the courage to embrace them and help others."
+}

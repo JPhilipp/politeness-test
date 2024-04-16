@@ -1,0 +1,46 @@
+{
+  "title": "The Energetic Adventures of Yvonne Gray, The Dancing Hero",
+  "summary": "Yvonne Gray, a 31-year-old dance teacher, discovers her superpowers and uses them to battle against the darkness threatening her town, finding strength and allies along the way.",
+  "summaryGerman": "Yvonne Gray, eine 31-jährige Tanzlehrerin, entdeckt ihre Superkräfte und verwendet sie, um gegen die Dunkelheit zu kämpfen, die ihre Stadt bedroht, und findet dabei Kraft und Verbündete.",
+  "summaryDutch": "Yvonne Gray, een 31-jarige danslerares, ontdekt haar superkrachten en gebruikt ze om te vechten tegen de duisternis die haar stad bedreigt, en vindt onderweg kracht en bondgenoten.",
+  "summaryFrench": "Yvonne Gray, une enseignante de danse âgée de 31 ans, découvre ses superpouvoirs et les utilise pour lutter contre les ténèbres menaçant sa ville, trouvant force et alliés en cours de route.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Yvonne Gray starts the week with a mysterious shimmer in her steps. As she dances alone in the studio, the floor begins to glow, leaving her both astonished and intrigued.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuseday",
+      "text": "The glow follows Yvonne, now evident in her footprints. Testing this phenomenon at a local park, she stops a petty thief with a stunning dance that blinds him temporarily. Her dual life begins.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Yvonne embraces her new role, balancing her teaching with nightly patrols. Her students notice a new fire in her teaching style, inspiring them to express themselves more freely.",
+      "mood": "inspirational"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News of the 'Dancing Vigilante' spreads, attracting both admirers and skeptics. Yvonne dodges her first major threat, a gang trying to unmask her. Her elusive moves save the night.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Romance brushes up against Yvonne. While sipping coffee incognito, she meets Marc, an artist who captures the lively essence of her city in his sketches. Sparks fly over shared artistic passion.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Yvonne, with Marc's help, organizes a block party that doubles as a fund-raiser for neighborhood improvements. Her actions strengthen the community, making her more than a protector.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The villain behind the recent crimes reveals himself, challenging Yvonne to a showdown at midnight. Using her powers and wits, she outdances the darkness and restores peace to the city.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "As the new week dawns, Yvonne continues her dance classes, now infused with the extra flair of a secret hero, forever ready to step up to the beat of justice.",
+  "moral": "Embrace your unique talents; you never know how they will illuminate your path and empower you to make a difference."
+}

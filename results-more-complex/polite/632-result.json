@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Zelda Hughes: A Superhero Revelation",
+  "summary": "Over the span of one week, Zelda Hughes, a 42-year-old with a passion for exercising and tutoring, discovers her superpowers, battles a mysterious foe, saves her city, and finds her true purpose.",
+  "summaryGerman": "Im Laufe einer Woche entdeckt Zelda Hughes, eine 42-jährige mit einer Leidenschaft für Sport und Nachhilfe, ihre Superkräfte, bekämpft einen geheimnisvollen Feind, rettet ihre Stadt und findet ihren wahren Zweck.",
+  "summaryDutch": "In de loop van een week ontdekt Zelda Hughes, een 42-jarige met een passie voor sport en bijles, haar superkrachten, vecht tegen een mysterieuze vijand, redt haar stad en vindt haar ware doel.",
+  "summaryFrench": "Au cours d'une semaine, Zelda Hughes, une femme de 42 ans passionnée d'exercice et de tutorat, découvre ses superpouvoirs, lutte contre un ennemi mystérieux, sauve sa ville et trouve sa véritable vocation.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda begins her week feeling strangely energetic. During her morning jog, she accidentally discovers her ability to run at superhuman speed.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "At the tutoring center, Zelda senses when a student is about to fall, catching him from across the room with a sudden burst of super-strength.",
+      "mood": "surprised"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Zelda is approached by a mysterious figure who warns her about a looming threat over her city. The atmosphere turns eerie as she feels the weight of her new responsibilities.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thuersday",
+      "text": "Equipped with her new powers, Zelda spends the day training and mastering her abilities. She feels triumphant as she begins to control her speed and strength.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Her first challenge arrives: a technological terror is causing chaos downtown. Zelda uses her super-speed to evacuate civilians and confronts the enemy, showcasing determination and heroism.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After a fierce battle, Zelda is victorious but reflects on the encounter with a mix of sadness and resolve to protect her city better.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "With peace restored, Zelda spends a quiet day with friends and family, feeling fulfilled and at peace with her dual life as a tutor and superhero.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the sun sets on a heroic week, Zelda Hughes embraces her new role as protector with a heart full of courage and a spirit undefeated.",
+  "moral": "True strength lies in embracing one’s calling with courage and humility."
+}

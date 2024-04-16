@@ -1,0 +1,46 @@
+{
+  "title": "Linda King: The Mindful Guardian",
+  "summary": "Linda King, a 19-year-old meditation enthusiast and teacher discovers her latent telekinetic powers. Over a week, she learns to control them, ultimately using her abilities to save her city from a disaster.",
+  "summaryGerman": "Linda King, eine 19-jährige Meditationsbegeisterte und Lehrerin, entdeckt ihre latenten telekinetischen Kräfte. Im Laufe einer Woche lernt sie, diese zu kontrollieren und nutzt ihre Fähigkeiten schließlich, um ihre Stadt vor einer Katastrophe zu retten.",
+  "summaryDutch": "Linda King, een 19-jarige meditatie-enthousiast en docente, ontdekt haar latente telekinetische krachten. Gedurende een week leert ze deze te beheersen en uiteindelijk gebruikt ze haar vaardigheden om haar stad te redden van een ramp.",
+  "summaryFrench": "Linda King, une passionnée de méditation et enseignante de 19 ans, découvre ses pouvoirs télékinétiques latents. Au cours d'une semaine, elle apprend à les contrôler et finit par utiliser ses capacités pour sauver sa ville d'une catastrophe.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Linda felt an unusual sense of energy while meditating at dawn. Little did she know that this was the start of her journey toward discovering her telekinetic powers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "In her afternoon teaching session, Linda accidentally moved a cup without touching it. She was shocked but intrigued, her curiosity about her newfound power growing.",
+      "mood": "surprised"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Using meditation, Linda began to practice her control over small objects. The calming sessions helped her concentrate, bringing a sense of peace and control over her abilities.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Linda confided in her closest friend about her powers. They spent the day experimenting, which ended with laughter and marvel at Linda's growing capabilities.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A sudden storm trapped some people inside a local community center. Linda, feeling a rush of responsibility, managed to telekinetically remove debris blocking the exits, saving everyone.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After yesterday's events, the city celebrated their new hero. Linda felt a deep connection to her city and its people, promising to protect them.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Linda spent a quiet day at home, reflecting on her week and the new path before her. As the sun set, she felt content with her role as a guardian of peace.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Linda King embraced her role, knowing she had found her purpose as The Mindful Guardian.",
+  "moral": "Great power comes not from strength, but from understanding and peace."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Sculpted Guardian: Judy Richardson's Heroic Week",
+  "summary": "Judy Richardson, a 67-year-old sculptor, gains powers from a mystic stone, using them to protect her city from danger over the span of a week.",
+  "summaryGerman": "Judy Richardson, eine 67-jährige Bildhauerin, erhält Kräfte von einem mystischen Stein und nutzt sie, um ihre Stadt über die Spanne einer Woche vor Gefahren zu schützen.",
+  "summaryDutch": "Judy Richardson, een 67-jarige beeldhouwster, krijgt krachten van een mystieke steen en gebruikt ze om haar stad gedurende een week te beschermen tegen gevaar.",
+  "summaryFrench": "Judy Richardson, une sculptrice de 67 ans, acquiert des pouvoirs d'une pierre mystique et les utilise pour protéger sa ville contre le danger pendant une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy discovers a glowing, mystic stone in her clay at her art studio, which grants her super strength and healing abilities.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Judy saves a child from a falling tree in Central Park, realizing her powers can be used to protect others.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Feeling invigorated, Judy sculpts a piece representing strength and safety, inspired by her newfound roles.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Turday",
+      "text": "Villains seeking the mystic stone threaten the city; Judy confronts them with courage and skill.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The villains captured, the city celebrates Judy as a hero, with a peaceful gathering at her studio.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The media buzzes around Judy's heroics, but she spends the day sculpting in her quiet sanctuary, remaining humble.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Judy hosts a sculpting workshop for local children, passing on her passion and inspiring future generations.",
+      "mood": "inspiring"
+    }
+  ],
+  "ending": "As the sun set on a transformative week, Judy Richardson smiled, a simple sculptor turned guardian of her city.",
+  "moral": "True heroes are made by the paths they choose, not the powers they are given."
+}

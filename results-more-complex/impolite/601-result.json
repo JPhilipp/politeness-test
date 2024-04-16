@@ -1,0 +1,46 @@
+{
+  "title": "The Awakening of Jin Powell: Director of Zen",
+  "summary": "Jin Powell discovers his supernatural powers during a week where he tries to balance his high school life, meditation, and directing a play, leading to a triumphant battle against a sinister force.",
+  "summaryGerman": "Jin Powell entdeckt seine übernatürlichen Kräfte in einer Woche, in der er versucht, sein Gymnasialleben, Meditation und die Regie eines Theaterstücks auszubalancieren, was zu einem triumphalen Kampf gegen eine finstere Macht führt.",
+  "summaryDutch": "Jin Powell ontdekt zijn bovennatuurlijke krachten gedurende een week waarin hij probeert zijn schoolleven, meditatie en het regisseren van een toneelstuk te balanceren, leidend tot een triomfantelijke strijd tegen een sinistere kracht.",
+  "summaryFrench": "Jin Powell découvre ses pouvoirs surnaturels pendant une semaine où il tente de jongler avec sa vie lycéenne, la méditation et la mise en scène d'une pièce, ce qui le mène à une bataille triomphale contre une force sinistre.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Jin Powell feels a surge of energy while meditating in the school theater, causing the props to levitate unexpectedly.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While directing a rehearsal, Jin accidentally projects his thoughts onto the stage background, creating vivid scenery that amazes the cast.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesdday",
+      "text": "Jin practices his newfound abilities in secret, realizing that his meditation has unlocked psychic powers.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Feeling isolated due to his secrets, Jin has a heartfelt conversation with his best friend, Zoe, who advises him to embrace his unique talents.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Jin uses his powers publicly to avert a crisis during the play's premiere, saving his schoolmates from a falling light fixture.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Celebrations are cut short when a mysterious figure challenges Jin, revealing a sinister plan to exploit his abilities.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "An epic showdown unfolds at the heart of the theater, where Jin outsmarts and overpowers the villain with a dramatic, cinematic finale.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And so, Jin Powell not only saved the day but also learned that true power lies in control and self-awareness.",
+  "moral": "Embrace your uniqueness and use your powers wisely."
+}

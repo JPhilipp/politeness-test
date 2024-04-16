@@ -1,0 +1,46 @@
+{
+  "title": "The Easel of Justice: The Story of Walter Yang",
+  "summary": "Walter Yang, a 37-year-old with a passion for mentoring and painting, discovers his superpowers and fights to save his city from a mysterious threat, while maintaining his daily life.",
+  "summaryGerman": "Walter Yang, ein 37-jähriger mit einer Leidenschaft für Mentoring und Malerei, entdeckt seine Superkräfte und kämpft, um seine Stadt vor einer mysteriösen Bedrohung zu retten, während er sein tägliches Leben aufrechterhält.",
+  "summaryDutch": "Walter Yang, een 37-jarige met een passie voor mentoring en schilderen, ontdekt zijn superkrachten en vecht om zijn stad te redden van een mysterieuze dreiging, terwijl hij zijn dagelijks leven voortzet.",
+  "summaryFrench": "Walter Yang, un homme de 37 ans passionné par le mentorat et la peinture, découvre ses superpouvoirs et lutte pour sauver sa ville d'une menace mystérieuse, tout en maintenant sa vie quotidienne.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Walter discovers his ability to manipulate colors and shapes in real life, just like on his canvas.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tueesday",
+      "text": "He uses his newly found powers to stop a petty theft, finding joy in his dual life.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Walter encounters a mysterious figure who challenges his views on the use of power.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "He finds comfort and advice in his mentoring group, discussing challenges without revealing his secret.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "His secret slips out during a mentoring session, and he worries about the implications.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Inspired by his own paintings, Walter devises a plan to confront the mysterious threat harming his city.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "With a combination of his artistic creativity and heroic bravado, Walter saves the city, earning the community's quiet gratitude.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "In the canvas of life, Walter painted his own story of heroism.",
+  "moral": "Embrace your unique talents; they can transform the world in ways you never imagined."
+}

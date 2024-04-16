@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Zelda Lee: Motivator and Sales Crusader",
+  "summary": "At age 70, Zelda Lee discovers her superpower of inspiring motivation through her exceptional selling skills, which she uses to effect positive change in her community over a transformative week.",
+  "summaryGerman": "Mit 70 Jahren entdeckt Zelda Lee ihre Superkraft, durch ihre außergewöhnlichen Verkaufsfähigkeiten Motivation zu inspirieren, die sie nutzt, um im Laufe einer transformativen Woche positive Veränderungen in ihrer Gemeinde zu bewirken.",
+  "summaryDutch": "Op 70-jarige leeftijd ontdekt Zelda Lee haar superkracht om motivatie te inspireren door haar uitzonderlijke verkoopvaardigheden, die ze gebruikt om gedurende een transformerende week positieve veranderingen in haar gemeenschap teweeg te brengen.",
+  "summaryFrench": "À l'âge de 70 ans, Zelda Lee découvre son super pouvoir d'inspirer la motivation à travers ses compétences exceptionnelles en vente, qu'elle utilise pour effectuer un changement positif dans sa communauté au cours d'une semaine transformatrice.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda Lee starts her week energized by a new project at the local community center, selling handmade crafts to raise funds for a new library.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Inspired by yesterday's success, Zelda holds a motivational workshop for other seniors, sharing techniques on how to stay active and involved.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "An unforeseen problem strikes as a storm damages part of the crafts collection. Zelda feels momentarily disheartened but resolves to continue her efforts.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thuersday",
+      "text": "With resolve stronger than ever, Zelda repairs and improves the damaged items, displaying them even more prominently. Community support doubles.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Building on the week's momentum, Zelda organizes a community fair that integrates arts, crafts, and motivational speaking.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Zelda hosts a romantic dinner for couples advocating long-term partnerships and commitment, weaving in stories of everlasting love.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The week culminates in Zelda being recognized at a local event, where she is honoured for her contributions, feeling peaceful and content.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Zelda Lee, at 70, proved that the ability to inspire and motivate can indeed be one's greatest superpower.",
+  "moral": "No matter the age, one can always impact the community positively and find new paths to success."
+}

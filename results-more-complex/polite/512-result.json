@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Peggy White: The Baking Vigilante",
+  "summary": "Peggy White, a 49-year-old baking enthusiast and sportswoman, discovers her ability to manipulate time while baking, using her powers to fight crime and bring justice throughout the week.",
+  "summaryGerman": "Peggy White, eine 49-jährige Back- und Sportbegeisterte, entdeckt ihre Fähigkeit, während des Backens die Zeit zu manipulieren. Sie nutzt ihre Kräfte, um Verbrechen zu bekämpfen und Gerechtigkeit zu bringen.",
+  "summaryDutch": "Peggy White, een 49-jarige bakliefhebber en sportvrouw, ontdekt haar vermogen om tijd te manipuleren tijdens het bakken. Ze gebruikt haar krachten om misdaad te bestrijden en rechtvaardigheid te brengen.",
+  "summaryFrench": "Peggy White, passionnée de pâtisserie et sportive de 49 ans, découvre sa capacité à manipuler le temps pendant qu'elle cuisine. Elle utilise ses pouvoirs pour lutter contre le crime et apporter la justice.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "mood": "energetic",
+      "text": "Peggy bakes a mysterious cookie recipe found in an old family cookbook. Upon tasting it, she realizes she can pause time. Excited, she decides to harness this new power to help her community."
+    },
+    {
+      "weekday": "Tuesdsay",
+      "mood": "triumphant",
+      "text": "Harnessing her time-pausing abilities, Peggy stops a small robbery at a local store. She feels triumphant knowing she can make a difference."
+    },
+    {
+      "weekday": "Wednesday",
+      "mood": "peaceful",
+      "text": "After a heroic day, Peggy spends her time perfecting a cake for an upcoming competition, embracing the peace and solace of her kitchen."
+    },
+    {
+      "weekday": "Thursday",
+      "mood": "eerie",
+      "text": "Peggy encounters a new challenge: a strange chilling mist envelops her town. Suspicious, she investigates and finds a disguised villain causing havoc."
+    },
+    {
+      "weekday": "Friday",
+      "mood": "epic",
+      "text": "An epic showdown ensues between Peggy and the mist-creating villain in the middle of the town square. Using a clever combination of her baking skills and timing powers, she prevails."
+    },
+    {
+      "weekday": "Saturday",
+      "mood": "romantic",
+      "text": "Celebrating her victory, Peggy is joined by a charming admirer who has noticed her brave deeds. They spend a delightful evening discussing pastries and justice."
+    },
+    {
+      "weekday": "Sunday",
+      "mood": "happy",
+      "text": "Peggy ends the week by hosting a community bake sale using her fame as the town’s hero to raise money for local charities."
+    }
+  ],
+  "ending": "As the sun sets on a grateful town, Peggy White smiles, knowing her unique blend of baking and bravery continues to serve her community.",
+  "moral": "No matter the tools at your disposal, creativity and a caring heart can make a superhero."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Harmonic Guardian: The Adventures of Eve Brown",
+  "summary": "Eve Brown, a 49-year-old who loves singing and advising, discovers her superpower of instilling peace and harmony through song. Throughout one week, she tackles a series of community tensions, using her abilities to unite and heal.",
+  "summaryGerman": "Eve Brown, eine 49-jährige, die das Singen und Beraten liebt, entdeckt ihre Superkraft, Frieden und Harmonie durch Gesang zu stiften. Über eine Woche hinweg geht sie eine Reihe von Gemeinschaftsspannungen an und nutzt ihre Fähigkeiten, um zu vereinen und zu heilen.",
+  "summaryDutch": "Eve Brown, een 49-jarige die houdt van zingen en adviseren, ontdekt haar superkracht om vrede en harmonie te brengen door middel van lied. Gedurende een week pakt zij een reeks gemeenschapsspanningen aan, gebruikmakend van haar vaardigheden om te verenigen en te genezen.",
+  "summaryFrench": "Eve Brown, une femme de 49 ans qui aime chanter et conseiller, découvre son superpouvoir d'instaurer la paix et l'harmonie par la chanson. Tout au long d'une semaine, elle s'attaque à une série de tensions communautaires, utilisant ses capacités pour unir et guérir.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Eve discovers her power to calm conflicts with her voice at a heated town hall meeting.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Eve uses her singing to soothe a dispute between local businesses, promoting cooperation.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Eve holds a concert in the park, where her songs mysteriously heal physical ailments.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Eve advises a struggling couple, using a song that rekindles their love.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Firday",
+      "text": "Alerted by the police, Eve calms a tense standoff with a song, preventing violence.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A music festival features Eve, where she dedicates her performance to unity and peace.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Eve hosts a small gathering at her home, feeling fulfilled and hopeful.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "With each note she sang, Eve Brown sowed seeds of harmony, proving that sometimes, a song can be mightier than the sword.",
+  "moral": "The power of music and understanding can transcend the greatest barriers."
+}

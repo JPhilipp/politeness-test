@@ -1,0 +1,46 @@
+{
+  "title": "The Chronicles of Zelda Hayes: The Weaver of Fates",
+  "summary": "Over a week, Zelda Hayes, an ordinary weaver with the hobby of persuading, discovers her superpowers and battles an ancient evil to save her city.",
+  "summaryGerman": "Über eine Woche entdeckt Zelda Hayes, eine gewöhnliche Weberin mit dem Hobby des Überzeugens, ihre Superkräfte und kämpft gegen ein altes Übel, um ihre Stadt zu retten.",
+  "summaryDutch": "Gedurende een week ontdekt Zelda Hayes, een gewone weefster met het hobby van overtuigen, haar superkrachten en vecht ze tegen een oude kwaad om haar stad te redden.",
+  "summaryFrench": "Au cours d'une semaine, Zelda Hayes, une tisserande ordinaire avec le passe-temps de persuader, découvre ses superpouvoirs et lutte contre un mal ancien pour sauver sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda Hayes, a 40-year-old weaving enthusiast with a penchant for persuading, finds a mystical loom in her attic that whispers secrets of ancient superpowers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "As she experiments with the loom, Zelda accidentally weaves a tapestry that predicts a calamity in her city. Her determination to change fate ignites her heroic journey.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "Zelda uses her persuasive skills to gather a team of locals to help her decipher the next patterns her mystical loom shows.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The tapestry reveals the villain behind the threat—an ancient sorcerer locked away in a forgotten city sector. Zelda and her team plan a daring confrontation.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "In a fierce clash under the moonlight, Zelda’s weaving skills create magical bindings to trap the sorcerer, using her homemade threads of destiny.",
+      "mood": "heroic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The city celebrates Zelda as their new guardian. Reveling in peace, she teaches others about the powers of the loom.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Zelda looks out over her city, weaving not just materials, but the bonds between the people, ensuring everyone feels safe and connected.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As the sun sets, Zelda Hayes smiles, knowing her threads of destiny have woven a safer tomorrow.",
+  "moral": "Even ordinary skills, when embraced with courage, can weave extraordinary destinies."
+}

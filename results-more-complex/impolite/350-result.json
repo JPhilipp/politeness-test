@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Peggy Howard: Lecturer by Day, Hero by Night",
+  "summary": "Peggy Howard, a lecturer and mentor, discovers she can manipulate time after a strange meteor shower. Over a week, she learns to control her powers, saves her community from dangers, and ultimately finds a new purpose.",
+  "summaryGerman": "Peggy Howard, eine Dozentin und Mentorin, entdeckt, dass sie die Zeit manipulieren kann, nachdem sie einen seltsamen Meteoritenschauer erlebt hat. Innerhalb einer Woche lernt sie, ihre Kräfte zu kontrollieren, rettet ihre Gemeinschaft vor Gefahren und findet letztendlich einen neuen Lebenszweck.",
+  "summaryDutch": "Peggy Howard, een docente en mentor, ontdekt dat ze na een vreemde meteorenregen de tijd kan manipuleren. In een week leert ze haar krachten te beheersen, redt ze haar gemeenschap van gevaren en vindt ze uiteindelijk een nieuwe doel.",
+  "summaryFrench": "Peggy Howard, une conférencière et mentor, découvre qu'elle peut manipuler le temps après une étrange pluie de météorites. En une semaine, elle apprend à contrôler ses pouvoirs, sauve sa communauté des dangers et trouve finalement un nouveau but.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "After witnessing a brilliant meteor shower, Peggy feels unusually energized as she prepares her lectures.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Peggy inadvertently stops time during a stressful meeting, realizing it's not just stress - she has a new power.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wdnesday",
+      "text": "Caught off guard by her abilities, Peggy seeks solitude to practice and control her time manipulation at an abandoned park.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Growing confident, Peggy uses her time-stopping ability to prevent a serious car accident, saving several lives.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Her actions gain media attention. Peggy struggles with keeping her identity secret while feeling proud of her deeds.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a morning jog, Peggy encounters another time manipulator. An epic battle ensues, revealing the potential of her powers.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "After resolving the battle, Peggy mentors a younger person with similar abilities, realizing her potential to guide others beyond academia.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "With her new powers and purpose, Peggy Howard continues to protect her community, proving that heroes come in all forms and ages.",
+  "moral": "The true extent of one's abilities is often realized in moments of crisis, highlighting the hidden potential within us all."
+}

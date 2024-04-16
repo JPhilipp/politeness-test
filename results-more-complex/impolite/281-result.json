@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Ursula Murphy: The Consultant Protector",
+  "summary": "Ursula Murphy, a 48-year-old consultant and tutor, discovers her ability to manipulate time, which she uses over the course of a week to thwart a cyber-attack, teach her students, and save her city from disaster.",
+  "summaryGerman": "Ursula Murphy, eine 48-jährige Beraterin und Tutorin, entdeckt ihre Fähigkeit, die Zeit zu manipulieren, die sie im Laufe einer Woche einsetzt, um einen Cyber-Angriff zu vereiteln, ihre Schüler zu unterrichten und ihre Stadt vor einer Katastrophe zu retten.",
+  "summaryDutch": "Ursula Murphy, een 48-jarige consultant en tutor, ontdekt haar vermogen om de tijd te manipuleren, wat ze gedurende een week gebruikt om een cyberaanval te verijdelen, haar studenten te onderwijzen en haar stad te redden van een ramp.",
+  "summaryFrench": "Ursula Murphy, consultante et tutrice de 48 ans, découvre sa capacité à manipuler le temps, qu'elle utilise au cours d'une semaine pour déjouer une cyberattaque, enseigner à ses élèves et sauver sa ville d'un désastre.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ursula starts her week feeling energetic as she prepares for a series of critical consulting meetings. Unknown to her colleagues, she thwarts a cyber-attack on her company's servers using her newly discovered time-manipulation powers.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tiesday",
+      "text": "With Tuesday morning arrives an eerie realization that someone is targeting her students with dangerous online threats. Ursula uses her abilities to trace the source, ensuring their safety.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Feeling triumphant, Ursula spends the day tutoring, where she shares valuable lessons not only about academics but also about dealing with adversities, subtly hinting at her extraordinary experiences.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Ursula’s week takes a romantic turn as she reconnects with an old friend who shares her passions for education and philanthropy. They spend the day collaborating on a new tutoring initiative.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "On Friday, Ursula feels happy and fulfilled, hosting a webinar about cybersecurity and time management, integrating her own secret insights to provide unparalleled advice.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The weekend brings a peaceful respite. Ursula spends her day in quiet reflection, pondering how best to use her powers for the greater good, while enjoying her leisure hobbies.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The epic conclusion to Ursula’s week sees her saving a downtown festival from a disastrous equipment failure, suspected to be sabotage. Her quick action and discreet use of her powers prevent any harm.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And so, Ursula Murphy ended her week not just as a consultant or a tutor, but as a true hero to her city.",
+  "moral": "Great power brings with it great responsibility, but also great opportunities to make a difference."
+}

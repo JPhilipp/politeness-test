@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Oscar Garcia: The Planner Protector",
+  "summary": "Oscar Garcia, a 60-year-old retired salesman turned superhero, uses his unique planning skills and selling expertise over a week to uncover and thwart a devious plot threatening his community.",
+  "summaryGerman": "Oscar Garcia, ein 60-jähriger pensionierter Verkäufer, der zum Superhelden wurde, nutzt seine einzigartigen Planungsfähigkeiten und Verkaufsexpertise über eine Woche, um einen hinterhältigen Plan aufzudecken und zu vereiteln, der seine Gemeinschaft bedroht.",
+  "summaryDutch": "Oscar Garcia, een 60-jarige gepensioneerde verkoper die superheld is geworden, gebruikt zijn unieke planningsvaardigheden en verkoopexpertise gedurende een week om een sluw complot te ontdekken en te verijdelen dat zijn gemeenschap bedreigt.",
+  "summaryFrench": "Oscar Garcia, un vendeur retraité de 60 ans devenu super-héros, utilise ses compétences uniques en planification et son expertise en vente au cours d'une semaine pour découvrir et déjouer un complot sournois menaçant sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar Garcia started his week feeling energetic, rejuvenated by the weekend's rest. He uncovered hints of a mysterious group affecting local businesses.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Piecing together clues from his old sales contacts, Oscar felt a mix of eeriness and thrill about the secret plot he was slowly unravelling.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "While sipping his morning coffee, Oscar found a crucial lead. Happy and optimistic, he planned his next steps.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thrusday",
+      "text": "After a day full of challenges, Oscar's plans became actions as he reached out to authorities with his findings, feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With the suspects now alerted to his involvement, Oscar felt an epic wave of adrenaline propel him forward as he prepared for the confrontation.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Today brought a peaceful resolution. The culprits were apprehended, thanks to Oscar's diligence and detailed planning.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Oscar felt profoundly romantic, appreciating the quiet support from his community and the love of his life cheering him on.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "As the sun set on Sunday, Oscar Garcia relished his serene victory, knowing his city was a little safer because of his efforts.",
+  "moral": "No matter the age, your skills and passions can always be used to make a difference in the world."
+}

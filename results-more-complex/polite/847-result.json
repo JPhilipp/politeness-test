@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Oscar Parker: The Sculpting Hero",
+  "summary": "Oscar Parker, a 70-year-old retired superhero with a passion for sculpting and cooking, saves his town from disaster over the span of a week using his unique powers and creative skills.",
+  "summaryGerman": "Oscar Parker, ein 70 Jahre alter pensionierter Superheld mit einer Leidenschaft für Bildhauerei und Kochen, rettet seine Stadt innerhalb einer Woche mit seinen einzigartigen Kräften und kreativen Fähigkeiten vor einer Katastrophe.",
+  "summaryDutch": "Oscar Parker, een 70-jarige gepensioneerde superheld met een passie voor beeldhouwen en koken, redt zijn stad van een ramp in een week tijd met zijn unieke krachten en creatieve vaardigheden.",
+  "summaryFrench": "Oscar Parker, un super-héros retraité de 70 ans passionné par la sculpture et la cuisine, sauve sa ville d'une catastrophe sur l'étendue d'une semaine en utilisant ses pouvoirs uniques et ses compétences créatives.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar Parker discovers a mysterious ancient artifact buried in his garden while planting a new herb patch. This reawakens his long-dormant earth manipulation powers, leaving him energetic and curious.",
+      "mood": "energetic"
+    },
+    {
+      "wednesday": "Tuesday",
+      "text": "Using his newly regained powers, Oscar sculpts a massive guardian statue at the town's entrance, which mystically begins to glow, casting an eerie aura over the town.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "The glowing statue attracts unwelcome interest from shadowy figures. Oscar prepares a feast to lure the town’s people to discuss a plan, bonding over the meal.', ",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Encroached by the figures, the town rallies behind Oscar’s leadership. Together, they devise a plan using illusions crafted by his sculptures.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With his sculptures leading the way, the town manages to trap the intruders in a maze of illusions, leaving them disoriented and unable to proceed.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Oscar prepares a victory breakfast, celebrating their success. The town praises Oscar’s heroism and his statues, promising to remain vigilant.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week’s events, Oscar finds peace in his garden, sculpting his next creation, inspired by the town’s unity and courage.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "In the quiet of his garden, Oscar Parker smiled, his hands stained with clay and his heart filled with the love of his town.",
+  "moral": "Creativity and community spirit can overcome any adversity."
+}

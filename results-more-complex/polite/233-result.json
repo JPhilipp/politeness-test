@@ -1,0 +1,46 @@
+{
+  "title": "The Rise of Xavier Long: A Week of Heroic Deeds",
+  "summary": "Xavier Long, an 18-year-old coach and advisor, discovers his unique power to inspire real-time change in people's emotions and actions. Over a week, he uses this ability to transform his community for the better, facing challenges and adversaries while growing into his role as a local superhero.",
+  "summaryGerman": "Xavier Long, ein 18-jähriger Coach und Berater, entdeckt seine einzigartige Kraft, Echtzeitänderungen in den Emotionen und Handlungen der Menschen zu inspirieren. Innerhalb einer Woche nutzt er diese Fähigkeit, um seine Gemeinde zum Besseren zu verändern, wobei er Herausforderungen und Gegnern begegnet und in seine Rolle als lokaler Superheld hineinwächst.",
+  "summaryDutch": "Xavier Long, een 18-jarige coach en adviseur, ontdekt zijn unieke kracht om veranderingen in real-time in mensen hun emoties en acties te inspireren. Over een week gebruikt hij deze vaardigheid om zijn gemeenschap ten goede te veranderen, geconfronteerd met uitdagingen en tegenstanders terwijl hij groeit in zijn rol als lokale superheld.",
+  "summaryFrench": "Xavier Long, un coach et conseiller de 18 ans, découvre son pouvoir unique d'inspirer des changements en temps réel dans les émotions et les actions des gens. Au cours d'une semaine, il utilise cette capacité pour transformer sa communauté pour le mieux, faisant face à des défis et des adversaires tout en grandissant dans son rôle de super-héros local.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Xavier discovers his ability to influence emotions during a coaching session, where he accidentally calms an escalated argument with just a few words.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuseday",
+      "text": "Excited by his newfound abilities, Xavier experiments discreetly with friends, finding he can not only calm, but also energize and inspire.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Xavier decides to use his powers for good, helping to resolve a small community conflict. He begins feeling the weight of his powers.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "As word of his deeds spreads, locals start seeking him out for help. Xavier spends the day advising a youth sports team, boosting their performance dramatically.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Xavier faces a challenge as a skeptical journalist questions his intentions and methods, leading to a brief moment of doubt.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Our hero overcomes his doubts and confronts a small crime in progress, managing to de-escalate the situation peacefully before police arrive.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Xavier realizes the positive impact he could have and commits to being a force for good in his community.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Xavier Long had found his calling, not just as a coach, but as a real-time change-maker and a beacon of hope.",
+  "moral": "With great power comes great responsibility. Use your abilities to uplift others, irrespective of the scale."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Peggy Ross: Guardian of Knowledge",
+  "summary": "At 67, Peggy Ross, once a retired teacher, surprisingly becomes a superhero, using her knowledge powers to protect the town from misinformation and ignorance, mentoring young heroes over one transformative week.",
+  "summaryGerman": "Mit 67 Jahren wird Peggy Ross, eine ehemalige Lehrerin, überraschend zu einer Superheldin, die ihre Wissenskräfte nutzt, um die Stadt vor Falschinformationen und Unwissenheit zu schützen und junge Helden über eine transformative Woche hinweg zu betreuen.",
+  "summaryDutch": "Op 67-jarige leeftijd wordt Peggy Ross, eens een gepensioneerde lerares, verrassend genoeg een superheldin die haar kennis krachten gebruikt om de stad te beschermen tegen misinformatie en onwetendheid, jonge helden begeleidend gedurende één transformerende week.",
+  "summaryFrench": "À 67 ans, Peggy Ross, autrefois enseignante retraitée, devient étonnamment une superhéroïne, utilisant ses pouvoirs de connaissance pour protéger la ville contre la désinformation et l'ignorance, encadrant les jeunes héros pendant une semaine transformatrice.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Peggy Ross begins her week feeling energetic as she meets with local teenagers at the community center, spreading her passion for reading and critical thinking skills.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesady",
+      "text": "Feeling epic, Peggy discovers she can project illustrations from books into real life, which she uses to teach history lessons vividly.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Peggy feels peaceful as she helps a troubled youth see the importance of education, using her powers to visually replicate his potential future success.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The mood gets eerie when misinformation spreads through town, Peggy counters by creating powerful visual aids to debunk myths effectively.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With mentorship sessions lined up, Peggy feels triumphantly as she guides her mentees in harnessing their intellectual potential, empowering them with knowledge.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "An energetic Peggy hosts a tutoring marathon at the library, challenging students to exciting intellectual duels and spreading joyous learning.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ending the week feeling blessed and peaceful, Peggy reflects on the impacts of her new role, realizing she has never been happier.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "In her newfound role, Peggy Ross proves that one is never too old to become a hero for truth and knowledge.",
+  "moral": "Knowledge and truth are powers that can transform not only individual lives but also that of an entire community."
+}

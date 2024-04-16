@@ -1,0 +1,46 @@
+{
+  "title": "The Incredible Week of Judy Johnson: Mentor of Heroes",
+  "summary": "Judy Johnson, a 56-year-old mentor with a passion for encouraging others, discovers her unique superpower of empathy which she uses to inspire and transform her community over a week.",
+  "summaryGerman": "Judy Johnson, eine 56-jährige Mentorin mit einer Leidenschaft für Ermutigung, entdeckt ihre einzigartige Superkraft der Empathie, die sie verwendet, um ihre Gemeinschaft innerhalb einer Woche zu inspirieren und zu verwandeln.",
+  "summaryDutch": "Judy Johnson, een 56-jarige mentor met een passie voor aanmoedigen, ontdekt haar unieke superkracht van empathie die ze gebruikt om haar gemeenschap gedurende een week te inspireren en te transformeren.",
+  "summaryFrench": "Judy Johnson, une mentor de 56 ans passionnée par l'encouragement, découvre son superpouvoir unique d'empathie qu'elle utilise pour inspirer et transformer sa communauté au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy Johnson starts her week feeling energetic as she prepares a motivational speech for a local high school, unaware of the awakening of her latent superpowers.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While delivering her speech, Judy feels a surge of empathy. She connects deeply with a troubled student, helping him see his potential, which changes his outlook entirely.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednasday",
+      "text": "Judy meets with other educators to share her experiences, feeling an eerie sense that her abilities are growing stronger and more profound.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Inspired by her abilities, Judy spends the day mentoring at-risk youth, finding ways to uplift their spirits and redirect their paths, feeling peaceful and fulfilled.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Judy organizes a community event that turns out to be a huge success, bringing together disparate groups for a common cause, feeling happy and connected.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Reflecting on her week, Judy realizes the extent of her influence and the responsibilities her powers entail, feeling a mix of pride and concern.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Judy decides to establish a mentorship program, using her powers to train future leaders, feeling hopeful for the positive changes to come.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "And so, Judy Johnson embraced her new role, transforming not just individuals, but shaping the future of her whole community.",
+  "moral": "Great power not only brings greater responsibilities but also the opportunity to make a significant difference."
+}

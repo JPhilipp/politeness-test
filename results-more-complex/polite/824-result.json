@@ -1,0 +1,46 @@
+{
+  "title": "The Bargaining Hero: Zelda Morris",
+  "summary": "Zelda Morris discovers her ability to manipulate time during crisis situations, using her skills to bargain and serve the community, ultimately facing and overcoming a major villain by the end of the week.",
+  "summaryGerman": "Zelda Morris entdeckt ihre Fähigkeit, in Krisensituationen die Zeit zu manipulieren, nutzt ihre Fähigkeiten, um zu handeln und der Gemeinschaft zu dienen, und stellt sich schließlich am Ende der Woche einem großen Bösewicht.",
+  "summaryDutch": "Zelda Morris ontdekt haar vermogen om tijd te manipuleren tijdens crisis situaties, gebruikt haar vaardigheden om te onderhandelen en de gemeenschap te dienen, en confronteert en overwint uiteindelijk een grote slechterik aan het einde van de week.",
+  "summaryFrench": "Zelda Morris découvre sa capacité à manipuler le temps lors des situations de crise, utilisant ses compétences pour négocier et servir la communauté, finalement confrontant et surmontant un grand méchant à la fin de la semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda Morris, a dedicated community volunteer, stumbled upon a mysterious watch that allowed her to manipulate small intervals of time. Feeling energetic, she experimented with this power by helping a local fundraiser finish on time.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Eager to test her power further, Zelda bargained with a vendor to get supplies for another event, using her time abilities to find the best deals. Her mood turned triumphant as she saved the organization a substantial amount of money.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesdya",
+      "text": "An eerie feeling overcame Zelda as she was approached by a shady figure who seemed aware of her new powers. She escaped unscathed, using her time-warping powers to evade the danger.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Refocusing on her community work, Zelda used her time powers to serve meals efficiently at a shelter. Her mood was peaceful, as she realized how her powers could truly benefit others in real-time.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Zelda was confronted by the shady figure again, this time demanding she hand over the watch. An epic street battle ensued, showcasing her mastery over time and her undying spirit to protect her community.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After yesterday's battle, Zelda spent a quiet day reflecting on her responsibilities and powers. She felt happy realizing the potential to make a real difference.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Zelda, now fully embracing her role as a time-bargaining hero, planned future community events and strategies. Her confidence was romantic, feeling in love with her destiny and the city she protected.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "And thus, Zelda Morris continued on, her weeks filled with moments of service and heroism, always ready to turn back time for the good of all.",
+  "moral": "With great power comes great responsibility, and sometimes, the key to true service is knowing when to step back and when to charge ahead."
+}

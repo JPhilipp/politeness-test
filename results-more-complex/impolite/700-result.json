@@ -1,0 +1,46 @@
+{
+  "title": "The Spinning Saviour: The Adventures of Charlie Mitchell",
+  "summary": "Charlie Mitchell, a 63-year-old spinning instructor, discovers his ability to control time during his classes, using his powers to thwart crimes and save lives throughout a single week.",
+  "summaryGerman": "Charlie Mitchell, ein 63-jähriger Spinning-Instruktor, entdeckt seine Fähigkeit, während seiner Kurse die Zeit zu kontrollieren. Er nutzt seine Kräfte, um Verbrechen zu vereiteln und Leben zu retten, innerhalb einer einzigen Woche.",
+  "summaryDutch": "Charlie Mitchell, een 63-jarige spinning instructeur, ontdekt zijn vermogen om tijdens zijn lessen de tijd te beheersen. Hij gebruikt zijn krachten om misdaden te voorkomen en levens te redden gedurende een hele week.",
+  "summaryFrench": "Charlie Mitchell, un instructeur de spinning de 63 ans, découvre sa capacité à contrôler le temps pendant ses cours, utilisant ses pouvoirs pour déjouer des crimes et sauver des vies tout au long d'une seule semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "While teaching a spinning class, Charlie Mitchell suddenly freezes time as a bike malfunction threatens a student. He manages the situation without anyone realizing.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "News of a bank robbery reaches Charlie during a class. He pauses time, dashes to the scene, and helps hostages escape before resuming his session unnoticed.",
+      "mood": "heroic"
+    },
+    {
+      "weekday": "Wodnesday",
+      "text": "Charlie feels the strain of his double life. He spends the day reflecting on his new powers and their impact, feeling a blend of responsibility and isolation.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "During a power outage, Charlie uses his ability to maintain calm and order among his class participants, guiding them safely with his calming presence.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Charlie stops a potential subway accident by halting time, fixing a mechanical fault, and subtly guiding the maintenance team towards the problem.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A day off turns adventurous as Charlie discovers another time manipulator like himself. They spend the day exploring their limits and sharing stories.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Charlie decides to start a secret group for people with powers to train and discuss their roles as unsung heroes, feeling energized and hopeful.",
+      "mood": "energetic"
+    }
+  ],
+  "ending": "In a world that races against time, Charlie Mitchell pedals the future into safer paths.",
+  "moral": "Great power comes with great responsibility, and even ordinary people can have extraordinary impacts."
+}

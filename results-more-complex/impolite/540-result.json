@@ -1,0 +1,46 @@
+{
+  "title": "The Meditative Guardian: The Story of Oscar Watson",
+  "summary": "Oscar Watson, a 60-year-old with a passion for meditating and tutoring, discovers his mysterious powers and saves his neighborhood from disaster.",
+  "summaryGerman": "Oscar Watson, ein 60-jähriger mit einer Leidenschaft für Meditation und Nachhilfe, entdeckt seine geheimnisvollen Kräfte und rettet seine Nachbarschaft vor einer Katastrophe.",
+  "summaryDutch": "Oscar Watson, een 60-jarige met een passie voor mediteren en bijles geven, ontdekt zijn mysterieuze krachten en redt zijn buurt van een ramp.",
+  "summaryFrench": "Oscar Watson, 60 ans, passionné de méditation et de tutorat, découvre ses pouvoirs mystérieux et sauve son quartier d'une catastrophe.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar Watson begins his week with a serene morning of meditation, feeling peaceful as he prepares for his tutoring sessions.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Mid-tutoring, Oscar feels a sudden surge of energy. He dismissively attributes it to a good night's sleep, unaware of the powers brewing within him.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "While meditating in the park, Oscar unintentionally levitates a few inches above the ground, an eerie feeling overwhelming him as curious onlookers gasp.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thrursday",
+      "text": "Confronted by a local gang threatening the peace of his neighborhood, Oscar's latent powers fully awaken, allowing him to disperse the threat non-violently.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Oscar spends the day reflecting on his newfound abilities and their potential uses, feeling a mix of excitement and responsibility.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Oscar decides to use his powers to secretly help his students overcome personal challenges, enhancing their learning experience.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "With a deeper understanding of his powers, Oscar vows to protect his community, feeling both triumphant and at peace with his role as a guardian.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "Thus, Oscar Watson, once a simple tutor, embraced his role as the Meditative Guardian, committed to safeguarding the wellbeing of his community.",
+  "moral": "Great power arises from tranquility and the willingness to embrace unexpected roles."
+}

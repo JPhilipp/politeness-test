@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Heroics of Yousef Morgan",
+  "summary": "Yousef Morgan, a 34-year-old consultant with a passion for crocheting, discovers he can manipulate time during a week of adventure. Each day brings new challenges and victories, culminating in a citywide rescue.",
+  "summaryGerman": "Yousef Morgan, ein 34-jähriger Berater mit einer Leidenschaft für Häkeln, entdeckt, dass er die Zeit manipulieren kann, während einer Woche voller Abenteuer. Jeder Tag bringt neue Herausforderungen und Siege, die in einer stadtweiten Rettungsaktion gipfeln.",
+  "summaryDutch": "Yousef Morgan, een 34-jarige consultant met een passie voor haken, ontdekt dat hij tijd kan manipuleren tijdens een week vol avontuur. Elke dag brengt nieuwe uitdagingen en overwinningen, uitmondend in een stadsbrede reddingsactie.",
+  "summaryFrench": "Yousef Morgan, un consultant de 34 ans passionné de crochet, découvre qu'il peut manipuler le temps lors d'une semaine d'aventure. Chaque jour apporte de nouveaux défis et victoires, aboutissant à un sauvetage à l'échelle de la ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Yousef Morgan starts his week consulting at a tech startup, feeling energetic despite the mundane tasks.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While crocheting a complex pattern, Yousef accidentally stitches a fabric in time, feeling eerie as the air shimmers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Experimenting with his new powers, Yousef pauses a moment of rain, creating a bubble of dry space, feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thurssday",
+      "text": "Yousef uses his abilities to prevent a small accident, feeling heroic as gathered crowds cheer.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "On a romantic evening walk, Yousef slows time to enjoy every moment with someone special, under a sparkling sky.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Yousef is approached by local authorities to help resolve a city-wide blackout, using his time skills to coordinate efforts.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Yousef crochets quietly at home, feeling peaceful about the good he has accomplished.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the Sunday night stars glistened above, Yousef realized that true heroism wasn't always about the grand gestures, but often hidden in the threads of time itself.",
+  "moral": "Sometimes, the smallest stitches in time can weave the greatest changes."
+}

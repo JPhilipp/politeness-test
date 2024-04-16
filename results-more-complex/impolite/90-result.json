@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Ivan Gonzales: The Heroic Counselor",
+  "summary": "Ivan Gonzales, a 24-year-old with a passion for counseling and teaching, discovers his extraordinary abilities to heal minds with words. Over the course of a week, he faces various challenges, using his powers to help others and ultimately thwart a crisis at his school.",
+  "summaryGerman": "Ivan Gonzales, ein 24-jähriger mit einer Leidenschaft für Beratung und Unterricht, entdeckt seine außergewöhnlichen Fähigkeiten, Gedanken mit Worten zu heilen. Im Laufe einer Woche steht er verschiedenen Herausforderungen gegenüber, nutzt seine Kräfte, um anderen zu helfen und letztendlich eine Krise in seiner Schule zu verhindern.",
+  "summaryDutch": "Ivan Gonzales, een 24-jarige met een passie voor counseling en onderwijs, ontdekt zijn buitengewone vermogen om geesten te helen met woorden. Gedurende een week staat hij voor verschillende uitdagingen, gebruikt hij zijn krachten om anderen te helpen en uiteindelijk een crisis op zijn school af te wenden.",
+  "summaryFrench": "Ivan Gonzales, un jeune de 24 ans passionné par le conseil et l'enseignement, découvre ses capacités extraordinaires à guérir les esprits avec des mots. Au cours d'une semaine, il fait face à divers défis, utilisant ses pouvoirs pour aider les autres et finalement déjouer une crise dans son école.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ivan starts his week feeling energized and eager. He discovers his ability to touch someone and instill instant calm, preventing a heated fight at the community center.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesdry",
+      "text": "While volunteering at a local school, Ivan helps a distressed teacher relieve stress, realizing his powers can extend to emotional healing over distances.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Experimenting with his new powers, Ivan hosts a group counseling session. He successfully diffuses the anxieties of several participants, leaving everyone feeling serene.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A romantic interest praises Ivan's remarkable abilities. As they spend the day together helping troubled youth, sparks fly, making Ivan feel unexpectedly romantic.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Word of Ivan's talents spread, attracting attention from a mysterious figure. Chilled, Ivan senses he might soon face his first true challenge.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The mysterious figure reveals himself as a villain who wants to exploit Ivan's abilities. In a triumphant showdown, Ivan uses his powers to calm the villain, turning him over to the authorities.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Ivan feels serene. He realizes his true purpose: to use his abilities to teach and heal, not just in his community, but globally.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Empowered and purposeful, Ivan Gonzales embraced his unique abilities, dedicating his life to spreading peace—one word at a time.",
+  "moral": "Embrace your uniqueness, and use your gifts for the greater good."
+}

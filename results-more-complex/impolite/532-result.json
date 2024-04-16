@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Heroics of Hubert Griffin",
+  "summary": "Hubert Griffin, a 51-year-old acting instructor, discovers his latent superpowers and uses them to save his city from an impending technological disaster, all while grappling with personal doubts and rediscovering his passions.",
+  "summaryGerman": "Hubert Griffin, ein 51-jähriger Schauspiellehrer, entdeckt seine verborgenen Superkräfte und verwendet sie, um seine Stadt vor einer bevorstehenden technologischen Katastrophe zu retten, während er gleichzeitig mit persönlichen Zweifeln kämpft und seine Leidenschaften neu entdeckt.",
+  "summaryDutch": "Hubert Griffin, een 51-jarige acteerleraar, ontdekt zijn latente superkrachten en gebruikt ze om zijn stad te redden van een dreigende technologische ramp, terwijl hij worstelt met persoonlijke twijfels en zijn passies herontdekt.",
+  "summaryFrench": "Hubert Griffin, un professeur de théâtre de 51 ans, découvre ses superpouvoirs latents et les utilise pour sauver sa ville d'une catastrophe technologique imminente, tout en luttant contre des doutes personnels et en redécouvrant ses passions.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Hubert Griffin starts his week feelilng peaceful as he prepares for a new acting workshop, completely unaware of his dormant supernatural abilities.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuseday",
+      "text": "During class, a seemingly usual prop interaction triggers a shockwave, revealing Hubert's power to manipulate sound and concussion waves, shifting his mood to eerie.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Hubert tests his new powers in secret, feeling a mix of fear and excitement, as he contemplates the sudden change in his life.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Encountering a subway crash, Hubert stealthily uses his powers to rescue trapped passengers, feeling quietly triumphant for the first time.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Rumors of the mysterious 'Sound Saver' begin to spread. Hubert feels both thrilled and overwhelmed by his secret identity.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Hubert decides to embrace his role as a hero, creating a costume and codename, feeling an epic surge of purpose and adventure.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "A city-threatening technological malfunction brings Hubert to the forefront. His successful intervention sparks widespread gratitude and admiration, cementing his role as a local hero.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And thus began the legend of the Sound Saver, the masked hero who once merely aspired to teach and inspire through acting.",
+  "moral": "It’s never too late to discover new facets of oneself and rise to meet unexpected challenges."
+}

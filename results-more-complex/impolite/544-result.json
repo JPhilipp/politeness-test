@@ -1,0 +1,46 @@
+{
+  "title": "Linda Anderson: The Sewing Scribe of Silver City",
+  "summary": "Linda Anderson, a 75-year-old with a love for writing and sewing, discovers her superpowers and protects her community from unexpected danger over the course of a week.",
+  "summaryGerman": "Linda Anderson, eine 75-jährige Liebhaberin des Schreibens und Nähens, entdeckt ihre Superkräfte und schützt ihre Gemeinde innerhalb einer Woche vor unerwarteten Gefahren.",
+  "summaryDutch": "Linda Anderson, een 75-jarige met een liefde voor schrijven en naaien, ontdekt haar superkrachten en beschermt haar gemeenschap tegen onverwachte gevaren gedurende een week.",
+  "summaryFrench": "Linda Anderson, âgée de 75 ans et passionnée d'écriture et de couture, découvre ses superpouvoirs et protège sa communauté contre un danger inattendu au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Linda discovers she can sew costumes that endow the wearer with superpowers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuedsay",
+      "text": "Testing her powers, she writes a story that magically becomes true, causing it to rain on a fire nearby, saving a forest.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Linda sews a suit that grants invisibility and uses it to stop burglars in her neighborhood.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Word of her deeds spreads, and she feels overwhelmed by her town’s expectations but remains determined.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Linda uses her powers to help local children, creating costumes for them that make their dreams come true.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A villain learns about her powers and tries to steal her creations, but Linda cleverly outsmarts him with a deceptive story she writes.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "With the villain defeated, the community celebrates Linda's courage and talents at a peaceful gathering in her honor.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Underneath her unassuming appearance, Linda Anderson proved that heroes come in all ages and hobbies.",
+  "moral": "Never underestimate the power of creativity and the strength of community."
+}

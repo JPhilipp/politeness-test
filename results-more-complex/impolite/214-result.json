@@ -1,0 +1,46 @@
+{
+  "title": "The Green Guardian: Trent Gonzalez's Heroic Week",
+  "summary": "Over one week, Trent Gonzalez, a gardening enthusiast and mentor, discovers his supernatural ability to manipulate plant life, which he uses to thwart a local villain's plan and inspire his community.",
+  "summaryGerman": "Innerhalb einer Woche entdeckt Trent Gonzalez, ein Gartenbauenthusiast und Mentor, seine übernatürliche Fähigkeit, das Pflanzenleben zu manipulieren, die er nutzt, um die Pläne eines lokalen Bösewichts zu durchkreuzen und seine Gemeinde zu inspirieren.",
+  "summaryDutch": "In één week ontdekt Trent Gonzalez, een tuinierliefhebber en mentor, zijn bovennatuurlijke vermogen om plantenleven te manipuleren, wat hij gebruikt om een plan van een lokale schurk te dwarsbomen en zijn gemeenschap te inspireren.",
+  "summaryFrench": "En une semaine, Trent Gonzalez, passionné de jardinage et mentor, découvre sa capacité surnaturelle à manipuler la vie des plantes, qu'il utilise pour contrecarrer le plan d'un villain local et inspirer sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Trent Gonzalez begins his week tending to his community garden, unaware that this peaceful hobby is about to intersect with adventure.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While mentoring local children in the garden, Trent accidentally discovers his ability to accelerate plant growth, creating a maze to delight the kids.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wedenesday",
+      "text": "Trent experiments with his new powers. His experiments attract the attention of a curious, shadowy figure in town.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The figure confronts Trent, revealing himself as Dr. Wilt, who plans to exploit Trent’s powers for profit. Trent refuses and a thrilling chase ensues.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Using his deep connection with nature, Trent foils Dr. Wilt’s initial plans, protecting the garden and his newly inspired protégés.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "At a community event, Trent reveals his abilities and motives, strengthening community bonds and gaining more allies.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Trent secures Dr. Wilt's promise to reform, helping him channel his botany knowledge positively. The town celebrates their new hero with a garden festival.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "As the sun sets on the garden festival, Trent Gonzalez looks over his beloved community, knowing he has sown seeds of growth and protection.",
+  "moral": "With great power comes the responsibility to nurture and protect."
+}

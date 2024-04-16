@@ -1,0 +1,46 @@
+{
+  "title": "The Hidden Genius of Romeo Price",
+  "summary": "Romeo Price, a 22-year-old tutor who loves teaching, discovers he has the ability to absorb knowledge instantaneously. Throughout the week, he grapples with this new power, using it to solve mysteries, help his students, and ultimately confront a corrupt organization trying to exploit his ability.",
+  "summaryGerman": "Romeo Price, ein 22-jähriger Tutor, der das Lehren liebt, entdeckt, dass er die Fähigkeit hat, Wissen augenblicklich zu absorbieren. Im Laufe der Woche setzt er sich mit dieser neuen Kraft auseinander, nutzt sie, um Rätsel zu lösen, seinen Schülern zu helfen und schließlich einer korrupten Organisation gegenüberzustehen, die versucht, seine Fähigkeit auszunutzen.",
+  "summaryDutch": "Romeo Price, een 22-jarige tutor die van lesgeven houdt, ontdekt dat hij de vaardigheid heeft om kennis onmiddellijk op te nemen. Gedurende de week worstelt hij met deze nieuwe kracht, gebruikt het om mysteries op te lossen, zijn studenten te helpen, en uiteindelijk een corrupte organisatie te confronteren die probeert zijn vermogen te exploiteren.",
+  "summaryFrench": "Romeo Price, un tuteur de 22 ans qui aime enseigner, découvre qu'il a la capacité d'absorber les connaissances instantanément. Tout au long de la semaine, il lutte avec ce nouveau pouvoir, l'utilisant pour résoudre des mystères, aider ses étudiants, et finalement affronter une organisation corrompue essayant d'exploiter sa capacité.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Romeo discovers his superpower during a routine tutoring session when he instantly learns a language he never studied. Shock and excitement fill the air.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Experimenting with his new powers, Romeo helps his students excel at their exams by transmitting knowledge directly. His classroom becomes a hub of rapid learning.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednesdau",
+      "text": "Romeo feels troubled by his ability's implications and fears the potential misuse. He spends the day pondering the ethics and reaches out to a trusted professor for advice.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The professor advises Romeo to use his powers for good, empowering him to face challenges with renewed purpose.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Using his abilities, Romeo unearths an underground network aiming to exploit gifted individuals. He decides to act.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturaday",
+      "text": "Romeo infiltrates the network, using his quick learning to disable their operations. He frees several captives, becoming a real hero.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Romeo reflects on his week, feeling a deep sense of peace but knowing his life has changed forever. He vows to protect and teach responsibly.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the sun sets, Romeo Price stands as not just a tutor, but a guardian of knowledge and a beacon of justice.",
+  "moral": "With great power comes great responsibility."
+}

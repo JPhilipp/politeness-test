@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Guardian: The Story of Zelda Murphy",
+  "summary": "Zelda Murphy, a 76-year-old retiree, discovers her unique powers when her garden comes under threat, leading her to a week of heroic deeds to save her community.",
+  "summaryGerman": "Zelda Murphy, eine 76-jährige Rentnerin, entdeckt ihre einzigartigen Kräfte, als ihr Garten bedroht wird, was sie zu einer Woche heldenhafter Taten führt, um ihre Gemeinschaft zu retten.",
+  "summaryDutch": "Zelda Murphy, een 76-jarige gepensioneerde, ontdekt haar unieke krachten wanneer haar tuin wordt bedreigd, wat leidt tot een week van heldendaden om haar gemeenschap te redden.",
+  "summaryFrench": "Zelda Murphy, une retraitée de 76 ans, découvre ses pouvoirs uniques lorsque son jardin est menacé, la menant à une semaine d'actes héroïques pour sauver sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda Murphy strolls through her garden, humming contentedly as she tends to her flowers. Suddenly, she notices unusual shadows lurking nearby. Using her fast-growing vines, she ensnares the would-be thieves, saving her garden.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Invigorated by her heroic act, Zelda spends the day teaching local children how to plant and care for their own gardens, hoping to instill a love for nature in the next generation.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "Zelda is approached by the local news for an interview about her garden defense. She uses the opportunity to promote community gardening, making her an unexpected local celebrity.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A developer threatens to bulldoze the local park. Zelda, rallying her newfound followers, initiates a peaceful protest. Her actions inspire others to join and save the park.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Zelda holds a workshop on sustainable gardening practices, attended by many enthusiastic townspeople. Her passion and wisdom turn the event into an inspiring community gathering.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "At the community garden, Zelda discovers a rare plant species rumored to have healing properties. She carefully nurtures it, planning to use it for the greater good.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "During a garden celebration, Zelda is honored by the community with a plaque and the title 'The Guardian of the Green.' She feels immensely proud and fulfilled knowing her efforts have made a difference.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "As the sun sets on a week filled with unexpected heroism, Zelda Murphy stands in her beloved garden, a serene smile playing on her lips, content that her simple love for gardening had blossomed into something truly extraordinary.",
+  "moral": "Even ordinary passions can lead to extraordinary deeds when fueled by care and community."
+}

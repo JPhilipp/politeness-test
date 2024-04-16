@@ -1,0 +1,46 @@
+{
+  "title": "The Energetic Adventures of Oscar Jackson",
+  "summary": "Oscar Jackson, a young man with a passion for presenting and drawing, discovers his superpower of inspiring energy and uses it to tackle challenges throughout the week.",
+  "summaryGerman": "Oscar Jackson, ein junger Mann mit einer Leidenschaft für Präsentationen und Zeichnen, entdeckt seine Superkraft der inspirierenden Energie und nutzt sie, um Herausforderungen während der Woche zu bewältigen.",
+  "summaryDutch": "Oscar Jackson, een jongeman met een passie voor presenteren en tekenen, ontdekt zijn superkracht van inspirerende energie en gebruikt deze om uitdagingen gedurende de week aan te gaan.",
+  "summaryFrench": "Oscar Jackson, un jeune homme passionné par la présentation et le dessin, découvre son superpouvoir d'inspirer de l'énergie et l'utilise pour relever des défis tout au long de la semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar Jackson, while presenting at a local art event, accidentally projects energy that revitalizes the audience, revealing his superpower.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Inspired by his newfound abilities, Oscar uses his power at a community center drawing workshop, helping attendees unleash their creativity.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesady",
+      "text": "Oscar encounters his first challenge as a local gang tries to disrupt the community event he is energizing. He successfully deters them with his powerful aura.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Trying to understand his powers better, Oscar spends the day at a quiet park drawing nature, only to find that his energy also calms those around him.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Oscar's story spreads, and he is invited to speak on television, where he inspires thousands, drawing live and showcasing his power.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "At a national presentation contest, Oscar's energetic presentation earns him first place, making his parents incredibly proud.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Oscar decides to use his powers to promote positive community development and personal growth everywhere he goes.",
+      "mood": "eerie"
+    }
+  ],
+  "ending": "Thus, Oscar Jackson's journey began, turning ordinary days into extraordinary moments of energy and inspiration.",
+  "moral": "Even unexpected talents can lead to great outcomes when used to spread positivity and help others."
+}

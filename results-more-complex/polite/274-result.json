@@ -1,0 +1,46 @@
+{
+  "title": "The Energetic Adventures of Ling Nelson",
+  "summary": "Ling Nelson, a 47-year-old advisor with a passion for drawing, discovers her superpowers during an extraordinary week, using them to help her community in unexpected ways.",
+  "summaryGerman": "Ling Nelson, eine 47-jährige Beraterin mit einer Leidenschaft für das Zeichnen, entdeckt ihre Superkräfte während einer außergewöhnlichen Woche und nutzt sie auf unerwartete Weise, um ihrer Gemeinschaft zu helfen.",
+  "summaryDutch": "Ling Nelson, een 47-jarige adviseur met een passie voor tekenen, ontdekt haar superkrachten gedurende een buitengewone week, en gebruikt ze op onverwachte manieren om haar gemeenschap te helpen.",
+  "summaryFrench": "Ling Nelson, une conseillère de 47 ans passionnée de dessin, découvre ses superpouvoirs au cours d'une semaine extraordinaire et les utilise de manière inattendue pour aider sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling wakes up feeling unusually energetic, her thoughts clear as she sketches a sunrise. Unbeknownst to her, each stroke imbues her with a strange new power.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "At work, Ling gives advice that uncannily solves complex problems. Her colleagues marvel at her newfound wisdom and insight.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Ling’s drawings begin to predict future events. She sketches a rainstorm that surprisingly hits the town that afternoon.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Ling stops a bank robbery by drawing the thief surrendering, which then mysteriously happens seconds later. She starts to realize her powers.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Conflicted with her powers, Ling spends a romantic evening with her partner, who supports her journey and encourages her to embrace her abilities.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Empowered, Ling hosts a drawing workshop for the community’s children, showing them how to draw their dreams, giving them hope and joy.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The town celebrates Ling as a hero. She vows to use her powers to protect and inspire, drawing a beautiful future for her community.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As Ling sketched a hopeful tomorrow, her heart was filled with the joy of knowing she could make a real difference.",
+  "moral": "Your unique talents and passions can be a powerful force for good in the world."
+}

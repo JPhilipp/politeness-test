@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Linda Lewis: Guiding Light",
+  "summary": "Over a week, Linda Lewis discovers her powers of influence and guidance to avert crises in her city, learning to embrace her role as a guiding hero.",
+  "summaryGerman": "Über eine Woche entdeckt Linda Lewis ihre Kräfte der Einflussnahme und Führung, um Krisen in ihrer Stadt abzuwenden und lernt, ihre Rolle als führende Heldin anzunehmen.",
+  "summaryDutch": "Gedurende een week ontdekt Linda Lewis haar krachten van invloed en leiderschap om crises in haar stad te voorkomen, en leert ze haar rol als leidende held te omarmen.",
+  "summaryFrench": "Pendant une semaine, Linda Lewis découvre ses pouvoirs d'influence et de guidage pour éviter les crises dans sa ville, apprenant à embrasser son rôle de héroïne guide.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Linda Lewis, a 35-year-old enthusiast of leadership, begins her day feeling energetic. Just as she is about to lead a group hike, she discovers she can subtly influence peoples' actions with her words more powerfully than usual.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuedsay",
+      "text": "Encouraged by her new-found powers, Linda prevents a heated argument at her workplace from escalating. She feels triumphant, realizing her potential to promote peace.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Exploring her abilities, Linda senses an eerie presence in the city park. Using her guiding skills, she steers a group of lost children away from danger, barely avoiding a hidden sinkhole.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Feeling a bit overwhelmed, Linda struggles with the moral implications of her powers. She spends the day reflecting and talking to her mentor, which leaves her feeling peaceful by evening.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Now more confident, Linda guides her community through a blackout, efficiently leading the response team. The city praises her heroic efforts, leaving her feeling happy and fulfilled.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With the city calm, Linda hosts a seminar on crisis management and leadership. Her articulate delivery captivates and educates her audience, filling her with a sense of purpose.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Linda spends a quiet day with loved ones, feeling grateful for her abilities and the chance to make a difference. She resolves to use her powers responsibly.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "As the sun sets, Linda smiles, knowing that every challenge is an opportunity to guide and inspire.",
+  "moral": "With great power comes great responsibility."
+}

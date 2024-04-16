@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Judy Ramirez: The Producer of Justice",
+  "summary": "Judy Ramirez discovers her ability to manipulate sound and uses it to battle crime in her city over the course of a week, while balancing her normal life.",
+  "summaryGerman": "Judy Ramirez entdeckt ihre Fähigkeit, Ton zu manipulieren und nutzt sie, um über den Verlauf einer Woche Verbrechen in ihrer Stadt zu bekämpfen, während sie ihr normales Leben balanciert.",
+  "summaryDutch": "Judy Ramirez ontdekt haar vermogen om geluid te manipuleren en gebruikt het om gedurende een week misdaad in haar stad te bestrijden, terwijl ze haar normale leven in evenwicht houdt.",
+  "summaryFrench": "Judy Ramirez découvre sa capacité à manipuler le son et l'utilise pour combattre le crime dans sa ville au cours d'une semaine, tout en équilibrant sa vie normale.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy stumbles upon a mysterious device in her studio that grants her the power to manipulate sound waves. Excited but cautious, she decides to test her new abilities.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Experimenting more, Judy learns she can amplify, mute, and distort sounds. She prevents a robbery by disorienting the burglars with amplified sound frequencies.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Balancing her day job, Judy struggles to keep her new secret. She spends the evening training to control her powers more precisely.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A local gang strikes again, and Judy decides it's time to intervene. Using stealth and her sound abilities, she helps the police capture the gang members anonymously.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Media buzzes about the mysterious hero. Judy feels the weight of her dual life but remains determined to help her city.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Judy improves her gadgets with technical tweaks and tests them at her studio, preparing for larger challenges.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "A major threat emerges as a villain claiming to control light surfaces. Judy uses her sound powers in a climactic battle, overcoming the villain and saving countless lives.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "As the sun sets, Judy Ramirez watches over her city, ready to protect its peace with the harmony of sound.",
+  "moral": "With great power comes great responsibility, and the courage to act upon it."
+}

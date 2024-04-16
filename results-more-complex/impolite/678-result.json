@@ -1,0 +1,39 @@
+{
+  "title": "The Saga of Eve Lewis: The Bargaining Guardian",
+  "summary": "Eve Lewis, a 77-year-old with a knack for consulting and bargaining, uncovers her latent superpowers and saves her city from a week-long peril.",
+  "summaryGerman": "Eve Lewis, eine 77-jährige mit einer Begabung für Beratung und Verhandlungen, entdeckt ihre latenten Superkräfte und rettet ihre Stadt vor einer wochenlangen Gefahr.",
+  "summaryDutch": "Eve Lewis, 77 jaar oud en bedreven in consulting en onderhandelen, ontdekt haar latente superkrachten en redt haar stad van een week lang gevaar.",
+  "summaryFrench": "Eve Lewis, âgée de 77 ans et douée en consulting et en négociation, découvre ses super pouvoirs latents et sauve sa ville d'un péril qui dure une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "The week starts with Eve Lewis discovering a strange glowing stone in her garden. This stone grants her unusual powers of persuasion and an unparalleled ability to bargain. Mood: eerie."
+    },
+    {
+      "weekday": "Tuesdy",
+      "text": "Empowered, Eve uses her new skills to negotiate with a mischievous entity threatening the town's peace. Her calm and experience turn a potentially destructive confrontation into a peaceful agreement. Mood: triumphant."
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Eve spends the day consulting with local leaders, teaching them the power of negotiation and understanding to build a stronger community. Mood: energetic."
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A new challenge approaches as commercial developers threaten to tear down a historic park. Eve channels her newfound powers and community spirit to launch a save-the-park campaign. Mood: epic."
+    },
+    {
+      "weekday": "Friday",
+      "text": "The campaign gains momentum; stakeholders are eager to discuss terms. Eve's mastery in bargaining shines through, drawing large support from the public. Mood: happy."
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With the park saved, Eve hosts a grand celebration in the very park she helped protect, filled with stories of the week's adventures and future planning. Mood: romantic."
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflective and at peace, Eve sits back, her mission accomplished, knowing her city is a little safer because of her actions. Mood: peaceful."
+    }
+  ],
+  "ending": "And so, Eve Lewis, at 77, not only discovered her powers but used them to bring her community together.",
+  "moral": "No matter the age, one's ability to impact the community and instigate change carries on undimmed."
+}

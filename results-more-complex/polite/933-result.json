@@ -1,0 +1,46 @@
+{
+  "title": "The Harmonic Guardian: The Tale of Frank White",
+  "summary": "In one week, Frank White transforms from a ordinary music and coaching enthusiast into a superhero who thwarts a sinister plot threatening his city, using his unique powers to manipulate emotions through music.",
+  "summaryGerman": "In einer Woche verwandelt sich Frank White von einem gewöhnlichen Musik- und Coaching-Enthusiasten in einen Superhelden, der eine finstere Verschwörung vereitelt, die seine Stadt bedroht, indem er seine einzigartigen Kräfte nutzt, um Emotionen durch Musik zu manipulieren.",
+  "summaryDutch": "In één week verandert Frank White van een gewone muziek- en coachingliefhebber in een superheld die een sinistere samenzwering verijdelt die zijn stad bedreigt, door zijn unieke krachten te gebruiken om emoties te manipuleren door middel van muziek.",
+  "summaryFrench": "En une semaine, Frank White se transforme d'un passionné de musique et de coaching ordinaire en un super-héros qui déjoue un complot sinistre menaçant sa ville, utilisant ses pouvoirs uniques pour manipuler les émotions à travers la musique.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Starting his week, Frank White teaches a music class, blissfully unaware of what lies ahead. But an eerie melody drifts through his classroom, affecting students’ emotions mysteriously.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Frank discovers his ability to alter emotions with his musical talents. Excited, he experiments with harmonies and rhythms, becoming more attuned to this newfound power.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedneday",
+      "text": "An unexpected call leads Frank to a local sports team. Using his coaching skills and musical influence, he instills newfound courage and teamwork in the players.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The city falls under a wave of sadness as a villain uses sound waves to spread despair. Frank feels compelled to counteract this with uplifting symphonies around town squares.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Perfecting his abilities, Frank conducts a concert in the park, which unknowingly thwarts the villain’s plans. The public feels inspired and joyful, neutralizing the negative waves.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The villain confronts Frank directly. Utilizing both his music and physical skills, Frank engages in a melodious battle, culminating in a powerful crescendo that disarms the foe.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "As the city celebrates, Frank performs at a victory concert. His calm, peaceful melodies assure the city of safety and tranquility, solidifying his role as its Harmonic Guardian.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus, Frank White, with his symphony of courage and harmony, saved the city from despair, proving heroes come in many forms.",
+  "moral": "Never underestimate the power of passion and creativity in making a positive change."
+}

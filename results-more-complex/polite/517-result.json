@@ -1,0 +1,46 @@
+{
+  "title": "The Enlightening Adventures of David Ross",
+  "summary": "David Ross, a 50-year-old counselor and educator, discovers his ability to empower people's minds and spirits through his words, confronting societal issues while balancing his daily life over the course of a week.",
+  "summaryGerman": "David Ross, ein 50-jähriger Berater und Lehrer, entdeckt seine Fähigkeit, die Gedanken und Geister der Menschen durch seine Worte zu stärken, und konfrontiert gesellschaftliche Probleme, während er sein tägliches Leben im Laufe einer Woche ausbalanciert.",
+  "summaryDutch": "David Ross, een 50-jarige counselor en opvoeder, ontdekt zijn vermogen om mensen hun geest en ziel te versterken met zijn woorden. Hij gaat sociale problemen aan terwijl hij zijn dagelijks leven gedurende een week in balans houdt.",
+  "summaryFrench": "David Ross, un conseiller et éducateur de 50 ans, découvre sa capacité à renforcer les esprits et les âmes des gens à travers ses mots, confrontant les problèmes de société tout en équilibrant sa vie quotidienne au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "David Ross began the week feeling energized with new ideas for his community outreach seminars.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "At a school assembly, he inspired his students with tales of change-makers, leaving them feeling empowered.",
+      "mood": "inspirational"
+    },
+    {
+      "weekday": "Wednesdy",
+      "text": "David faced confrontation from a town official skeptical of his methods, but managed a peaceful resolution.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "He encountered a mysterious visitor whose cryptic message hinted at a deeper societal problem.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Bringing together his counseling skills and his new awareness, David organized a community forum that was a tremendous success.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a reflective walk, David fell into a reverie about the loves of his past, wondering what could have been.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ending the week, David planned future seminars, feeling hopeful and ready to tackle more complex issues.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "David Ross stood by his window, gazing at the quiet streets. A smile drew over his face, knowing well the seeds of change were sown, and indeed, they would flourish.",
+  "moral": "The greatest superpowers are the words and actions that inspire change and understanding."
+}

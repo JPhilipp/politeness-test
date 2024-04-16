@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Ling Garcia: Hero Beneath the Shadows",
+  "summary": "Ling Garcia, a 37-year-old who enjoys praying and mentoring, discovers she has supernatural abilities. Over a week, she navigates her new powers, helping her community combat a mysterious evil force.",
+  "summaryGerman": "Ling Garcia, eine 37-jährige, die gerne betet und Mentorin ist, entdeckt, dass sie übernatürliche Fähigkeiten besitzt. Innerhalb einer Woche lernt sie ihre neuen Kräfte zu nutzen, um ihrer Gemeinde zu helfen, eine mysteriöse böse Macht zu bekämpfen.",
+  "summaryDutch": "Ling Garcia, een 37-jarige die graag bidt en mentor is, ontdekt dat ze bovennatuurlijke krachten heeft. In een week tijd leert ze haar nieuwe krachten te gebruiken om haar gemeenschap te helpen een mysterieuze kwade kracht te bestrijden.",
+  "summaryFrench": "Ling Garcia, âgée de 37 ans et qui aime prier et mentorer, découvre qu'elle possède des capacités surnaturelles. En une semaine, elle apprend à naviguer avec ses nouveaux pouvoirs pour aider sa communauté à combattre une force maléfique mystérieuse.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "As the sun rises, Ling feels an unexplained surge of energy during her morning prayer. This new sensation fills her with curiosity and a hint of fear.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "With her newfound powers, Ling heals a small child's injured pet, realising she can mend more than just spirits. Her heart swells with purpose.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Ling spends the day mentoring troubled youths, using subtle hints of her powers to guide them towards better paths, feeling a deep connection to her community.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thrusday",
+      "text": "Mysterious shadows linger around her neighbourhood. Ling confronts them, using her powers to protect her neighbours. The battle leaves her both drained and more determined.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Recovering from last night's ordeal, Ling reflects on her role and responsibilities. She decides to embrace her abilities fully, aiming to become a guardian angel for her town.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With confidence, Ling prevents a bank robbery, revealing her abilities to the public. The town praises her actions, giving her a newfound celebrity status.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ending the week with a community prayer, Ling feels a serene commitment to her mission. She knows that this is just the beginning of her journey as a protector.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus, Ling Garcia accepted her role not just as a mentor and a prayerful soul, but as a true hero shaping the future of her community.",
+  "moral": "Embrace your unique gifts; they might just be what your community needs."
+}

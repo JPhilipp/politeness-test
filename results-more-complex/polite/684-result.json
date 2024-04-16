@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Frank Griffin: The Coaching Crusader",
+  "summary": "Frank Griffin, a 51-year-old instructor and coach, discovers he has the power to boost confidence and skills with his motivational talks. Over a week, he helps his community overcome various challenges, culminating in a grand event saving his local sports center.",
+  "summaryGerman": "Frank Griffin, ein 51-jähriger Lehrer und Trainer, entdeckt, dass er die Fähigkeit hat, mit seinen motivierenden Reden Vertrauen und Fähigkeiten zu stärken. Innerhalb einer Woche hilft er seiner Gemeinschaft, verschiedene Herausforderungen zu meistern und rettet bei einem großen Ereignis sein örtliches Sportzentrum.",
+  "summaryDutch": "Frank Griffin, een 51-jarige instructeur en coach, ontdekt dat hij het vertrouwen en de vaardigheden kan verhogen met zijn motiverende gesprekken. Gedurende een week helpt hij zijn gemeenschap verschillende uitdagingen te overwinnen, uitmondend in een groot evenement waarbij hij zijn lokale sportcentrum redt.",
+  "summaryFrench": "Frank Griffin, un moniteur et entraîneur de 51 ans, découvre qu'il a le pouvoir de renforcer la confiance et les compétences grâce à ses discours motivants. Au cours d'une semaine, il aide sa communauté à surmonter divers défis, aboutissant à un grand événement pour sauver son centre sportif local.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "While coaching his usual morning basketball session, Frank feels an unusual surge of energy. His words seem to remarkably improve his athletes' performance.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuseday",
+      "text": "During a school visit, Frank speaks to a group of disheartened students. By the end, their spirits are lifted, and they're more engaged than ever.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Frank meets an old friend who is struggling with personal issues. After a heart-to-heart, his friend is visibly more optimistic.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "At a local community meeting, Frank's speech on teamwork and perseverance spreads an uncanny sense of determination amongst the attendees.",
+      "mood": "inspiring"
+    },
+    {
+      "weekday": "Friday",
+      "text": "News spreads of a financial crisis at the local sports center. Frank spends the day rallying support to save it.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The town gathers for a fundraising event organized by Frank. His speech galvanizes the community, raising enough funds to save the sports center.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "With the sports center secured, Frank holds a celebratory coaching session. His newfound powers are the talk of the town, earning him the title of The Coaching Crusader.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As the sun set on Sunday, Frank Griffin stood at the center of the saved sports complex, his heart full knowing he had changed lives, one motivational word at a time.",
+  "moral": "Never underestimate the power of positive words and encouragement."
+}

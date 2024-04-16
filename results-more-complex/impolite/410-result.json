@@ -1,0 +1,46 @@
+{
+  "title": "The Sculpted Guardian: Ursula Harris's Heroic Week",
+  "summary": "Ursula Harris, a 46-year-old sculptor and manager, discovers her ability to manipulate metal and stone, using her powers to thwart a city-wide threat while balancing her personal life and hobbies.",
+  "summaryGerman": "Ursula Harris, eine 46-jährige Bildhauerin und Managerin, entdeckt ihre Fähigkeit, Metall und Stein zu manipulieren, und verwendet ihre Kräfte, um eine stadtweite Bedrohung zu vereiteln, während sie ihr Privatleben und ihre Hobbys ausbalanciert.",
+  "summaryDutch": "Ursula Harris, een 46-jarige beeldhouwster en manager, ontdekt haar vermogen om metaal en steen te manipuleren, en gebruikt haar krachten om een stadsbrede dreiging te dwarsbomen terwijl ze haar persoonlijke leven en hobby's in evenwicht houdt.",
+  "summaryFrench": "Ursula Harris, une sculptrice et gestionnaire de 46 ans, découvre sa capacité à manipuler le métal et la pierre, utilisant ses pouvoirs pour contrecarrer une menace à l'échelle de la ville tout en équilibrant sa vie personnelle et ses loisirs.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ursula Harris began her week by discovering ancient glyphs etched into some of her intended sculpting materials. When she touched them, her hands glowed, leaving her feeling eerie yet intrigued.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Testing her newfound powers, Ursula manipulated a small stone into a beautifully detailed sculpture in minutes. The thrill of creation filled her with an energetic rush.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "During a management meeting, Ursula subtly prevented a ceiling collapse using her powers, saving her colleagues and feeling triumphant about her secret ability.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Ursula spent the evening in her studio, sculpting peaceful statues, reflecting on how her powers could serve both her art and the greater good.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Firday",
+      "text": "An underground criminal syndicate, hearing of a 'stone manipulator,' attempted to recruit Ursula. She declined, turning the confrontation into a tense standoff.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Harnessing her abilities, Ursula disrupted the syndicate's operations, reshaping their stolen metal vault into a monument dedicated to the city's resilience. This act became known throughout the city.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The city recognized Ursula's valiant actions, offering her a role as a special consultant for urban safety and design. She accepted, feeling content with her dual life as a manager and a hero.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, Ursula Harris sculpted not only stone but also her destiny, balancing the weight of her normal life with her extraordinary responsibilities.",
+  "moral": "True heroism lies in using one’s unique abilities to better the world, quietly and courageously."
+}

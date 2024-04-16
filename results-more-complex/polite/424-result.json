@@ -1,0 +1,46 @@
+{
+  "title": "The Embroidering Consultant: The Adventures of Judy Lopez",
+  "summary": "Judy Lopez discovers her superpower of influencing emotions through her embroidery and uses it to solve problems in her community while balancing her consulting job.",
+  "summaryGerman": "Judy Lopez entdeckt ihre Superkraft, Emotionen durch ihre Stickerei zu beeinflussen, und verwendet sie, um Probleme in ihrer Gemeinde zu lösen, während sie ihren Beratungsjob ausbalanciert.",
+  "summaryDutch": "Judy Lopez ontdekt haar superkracht om emoties te beïnvloeden door haar borduurwerk en gebruikt deze om problemen in haar gemeenschap op te lossen terwijl ze haar advieswerk in evenwicht houdt.",
+  "summaryFrench": "Judy Lopez découvre son superpouvoir d'influencer les émotions à travers sa broderie et l'utilise pour résoudre les problèmes dans sa communauté tout en équilibrant son travail de consultante.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy Lopez spent the morning consulting at a high-stress tech startup. After a challenging meeting, she returned home and began embroidering a calming landscape on a scarf, her hands skillfully guiding the needle. That night, she wore the scarf to a neighborhood meeting, and remarkably, the room's tension eased.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While consulting, Judy stitched a vibrant sunflower onto her client’s favorite handkerchief. When she gifted it to her, the client felt an unexpected surge of happiness, sparking kindness in her interactions. Judy realized her embroideries might hold more power than she thought.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Determined to explore her newfound abilities, Judy embroidered a motif symbolizing courage onto a bandana. Wearing it during a difficult consultation, her client was empowered to make brave decisions, leading to a successful strategy session.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thrusday",
+      "text": "That night, Judy walked through the park, brainstorming how to expand her impact. The eerie silence of the park at night sparked an idea—embroidering motifs that could soothe the distressed.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Judy began creating 'emotive embroidery kits' for her community. These kits included patterns and threads aimed to evoke specific emotions. She held a workshop showing how to use them for emotional healing, which turned out incredibly successful.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Her efforts were recognized by the local news, who ran a feature on how her unique blend of embroidery and emotive influence was fostering a tighter-knit community.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Judy felt a peaceful satisfaction knowing she was making a difference while doing something she loved. She began to envision greater possibilities for her future projects.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "With needle and thread, Judy wove not only patterns but also the emotional tapestry of her community, proving that small passions can generate enormous impacts.",
+  "moral": "Every skill and hobby has the potential to make significant changes; it’s how you use them that matters."
+}

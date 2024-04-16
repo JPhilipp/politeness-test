@@ -1,0 +1,46 @@
+{
+  "title": "Eve Rodriguez: The Advising Avenger",
+  "summary": "Eve Rodriguez, a skilled adviser and promoter, discovers her superpowers and uses them to avert a crisis in her city over the course of a week.",
+  "summaryGerman": "Eve Rodriguez, eine erfahrene Beraterin und Promoterin, entdeckt ihre Superkräfte und nutzt sie, um innerhalb einer Woche eine Krise in ihrer Stadt abzuwenden.",
+  "summaryDutch": "Eve Rodriguez, een vakkundige adviseur en promotor, ontdekt haar superkrachten en gebruikt deze om gedurende een week een crisis in haar stad te voorkomen.",
+  "summaryFrench": "Eve Rodriguez, une conseillère et promotrice expérimentée, découvre ses superpuissances et les utilise pour éviter une crise dans sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "mood": "energetic",
+      "text": "Eve Rodriguez begins her morning with a rush of energy, feeling unusually perceptive and influential. Little does she know, these are signs of her new-found superpowers."
+    },
+    {
+      "weekday": "Tuuesday",
+      "mood": "triumphant",
+      "text": "Using her persuasive abilities, Eve successfully advises a local business to avoid a doomed investment, saving them from financial disaster, and feeling triumphant about her successful recommendation."
+    },
+    {
+      "weekday": "Wednesday",
+      "mood": "eerie",
+      "text": "Eve hears of an impending threat to the city. During her nightly walk, she experiences an eerie premonition that confirms her fears. She knows she must act quickly."
+    },
+    {
+      "weekday": "Thursday",
+      "mood": "epic",
+      "text": "Eve stands before the city council, promoting a bold plan to prevent the looming crisis. With her enhanced persuasive skills, she passionately convinces them to follow her strategic proposal."
+    },
+    {
+      "weekday": "Friday",
+      "mood": "happy",
+      "text": "The city begins to implement Eve's plan. As she oversees the operations, she feels a happy sense of accomplishment seeing her community come together to prevent disaster."
+    },
+    {
+      "weekday": "Saturday",
+      "mood": "peaceful",
+      "text": "A peaceful day follows the stressful week. Eve spends her day advising eager young community leaders, sharing insights and promoting a spirit of resilience and preparedness."
+    },
+    {
+      "weekday": "Sunday",
+      "mood": "romantic",
+      "text": "Eve enjoys a well-deserved rest with a quiet dinner date. The backdrop of a recovering city, combined with the peaceful assurance that her actions helped secure, sets a romantic mood."
+    }
+  ],
+  "ending": "As the week closes, Eve Rodriguez stands atop her city's tallest building, watching over it protectively, her heart full and ready to face whatever comes next.",
+  "moral": "Empowering others with advice and leadership not only changes lives but can save entire communities."
+}

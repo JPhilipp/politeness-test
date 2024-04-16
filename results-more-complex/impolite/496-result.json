@@ -1,0 +1,46 @@
+{
+  "title": "The Baking Advisor: The Adventures of Jin Cooper",
+  "summary": "Jin Cooper, a 62-year-old with a unique blend of baking and advising skills, discovers he can influence people's actions through his baked goods. Throughout one thrilling week, he uses his talents to help his community overcome various challenges, culminating in a grand celebration where his powers are revealed.",
+  "summaryGerman": "Jin Cooper, ein 62-jähriger mit einer einzigartigen Mischung aus Back- und Beratungsfähigkeiten, entdeckt, dass er durch seine Backwaren die Handlungen der Menschen beeinflussen kann. Während einer aufregenden Woche nutzt er seine Talente, um seiner Gemeinde bei der Bewältigung verschiedener Herausforderungen zu helfen, die in einer großen Feier gipfeln, bei der seine Kräfte offenbart werden.",
+  "summaryDutch": "Jin Cooper, een 62-jarige met een unieke combinatie van bak- en adviesvaardigheden, ontdekt dat hij de acties van mensen kan beïnvloeden door middel van zijn gebakken goederen. Gedurende één spannende week gebruikt hij zijn talenten om zijn gemeenschap te helpen verschillende uitdagingen te overwinnen, uitmondend in een grootse viering waar zijn krachten worden onthuld.",
+  "summaryFrench": "Jin Cooper, âgé de 62 ans et possédant un mélange unique de compétences en pâtisserie et en conseil, découvre qu'il peut influencer les actions des gens par ses produits de boulangerie. Tout au long d'une semaine palpitante, il utilise ses talents pour aider sa communauté à surmonter divers défis, aboutissant à une grande célébration où ses pouvoirs sont révélés.",
+  "moral": "Using one's unique talents to help others can lead to unexpected and rewarding outcomes.",
+  "story": [
+    {
+      "weekday": "Monsday",
+      "text": "Jin Cooper bakes a special kind of bread infused with motivational zest, helping his neighbors feel energetic and triumphant in starting their week.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Observing a friend in distress, Jin creates a comforting cinnamon roll that not only lifts spirits but seems to offer uncanny advice on personal matters.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Word of Jin's mystical pastries spreads, attracting a crowd at the local park where he advises on community issues while serving his famed cookies.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The local news catches wind of Jin's talents, and he's invited to share his story on television, baking live and spreading positive vibes.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A mysterious visitor challenges Jin's abilities, leaving him to question the extent of his powers. He responds with a pie that brings about an eerie understanding.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Recognizing the influence his baking holds, Jin hosts a large bake sale, with all proceeds going to local charities. The community support feels overwhelmingly peaceful.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "As the week concludes, the community comes together in a celebration of Jin's impact. They honor him with a surprise party, where he feels deeply happy and valued.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Jin Cooper continued to bake and advise, forever cherished as the heart of his community."
+}

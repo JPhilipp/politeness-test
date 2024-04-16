@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Jin Reed: Servant of Justice",
+  "summary": "Jin Reed, a 28-year-old with the hobbies of serving and convincing, uses his persuasive powers to uncover and prevent a major crime in his city, learning about his strengths and the impact of civic duty along the way.",
+  "summaryGerman": "Jin Reed, ein 28-Jähriger mit den Hobbies Bedienen und Überzeugen, nutzt seine Überzeugungskraft, um ein schwerwiegendes Verbrechen in seiner Stadt aufzudecken und zu verhindern, und lernt dabei seine Stärken und die Bedeutung der Bürgerpflicht kennen.",
+  "summaryDutch": "Jin Reed, een 28-jarige met als hobby's bedienen en overtuigen, gebruikt zijn overtuigingskracht om een grote misdaad in zijn stad te onthullen en te voorkomen, en leert onderweg over zijn krachten en de impact van burgerplicht.",
+  "summaryFrench": "Jin Reed, 28 ans, dont les passe-temps sont servir et convaincre, utilise ses pouvoirs de persuasion pour découvrir et prévenir un crime majeur dans sa ville, apprenant ainsi ses forces et l'impact du devoir civique en cours de route.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Jin Reed discovers troubling chatter about a planned heist in his city while volunteering at a local community center. Intrigued, he decides to investigate further.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tueesday",
+      "text": "Using his convincing skills, Jin talks to various suspects and gathers more information, leading him to suspect a renowned businessman.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Jin volunteers at an event hosted by the suspect and subtly probes for information, gathering crucial evidence.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Reaching out to his contacts in law enforcement, Jin shares his findings, which lead to a discreet investigation.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With the heist thwarted thanks to his information, Jin enjoys a peaceful day, reflecting on his achievements over coffee.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Jin is invited to a ceremony recognizing his efforts, where he feels honored but remains humble about his role.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Feeling empowered, Jin commits to using his skills for the greater good, vowing to always be on the lookout for ways to help his community.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "With his mind set on the path of civic duty, Jin looked towards a future bright with promise and purpose.",
+  "moral": "Every individual has the power to make a difference in their community through vigilance and a proactive attitude."
+}

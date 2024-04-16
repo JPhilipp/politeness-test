@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Linda Price: Neighborhood Guardian",
+  "summary": "Linda Price discovers her ability to feel and alleviate the emotional pains of others, leading to her becoming a local superhero by helping her community find peace and happiness.",
+  "summaryGerman": "Linda Price entdeckt ihre Fähigkeit, den emotionalen Schmerz anderer zu spüren und zu lindern, was dazu führt, dass sie eine lokale Superheldin wird, die ihrer Gemeinde hilft, Frieden und Glück zu finden.",
+  "summaryDutch": "Linda Price ontdekt haar vermogen om de emotionele pijn van anderen te voelen en te verlichten, wat ervoor zorgt dat ze een lokale superheld wordt door haar gemeenschap te helpen vrede en geluk te vinden.",
+  "summaryFrench": "Linda Price découvre sa capacité à ressentir et à soulager les douleurs émotionnelles des autres, ce qui la conduit à devenir une superhéroïne locale en aidant sa communauté à trouver la paix et le bonheur.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Linda helps an overwhelmed teacher find calm, realizing her unique empathic powers.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuedsay",
+      "text": "In her usual mentoring program, she soothes a troubled student, feeling more confident in her abilities.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Linda assists a struggling family by resolving a heated argument, demonstrating her increased control over her powers.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Word of her deeds spreads, and Linda is invited to mediate a community dispute, becoming a beacon of hope.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "She spends the day mentoring young volunteers, instilling in them the values of service and compassion.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A gathering in her honor is held by the community, where stories of her impacts are shared.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Linda feels fulfilled and ready to embrace her role as the 'Neighborhood Guardian'.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Linda looked out over the park, her heart as full as the smiling faces around her, knowing her journey had only just begun.",
+  "moral": "The power to change the world starts with the small act of listening and caring."
+}

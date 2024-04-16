@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Charlie Nelson: Ordinary Hero",
+  "summary": "Charlie Nelson, a 20-year-old with a passion for assisting and mentoring, discovers his superpowers over the course of a week and uses them to subtly affect positive change in his community.",
+  "summaryGerman": "Charlie Nelson, ein 20-Jähriger mit einer Leidenschaft für Unterstützung und Mentoring, entdeckt im Laufe einer Woche seine Superkräfte und nutzt sie, um subtil positive Veränderungen in seiner Gemeinde herbeizuführen.",
+  "summaryDutch": "Charlie Nelson, een 20-jarige met een passie voor ondersteunen en mentor zijn, ontdekt gedurende een week zijn superkrachten en gebruikt ze om subtiel positieve veranderingen in zijn gemeenschap teweeg te brengen.",
+  "summaryFrench": "Charlie Nelson, un jeune de 20 ans passionné par l'assistance et le mentorat, découvre ses superpouvoirs au cours d'une semaine et les utilise pour affecter subtilement un changement positif dans sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Charlie helped a young student understand complex math, feeling an unusual surge of energy that made the explanation effortlessly clear.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuseday",
+      "text": "When a sudden rainstorm trapped commuters, Charlie mysteriously stopped the downpour, saving an outdoor community event.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Sensing distress in a park, Charlie managed to calm a distressing situation between arguing friends with just a few words, feeling a deep connection.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A chance encounter with a lost dog led Charlie to unconsciously communicate with it, successfully guiding it home to its worried owner.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Charlie's growing awareness of his abilities made him question his role, leading to a meeting with a mentor who guided many before him, leaving him hopeful.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Using his newly discovered powers, Charlie organized a city-wide cleanup, inspiring hundreds to join, feeling a surge of epic purpose.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Charlie felt happy and determined to use his powers for the good, accepting his role as a behind-the-scenes hero.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And so, Charlie Nelson found his calling not in grand gestures, but in the quiet moments of everyday heroism.",
+  "moral": "True heroism lies not only in extraordinary feats, but in the everyday acts of kindness."
+}

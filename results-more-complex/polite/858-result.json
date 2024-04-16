@@ -1,0 +1,45 @@
+{
+  "title": "The Heroic Week of Ursula Washington: From Tutor to Guardian",
+  "summary": "A retired tutor named Ursula Washington discovers her ability to influence emotions and uses it to resolve conflicts in her community over a week.",
+  "summaryGerman": "Eine pensionierte Nachhilfelehrerin namens Ursula Washington entdeckt ihre Fähigkeit, Emotionen zu beeinflussen und verwendet sie, um Konflikte in ihrer Gemeinde über eine Woche hinweg zu lösen.",
+  "summaryDutch": "Een gepensioneerde tutor genaamd Ursula Washington ontdekt haar vermogen om emoties te beïnvloeden en gebruikt dit om conflicten in haar gemeenschap gedurende een week op te lossen.",
+  "summaryFrench": "Une tutrice retraitée nommée Ursula Washington découvre sa capacité à influencer les émotions et l'utilise pour résoudre des conflits dans sa communauté au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ursula begins her week feeling energetic, as she helps students with their homework at the local library. She notices tension between two students and subtly influences them to discuss and resolve their issue peacefully.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Teusday",
+      "text": "Feeling triumphant, Ursula leverages her newfound abilities in a community meeting, easing anxieties over neighborhood safety and fostering a sense of solidarity.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Ursula spends the day tutoring, feeling happy as she sees her students excel. She resolves a misunderstood conflict between a student and a teacher, promoting understanding.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "An eerie feeling overcomes Ursula as she notices someone spying on her activities. She confronts the figure, realizing he's a local journalist intrigued by her influence.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Now working together with the journalist, Ursula spends a peaceful day sharing her story, hoping to inspire others. Her actions start attracting attention beyond her community.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Feeling romantic, Ursula takes a well-deserved break, spending the day reminiscing about her late husband. She visits their favorite places around the city, strengthening her resolve.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The week ends on an epic note as Ursula organizes a large community gathering, demonstrating the power of empathy and teamwork. The event is a huge success, leaving everyone inspired.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And thus, Ursula Washington proved that true heroism lies not in superhuman strength, but in the power to unite and inspire."
+}

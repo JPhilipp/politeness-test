@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Kevin Turner: The Tutor Hero",
+  "summary": "Kevin Turner, a 40-year-old tutor, discovers his ability to imbue knowledge instantly and uses it to fight ignorance in his city, facing challenges that test his powers and morals.",
+  "summaryGerman": "Kevin Turner, ein 40-jähriger Nachhilfelehrer, entdeckt seine Fähigkeit, Wissen sofort zu vermitteln, und nutzt sie, um die Unwissenheit in seiner Stadt zu bekämpfen, wobei er Herausforderungen begegnet, die seine Kräfte und Moral auf die Probe stellen.",
+  "summaryDutch": "Kevin Turner, een 40-jarige tutor, ontdekt zijn vermogen om kennis direct over te brengen en gebruikt dit om de onwetendheid in zijn stad te bestrijden, met uitdagingen die zijn krachten en moraal op de proef stellen.",
+  "summaryFrench": "Kevin Turner, un tuteur de 40 ans, découvre sa capacité à transmettre instantanément des connaissances et l'utilise pour lutter contre l'ignorance dans sa ville, faisant face à des défis qui testent ses pouvoirs et sa morale.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "At the local library, while helping a struggling student, Kevin unexpectedly awakens his power to transfer knowledge instantly. The student's once confused expressions turn to ones of understanding and confidence.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Inspired by yesterday's events, Kevin experiments with his powers, helping more students. He begins to understand the breadth of his abilities and feels a surge of responsibility and energy.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesnday",
+      "text": "The news of a 'miracle tutor' spreads, drawing attention from curious locals and skeptical journalists. Kevin feels a mix of pride and pressure as his tutoring schedule fills up.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A rival tutor, envious of Kevin’s newfound popularity, challenges him to a public knowledge duel. The event gathers a large crowd. Kevin, calm and collected, uses his powers discreetly to win.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Kevin reflects on the effects of his powers. He worries about the ethical implications and feels a heavy burden. His day is spent in contemplation rather than tutoring.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "At a city-wide education forum, Kevin openly uses his powers to help multiple speakers understand complex topics quickly, promoting a faster, more effective spread of knowledge.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Embracing his role as a 'knowledge hero', Kevin decides to train others to efficiently educate, ensuring his legacy and transforming the city’s education system.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "Thus, Kevin Turner not only changed lives but reshaped the future of education in his city.",
+  "moral": "With great power comes great responsibility, and the true hero uses it to light the way for others."
+}

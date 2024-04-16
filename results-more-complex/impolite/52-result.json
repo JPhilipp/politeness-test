@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Zelda Richardson: Superhero Instructor",
+  "summary": "Zelda Richardson spends her week mysteriously gaining powers and learning to control them while maintaining her usual lectures, culminating in a heroic act to save her community.",
+  "summaryGerman": "Zelda Richardson verbringt ihre Woche damit, mysteriöserweise Kräfte zu gewinnen und zu lernen, diese zu kontrollieren, während sie ihre üblichen Vorlesungen hält, und gipfelt in einer heldenhaften Tat, um ihre Gemeinschaft zu retten.",
+  "summaryDutch": "Zelda Richardson brengt haar week door met het mysterieus verkrijgen van krachten en leert deze te beheersen terwijl ze haar gebruikelijke lezingen blijft geven, uitmondend in een heldendaad om haar gemeenschap te redden.",
+  "summaryFrench": "Zelda Richardson passe sa semaine à acquérir mystérieusement des pouvoirs et à apprendre à les contrôler tout en maintenant ses cours habituels, culminant par un acte héroïque pour sauver sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda wakes up feeling unusually energetic and discovers she can move objects with her mind during a morning lecture.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "After inadvertently causing chaos in her kitchen with her new powers, Zelda feels a mix of excitement and fear as she tries to control her abilities.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Zelda uses her lunch break to secretly practice her powers at a deserted park, feeling more confident and triumphant with each successful attempt.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thurday",
+      "text": "She decides to confide in her closest colleague about her new capabilities, leading to a romantic dinner where they discuss the potential of her powers.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Zelda feels happy as she starts integrating small demonstrations of her powers into her lectures, inspiring awe and curiosity among her students.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A local crisis occurs when a nearby chemical plant catches fire. Zelda saves the workers with her telekinetic abilities in a dramatic and epic rescue.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Zelda spends a peaceful day reflecting on her new role as both a teacher and a protector, realizing the impact she can make.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Zelda Richardson had transformed her week from ordinary to extraordinary, proving that anyone can be a hero in their own unique way.",
+  "moral": "Embrace your unique abilities and use them to make a positive difference."
+}

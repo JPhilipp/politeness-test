@@ -1,0 +1,46 @@
+{
+  "title": "The Embroidering Educator: The Secret Adventures of Sue Carter",
+  "summary": "Sue Carter, a 50-year-old teacher with a passion for embroidery, discovers her ability to manipulate time while working on an ancient tapestry. Throughout a week, she uses her powers to help her students and solve community problems, eventually facing a decision between her normal life and greater heroic responsibilities.",
+  "summaryGerman": "Sue Carter, eine 50-jährige Lehrerin mit einer Leidenschaft für Stickerei, entdeckt ihre Fähigkeit, die Zeit zu manipulieren, während sie an einem antiken Wandteppich arbeitet. Im Laufe einer Woche nutzt sie ihre Kräfte, um ihren Schülern zu helfen und Probleme in der Gemeinde zu lösen. Schließlich steht sie vor der Entscheidung zwischen ihrem normalen Leben und größeren Heldenaufgaben.",
+  "summaryDutch": "Sue Carter, een 50-jarige lerares met een passie voor borduren, ontdekt haar vermogen om tijd te manipuleren terwijl ze aan een oud wandtapijt werkt. Gedurende een week gebruikt ze haar krachten om haar leerlingen te helpen en gemeenschapsproblemen op te lossen, uiteindelijk geconfronteerd met de keuze tussen haar normale leven en grotere heldenverantwoordelijkheden.",
+  "summaryFrench": "Sue Carter, une enseignante de 50 ans passionnée de broderie, découvre sa capacité à manipuler le temps en travaillant sur une tapisserie ancienne. Tout au long d'une semaine, elle utilise ses pouvoirs pour aider ses élèves et résoudre des problèmes communautaires, devant finalement choisir entre sa vie normale et des responsabilités héroïques plus importantes.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "While teaching a history lesson, Sue stumbles upon a forgotten tapestry in the school's storage room. As she touches it, the threads shimmer, and time briefly freezes around her. She realizes she has a newfound power.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Excited, Sue experiments with her powers after school. She manages to slow down time to finish an embroidery project and notices her abilities also enhance her creativity.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "Sue uses her time-altering ability during a school emergency to safely evacuate everyone. Her quick thinking prevents what could have been a severe accident.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Conflicted about her secret, Sue confides in a trusted colleague who encourages her to use her powers for good. Inspired, she plans how to balance her dual life.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Armed with resolve, Sue discreetly uses her power to help struggling students understand difficult concepts instantly, greatly boosting their confidence.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a community clean-up, Sue speeds up time to efficiently clear the park of litter. Her small but significant contributions have a big impact on the neighborhood’s morale.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "At a local fair, Sue is confronted by a mystic who senses her abilities and warns of a coming challenge that will test her resolve. Sue faces the future, uncertain but empowered.",
+      "mood": "epic"
+    }
+  ],
+  "moral": "With great power comes great responsibility, and finding the right way to use it can bring goodness not only to oneself but also to the wider community.",
+  "ending": "As the sun set on a fateful Sunday, Sue Carter knew her life had changed forever, yet she felt ready for whatever challenges lay ahead."
+}

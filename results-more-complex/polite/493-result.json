@@ -1,0 +1,46 @@
+{
+  "title": "Ursula Rivera: The Spinning Guardian",
+  "summary": "Ursula Rivera discovers her superpowers while indulging in her hobbies of spinning and guiding. Throughout one eventful week, she learns to master these powers, faces challenges, and ultimately uses her abilities to save her city.",
+  "summaryGerman": "Ursula Rivera entdeckt ihre Superkräfte, während sie ihren Hobbys Spinnen und Führen nachgeht. Während einer ereignisreichen Woche lernt sie, diese Kräfte zu beherrschen, steht vor Herausforderungen und nutzt letztendlich ihre Fähigkeiten, um ihre Stadt zu retten.",
+  "summaryDutch": "Ursula Rivera ontdekt haar superkrachten terwijl ze zich bezighoudt met haar hobby's spinnen en gidsen. Gedurende een bewogen week leert ze deze krachten te beheersen, staat ze voor uitdagingen en gebruikt ze uiteindelijk haar vaardigheden om haar stad te redden.",
+  "summaryFrench": "Ursula Rivera découvre ses superpouvoirs tout en s'adonnant à ses passe-temps de filage et de guidage. Au cours d'une semaine mouvementée, elle apprend à maîtriser ces pouvoirs, fait face à des défis et utilise finalement ses capacités pour sauver sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ursula discovers she can manipulate threads of reality while at a spinning class, feeling both excited and overwhelmed.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While practicing her new powers, Ursula inadvertently causes a minor chaos downtown, leading to mixed feelings of guilt and determination to control her abilities.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Ursula meets an elderly spinner who teaches her the importance of precision and control, both in spinning and using her new powers.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thrusday",
+      "text": "Ursula uses her guiding skills in a local maze park to rescue a group of lost children, gaining confidence in her abilities.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A mysterious figure observes Ursula, causing her to feel a mixture of both fear and curiosity about the reach of her powers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Ursula confronts and befriends the mysterious watcher, who turns out to be a guardian of an ancient spinning guild, impressed by her skills.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Realizing the full extent of her powers, Ursula stops a catastrophe and becomes a celebrated hero, proud yet humbled by her journey.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And so, Ursula Rivera learned that with great power comes not only responsibility but also the chance to make a real change.",
+  "moral": "True mastery comes with patience and the responsible use of one's gifts."
+}

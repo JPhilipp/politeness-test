@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Hero: The Story of Hubert Hughes",
+  "summary": "Hubert Hughes, a 49-year-old consulting and tutoring enthusiast, discovers his latent telekinetic powers and uses them to solve various local problems over the span of a week culminating in thwarting a bank robbery.",
+  "summaryGerman": "Hubert Hughes, ein 49-jähriger Begeisterter für Beratung und Nachhilfe, entdeckt seine verborgenen telekinetischen Kräfte und nutzt sie, um im Laufe einer Woche verschiedene lokale Probleme zu lösen und schließlich einen Bankraub zu vereiteln.",
+  "summaryDutch": "Hubert Hughes, een 49-jarige liefhebber van adviseren en bijles geven, ontdekt zijn latente telekinetische krachten en gebruikt ze om verschillende lokale problemen op te lossen over een periode van een week, met als hoogtepunt het verijdelen van een bankoverval.",
+  "summaryFrench": "Hubert Hughes, un passionné de conseil et de tutorat âgé de 49 ans, découvre ses pouvoirs télékinétiques latents et les utilise pour résoudre divers problèmes locaux au cours d'une semaine, aboutissant à déjouer un braquage de banque.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Hubert Hughes starts his week feeling an unusual surge of energy as he goes about his usual consulting job. He accidentally moves his coffee cup across the table without touching it, leaving him puzzled.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Curious about his new ability, Hubert experiments at home, managing to lift small objects with his mind. He's excited but keeps it a secret, worried how it would be perceived.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "At a local school where he tutors, Hubert discreetly uses his powers to prevent a bullying incident, feeling thrilled and triumphant about his growing abilities.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Turday",
+      "text": "Hubert encounters a car accident and secretly uses his powers to rescue a trapped driver before emergency services arrive. He begins to see the potential good he can do.",
+      "mood": "heroic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Filled with a sense of duty, Hubert spends his day consulting for a non-profit, all the while subtly using his telekinesis to speed up their work, making the atmosphere unusually productive.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Emboldened, Hubert stops a robbery in progress at a local bank, discreetly manipulating the environment to trip the robbers and lock doors. His actions go unnoticed but leave him feeling like a true superhero.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Hubert decides to keep his powers hidden, using them only to help others. He feels a newfound peace in his dual life as a consultant and a secret hero.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus, in quiet strides, Hubert Hughes embraced his role, weaving the extraordinary into the threads of everyday life.",
+  "moral": "True heroism lies not in seeking recognition, but in the quiet decision to do good, even in secret."
+}

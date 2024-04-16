@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Xavier Griffin: The Baking Counselor",
+  "summary": "Xavier Griffin, a 56-year-old superhero known for his love of baking and giving advice, finds himself up against a mysterious villain, using his unique skills to save his town throughout the week.",
+  "summaryGerman": "Xavier Griffin, ein 56-jähriger Superheld, der seine Liebe zum Backen und Ratgeben bekannt ist, sieht sich einem geheimnisvollen Bösewicht gegenüber, der seine einzigartigen Fähigkeiten nutzt, um seine Stadt im Laufe der Woche zu retten.",
+  "summaryDutch": "Xavier Griffin, een 56-jarige superheld bekend om zijn liefde voor bakken en advies geven, staat tegenover een mysterieuze schurk, waarbij hij zijn unieke vaardigheden gebruikt om zijn stad gedurende de week te redden.",
+  "summaryFrench": "Xavier Griffin, un super-héros de 56 ans connu pour son amour de la pâtisserie et du conseil, se trouve face à un vilain mystérieux, utilisant ses compétences uniques pour sauver sa ville tout au long de la semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Starting the week, Xavier Griffin finds mysterious footprints in his bakery, leading to panic past the pastries. While calming his staff with his collected demeanor, Xavier senses something eerie even as the sun shines outside.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Banishing his fears, Xavier uses his baking skills to craft a 'detective pie', a recipe known to sharpen the mind. With each bite, he gathers clues, formulating theories about the intruder.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "His hunch leads him to the local library, where a dusty tome reveals the identity of his nemesis: the Cookie Crumbler. Xavier advises the librarian to protect important documents, anticipating the villain's next move.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Confronting the Cookie Crumbler, Xavier lands in a sticky situation at the city park. Using his knowledge of chemistry and baking, he crafts a trap involving yeast and sugar, leveraging the villain’s greed against him.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With the Cookie Crumbler captured, Xavier holds a community bake sale as a cover to discreetly exchange information with other local heroes, ensuring the town’s ongoing safety.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Taking a well-deserved break, Xavier bakes his famous victory cupcakes, distributing them among the town's children, sharing stories of bravery and the importance of community help.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week's events while giving sage advice to young aspiring heroes at the park, Xavier feels content, knowing his unique blend of hobbies can indeed make a difference.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "As the sun sets on Sunday, Xavier Griffin’s blend of baking and advising proves an unconventional but formidable shield against evil.",
+  "moral": "Never underestimate the power of combining your passions to make a positive impact."
+}

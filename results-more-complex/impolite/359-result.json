@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Heroics of Romeo Rodriguez",
+  "summary": "Romeo Rodriguez, a 70-year-old tutor, unexpectedly gains the power to absorb and share knowledge instantly. Throughout one week, he uses his powers to help his community, solve crimes, and inspire others, facing challenges along the way but ultimately bringing peace to his neighborhood.",
+  "summaryGerman": "Romeo Rodriguez, ein 70-jähriger Tutor, gewinnt unerwartet die Kraft, Wissen sofort aufzunehmen und zu teilen. Während einer Woche nutzt er seine Kräfte, um seiner Gemeinschaft zu helfen, Verbrechen zu lösen und andere zu inspirieren, steht dabei Herausforderungen gegenüber, bringt aber letztendlich Frieden in sein Viertel.",
+  "summaryDutch": "Romeo Rodriguez, een 70-jarige tutor, krijgt onverwachts de kracht om onmiddellijk kennis te absorberen en te delen. Gedurende één week gebruikt hij zijn krachten om zijn gemeenschap te helpen, misdaden op te lossen en anderen te inspireren, waarbij hij uitdagingen het hoofd biedt maar uiteindelijk vrede brengt in zijn buurt.",
+  "summaryFrench": "Romeo Rodriguez, un tuteur de 70 ans, gagne inopinément le pouvoir d'absorber et de partager instantanément des connaissances. Tout au long d'une semaine, il utilise ses pouvoirs pour aider sa communauté, résoudre des crimes et inspirer les autres, faisant face à des défis en cours de route mais apportant finalement la paix dans son quartier.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Romeo discovered his new power when a student asked a complex mathematic problem and, without thinking, he answered it instantly and accurately.",
+      "mood": "surprised"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Excited, Romeo tested his ability by learning a new language over breakfast and taught it perfectly during his tutoring sessions.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "With his growing confidence, he helped local police solve a minor burglary using his newfound ability to recall every detail from a witness's statement.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tursday",
+      "text": "Romeo felt the strain today; while he found great joy in helping, the constant demands for his assistance were overwhelming.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Refocused and determined, he organized a community learning event which turned into a great success, restoring his energy.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The news spread, and a documentary crew came to capture Romeo's story, which he hoped would inspire others to share their own unique skills with the world.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Closing the week, Romeo enjoyed a peaceful day reflecting on the impact he had made, confident that the upcoming week would bring new challenges he could meet.",
+      "mood": "peaceful"
+    }
+  ],
+  "moral": "Even unexpected gifts can become powerful tools when used for the welfare of others.",
+  "ending": "As the sun set on Sunday, Romeo Rodriguez looked to the future, knowing he had changed many lives, including his own."
+}

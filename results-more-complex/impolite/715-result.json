@@ -1,0 +1,46 @@
+{
+  "title": "The Serene Strength of Ivan Phillips",
+  "summary": "Ivan Phillips, a 57-year-old who enjoys praying and teaching, discovers his unexpected superpowers, helping his community in subtle but powerful ways over the course of one week.",
+  "summaryGerman": "Ivan Phillips, ein 57-Jähriger, der gerne betet und unterrichtet, entdeckt seine unerwarteten Superkräfte und hilft seiner Gemeinde auf subtile, aber machtvolle Weise im Laufe einer Woche.",
+  "summaryDutch": "Ivan Phillips, een 57-jarige die graag bidt en lesgeeft, ontdekt zijn onverwachte superkrachten en helpt zijn gemeenschap op subtiele maar krachtige manieren gedurende een week.",
+  "summaryFrench": "Ivan Phillips, âgé de 57 ans qui aime prier et enseigner, découvre ses superpouvoirs inattendus, aidant sa communauté de manière subtile mais puissante au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "As the dawn breaks, Ivan Phillips kneels in the small chapel of his town, deep in prayer, when he suddenly feels a surge of warmth and vitality unlike anything he has experienced before.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Harnessing the mysterious energy from yesterday, Ivan teaches his history class with unprecedented clarity and passion, inspiring his students to engage more deeply with the material.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "While walking home, Ivan encounters a troubled youth from his church. After a heartfelt talk and a humble prayer, the young man leaves with a newfound hope, and Ivan realizes his prayers now carry a healing touch.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thuersday",
+      "text": "The news of Ivan’s healing prayers spreads, and a small crowd gathers at his house seeking guidance. Ivan spends the day counseling and comforting his visitors, each leaving visibly lighter and uplifted.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Ivan's continuous praying draws celestial visions that direct him to prevent a looming crisis at the local school. His timely intervention avoids what could have been a disaster.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Worn out yet fulfilled, Ivan spends a quiet day at home, reflecting on the events of the past week, and writes down his thoughts and experiences in his diary, considering them as lessons of faith.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "During the Sunday service, Ivan shares his testimony, reinforcing the faith of his community. His calm demeanor and mysterious power make the service deeply impactful for all present.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And so, through humanitarian deeds and a deep connection to his faith, Ivan Phillips became a superhero in his own right, proving that true power lies in service and compassion.",
+  "moral": "True greatness comes not from what you have, but from what you give in service to others."
+}

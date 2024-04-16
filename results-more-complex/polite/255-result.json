@@ -1,0 +1,46 @@
+{
+  "title": "The Quilting Advisor: The Tailor-Made Heroics of Walter Robinson",
+  "summary": "Walter Robinson, an unassuming 22-year-old with a passion for advising and quilting, discovers his ability to manipulate fabrics to protect his town from danger. Over a week, his unique powers emerge, leading him to become a local hero.",
+  "summaryGerman": "Walter Robinson, ein unauffälliger 22-Jähriger mit einer Leidenschaft für Beratung und Quilten, entdeckt seine Fähigkeit, Stoffe zu manipulieren, um seine Stadt vor Gefahren zu schützen. Innerhalb einer Woche treten seine einzigartigen Kräfte zutage, was ihn zu einem lokalen Helden macht.",
+  "summaryDutch": "Walter Robinson, een onopvallende 22-jarige met een passie voor adviseren en quilten, ontdekt zijn vermogen om stoffen te manipuleren om zijn stad te beschermen tegen gevaar. Gedurende een week komen zijn unieke krachten naar voren, waardoor hij een lokale held wordt.",
+  "summaryFrench": "Walter Robinson, un jeune homme discret de 22 ans passionné de conseil et de patchwork, découvre sa capacité à manipuler les tissus pour protéger sa ville du danger. Au cours d'une semaine, ses pouvoirs uniques se révèlent, faisant de lui un héros local.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Walter, while quilting a new design, accidentally stitches a fabric that feels extraordinarily tough yet light. Curiosity piqued, he experiments further.",
+      "mood": "curious"
+    },
+    {
+      "weekday": "Tuersday",
+      "text": "Testing his fabric's strength, Walter crafts a protective cloak. Tonight, he bravely stops a minor theft, realizing his potential as a guardian.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "News of 'Fabric Shield,' a mysterious new hero, starts circulating. Walter feels a mix of pride and anxiety as he sews more gear.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "During a counseling session at the community center, Walter discreetly uses his fabric powers to avert an accident, reinforcing his resolve to help anonymously.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "As his heroic deeds gain attention, Walter designs a signature costume, blending his love for quilting with his mission to advise and protect.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The town holds a festival, and 'Fabric Shield' is now a beloved figure. Walter, under his alias, saves a child from a falling decoration, witnessed by all.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Walter feels fulfilled. He commits to being 'Fabric Shield' full-time, ready to stitch and shield whenever needed.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Behind every stitch, there's a hero waiting to be threaded into the fabric of society.",
+  "moral": "Embrace your unique talents, for they might weave a greater purpose into your life."
+}

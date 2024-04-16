@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Heroism of Pit Wilson",
+  "summary": "A retired lecturer, Pit Wilson, uses his old skills and newfound powers to save his town over the span of a week.",
+  "summaryGerman": "Ein pensionierter Dozent, Pit Wilson, nutzt seine alten Fähigkeiten und neu entdeckten Kräfte, um seine Stadt im Verlauf einer Woche zu retten.",
+  "summaryDutch": "Een gepensioneerde docent, Pit Wilson, gebruikt zijn oude vaardigheden en nieuw gevonden krachten om zijn stad te redden gedurende een week.",
+  "summaryFrench": "Un conférencier retraité, Pit Wilson, utilise ses anciennes compétences et ses nouveaux pouvoirs pour sauver sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Pit Wilson discovered his power to control time after a mystical encounter in his basement. Energized, he decided to use it to help others.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesdsay",
+      "text": "Using his power, Pit paused time to save a child from a runaway car, feeling triumphant in his newfound role as a protector.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "During a lecture on local history, Pit felt an eerie sense of danger. He later used his time-control to prevent a bank robbery.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Pit grew thoughtful and somewhat sad about the loneliness of his secret. He spent the day reflecting on his past, feeling a mix of nostalgia and isolation.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "While guiding a group through a museum, Pit sensed a thief. He used his abilities to retrieve stolen artifacts, feeling romantic about preserving history.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The town hailed him as a hero during a small ceremony; word of his deeds had spread. Pit felt happy and accepted, enjoying a peaceful evening.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Looking back on the week, Pit realized the impact he could have. He decided to embrace his powers fully, feeling at peace with his dual life.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Pit Wilson continued as a guardian of time and protector of his town, ever vigilant and wise.",
+  "moral": "No matter your age or profession, you have the power to make a positive change in the world."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Eerie Evolution of Pit Parker",
+  "summary": "Pit Parker, a 19-year-old counseling enthusiast, discovers his incredible ability to empathize with and heal people's emotional wounds over the course of a week, transforming into the superhero 'Empathicon'.",
+  "summaryGerman": "Pit Parker, ein 19-jähriger Beratungsenthusiast, entdeckt im Laufe einer Woche seine unglaubliche Fähigkeit, sich in die emotionalen Wunden der Menschen einzufühlen und sie zu heilen, und verwandelt sich in den Superhelden 'Empathicon'.",
+  "summaryDutch": "Pit Parker, een 19-jarige liefhebber van counseling, ontdekt gedurende een week zijn ongelooflijke vermogen om zich in te leven en de emotionele wonden van mensen te genezen, waardoor hij verandert in de superheld 'Empathicon'.",
+  "summaryFrench": "Pit Parker, un passionné de counseling de 19 ans, découvre au cours d'une semaine sa capacité incroyable à empathiser avec et à guérir les blessures émotionnelles des gens, se transformant en super-héros 'Empathicon'.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Pit Parker begins his week feeling uneasy as strange, vivid dreams about people's emotions keep him awake. His instinct to help grows stronger.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Walking through the city park, Pit encounters a crying child and, upon touching his hand, suddenly feels the child’s sadness as if it were his own. He comforts the child effortlessly, feeling energized by this newfound connection.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Empowered by yesterday's encounter, Pit volunteers at a local counseling center. He discovers he can see auras, identifying exactly how to assist each visitor.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tursday",
+      "text": "Pit meets Lena, a volunteer, who shares his deep passion for helping others. As they work together, a romantic connection forms, grounded in their mutual desire to heal.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "An emergency at the center tests Pit's abilities when a group of people come in, overwhelmed by anxiety. Pit manages to calm the entire group single-handedly, feeling his power surge.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With his confidence at an all-time high, Pit takes to the streets, helping random passersby with their hidden pains. The city feels a wave of peace thanks to his efforts.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his incredible week, Pit embraces his role as 'Empathicon', vowing to use his powers to foster understanding and compassion in the world.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus began the legend of Empathicon, the healer of hearts.",
+  "moral": "Empathy is a superpower that can change lives and bring people together."
+}

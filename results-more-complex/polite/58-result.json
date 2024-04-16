@@ -1,0 +1,46 @@
+{
+  "title": "The Triumphant Tales of Zelda Nelson",
+  "summary": "In one week, Zelda Nelson goes from consulting and playing sports to unexpectedly defending her town from an elusive threat, utilizing her unparalleled strategic skills and physical prowess to become a local superhero.",
+  "summaryGerman": "In einer Woche geht Zelda Nelson vom Beraten und Sportspielen dazu über, ihre Stadt unerwartet vor einer schwer fassbaren Bedrohung zu verteidigen, indem sie ihre unübertroffenen strategischen Fähigkeiten und ihre körperliche Stärke nutzt, um zu einer lokalen Superheldin zu werden.",
+  "summaryDutch": "In één week tijd gaat Zelda Nelson van het geven van advies en sporten naar het onverwacht verdedigen van haar stad tegen een ongrijpbare dreiging, waarbij ze haar ongeëvenaarde strategische vaardigheden en fysieke kracht gebruikt om een lokale superheld te worden.",
+  "summaryFrench": "En une semaine, Zelda Nelson passe de la consultation et du sport à la défense inattendue de sa ville contre une menace insaisissable, utilisant ses compétences stratégiques inégalées et sa prouesse physique pour devenir une super-héroïne locale.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda Nelson, recently retired, awoke feeling dynamic and energetic, deciding to spend her morning providing pro-bono consulting to local businesses.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tyesday",
+      "text": "While playing tennis, she noticed peculiar drones observing the players. An eerie feeling overtook Zelda as she began to connect this odd observation with recent local disturbances.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Determined, Zelda used her consulting breaks to research drone technology and local disturbances. Her discoveries were unsettling but her mood was triumphant as she began to unravel the clues.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Zelda shared her suspicions with her tennis club, rallying a group of elderly athletes to monitor suspicious activities. The communal spirit was peaceful yet charged with determination.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Using her consultative tactics, Zelda organized a watch squad among her friends, planning how to handle the mystery practically and safely. The strategy session was intense but hopeful.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Zelda's team intercepted the drones and traced them to a local tech startup misusing technology to spy on residents. Zelda's action was decisive and epic, leading her team with courage.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "After the authorities handled the rogue startup, Zelda was hailed as a hero. The neighborhood celebrated her bravery with a small ceremony at the tennis court, filled with admiration and gratitude.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "Even at 73, Zelda Nelson proved that age is just a number when it comes to protecting her community and demonstrating true heroism.",
+  "moral": "Courage and wisdom often come with age, empowering even the most unassuming individuals to make a significant impact."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Valor: Frank Torres",
+  "summary": "At 67, Frank Torres discovers his hidden abilities and saves his town from an impending disaster.",
+  "summaryGerman": "Mit 67 entdeckt Frank Torres seine verborgenen Fähigkeiten und rettet seine Stadt vor einer bevorstehenden Katastrophe.",
+  "summaryDutch": "Op 67-jarige leeftijd ontdekt Frank Torres zijn verborgen vaardigheden en redt hij zijn stad van een dreigende ramp.",
+  "summaryFrench": "À 67 ans, Frank Torres découvre ses capacités cachées et sauve sa ville d'une catastrophe imminente.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank Torres wakes feeling unusually energetic, with a sense he can do more than ever before.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tueesday",
+      "text": "While training at the local gym, Frank stops a machinery accident with reflexes he didn’t know he had.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Reports of strange tremors across town unsettle Frank. He feels an eerie connection to these events.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Investigating the tremors, Frank discovers an underground lab. He’s filled with a sense of purpose.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With his new abilities, Frank dismantles a device in the lab designed to trigger earthquakes, saving countless lives.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The town celebrates Frank as a hero. At 67, he experiences a moment of romantic admiration from his long-time crush.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his actions, Frank feels peaceful, ready to continue serving his community in new ways.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus, Frank Torres found not just his strength but his place as a guardian of his town.",
+  "moral": "No matter the age, one can always be the hero of their own story."
+}

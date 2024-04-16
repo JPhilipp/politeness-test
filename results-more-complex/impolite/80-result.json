@@ -1,0 +1,46 @@
+{
+  "title": "Zelda Hayes: The Guiding Light",
+  "summary": "Zelda Hayes, a 21-year-old teacher with a passion for guiding, discovers her ability to enhance others' skills through touch. Throughout a week, she faces challenges and successes, ultimately using her powers to secretly aid her community.",
+  "summaryGerman": "Zelda Hayes, eine 21-jährige Lehrerin mit einer Leidenschaft für das Führen, entdeckt ihre Fähigkeit, die Fähigkeiten anderer durch Berührung zu verbessern. Über eine Woche hinweg steht sie vor Herausforderungen und Erfolgen und nutzt ihre Kräfte letztendlich, um ihrer Gemeinschaft heimlich zu helfen.",
+  "summaryDutch": "Zelda Hayes, een 21-jarige lerares met een passie voor begeleiden, ontdekt haar vermogen om de vaardigheden van anderen te verbeteren door aanraking. Gedurende een week wordt ze geconfronteerd met uitdagingen en successen, uiteindelijk gebruikt zij haar krachten om stiekem haar gemeenschap te helpen.",
+  "summaryFrench": "Zelda Hayes, une enseignante de 21 ans passionnée par le guidage, découvre sa capacité à améliorer les compétences des autres par le toucher. Tout au long d'une semaine, elle fait face à des défis et à des succès, utilisant finalement ses pouvoirs pour aider secrètement sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda discovers her unique ability when she accidentally enhances her friend's piano playing just by touching their shoulder.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "She tests her power on another friend at the library, resulting in a dramatic improvement in their reading comprehension.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednessday",
+      "text": "Zelda decides to use her power to help others, discreetly initiating small study groups at her home.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "She faces doubts about the ethics of her power, feeling sad but determined to find a moral way to use it.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Zelda sees a direct impact, with many students performing better. It leaves her feeling peaceful and content.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "At a city-wide teaching symposium, she secretly helps a struggling speaker, boosting their confidence anonymously.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Zelda commits to using her power for good, ensuring it remains a secret to protect her and those she aids.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And so, Zelda Hayes became an unsung hero, using her gift to quietly transform lives, one touch at a time.",
+  "moral": "Great power does not only lie in the extraordinary, but often in the subtle acts of kindness."
+}

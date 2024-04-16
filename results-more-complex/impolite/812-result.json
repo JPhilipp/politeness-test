@@ -1,0 +1,46 @@
+{
+  "title": "The Sculptor Guardian: The tale of Trent Green",
+  "summary": "Trent Green, a sculptor by day and a masked guardian by night, discovers mystical powers within his sculptures which help him protect his city from an impending supernatural threat over the course of a week.",
+  "summaryGerman": "Trent Green, tagsüber Bildhauer und nachts maskierter Wächter, entdeckt mystische Kräfte in seinen Skulpturen, die ihm helfen, seine Stadt vor einer bevorstehenden übernatürlichen Bedrohung im Laufe einer Woche zu schützen.",
+  "summaryDutch": "Trent Green, overdag beeldhouwer en 's nachts een gemaskerde bewaker, ontdekt mystieke krachten in zijn beeldhouwwerken die hem helpen zijn stad te beschermen tegen een naderende bovennatuurlijke dreiging gedurende een week.",
+  "summaryFrench": "Trent Green, sculpteur le jour et gardien masqué la nuit, découvre des pouvoirs mystiques dans ses sculptures qui l'aident à protéger sa ville d'une menace surnaturelle imminente au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Trent Green begins his week sculpting a large marble piece, feeling happy and content in his peaceful workshop.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While cleaning his studio, Trent stumbles upon a hidden ancient artifact. This find gives his sculptures eerie life-like properties.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesdy",
+      "text": "The artifacts' power fully awakens; his newest sculpture aids him in thwarting a robbery, marking the start of his dual life.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "In love with the thrill, Trent sculpts more guardians, finding himself in an unexpected romantic encounter with a fellow artist.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "An ancient evil senses the power of Trent's sculptures and targets the city, resulting in a dramatic show of force from Trent's creations.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Guided by his sculptures, Trent leads the city's defense, his fear and adrenaline pushing him to sculpt one final massive protector.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The city safe, Trent's sculptures return to normal. The mysterious power fades, leaving him feeling satisfied yet nostalgic.",
+      "mood": "sad"
+    }
+  ],
+  "ending": "And so, Trent Green's ordinary passion for sculpture unknowingly saved his city, teaching him the power hidden in everyday love and dedication.",
+  "moral": "Even ordinary passions can harbor extraordinary powers."
+}

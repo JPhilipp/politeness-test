@@ -1,0 +1,46 @@
+{
+  "title": "The Consulting Chronicles of Heidi Miller",
+  "summary": "Heidi Miller, a 42-year-old advisor, discovers her superpowers of influencing thoughts and becomes a hero saving her city from corporate espionage.",
+  "summaryGerman": "Heidi Miller, eine 42-jährige Beraterin, entdeckt ihre Superkräfte, Gedanken zu beeinflussen, und wird zur Heldin, die ihre Stadt vor Wirtschaftsspionage rettet.",
+  "summaryDutch": "Heidi Miller, een 42-jarige adviseuse, ontdekt haar superkrachten om gedachten te beïnvloeden en wordt een heldin die haar stad redt van bedrijfsspionage.",
+  "summaryFrench": "Heidi Miller, une conseillère de 42 ans, découvre ses super-pouvoirs pour influencer les pensées et devient une héroïne qui sauve sa ville de l'espionnage industriel.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Heidi Miller stumbles upon her ability to subtly influence thoughts while consulting at a high-stakes business meeting. The success is exhilarating.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Excited by her newfound power, Heidi experiments with purpose, realizing the extent of her abilities on her consulting colleagues.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesnday",
+      "text": "A mysterious competitor emerges, threatening to reveal Heidi's secret. The air is tense and eerie as Heidi feels her privacy being invaded.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Rallying her courage and wit, Heidi devises a brilliant plan to safeguard her abilities and reveal the competitor's espionage activities.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Heidi's plan goes into action as she turns the tables on the competitor, exposing him with grace under the guise of a routine consultation. The day ends on a high note.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Reflecting on her actions, Heidi feels peaceful. She consults with local authorities to ensure no further threats remain, enjoying a quiet day.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Celebrating her victory, Heidi spends the day advising young entrepreneurs, encouraged and admired for her profound wisdom and strength.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Heidi Miller continues her journey, ever vigilant, always ready to consult and protect.",
+  "moral": "With great power comes great responsibility."
+}

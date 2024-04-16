@@ -1,0 +1,46 @@
+{
+  "title": "The Quilted Guardian: Jin Campbell's Unexpected Journey",
+  "summary": "At age 57, Jin Campbell discovers her supernatural abilities which she uses to protect her community over a week, during which she combines her love for quilting and mentoring to confront challenges and adversaries.",
+  "summaryGerman": "Im Alter von 57 Jahren entdeckt Jin Campbell ihre übernatürlichen Fähigkeiten, die sie verwendet, um ihre Gemeinde über eine Woche zu schützen, in der sie ihre Liebe zum Quilten und Mentoring kombiniert, um Herausforderungen und Gegner zu bewältigen.",
+  "summaryDutch": "Op 57-jarige leeftijd ontdekt Jin Campbell haar bovennatuurlijke vaardigheden die ze gebruikt om haar gemeenschap te beschermen over een week, waarin ze haar liefde voor quilten en mentoring combineert om uitdagingen en tegenstanders het hoofd te bieden.",
+  "summaryFrench": "À l'âge de 57 ans, Jin Campbell découvre ses capacités surnaturelles qu'elle utilise pour protéger sa communauté pendant une semaine, au cours de laquelle elle combine son amour pour le quilting et le mentorat pour affronter des défis et des adversaires.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Jin discovers she can manipulate textiles with her mind while quilting, an eerie realization that leaves her both excited and apprehensive.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuedsay",
+      "text": "She uses her newfound powers to stop a small robbery, sewing the thief's sneakers to the pavement, feeling triumphant yet slightly overwhelmed.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Jin mentors a young group of textile artists, inspiring them with her skills and subtly using her powers to enhance their creative projects, which brings her peace.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Rumors start to swirl around town about a 'textile witch.' Jin feels the need to hide her abilities but ends up using them to discreetly help a couple stuck in a tree, feeling romantic.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A major crisis occurs when a local dam begins to crack. Jin uses her powers to knit a massive quilt barrier, holding back the water and protecting the town, feeling energetic and epic.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Her story makes the local news as 'The Quilting Hero,' though her identity remains a secret. Jin feels a mix of happiness and anxiety as she watches her story unfold publicly from her home.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Jin decides to embrace her powers more openly, offering workshops that combine quilting with self-defense techniques, feeling ready for whatever comes next.",
+      "mood": "energetic"
+    }
+  ],
+  "ending": "Thus, Jin Campbell knitted her way into the hearts of her community, threading the fabric of charisma and courage together.",
+  "moral": "Embrace your uniqueness; sometimes the quirkiest of skills can turn into the most heroic of deeds."
+}

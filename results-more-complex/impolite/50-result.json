@@ -1,0 +1,46 @@
+{
+  "title": "The Spectacular Week of Zelda Price: Consulting Hero",
+  "summary": "Zelda Price discovers her unique ability to manipulate time while balancing her work as a consultant and teacher, using her powers to thwart a corporate espionage attempt and inspire her students.",
+  "summaryGerman": "Zelda Price entdeckt ihre einzigartige Fähigkeit, die Zeit zu manipulieren, während sie ihre Arbeit als Beraterin und Lehrerin ausgleicht, und nutzt ihre Kräfte, um einen Versuch der Wirtschaftsspionage zu vereiteln und ihre Schüler zu inspirieren.",
+  "summaryDutch": "Zelda Price ontdekt haar unieke vermogen om tijd te manipuleren terwijl ze haar werk als consultant en leraar in evenwicht houdt, haar krachten gebruikt om een poging tot bedrijfsspionage te dwarsbomen en haar studenten te inspireren.",
+  "summaryFrench": "Zelda Price découvre sa capacité unique à manipuler le temps tout en équilibrant son travail de consultante et d'enseignante, utilisant ses pouvoirs pour déjouer une tentative d'espionnage industriel et inspirer ses élèves.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda Price starts her week feeling energetic, eagerly strategizing innovative solutions at a major consulting firm. Unknown to her colleagues, her ability to 'see' minutes ahead saves a critical meeting from sabotage.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesady",
+      "text": "On Tuesday, Zelda uses her spare time for a guest lecture at a local university. She feels triumphant when she detects a student's hidden potential and mentors him, foreseeing his bright future.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Mid-week reveals Zelda's eerie feeling as she senses an impending disaster. Her quick intervention during a hacking attempt at her firm uncovers a rival company's scheme, using her unique powers subtly and effectively.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Feeling romantic, Zelda enjoys a peaceful evening walk with a colleague, sharing insights on life and finding common ground, deepening their professional relationship.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "An epic conclusion to her work week occurs when Zelda, harnessing her time manipulation skill, coordinates her team to prevent a data breach, solidifying her role as an unsung hero at the firm.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Zelda spends a peaceful day consulting pro bono for non-profits, teaching them to optimize operations. Her contentment shines as she gives back to the community.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Zelda feels happy and fulfilled, preparing lesson plans and strategies for the upcoming week, determined to continue making a difference.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And so, Zelda Price stood as a beacon of inspiration and justice, not just in her own eyes, but in the eyes of all those she touched.",
+  "moral": "The truest form of heroism lies in the impact we have on others."
+}

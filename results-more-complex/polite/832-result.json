@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Grace Garcia: Hero of Knowledge",
+  "summary": "Over one week, Grace Garcia, a retired teacher and master convincer, uses her powers of persuasion and knowledge to stop a city-wide conflict and bring peace to her community.",
+  "summaryGerman": "Über eine Woche hinweg verwendet Grace Garcia, eine pensionierte Lehrerin und Meisterin der Überzeugung, ihre Überzeugungskraft und ihr Wissen, um einen stadtweiten Konflikt zu stoppen und Frieden in ihre Gemeinde zu bringen.",
+  "summaryDutch": "Gedurende één week gebruikt Grace Garcia, een gepensioneerde lerares en meester in overtuigen, haar overtuigingskracht en kennis om een stadsbreed conflict te stoppen en vrede te brengen in haar gemeenschap.",
+  "summaryFrench": "Pendant une semaine, Grace Garcia, une enseignante à la retraite et maître de la persuasion, utilise ses pouvoirs de persuasion et son savoir pour arrêter un conflit à l'échelle de la ville et apporter la paix dans sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Grace Garcia awakens feeling energetic and ready to tackle her community's mounting unrest due to recent layoffs. She heads to the local community center to offer free classes on negotiation and conflict resolution.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "After a successful first day, Grace feels happy but notices the tensions among groups aren't fully settled. She spends her day visiting various families, offering counsel and teaching coping mechanisms.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Grace holds a large community meeting, feeling triumphant as her tireless work begins to sow seeds of compromise among the attendees.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "An eerie silence takes over as negotiations stall. Grace works late into the night, developing new strategies to help bridge differences among community leaders.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With new tactics in place, Grace feels energetic again, spending the day facilitating dialogues which start to show signs of progress toward an agreement.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "An unexpected romantic support comes from her long-time friend who brings her flowers and words of encouragement, boosting her morale and renewing her resolve.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The week ends on a peaceful note as Grace's efforts culminate in a signed agreement among community leaders, securing a temporary peace and setting up a framework for future discussions.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the sun set on a quiet Sunday evening, Grace Garcia smiled, knowing her city was a little safer, thanks to her.",
+  "moral": "Determination and knowledge can transform conflicts into opportunities for growth and unity."
+}

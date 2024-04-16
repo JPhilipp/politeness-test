@@ -1,0 +1,46 @@
+{
+  "title": "The Quiet Triumph of Alice Hall",
+  "summary": "Alice Hall, a 73-year-old woman who enjoys worshiping and meditating, discovers her unique ability to heal through spiritual energy, using it to help her community over the course of a week.",
+  "summaryGerman": "Alice Hall, eine 73-jährige Frau, die gerne betet und meditiert, entdeckt ihre einzigartige Fähigkeit, durch spirituelle Energie zu heilen, und nutzt sie, um ihrer Gemeinschaft im Laufe einer Woche zu helfen.",
+  "summaryDutch": "Alice Hall, een 73-jarige vrouw die van aanbidden en mediteren houdt, ontdekt haar unieke vermogen om te genezen door spirituele energie, en gebruikt dit om haar gemeenschap gedurende een week te helpen.",
+  "summaryFrench": "Alice Hall, une femme de 73 ans qui aime adorer et méditer, découvre sa capacité unique à guérir par l'énergie spirituelle, l'utilisant pour aider sa communauté au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Alice Hall starts her week with a peaceful morning meditation, feeling an unusual warmth spreading through her hands. Curious but serene, she embraces this new sensation.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuedsay",
+      "text": "Feeling empowered, Alice encounters a sick neighbor. Instinctively, she holds her hands over the ailing area, and to her and her neighbor's surprise, the pain eases.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Word spreads about Alice's healing touch. People start visiting her, hoping for relief. Alice feels a deep connection with each person she helps, fulfilling her sense of purpose.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The local news catches wind of Alice's abilities. They interview her, capturing the entire town's attention. Despite the buzz, Alice remains humble and focused.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "As more people visit, Alice’s energy begins to wane. However, during her evening meditation, she feels reinvigorated by a mysterious, ethereal presence.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With renewed vigor, Alice continues to heal and even starts teaching others how to tap into their own spiritual energies, expanding her impact.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Alice feels an overwhelming sense of peace and joy. She realizes she’s found her calling later in life and is grateful for this gift.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "In the quiet moments of life, great power can emerge.",
+  "moral": "It's never too late in life to discover your true potential and make a difference."
+}

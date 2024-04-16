@@ -1,0 +1,46 @@
+{
+  "title": "The Green Guardian: The Rise of Frank Bell",
+  "summary": "Frank Bell, a 51-year-old guide and gardening enthusiast, discovers unique powers in his gardening gloves that enable him to manipulate plant life. Over the span of a week, he transforms from an ordinary gardener to a superhero safeguarding his city from environmental threats.",
+  "summaryGerman": "Frank Bell, ein 51-jähriger Führer und Gartenliebhaber, entdeckt einzigartige Kräfte in seinen Gartenhandschuhen, die es ihm ermöglichen, das Pflanzenleben zu manipulieren. Innerhalb einer Woche verwandelt er sich von einem gewöhnlichen Gärtner in einen Superhelden, der seine Stadt vor Umweltbedrohungen schützt.",
+  "summaryDutch": "Frank Bell, een 51-jarige gids en tuinliefhebber, ontdekt unieke krachten in zijn tuinhandschoenen die hem in staat stellen om plantenleven te manipuleren. Binnen een week verandert hij van een gewone tuinman in een superheld die zijn stad beschermt tegen milieudreigingen.",
+  "summaryFrench": "Frank Bell, un guide et passionné de jardinage âgé de 51 ans, découvre des pouvoirs uniques dans ses gants de jardinage qui lui permettent de manipuler la vie végétale. En l'espace d'une semaine, il se transforme d'un jardinier ordinaire en un super-héros protégeant sa ville des menaces environnementales.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank discovers his gardening gloves hum softly when near certain plants. Curiosity peaked as tulips grew three times their size within seconds.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Test driving his new abilities, Frank causes a miniature grove of blossoms in his backyard. Amazed and excited, he vows to explore his powers further.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "Frank saves a local park from a developer’s bulldozers by rapidly growing a wall of thick ivy, creating a green barrier. The community applauds his efforts.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "After a nightfall of reflection, Frank decides to dedicate himself to fighting pollution and preserving green spaces, adopting the name 'The Green Guardian'.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Frank's newfound fame draws the attention of a mysterious corporation who attempt to seize his gloves. Using vines, he thwarts their agents, dragging them away.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "While guiding a tour in the botanical gardens, Frank discreetly uses his powers to restore wilting plants, delighting his group and spreading awareness about plant care.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "At home, Frank spends a peaceful day in his garden, contemplating how his life has transformed, planning his future deeds to protect his city’s environment.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "With his garden thriving and his resolve stronger than ever, Frank Bell stood ready to root out any threat to his beloved city's greenery.",
+  "moral": "No matter our age or life path, we can always become a hero in our unique way."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Zelda Martinez: Bargain Hero",
+  "summary": "Zelda Martinez, a 76-year-old with a knack for bargaining and coaching, becomes a local hero by using her unique skills to solve a series of neighborhood issues.",
+  "summaryGerman": "Zelda Martinez, eine 76-jährige Frau mit einem Talent für Verhandlungen und Coaching, wird zur lokalen Heldin, indem sie ihre einzigartigen Fähigkeiten nutzt, um eine Reihe von Problemen in der Nachbarschaft zu lösen.",
+  "summaryDutch": "Zelda Martinez, een 76-jarige vrouw met een talent voor onderhandelen en coachen, wordt een lokale heldin door haar unieke vaardigheden te gebruiken om een serie problemen in de buurt op te lossen.",
+  "summaryFrench": "Zelda Martinez, une femme de 76 ans avec un talent pour la négociation et le coaching, devient une héroïne locale en utilisant ses compétences uniques pour résoudre une série de problèmes de quartier.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda Martinez, energized by her recent win at a local bargaining contest, decides to tackle the high prices at the local grocery. With wit and charm, she negotiates with the manager, securing discounts for seniors.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Inspired by her success, Zelda hosts a coaching session to teach her neighbors negotiation tactics. The group, full of enthusiasm, prepares to apply these skills in their daily lives.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednedsay",
+      "text": "The training pays off when a developer announces plans to build a supermarket that would endanger local shops. Zelda and her trainees organize and persuasively argue their case at a town meeting.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The atmosphere shifts as Zelda receives threatening calls warning her to stop her activism. Shaken but determined, she strategizes her next moves in secret.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Zelda unveils her secret weapon: a massive petition signed by hundreds, pressuring the developer to reconsider. The news spreads, energizing the community to stand united.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Amidst the struggle, Zelda finds unlikely allies in other senior activists from neighboring towns. They exchange ideas and pledge support, deepening her resolve and network.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The developer withdraws the plans, citing community spirit and resilience. Zelda, revered by her peers, relaxes at a celebratory barbecue, her heart full of pride and joy.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Zelda's wisdom and spirit remind us that age is just a number when it comes to making a difference.",
+  "moral": "Never underestimate the power of unity and the impact of a determined individual."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Serene Adventures of Hubert Hughes",
+  "summary": "Hubert Hughes, a 39-year-old crochet and photography enthusiast, discovers his ability to manipulate time during a week-long adventure, learning about courage and community.",
+  "summaryGerman": "Hubert Hughes, ein 39-jähriger Liebhaber von Häkeln und Fotografie, entdeckt während eines einwöchigen Abenteuers seine Fähigkeit, die Zeit zu manipulieren, und lernt dabei über Mut und Gemeinschaft.",
+  "summaryDutch": "Hubert Hughes, een 39-jarige liefhebber van haken en fotografie, ontdekt zijn vermogen om tijd te manipuleren tijdens een week lang avontuur, waarin hij leert over moed en gemeenschap.",
+  "summaryFrench": "Hubert Hughes, un passionné de crochet et de photographie âgé de 39 ans, découvre sa capacité à manipuler le temps lors d'une aventure d'une semaine, apprenant ainsi le courage et la communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Hubert Hughes, while attending a serene photo shoot in the park, accidentally captures a mysterious glowing figure in his camera, feeling a sudden rush of energy.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Exploring his newly discovered ability to freeze time, Hubert uses it to save a child from a falling tree branch, feeling triumphant and heroic.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Hubert experiments with his powers by visiting a bustling city scene and halting time to practice his photography in perfect stillness, finding peace.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thrusday",
+      "text": "Conflicted about the moral implications of his power, Hubert spends a day in contemplation and chats with a wise old woman who encourages him to use his gift for good.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Emboldened, Hubert uses his time-stopping ability to orchestrate a surprise community event, capturing the joyful moments and stitching together a photo collage.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The mysterious figure reappears, revealing herself as a time guardian who warns Hubert about the dangers of overusing his power, leaving him feeling apprehensive.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Determined to be responsible, Hubert decides to use his powers only when absolutely necessary, capturing a stunning sunset that symbolizes the end of his tumultuous week, yet promising a new chapter.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "With newfound wisdom and a camera full of memories, Hubert Hughes embraces his dual passion for photography and heroism, ever ready to pause time just right.",
+  "moral": "Great power involves great responsibility, and finding a balance is key to using it wisely."
+}

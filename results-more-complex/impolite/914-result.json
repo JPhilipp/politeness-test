@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Valor: Yvonne Bennett's Rise",
+  "summary": "A story about Yvonne Bennett, a humble tutor who discovers her ability to manipulate time during a chaotic week, ultimately using her powers to thwart a villainous plot.",
+  "summaryGerman": "Eine Geschichte über Yvonne Bennett, eine bescheidene Tutorin, die während einer chaotischen Woche ihre Fähigkeit zur Zeitmanipulation entdeckt und letztendlich ihre Kräfte einsetzt, um eine schurkische Verschwörung zu vereiteln.",
+  "summaryDutch": "Een verhaal over Yvonne Bennett, een nederige tutor die tijdens een chaotische week haar vermogen ontdekt om de tijd te manipuleren en uiteindelijk haar krachten gebruikt om een schurkenstreek te verijdelen.",
+  "summaryFrench": "Une histoire sur Yvonne Bennett, une tutrice modeste qui découvre sa capacité à manipuler le temps au cours d'une semaine chaotique, utilisant finalement ses pouvoirs pour déjouer un complot maléfique.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Yvonne Bennett, a dedicated tutor, begins her week as usual, unaware of her latent superpowers. However, a strange occurrence during a tutoring session leaves her wondering about her abilities.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Stirred by the previous day's events, Yvonne accidentally freezes time during a heated tutoring session. Realizing her power, she feels both amazed and bewildered.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wensday",
+      "text": "In a moment of reflection, Yvonne experiments with her time manipulation, growing more confident. She starts to consider how she could use it for the greater good.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Her excitement turns to determination as she hears of a looming crisis in the city. Yvonne decides it’s time to put her powers to use beyond the classroom.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Yvonne intervenes just in time to prevent a disaster. She uses her powers in public for the first time, saving countless lives and beginning to feel like a true hero.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Word of her heroics spreads, and Yvonne is approached by others with similar abilities. They exchange knowledge and strategies, expanding her understanding of her powers.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Facing the villain responsible for the crisis, Yvonne masterfully controls time to thwart his plans. The city is safe for now, and she vows to continue protecting it.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "As the sun set, Yvonne Bennett smiled, knowing she had found her true calling not just in tutoring, but in being a guardian of time.",
+  "moral": "With great power comes not just responsibility, but the opportunity to make a real difference."
+}

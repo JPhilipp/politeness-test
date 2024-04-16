@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Heroism with Oscar Coleman",
+  "summary": "Oscar Coleman, a man of faith and counselor, discovers his supernatural ability to perceive others' emotional burdens and heal them, which he uses throughout a challenging and transformative week.",
+  "summaryGerman": "Oscar Coleman, ein Mann des Glaubens und Berater, entdeckt seine übernatürliche Fähigkeit, die emotionalen Lasten anderer wahrzunehmen und zu heilen, die er während einer herausfordernden und transformativen Woche nutzt.",
+  "summaryDutch": "Oscar Coleman, een man van geloof en raadgever, ontdekt zijn bovennatuurlijke vermogen om de emotionele lasten van anderen waar te nemen en te genezen, wat hij gebruikt gedurende een uitdagende en transformerende week.",
+  "summaryFrench": "Oscar Coleman, un homme de foi et conseiller, découvre sa capacité surnaturelle à percevoir les fardeaux émotionnels des autres et à les guérir, qu'il utilise tout au long d'une semaine difficile et transformatrice.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar felt an unusual surge of energy during his morning prayer, sensing a divine call to a greater purpose.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "At the community center, Oscar counseled a troubled youth and suddenly visualized the boy's hidden pain, easing it with his calming words.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "While walking through town, Oscar's new abilities led him to a distressed couple. Through a heartfelt prayer, he helped them reconcile.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "In a disturbing dream, Oscar foresaw a local disaster. He woke up determined to prevent it, spending the day making necessary preparations.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Oscar's actions averted a major accident at a nearby factory, and the community praised him as a hero.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Overwhelmed with the emotional drain from the week, Oscar sought solitude, reflecting on his responsibility and gift.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Renewed and peaceful, Oscar held a service at the church, sharing his experiences and inspiring his congregation.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Through faith and a newfound power, Oscar found his true calling as the healer of hearts.",
+  "moral": "The greatest powers are those that bring healing and peace to others."
+}

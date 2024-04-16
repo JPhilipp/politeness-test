@@ -1,0 +1,39 @@
+{
+  "title": "The Energetic Adventures of Jin Perry, Super Mentor",
+  "summary": "Jin Perry, a 42-year-old teacher who enjoys mentoring, discovers his superpowers and embarks on a weeklong journey, using his abilities to positively impact his community.",
+  "summaryGerman": "Jin Perry, ein 42-jähriger Lehrer, der gerne Mentoring betreibt, entdeckt seine Superkräfte und begibt sich auf eine einwöchige Reise, um seine Fähigkeiten zu nutzen, um seine Gemeinde positiv zu beeinflussen.",
+  "summaryDutch": "Jin Perry, een 42-jarige leraar die geniet van mentoring, ontdekt zijn superkrachten en begint aan een weeklange reis om zijn vaardigheden te gebruiken om zijn gemeenschap positief te beïnvloeden.",
+  "summaryFrench": "Jin Perry, un enseignant de 42 ans qui aime le mentorat, découvre ses superpouvoirs et se lance dans un voyage d'une semaine, utilisant ses capacités pour avoir un impact positif sur sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Jin Perry starts his week feeling rather ordinary, unaware of the life-changing ordeal ahead. His day at the local school where he teaches is as typical as ever, but he feels an unfamiliar surge of energy. Mood: energetic."
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "During a routine mentoring session, Jin accidentally discovers he can manipulate time. He rewinds a few moments to better explain a complex concept to a struggling student. Mood: triumphant."
+    },
+    {
+      "weekday": "Weodnesday",
+      "text": "Jin tests his new powers cautiously, realizing this could be a tool to significantly enhance his teaching and mentoring. However, the responsibility weighs heavily on him. Mood: eerie."
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Jin decides to address the moral implications of his powers. After disclosing his discovery to a trusted colleague, they explore the possibilities of ethically using his abilities for the greater good. Mood: peaceful."
+    },
+    {
+      "weekday": "Friday",
+      "text": "News of Jin’s powers spreads, turning him into a local hero. Parents and educators invite him to share his insights and mentorship at a bigger scale. Mood: happy."
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Jin organizes a community-wide seminar. With considered use of his powers, he mentors dozens of teachers and students simultaneously. The day is marked by an exceptional harmonic vibe. Mood: romantic."
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Jin feels overwhelmed but proud. His life, intertwined with new, profound responsibilities, now embarks on a path to inspire and guide others. Mood: epic."
+    }
+  ],
+  "ending": "And as the sun set on Sunday, Jin Perry knew he was no longer just a teacher; he was a guide for the limitless potential in all of us.",
+  "moral": "With great power comes great responsibility – and an opportunity to make a true difference."
+}

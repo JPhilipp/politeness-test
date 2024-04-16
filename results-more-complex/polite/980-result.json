@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Adventures of Judy Torres, the Silver Siren",
+  "summary": "Judy Torres, a 67-year-old superhero with a passion for directing and public speaking, uses her extraordinary voice powers to combat a mysterious threat haunting her city over the span of a week.",
+  "summaryGerman": "Judy Torres, eine 67-jährige Superheldin mit einer Leidenschaft für Regie und öffentliches Sprechen, setzt ihre außergewöhnlichen Stimmkräfte ein, um eine mysteriöse Bedrohung zu bekämpfen, die ihre Stadt innerhalb einer Woche heimsucht.",
+  "summaryDutch": "Judy Torres, een 67-jarige superheld met een passie voor regisseren en openbaar spreken, gebruikt haar buitengewone stemkrachten om een mysterieuze bedreiging die haar stad teistert gedurende een week te bestrijden.",
+  "summaryFrench": "Judy Torres, une super-héroïne de 67 ans passionnée par la mise en scène et l'art oratoire, utilise ses pouvoirs vocaux extraordinaires pour combattre une menace mystérieuse qui hante sa ville pendant une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy discovers her voice can emit powerful sound waves capable of disrupting electronics when she accidentally deactivates a streetlamp during a morning walk.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "She befriends a techie from the neighborhood, Max, who helps her design a device to control her newfound abilities.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Judy prevents a bank robbery by incapacitating the robbers with her sonic scream, earning the nickname 'Silver Siren' from the locals.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thuesday",
+      "text": "Feeling overwhelmed by her sudden role as a defender of justice, Judy directs a small play at her community center to boost her spirits.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The media catches wind of Judy's deeds. During an interview, she uses her storytelling skills to inspire young individuals about using one's unique gifts for good.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Silver Siren senses an eerie presence; it turns out to be a new villain who disrupts the city's peace. A night-long battle ensues.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Judy captures the villain using a combination of strategy and strength, orchestrated like one of her directed plays.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "As the week concluded, Judy Torres stood proudly as the new guardian of her city, proving age is merely a number when it comes to heroism.",
+  "moral": "Never underestimate the power of one's voice, both literally and metaphorically."
+}

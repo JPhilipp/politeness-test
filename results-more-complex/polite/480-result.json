@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Wisdom with Oscar Martinez, the Consulting Hero",
+  "summary": "Oscar Martinez, a retired consultant, uses his intellect and experience to foil a corporate espionage plot over the course of a week.",
+  "summaryGerman": "Oscar Martinez, ein pensionierter Berater, nutzt seinen Verstand und seine Erfahrung, um eine Verschwörung zur Wirtschaftsspionage im Laufe einer Woche zu vereiteln.",
+  "summaryDutch": "Oscar Martinez, een gepensioneerde consultant, gebruikt zijn intellect en ervaring om een bedrijfsspionagecomplot in de loop van een week te verijdelen.",
+  "summaryFrench": "Oscar Martinez, un consultant à la retraite, utilise son intelligence et son expérience pour déjouer un complot d'espionnage industriel au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar discovers unusual activity in his old firm's financial reports while consulting as a favor.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "After lecturing on ethics in business, he uses the session's Q&A to gather more opinions on peculiar corporate behaviors.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wensday",
+      "text": "Oscar covertly meets with an old colleague who confirms his suspicions of espionage.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Using his contacts, Oscar digs deeper and identifies the culprits planning to sell secrets.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Oscar strategically leaks information to the right people, ensuring the spies are caught red-handed.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "At a celebratory lecture, Oscar subtly hints at his role in thwarting the plot, receiving a standing ovation.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Enjoying a quiet day, Oscar reflects on his actions, feeling content that he could protect many jobs.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "In the quiet of his study, Oscar Martinez smiled, knowing wisdom and experience had once again proved invaluable.",
+  "moral": "Even in retirement, one's skills and knowledge can still protect and serve the community."
+}

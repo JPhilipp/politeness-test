@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Hubert Anderson: Counselor by Day, Hero by Night",
+  "summary": "Over one week, Hubert Anderson balances his day job as a counselor with his secret life as a superhero, facing challenges that test his resolve and showcasing his dedication to helping others in any way he can.",
+  "summaryGerman": "In einer Woche balanciert Hubert Anderson seinen Tagesjob als Berater mit seinem geheimen Leben als Superheld und stellt sich Herausforderungen, die seinen Entschluss testen und sein Engagement zeigen, anderen auf jede erdenkliche Weise zu helfen.",
+  "summaryDutch": "Gedurende één week balanceert Hubert Anderson zijn dagtaak als raadgever met zijn geheime leven als superheld, waarbij hij uitdagingen het hoofd biedt die zijn vastberadenheid op de proef stellen en zijn toewijding tonen om anderen te helpen op elke mogelijke manier.",
+  "summaryFrench": "Pendant une semaine, Hubert Anderson équilibre son emploi de jour comme conseiller avec sa vie secrète de super-héros, faisant face à des défis qui testent sa résolution et démontrant son engagement à aider les autres de toutes les manières possibles.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Hubert spends his day counseling troubled youth, feeling satisfied and happy with his positive impact.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tudsday",
+      "text": "An eerie feeling lingers as Hubert encounters a mysterious figure shadowing his every move at the community center.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Hubert resolves a dangerous situation involving the mysterious figure, revealing his superpowers to save a group of people from an unseen threat.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Back at work, Hubert feels a romantic connection with a new volunteer and they spend the day planning a charity event together.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Hubert's energy levels are tested as he balances a major fundraising event and his superhero duties when a crisis arises downtown.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Reflecting on his hectic week, Hubert spends a peaceful day at the park, providing free counseling sessions and playing chess with the locals.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "An epic showdown unfolds as Hubert, in his superhero guise, must prevent a catastrophe, showcasing his true heroic nature and saving the city.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Despite the challenges, Hubert finds solace in the simple acts of service and the profound difference he makes as both a counselor and a hero.",
+  "moral": "True heroism lies not only in grand acts of bravery but in everyday acts of kindness and support."
+}

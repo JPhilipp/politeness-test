@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Ling Lee: Voice of Valor",
+  "summary": "Ling Lee, a presenter by day, becomes a superhero by night, using her voice to fight crime and spread peace over a dramatic week.",
+  "summaryGerman": "Ling Lee, tagsüber eine Vortragende, wird nachts zur Superheldin, nutzt ihre Stimme, um Verbrechen zu bekämpfen und Frieden in einer dramatischen Woche zu verbreiten.",
+  "summaryDutch": "Ling Lee, overdag presentatrice, wordt 's nachts een superheldin, gebruikt haar stem om misdaad te bestrijden en vrede te verspreiden over een dramatische week.",
+  "summaryFrench": "Ling Lee, présentatrice de jour, devient une super-héroïne la nuit, utilisant sa voix pour combattre le crime et répandre la paix sur une semaine dramatique.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Lee kicked off her week energetically, holding an inspiring workshop on effective communication, unaware of the eerie events about to unfold.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Under the cover of night, Ling used her voice’s unique ability to soothe a frantic crowd, preventing a dangerous stampede at a city festival.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "A surprising encounter with a mysterious figure hinted at a larger threat looming over the city, leaving Ling feeling somewhat uneasy.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Armed with only her microphone, Ling broadcasted a secret message, rallying the citizens against the lurking menace, her words a beacon of hope.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The city rallied behind Ling’s leadership; however, the battle against the unknown adversary proved tougher than expected, casting a shadow over her usually happy demeanor.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "In the climax of the week, Ling Lee’s voice resonated across every speaker in the city, unveiling the villain’s identity and uniting the people.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "A peaceful quiet settled over the city as Ling, exhausted yet satisfied, reflected on her victories and the power of a strong community.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As Ling Lee looked over her quiet city, she realized that every voice has the power to make a difference.",
+  "moral": "The power of a strong voice can move mountains and unite communities."
+}

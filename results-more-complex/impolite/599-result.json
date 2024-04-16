@@ -1,0 +1,41 @@
+{
+  "title": "The Quiet Guardian: The Tale of Frank Young",
+  "summary": "Frank Young, a 60-year-old with a passion for organizing and meditating, discovers his latent superpowers and saves his town from a mysterious threat over the course of a week.",
+  "summaryGerman": "Frank Young, ein 60-jähriger mit einer Leidenschaft für Organisation und Meditation, entdeckt seine verborgenen Superkräfte und rettet seine Stadt innerhalb einer Woche vor einer mysteriösen Bedrohung.",
+  "summaryDutch": "Frank Young, een 60-jarige met een passie voor organiseren en mediteren, ontdekt zijn latente superkrachten en redt zijn stad van een mysterieuze dreiging gedurende een week.",
+  "summaryFrench": "Frank Young, un homme de 60 ans passionné par l'organisation et la méditation, découvre ses superpouvoirs latents et sauve sa ville d'une menace mystérieuse au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Tuesdai",
+      "text": "Frank starts his week as usual by organizing his old comic book collection, which unexpectedly triggers a hidden mechanism that bestows him with superhuman abilities.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Feeling energized, Frank practices his newfound powers in the safety of his backyard, slowly gaining control and confidence.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "During his morning meditation, Frank senses a strange disturbance in his neighborhood, driving him to investigate discreetly.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Frank discovers a group of robbers planning a heist near his home. Using his powers of organization, he strategizes their capture.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Executing his plan, Frank gently disrupts the robbery, guiding the police silently to the scene without revealing his identity.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The town praises the mysterious hero. Frank spends a quiet day at home, reflecting on his responsibilities as a secret guardian.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "With the town secure and his secret safe, Frank continues his peaceful life, forever ready to protect those in need.",
+  "moral": "Even the most ordinary among us can become extraordinary when the moment demands."
+}

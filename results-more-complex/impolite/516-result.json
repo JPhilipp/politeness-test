@@ -1,0 +1,46 @@
+{
+  "title": "The Negotiating Tutor: A Week with Yousef Young",
+  "summary": "Yousef Young, a retired professor with a passion for negotiating and tutoring, discovers his supernatural ability to resolve conflicts and educate with a magical touch.",
+  "summaryGerman": "Yousef Young, ein pensionierter Professor mit einer Leidenschaft für Verhandlungen und Nachhilfe, entdeckt seine übernatürliche Fähigkeit, Konflikte zu lösen und mit magischer Berührung zu unterrichten.",
+  "summaryDutch": "Yousef Young, een gepensioneerde professor met een passie voor onderhandelen en bijles geven, ontdekt zijn bovennatuurlijke vermogen om conflicten op te lossen en met een magische aanraking te onderwijzen.",
+  "summaryFrench": "Yousef Young, un professeur à la retraite passionné par la négociation et le tutorat, découvre sa capacité surnaturelle à résoudre les conflits et à éduquer avec une touche magique.",
+  "moral": "Age and routine are no barrier to discovering new strengths and making a transformative impact on others.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Yousef Young starts his week as usual, tutoring local students in history. Unexpectedly, his explanations begin to bring historical figures to life, helping students grasp lessons vividly.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tudsday",
+      "text": "Motivated by yesterday's occurrences, Yousef helps mediate a dispute among neighbors. His words not only broker peace, but also plant seeds of friendship, leaving him feeling victorious.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Yousef volunteers at a community center, teaching negotiation techniques. His tips seemingly enchant his audience, leading to a highly successful workshop.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "His newfound abilities attract attention. A local journalist interviews Yousef, who feels elated to share his story, hoping to inspire others.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "An old romance rekindles when Yousef uses his powers inadvertently during a casual coffee meeting with an old friend. The day turns unexpectedly romantic.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Yousef spends a peaceful day reflecting on his week. His life has changed, yet he feels serene and hopeful about his new role in the community.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Yousef holds a free public workshop, merging history with conflict resolution. The event is wildly successful, leaving him feeling fulfilled and that his later years have a new, epic purpose.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus, Yousef Young, at the age of 62, opened a new chapter, proving it's never too late to rewrite your story."
+}

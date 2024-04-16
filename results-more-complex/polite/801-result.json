@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Jin Nelson: Consultant by Day, Hero by Night",
+  "summary": "Jin Nelson, a 40-year-old consulting and counseling enthusiast, discovers his ability to provide supernatural advice and uses his power to resolve conflicts and bring peace to his city over the span of a week.",
+  "summaryGerman": "Jin Nelson, ein 40-jähriger Beratungs- und Betreuungsenthusiast, entdeckt seine Fähigkeit, übernatürliche Ratschläge zu geben und nutzt seine Kraft, um Konflikte zu lösen und innerhalb einer Woche Frieden in seiner Stadt zu bringen.",
+  "summaryDutch": "Jin Nelson, een 40-jarige liefhebber van advies en begeleiding, ontdekt zijn vermogen om bovennatuurlijk advies te geven en gebruikt zijn kracht om conflicten op te lossen en binnen een week vrede te brengen in zijn stad.",
+  "summaryFrench": "Jin Nelson, passionné de conseil et d'accompagnement âgé de 40 ans, découvre sa capacité à fournir des conseils surnaturels et utilise son pouvoir pour résoudre des conflits et apporter la paix dans sa ville en l'espace d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Jin Nelson began his week feeling energetic. During a session, he unexpectedly advised a client with uncannily accurate insights about her future, startling both of them.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Motivated by yesterday's mysterious event, Jin continued his counseling with a newfound confidence. His advice seemed unusually intuitive, helping clients resolve long-standing issues.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "A rival consultant challenged Jin's unconventional methods, causing a day of doubts and professional jealousy.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thurdsay",
+      "text": "Jin discovered the source of his abilities: a mysterious ancient book he had bought at an antique store. It seemed to radiate a soft, eerie glow whenever he was counseling.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Using his newfound powers guided by the ancient tome, Jin successfully mediated a potentially violent conflict between two major companies, gaining widespread acclaim.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After a week of turmoil and triumphs, Jin spent a peaceful day reflecting on his new role and responsibilities, and how he would manage his dual life.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Jin decided to dedicate his abilities to secretly aid those in dire need of guidance, resolving to be the silent guardian of his city.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "And so, Jin Nelson continued to balance his life as a counselor and a secret hero, always ready to provide help where it was most needed.",
+  "moral": "Sometimes, the greatest power lies in the words we choose to share with others."
+}

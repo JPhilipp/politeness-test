@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Ivan Jenkins: Hero at 65",
+  "summary": "Ivan Jenkins, a retired planner with a passion for painting, discovers his ability to alter reality with his art, using it to battle local crime and improve his community over the span of one transformative week.",
+  "summaryGerman": "Ivan Jenkins, ein pensionierter Planer mit einer Leidenschaft für das Malen, entdeckt seine Fähigkeit, mit seiner Kunst die Realität zu verändern, und nutzt sie, um lokale Kriminalität zu bekämpfen und seine Gemeinde im Laufe einer transformativen Woche zu verbessern.",
+  "summaryDutch": "Ivan Jenkins, een gepensioneerde planner met een passie voor schilderen, ontdekt zijn vermogen om de realiteit te veranderen met zijn kunst, en gebruikt het om lokale misdaad te bestrijden en zijn gemeenschap te verbeteren gedurende een transformatieve week.",
+  "summaryFrench": "Ivan Jenkins, un planificateur à la retraite passionné de peinture, découvre sa capacité à modifier la réalité avec son art, l'utilisant pour lutter contre la criminalité locale et améliorer sa communauté au cours d'une semaine transformatrice.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ivan Jenkins, feeling reflective, paints a serene cityscape, unknowingly infusing the canvas with mystical powers.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Ivan notices changes in his neighborhood mirroring his painting. Intrigued and energetic, he experiments with more art.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Crime in the area drops as Ivan deliberately paints safe, vibrant community spaces, realizing his paintings are affecting reality.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A local gang, aware of Ivan's influence, attempts to steal his paintings. Ivan escapes and plans a counter-move, feeling both eerie and triumphant.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Ivan creates a grand mural of justice and unity at the town’s center, directly confronting the gang with his art and newly discovered powers.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The community rallies around Ivan’s art, celebrating the newfound peace and safely with a street festival full of colors.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his adventures, Ivan commits to using his gifts to further transform the city, now fully embracing his role as a painterly hero.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Thus, at 65, Ivan Jenkins proves it's never too late to become the hero of your own story.",
+  "moral": "Creativity is a powerful force that can transform communities and conquer adversity."
+}

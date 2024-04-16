@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Walter Mitchell: Counselor of Justice",
+  "summary": "Walter Mitchell, a 48-year-old with a passion for advising, discovers his unique ability to bring peace and resolve conflicts supernaturally over a transformative week.",
+  "summaryGerman": "Walter Mitchell, 48 Jahre alt mit einer Leidenschaft für Beratung, entdeckt seine einzigartige Fähigkeit, übernatürlich Frieden zu stiften und Konflikte zu lösen, während einer transformativen Woche.",
+  "summaryDutch": "Walter Mitchell, 48 jaar oud en gepassioneerd door adviseren, ontdekt zijn unieke vermogen om vrede te brengen en conflicten bovennatuurlijk op te lossen gedurende een transformatieve week.",
+  "summaryFrench": "Walter Mitchell, âgé de 48 ans et passionné par le conseil, découvre sa capacité unique à apporter la paix et à résoudre les conflits surnaturellement au cours d'une semaine transformative.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Walter Mitchell starts his week feeling peaceful when he inadvertently calms a heated argument at the local coffee shop with just a few wise words.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesady",
+      "text": "Motivated by yesterday's event, Walter intervenes in a community dispute over park land use, and his suggestions are met with unanimous approval.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Walter feels eerie, realizing his actions might have more than just persuasive powers; animals and nature seemed calmer when he passed the park today.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Walter assists a local school by conducting a workshop on conflict resolution, where his methods prove oddly effective, puzzling the teachers.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "His reputation growing, media arrive to see the 'Peacemaker' in action. Under the gaze of cameras, Walter diplomatically mends a long-standing feud between rival neighborhood groups.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Reflecting on his week, Walter spends a quiet day at home, pondering the full effects of his newfound abilities and their implications.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Walter decides to dedicate his life to conflict resolution, declaring his intention to train others in his methods, ensuring that his abilities to promote peace continue to flourish.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "With great power comes great responsibility, and Walter Mitchell was ready to embrace both.",
+  "moral": "The power to change the world often lies in the strength of one's words and the resolve to use them wisely."
+}

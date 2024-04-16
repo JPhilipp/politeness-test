@@ -1,0 +1,46 @@
+{
+  "title": "The Energetic Adventures of Xavier Lee",
+  "summary": "Xavier Lee, a spirited 75-year-old who loves dancing and presenting, discovers his unique abilities and uses them to inspire and protect his community over the course of a week.",
+  "summaryGerman": "Xavier Lee, ein lebensfroher 75-Jähriger, der Tanzen und Präsentieren liebt, entdeckt seine einzigartigen Fähigkeiten und nutzt sie, um seine Gemeinde über die Dauer einer Woche zu inspirieren und zu schützen.",
+  "summaryDutch": "Xavier Lee, een energieke 75-jarige die van dansen en presenteren houdt, ontdekt zijn unieke vaardigheden en gebruikt ze om zijn gemeenschap te inspireren en te beschermen gedurende een week.",
+  "summaryFrench": "Xavier Lee, un dynamique septuagénaire passionné de danse et de présentation, découvre ses capacités uniques et les utilise pour inspirer et protéger sa communauté tout au long d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "mood": "peaceful",
+      "text": "Xavier Lee strolls through the park, his mind clear and heart full. Here, he feels his first tingle of newfound energy, a hint at his emerging powers, yet he brushes it off as excitement from his morning's dance session."
+    },
+    {
+      "weekday": "Tuedsay",
+      "mood": "energetic",
+      "text": "While leading a presentation on local history at the community centre, Xavier suddenly enhances his talk with vivid, spontaneous visual aids that appear out of thin air—a surprising display of his newfound powers that leaves his audience in awe."
+    },
+    {
+      "weekday": "Wednesday",
+      "mood": "eerie",
+      "text": "Xavier experiences a strange dream of dancing shadows that offer him cryptic messages about his powers and duties. He wakes up puzzled, wondering about the full extent of his abilities."
+    },
+    {
+      "weekday": "Thursday",
+      "mood": "romantic",
+      "text": "At a dance class, Xavier meets Nora, an old flame. They rekindle their romance under the dancing lights, and Xavier uses subtle hints of his powers to make the evening unforgettable."
+    },
+    {
+      "weekday": "Friday",
+      "mood": "sad",
+      "text": "Xavier feels the burden of his new responsibilities. He encounters a robbery, and while he stops it using his powers, he laments the necessity of such confrontations."
+    },
+    {
+      "weekday": "Saturday",
+      "mood": "triumphant",
+      "text": "Fully embracing his role as a protector, Xavier uses his powers in a parade, turning his presentation into a spectacular display that solidifies his place as a local hero."
+    },
+    {
+      "weekday": "Sunday",
+      "mood": "epic",
+      "text": "The community comes together to celebrate Xavier’s contributions, recognizing the unique gifts of their dancing superhero. He delivers an inspiring speech about hope and courage, showcasing his ultimate prowess."
+    }
+  ],
+  "ending": "At week's end, Xavier Lee danced into the hearts of his community, proving that heroes come in all ages.",
+  "moral": "Never underestimate the power of passion to transform and protect."
+}

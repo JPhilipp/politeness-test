@@ -1,0 +1,46 @@
+{
+  "title": "The Eloquent Embroidery of Hubert Wood",
+  "summary": "An 80-year-old painter and embroiderer, Hubert Wood, discovers his superpower of bringing his embroidered arts to life and uses it to solve mysteries in his town over a week.",
+  "summaryGerman": "Ein 80-jähriger Maler und Sticker, Hubert Wood, entdeckt seine Superkraft, seine gestickten Kunstwerke zum Leben zu erwecken und verwendet sie, um im Laufe einer Woche Geheimnisse in seiner Stadt zu lösen.",
+  "summaryDutch": "Een 80-jarige schilder en borduurder, Hubert Wood, ontdekt zijn superkracht om zijn geborduurde kunst tot leven te brengen en gebruikt het om mysteries in zijn stad op te lossen gedurende een week.",
+  "summaryFrench": "Un peintre et brodeur de 80 ans, Hubert Wood, découvre son superpouvoir de donner vie à ses œuvres brodées et l'utilise pour résoudre des mystères dans sa ville pendant une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Hubert Wood, while embroidering a scene from his old village, finds that his creations begin to animate and interact with him.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Excited by his newfound powers, Hubert animates a bird that he had just embroidered, which flies around his room, making him feel energetic.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednedsay",
+      "text": "Hubert decides to take a challenge and embroider a scene of the local park. As his scene comes to life, he starts to solve the mystery of the missing fountain statue.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "His successful detective work earns him some fame among locals, and he spends the day interacting with animated neighbors he had embroidered.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Hubert, inspired, creates an embroidered version of the town's history, turning it into a live exhibition that captures the hearts of many.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Feeling a mix of accomplishment and exhaustion, Hubert spends a peaceful day watching his living creations interact.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Hubert realizes the importance of memories and connections, deciding to keep his powers to enrich his and others' lives.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "With a whimsical flick of his needle, Hubert spent his golden years weaving magic across his community, stowing warmth and wonder in every stitch.",
+  "moral": "The greatest magic we can offer to the world may come from the least expected sources and moments of our lives."
+}

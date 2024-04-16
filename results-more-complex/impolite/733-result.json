@@ -1,0 +1,45 @@
+{
+  "title": "The Spectacular Week of Trent Jones: Hero of Harmony",
+  "summary": "Trent Jones, a 39-year-old teacher and advertiser, discovers his superpower of influencing emotions through words. Throughout the week, he faces challenges that reveal and test his abilities, ultimately using them to prevent a crisis in his city.",
+  "summaryGerman": "Trent Jones, ein 39-jähriger Lehrer und Werbefachmann, entdeckt seine Superkraft, Emotionen durch Worte zu beeinflussen. Im Laufe der Woche sieht er sich Herausforderungen gegenüber, die seine Fähigkeiten offenbaren und auf die Probe stellen, und nutzt sie letztendlich, um eine Krise in seiner Stadt zu verhindern.",
+  "summaryDutch": "Trent Jones, een 39-jarige leraar en adverteerder, ontdekt zijn superkracht om emoties te beïnvloeden met woorden. Gedurende de week wordt hij geconfronteerd met uitdagingen die zijn vaardigheden onthullen en testen, uiteindelijk gebruikt hij ze om een crisis in zijn stad te voorkomen.",
+  "summaryFrench": "Trent Jones, un enseignant et publicitaire de 39 ans, découvre son superpouvoir d'influencer les émotions par les mots. Tout au long de la semaine, il est confronté à des défis qui révèlent et testent ses capacités, les utilisant finalement pour prévenir une crise dans sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "While preparing a lesson on persuasive communication, Trent accidentally discovers he can literally influence emotions with his words, leaving his students unusually motivated.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Excited by his newfound powers, Trent experiments by calming a heated argument in the teacher's lounge, amazed at the peaceful resolution that follows.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesdday",
+      "text": "Trent grows concerned as he struggles to control his abilities. During a presentation, he unintentionally incites a sense of panic instead of confidence.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Seeking advice, Trent meets with an elderly mentor who teaches him the responsibility that comes with such power, highlighting the importance of intentional use.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Armed with control over his power, Trent uses his advertising gig to diffuse a tense city council meeting threatened by protests, preventing a riot.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Drawing from his success, Trent spends the day educating young marketers on ethical persuasion, finding joy in nurturing the next generation.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Trent realizes the impact he can have and commits to using his powers to foster unity and understanding in his community.",
+      "mood": "romantic"
+    }
+  ],
+  "moral": "With great power comes the responsibility to use it wisely to foster peace and understanding."
+}

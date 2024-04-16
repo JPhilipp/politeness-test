@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Wisdom: The Adventures of Trent Clark",
+  "summary": "Throughout one week, Trent Clark, a 74-year-old retired teacher, discovers he has the power to impart instant knowledge and understanding through his words. Each day he encounters different challenges that he resolves using his unique abilities, leaving his community better and wiser.",
+  "summaryGerman": "Während einer Woche entdeckt Trent Clark, ein 74-jähriger pensionierter Lehrer, dass er die Kraft hat, durch seine Worte sofortiges Wissen und Verständnis zu vermitteln. Jeden Tag begegnet er verschiedenen Herausforderungen, die er mit seinen einzigartigen Fähigkeiten löst und seine Gemeinschaft dadurch besser und weiser macht.",
+  "summaryDutch": "Gedurende één week ontdekt Trent Clark, een 74-jarige gepensioneerde leraar, dat hij de kracht heeft om onmiddellijke kennis en begrip over te brengen door zijn woorden. Elke dag komt hij verschillende uitdagingen tegen die hij oplost met zijn unieke vaardigheden, waardoor zijn gemeenschap beter en wijzer wordt.",
+  "summaryFrench": "Tout au long d'une semaine, Trent Clark, un enseignant à la retraite de 74 ans, découvre qu'il a le pouvoir de transmettre des connaissances et une compréhension instantanées à travers ses mots. Chaque jour, il rencontre différents défis qu'il résout grâce à ses capacités uniques, laissant sa communauté meilleure et plus sage.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Trent awakens from a vivid dream feeling unusually energetic. In the dream, he spoke and the words cured misunderstanding. At the local park, he counsels a quarreling group of youngsters with wise words that seem to magically resolve their conflict.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Trent visits a local school to volunteer. As he explains complex science concepts, students grasp the subjects instantly. Amazed by their progress, he begins to realize the power of his words.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesaday",
+      "text": "Encountering a grieving widow by his neighborhood, Trent stops to offer comfort. His words not only soothe her but seem to bring a sense of peace and closure that astonishes them both.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A sudden rainstorm traps Trent and a few locals in a coffee shop. Conversations around his past adventures as a teacher turn into life lessons for those present, creating a warm, familial atmosphere.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A city hall meeting about local issues turns contentious until Trent speaks up. His precise, knowledgeable interventions turn the mood from chaos to structured, productive dialogue.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "At a community center's fundraising event, Trent delivers an inspiring speech that motivates unprecedented generosity. The center reaches its funding goal much earlier than expected.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the events of the week, Trent feels deeply satisfied and peaceful. As he walks through the community he's influenced, people greet him warmly, visibly changed for the better.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus, through a mere whisper or a gentle word, Trent Clark continued to teach, heal, and inspire, proving that wisdom, indeed, holds the key to true power.",
+  "moral": "The true power of wisdom lies in the calm and peace it can bring to chaos."
+}

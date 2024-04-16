@@ -1,0 +1,46 @@
+{
+  "title": "The Weeklong Adventures of Peggy Phillips: Superhero at 73",
+  "summary": "Peggy Phillips discovers her untapped superpowers during a week of unexpected events, using her abilities to help her community and finding new vigor in life.",
+  "summaryGerman": "Peggy Phillips entdeckt ihre ungenutzten Superkräfte während einer Woche unerwarteter Ereignisse und nutzt ihre Fähigkeiten, um ihrer Gemeinschaft zu helfen und neues Lebenskraft zu finden.",
+  "summaryDutch": "Peggy Phillips ontdekt haar onaangeboorde superkrachten tijdens een week vol onverwachte gebeurtenissen, waarbij ze haar mogelijkheden gebruikt om haar gemeenschap te helpen en nieuwe energie in haar leven vindt.",
+  "summaryFrench": "Peggy Phillips découvre ses superpouvoirs inexploités au cours d'une semaine d'événements inattendus, utilisant ses capacités pour aider sa communauté et trouver un nouvel élan dans sa vie.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "At a local town hall meeting, Peggy discovered she could hear whispers from across the room. Her newfound acute hearing helped resolve a misunderstanding that had caused a neighborhood dispute.",
+      "mood": "surprised"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While guiding a group through the local museum, Peggy's eyesight became incredibly sharp, spotting a tiny flaw in a supposedly authentic artifact that turned out to be a replica. The museum was thankful for the unintended save.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Trying to catch bus 22, Peggy suddenly moved at super speed, impressing her neighbors and herself with her agility. Her day of errands turned into an energetic spree around town.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "During her speech at a community center, Peggy's voice projected magically, captivating her audience and spreading her influence. She inspired many, feeling a vigorous blend of responsibility and power.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "At the park, Peggy helped a lost child find his parents using her extraordinary senses to track them down. Her ability turned a potentially tragic day into a peaceful resolution.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Peggy felt her powers stabilize as she used them to mediate a conference successfully. This day was less about the spectacle and more about the deep satisfaction of aiding her beloved community.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her extraordinary week, Peggy decided to use her powers for the greater good, promising to protect and guide her town with benevolence and bravery.",
+      "mood": "reflective"
+    }
+  ],
+  "ending": "Peggy's week proved that heroes come in all ages, and her journey was just beginning.",
+  "moral": "No matter the age, you can always discover new strengths and ways to contribute positively to your community."
+}

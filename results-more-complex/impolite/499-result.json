@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Shield of Nancy Wood",
+  "summary": "In just one week, 77-year-old Nancy Wood transforms from a revered tutor into a neighborhood hero by foiling a burglary using her unique combination of wisdom and subtlety.",
+  "summaryGerman": "In nur einer Woche verwandelt sich die 77-jährige Nancy Wood von einer angesehenen Tutorin in eine Heldin der Nachbarschaft, indem sie mithilfe ihrer einzigartigen Kombination aus Weisheit und Subtilität einen Einbruch vereitelt.",
+  "summaryDutch": "In slechts een week tijd transformeert de 77-jarige Nancy Wood van een gerespecteerde tutor naar een heldin van de buurt door een inbraak te verijdelen met haar unieke combinatie van wijsheid en subtiliteit.",
+  "summaryFrench": "En seulement une semaine, Nancy Wood, 77 ans, passe de tutrice respectée à héroïne du quartier en déjouant un cambriolage grâce à sa combinaison unique de sagesse et de subtilité.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Nancy Wood begins her week with her regular tutoring sessions at the local community center, feeling energetic and fulfilled by helping young minds grow.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While walking home, Nancy notices something off about her neighbor's front door. It's slightly ajar. With a peaceful resolve, she calls the neighbor, who confirms no one should be home.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wdnsday",
+      "text": "Nancy keeps an eye on the neighborhood. Her suspicions prove correct when she spots two unfamiliar figures entering the same house. She calmly calls the police and reports the situation.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The police arrive and catch the burglars red-handed, all thanks to Nancy's attentiveness. The community praises her vigilance, making her feel quietly triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "At her tutoring session, Nancy shares her experience discreetly, using it as a lesson in civic responsibility. Her students listen, inspired by her actions, feeling a mix of excitement and respect.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The local newspaper publishes a story about Nancy, dubbing her 'The Unseen Shield.' She feels a blend of embarrassment and pride but enjoys a peaceful day at home, reflecting on the week's events.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Nancy receives a community service award. The ceremony is small but meaningful, and she feels deeply honored and happy.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Age is just a number, and courage knows no bounds. Nancy Wood proved that everyday wisdom can indeed save the day.",
+  "moral": "Even the quietest individuals have the power to make a significant impact."
+}

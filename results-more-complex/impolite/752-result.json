@@ -1,0 +1,46 @@
+{
+  "title": "The Incredible Adventures of Kevin Perry, Sidekick Savant",
+  "summary": "Kevin Perry, a 30-year-old with hobbies in coaching and writing, discovers his ability to boost others' superpowers. Over one week, he navigates his new identity, helps save the city, and recognizes the power of teamwork and support.",
+  "summaryGerman": "Kevin Perry, ein 30-jähriger mit Hobbys im Coaching und Schreiben, entdeckt seine Fähigkeit, die Superkräfte anderer zu verstärken. Innerhalb einer Woche findet er seine neue Identität, hilft dabei, die Stadt zu retten und erkennt die Kraft von Teamarbeit und Unterstützung.",
+  "summaryDutch": "Kevin Perry, een 30-jarige met hobby's in coaching en schrijven, ontdekt zijn vermogen om de superkrachten van anderen te versterken. Gedurende een week navigeert hij zijn nieuwe identiteit, helpt de stad te redden en erkent hij de kracht van teamwork en ondersteuning.",
+  "summaryFrench": "Kevin Perry, un trentenaire passionné de coaching et d'écriture, découvre sa capacité à renforcer les super-pouvoirs des autres. En une semaine, il navigue sa nouvelle identité, aide à sauver la ville et reconnaît le pouvoir du travail d'équipe et du soutien.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Kevin Perry begins the week feeling usual but ends up feeling strange surges of energy while coaching his local basketball team. His presence mysteriously enhances the players' performance.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Intrigued by yesterday's events, Kevin experiments during a writing workshop. He silently wills his students to conceive better ideas, and they produce their best work yet. Kevin begins to suspect his influence.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "The local news reports a crisis downtown. Feeling compelled to help, Kevin ventures out and unknowingly boosts the abilities of a nearby superhero struggling against a villain. The hero succeeds, thanking 'an unknown force.'",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Kevin decides to secretly support other heroes in the city, gradually understanding more of his power. He starts feeling a deep connection with his city and its protectors.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A powerful villain threatens a major attack. Kevin joins forces with the superheroes, coordinating behind the scenes to amplify their powers. Together, they avert a massive disaster.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After yesterday's exhausting battle, Kevin spends a day reflecting on his role. He realizes his greatest strength lies in empowering others—a sidekick, but crucial.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Kevin meets with the team of superheroes. They officially welcome him as a strategic enhancer, a unique role solidifying his acceptance. Kevin feels honored and fulfilled.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "In the whirl of powers and battles, Kevin Perry found his might not in the spotlight, but in the shadows, making heroes out of others.",
+  "moral": "Sometimes, the greatest power lies in uplifting those around you."
+}

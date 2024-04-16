@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of David King: The Trader of Justice",
+  "summary": "David King, a 58-year-old trading enthusiast with a knack for exercising, discovers his ability to foresee economic events, which he uses to fight corruption and ensure market integrity over a thrilling week.",
+  "summaryGerman": "David King, ein 58-jähriger Handelsenthusiast mit einer Vorliebe für Sport, entdeckt seine Fähigkeit, wirtschaftliche Ereignisse vorauszusehen, die er nutzt, um Korruption zu bekämpfen und die Integrität des Marktes in einer spannenden Woche zu gewährleisten.",
+  "summaryDutch": "David King, een 58-jarige handelsenthousiast met een voorliefde voor sport, ontdekt zijn vermogen om economische gebeurtenissen te voorzien, die hij gebruikt om corruptie te bestrijden en de integriteit van de markt te waarborgen over een spannende week.",
+  "summaryFrench": "David King, un passionné de commerce âgé de 58 ans avec un penchant pour l'exercice, découvre sa capacité à prévoir les événements économiques, qu'il utilise pour lutter contre la corruption et assurer l'intégrité du marché sur une semaine palpitante.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "David starts his week by noticing strange inconsistencies in stock market data that hint at a possible manipulation happening.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuedsay",
+      "text": "Armed with his insights, David covertly gathers more information, revealing a wealthy mogul planning a major fraudulent scheme.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Using his trading skills and contacts, David prepares a counter-strategy to disrupt the mogul's plans peacefully.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "David executes his plan during the trading hours, causing the scheme to unravel, highlighting his tactical acumen.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The aftermath sees David hailed as a hero in the financial community, garnering media attention and public admiration.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "David spends a quiet day reflecting on his actions, ensuring that his intentions remain pure and his methods ethical.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Rejuvenated, David prepares for another week, committed to safeguarding the financial world with his newfound abilities.",
+      "mood": "energetic"
+    }
+  ],
+  "ending": "David King's week showcased not only his skill but also his dedication to justice, proving that heroes come in many forms.",
+  "moral": "True heroism lies in using one's gifts for the greater good, no matter the field."
+}

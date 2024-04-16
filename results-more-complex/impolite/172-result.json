@@ -1,0 +1,46 @@
+{
+  "title": "The Rise of Ivan Bell: Voice of the Valiant",
+  "summary": "A thrilling superhero saga of Ivan Bell, a 19-year-old with a passion for speaking and coaching, who discovers his voice can manipulate sound and energy. Over one week, Ivan transforms from a regular college student into a hero defending his city from a mysterious threat.",
+  "summaryGerman": "Eine spannende Superhelden-Saga von Ivan Bell, einem 19-jährigen mit einer Leidenschaft für das Sprechen und Coaching, der entdeckt, dass seine Stimme Schall und Energie manipulieren kann. Innerhalb einer Woche verwandelt sich Ivan von einem normalen College-Studenten in einen Helden, der seine Stadt vor einer mysteriösen Bedrohung verteidigt.",
+  "summaryDutch": "Een spannende superheldensaga van Ivan Bell, een 19-jarige met een passie voor spreken en coachen, die ontdekt dat zijn stem geluid en energie kan manipuleren. In één week transformeert Ivan van een gewone student tot een held die zijn stad verdedigt tegen een mysterieuze dreiging.",
+  "summaryFrench": "Une saga de super-héros palpitante d'Ivan Bell, un jeune de 19 ans passionné par l'art oratoire et le coaching, qui découvre que sa voix peut manipuler le son et l'énergie. En une semaine, Ivan se transforme d'un étudiant ordinaire en un héros défendant sa ville face à une menace mystérieuse.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ivan discovered his ability to amplify and manipulate sound during a heated debate at college, sending a shockwave through the auditorium.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Practice and experimentation led Ivan to control his new powers. He spent hours at an abandoned warehouse testing his limits.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "A mysterious figure observed Ivan from afar, intrigued by his unique abilities.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News of a strange disturbance downtown directed Ivan to his first encounter with crime, using his voice to disarm robbers.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Fridya",
+      "text": "Ivan decided to use his talents for good, crafting a secret identity as 'The Vocal Vanguard'.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A massive explosion downtown tested Ivan's heroism—rushing into the danger, he used his voice to suppress the fire and rescue trapped civilians.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Facing the mastermind behind the week's chaos, Ivan delivered a powerful speech that turned the villain's own henchmen against him.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "As the city cheered their new hero, Ivan Bell knew his journey was just beginning.",
+  "moral": "Even the smallest voice can have the might to change the world."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Embroidering Voice of Ling Thomas",
+  "summary": "Ling Thomas, a 74-year-old superhero with abilities in public speaking and embroidery, uncovers a conspiracy and saves her town in one week.",
+  "summaryGerman": "Ling Thomas, eine 74-jährige Superheldin mit Fähigkeiten im öffentlichen Reden und Sticken, deckt eine Verschwörung auf und rettet ihre Stadt in einer Woche.",
+  "summaryDutch": "Ling Thomas, een 74-jarige superheld met vaardigheden in publiek spreken en borduren, ontdekt een samenzwering en redt haar stad in één week.",
+  "summaryFrench": "Ling Thomas, une superhéroïne de 74 ans douée en art oratoire et en broderie, découvre une conspiration et sauve sa ville en une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Thomas begins her week by speaking at the local community center, captivating her audience with stories woven as intricately as her embroideries. Unbeknownst to her, a mysterious figure in the crowd is deeply affected by her words.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "After the speech, Ling receives an anonymous note hinting at a danger threatening the town. Skeptical yet curious, she decides to investigate, using her gatherings as a cover.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Ling's enquiries lead her to a suspicious warehouse at the edge of town. Using her public speaking event as a distraction, she sneaks inside and discovers illegal activities.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Confronting the culprits, she uses her command of rhetoric to dissuade them from their plans, appealing to their better natures. Her morning embroidery club backs her up, showing unexpected solidarity.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With the threat neutralized, Ling returns to her routine, sharing her adventure at the next community gathering. The story inspires her listeners to be more vigilant and caring for their community.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Ling spends a peaceful day embroidering a new piece that captures the essence of her adventure. It’s a visual representation of her week, colorful and resilient.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "At a town ceremony, Ling is honored for her courage and wit. She feels a deep connection with her neighbors, reaffirmed in her role not just as a speaker and artist, but as a protector.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "And so, Ling Thomas taught everyone that even the quietest voices can echo the loudest truths.",
+  "moral": "Courage and wisdom come in many forms; sometimes, they speak softly and carry a big heart."
+}

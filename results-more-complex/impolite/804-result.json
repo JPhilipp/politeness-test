@@ -1,0 +1,46 @@
+{
+  "title": "The Energetic Shadow: The Tale of Ivan Scott",
+  "summary": "Ivan Scott, a dance-loving guide by day, discovers his shadow-dancing superpower, using it to protect his city from an ancient threat over the course of a week.",
+  "summaryGerman": "Ivan Scott, tagsüber ein tanzliebender Führer, entdeckt seine Schatten-Tanz-Superkraft und verwendet sie, um seine Stadt im Laufe einer Woche vor einer alten Bedrohung zu schützen.",
+  "summaryDutch": "Ivan Scott, overdag een dansliefhebbende gids, ontdekt zijn schaduwdans superkracht, waarmee hij zijn stad beschermt tegen een oude dreiging gedurende een week.",
+  "summaryFrench": "Ivan Scott, un guide amateur de danse le jour, découvre son super-pouvoir de danse d'ombre, l'utilisant pour protéger sa ville contre une menace ancienne au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ivan Scott starts his week feeling energetic as he leads a group of tourists through the city. While dancing at sunset, an ancient artifact reveals itself, granting him the power to manipulate shadows.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Ivan experiments with his new powers, learning to make his shadow perform independent actions. He helps prevent a small theft by controlling it to scare off a thief.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Minor disturbances plague the city. Ivan uses his powers under cover of the night, becoming a mysterious savior, slowly gaining media attention.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The source of the disturbances—a forgotten underworld deity—emerges, seeking the artifact. Ivan feels overwhelmed but determined.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Ivan coordinates with local authorities for the first time, winning their trust as he expertly guides them through evacuation plans while his shadow battles the deity’s minions.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The confrontation peaks. With the city’s support, Ivan channels the power of every shadow in the city, leading to a massive showdown at dawn.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The deity is finally banished, and peace is restored. Ivan is celebrated as a hero. He spends his evening dancing, his shadow matching every move in perfect harmony.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As Ivan danced into the night, the city’s shadows danced along, a silent testament to his new role as its guardian.",
+  "moral": "Even those who lead the most ordinary lives can become extraordinary heroes when the moment demands it."
+}

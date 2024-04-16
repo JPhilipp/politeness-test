@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Kevin Collins: From Organizer to Hero",
+  "summary": "Kevin Collins, a 31-year-old producer, discovers a hidden talent for controlling time during a hectic week, leading him to avert a disaster and truly impact his community.",
+  "summaryGerman": "Kevin Collins, ein 31-jähriger Produzent, entdeckt während einer hektischen Woche ein verborgenes Talent zur Zeitkontrolle, was ihn dazu bringt, eine Katastrophe zu verhindern und seine Gemeinschaft tiefgreifend zu beeinflussen.",
+  "summaryDutch": "Kevin Collins, een 31-jarige producent, ontdekt tijdens een hectische week een verborgen talent om tijd te beheersen, wat hem leidt tot het afwenden van een ramp en het echt beïnvloeden van zijn gemeenschap.",
+  "summaryFrench": "Kevin Collins, un producteur de 31 ans, découvre un talent caché pour contrôler le temps pendant une semaine chargée, ce qui lui permet d'éviter une catastrophe et d'avoir un véritable impact sur sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Kevin Collins started his week with usual enthusiasm, organizing a large production schedule. Little did he know, he was about to discover an unusual power.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tauesday",
+      "text": "When a sudden glitch in his computer seemingly froze time, Kevin panicked at first, but then realized he could move while everything else was paused.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Experimenting with his newfound ability, Kevin spent the day learning to control it, finding he could pause and restart time at will.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Using his power covertly, Kevin managed to avert minor accidents and mishaps around town, subtly becoming a local guardian.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The ultimate test came when a fire broke out in a nearby building. Kevin froze time, escorted everyone to safety, and resumed to let firefighters tackle the blaze.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "News spread of mysterious occurrences where potential disasters were inexplicably avoided. The town buzzed with tales of an unseen hero.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his heroic week, Kevin felt a profound sense of purpose and decided to use his power for the greater good whenever needed.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Kevin Collins embraced his role as a silent guardian, forever ready to pause the hands of time.",
+  "moral": "Even unexpected abilities can lead to great responsibilities."
+}

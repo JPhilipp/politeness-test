@@ -1,0 +1,46 @@
+{
+  "title": "The Serene Adventures of Mallory Carter",
+  "summary": "Over the course of a week, Mallory Carter, a 66-year-old composer and gardener, discovers her supernatural abilities to control nature and sound, using them to thwart a local threat and bring peace to her community.",
+  "summaryGerman": "Im Laufe einer Woche entdeckt Mallory Carter, eine 66-jährige Komponistin und Gärtnerin, ihre übernatürlichen Fähigkeiten, Natur und Klang zu kontrollieren, indem sie damit eine lokale Bedrohung abwehrt und Frieden in ihre Gemeinschaft bringt.",
+  "summaryDutch": "Gedurende een week ontdekt Mallory Carter, een 66-jarige componiste en tuinierster, haar bovennatuurlijke vermogens om de natuur en geluid te beheersen, waarmee ze een lokale dreiging afwendt en vrede brengt in haar gemeenschap.",
+  "summaryFrench": "Au cours d'une semaine, Mallory Carter, une compositrice et jardinière de 66 ans, découvre ses capacités surnaturelles à contrôler la nature et le son, les utilisant pour contrer une menace locale et apporter la paix à sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "mood": "peaceful",
+      "text": "Mallory Carter spent her morning gardening, humming melodies that seemed to make her plants sway gently in rhythm."
+    },
+    {
+      "weekday": "Tuesday",
+      "mood": "eerie",
+      "text": "While working in her garden at dusk, Mallory felt a strange sensation and noticed the wind carrying her tunes beyond natural reach, affecting the very weather patterns."
+    },
+    {
+      "weekday": "Wednezzday",
+      "mood": "energetic",
+      "text": "Mallory, intrigued by her newfound powers, experimented with creating music that could accelerate the growth of her plants."
+    },
+    {
+      "weekday": "Thursday",
+      "mood": "romantic",
+      "text": "Under the full moon, she played a haunting melody that attracted a myriad of nighttime creatures, creating a symphony of wildlife in her backyard."
+    },
+    {
+      "weekday": "Friday",
+      "mood": "sad",
+      "text": "Distressed by her uncontrolled influence on nature, Mallory feared the repercussions, but a visit from a wise old friend gave her comfort and guidance."
+    },
+    {
+      "weekday": "Saturday",
+      "mood": "triumphant",
+      "text": "Using her abilities, Mallory stopped a local developer from cutting down a cherished forest, orchestrating a concert that swayed the community and even the developer’s heart."
+    },
+    {
+      "weekday": "Sunday",
+      "mood": "epic",
+      "text": "Mallory held a garden concert for her neighborhood, showcasing her ability to meld nature and music into one harmonious experience, winning everyone's admiration."
+    }
+  ],
+  "moral": "Embrace your unique talents; they can be a powerful force for good in your community.",
+  "ending": "And so, Mallory continued to create beautiful harmonies, her garden and her music always a sanctuary for all."
+}

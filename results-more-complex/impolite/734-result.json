@@ -1,0 +1,46 @@
+{
+  "title": "The Spectacular Week of Linda Murphy: Dancing Hero at 80",
+  "summary": "80-year-old Linda Murphy discovers her superpowers through dancing and exercise, using them to save her neighborhood from a mysterious threat over the course of a week.",
+  "summaryGerman": "Die 80-jährige Linda Murphy entdeckt ihre Superkräfte durch Tanzen und Sport und nutzt sie, um ihre Nachbarschaft im Laufe einer Woche vor einer mysteriösen Bedrohung zu retten.",
+  "summaryDutch": "De 80-jarige Linda Murphy ontdekt haar superkrachten door te dansen en te oefenen, waarmee ze haar buurt redt van een mysterieuze dreiging gedurende een week.",
+  "summaryFrench": "Linda Murphy, âgée de 80 ans, découvre ses superpouvoirs en dansant et en faisant de l'exercice, les utilisant pour sauver son quartier d'une menace mystérieuse au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Munday",
+      "text": "Linda feels energetic as she dances at the local community center, suddenly her steps begin to create small shockwaves.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "The news of her 'dancing shockwaves' spreads, and she's both excited and nervous as the local news asks for an interview.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "During her regular park jog, Linda discovers she can run at superhuman speed, helping someone retrieve a stolen purse.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A mysterious figure watches Linda from afar, plotting to harness her newfound powers for evil.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Linda decides to confront the mysterious figure after seeing them sneak around the community center.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Using her dancing and exercise, Linda outmaneuvers the villain, winning the heart of her community as a local hero.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "While being celebrated, Linda dances joyfully, promising to use her powers to keep the neighborhood safe.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "In a whirl of grace and power, Linda Murphy proved that age is just a number when it comes to heroism.",
+  "moral": "Never underestimate the power of passion and the spirit of the community."
+}

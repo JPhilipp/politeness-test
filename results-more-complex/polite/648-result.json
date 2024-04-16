@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Trent White: Coach by Day, Savior by Dusk",
+  "summary": "Trent White, a 38-year-old coach and counselor, discovers his hidden powers after an accidental encounter with a mysterious artifact. Over a week, he balances his day job with nightly heroics, ultimately confronting a formidable villain threatening his community.",
+  "summaryGerman": "Trent White, ein 38-jähriger Trainer und Berater, entdeckt seine verborgenen Kräfte nach einer zufälligen Begegnung mit einem geheimnisvollen Artefakt. Im Laufe einer Woche balanciert er seinen Tagesjob mit nächtlichen Heldentaten und stellt sich schließlich einem mächtigen Schurken, der seine Gemeinschaft bedroht.",
+  "summaryDutch": "Trent White, een 38-jarige coach en counselor, ontdekt zijn verborgen krachten na een toevallige ontmoeting met een mysterieus artefact. Gedurende een week balanceert hij zijn dagtaak met nachtelijke heldendaden en confronteert uiteindelijk een formidabele schurk die zijn gemeenschap bedreigt.",
+  "summaryFrench": "Trent White, un entraîneur et conseiller de 38 ans, découvre ses pouvoirs cachés après une rencontre accidentelle avec un artefact mystérieux. Au cours d'une semaine, il équilibre son travail de jour avec des actes héroïques nocturnes, confrontant finalement un méchant redoutable menaçant sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Trent stumbles upon a mysterious glowing stone while jogging. He feels a surge of energy, and suddenly his senses are heightened.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Testing his newfound abilities, Trent discovers he can move objects with his mind. He saves a child from a falling branch, unnoticed.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednasday",
+      "text": "Trent confides in his old mentor about his powers. They spend the night discussing the responsibilities that come with great power.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Trent prevents a bank robbery using his telekinetic powers, becoming a local media sensation overnight.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Balancing his coaching job, Trent feels overwhelmed but determined, as he counsels a troubled teen about facing life's challenges.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The villain known as 'The Shadow' emerges, threatening the city. Trent prepares to face him in a monumental showdown.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "In a fierce battle, Trent defeats The Shadow, saving countless lives. His dual life as a coach and hero becomes a new community legend.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "Thus, Trent White embraced his new role, forever balancing the scales of ordinary and extraordinary.",
+  "moral": "With great power comes great responsibility, and the courage to accept it can change worlds."
+}

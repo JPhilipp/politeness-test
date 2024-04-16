@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Heidi Bryant: Mentor by Day, Hero by Night",
+  "summary": "Heidi Bryant, a 19-year-old mentoring enthusiast, discovers her superpowers and combats a series of challenges to save her city over the course of a week.",
+  "summaryGerman": "Heidi Bryant, eine 19-jährige Mentorin, entdeckt ihre Superkräfte und bekämpft eine Reihe von Herausforderungen, um ihre Stadt im Laufe einer Woche zu retten.",
+  "summaryDutch": "Heidi Bryant, een 19-jarige mentorliefhebber, ontdekt haar superkrachten en gaat een reeks uitdagingen aan om haar stad te redden gedurende een week.",
+  "summaryFrench": "Heidi Bryant, une jeune mentor de 19 ans, découvre ses superpouvoirs et affronte une série de défis pour sauver sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Heidi Bryant begins her week normally, teaching and mentoring young students. She feels a strange surge of energy as she explains complex topics with unusual clarity.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesdy",
+      "text": "At dusk, while walking home, Heidi witnesses a robbery. She instinctively uses her newfound powers of telekinesis to stop the thieves, saving the day.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Heidi experiments with her powers, learning to control them. She feels a mix of excitement and fear.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News spreads of the mysterious savior. While her public identity remains unknown, Heidi feels a deep sense of responsibility to protect her city.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Heidi stops a potential disaster at a local factory using her telekinetic powers, drawing attention from media and local authorities.",
+      "mood": "triumpant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Taking a break, Heidi enjoys a peaceful day mentoring, unaffected by her heroic alter-ego. Despite the chaos, she finds comfort in her regular activities.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Heidi confronts the mastermind behind the week's crimes in a final showdown, ensuring the safety of her city and embracing her role as a full-time superhero.",
+      "mood": "heroic"
+    }
+  ],
+  "ending": "Thus, Heidi learned that true power lies not only in strength but in the courage to responsibly use it.",
+  "moral": "With great power comes great responsibility."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Harmonic Guardian: Walter Hill's Week of Valor",
+  "summary": "Over one week, Walter Hill, a 49-year-old mentor and singer, discovers his supernatural ability to influence people's emotions through his voice, which he uses to avert a crisis in his community.",
+  "summaryGerman": "In einer Woche entdeckt Walter Hill, ein 49-jähriger Mentor und Sänger, seine übernatürliche Fähigkeit, die Emotionen der Menschen durch seine Stimme zu beeinflussen, die er verwendet, um eine Krise in seiner Gemeinde zu verhindern.",
+  "summaryDutch": "In één week ontdekt Walter Hill, een 49-jarige mentor en zanger, zijn bovennatuurlijke vermogen om de emoties van mensen te beïnvloeden via zijn stem, die hij gebruikt om een crisis in zijn gemeenschap te voorkomen.",
+  "summaryFrench": "En une semaine, Walter Hill, un mentor et chanteur de 49 ans, découvre sa capacité surnaturelle à influencer les émotions des gens par sa voix, qu'il utilise pour éviter une crise dans sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Walter discovers he can calm tensions in a heated meeting at the community center with his soothing voice.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Using his newfound powers, he prevents a local protest from escalating by singing a song of peace.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednesdya",
+      "text": "Feeling unsure about the ethics of his powers, Walter confides in a trusted friend who encourages him to see it as a gift.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Walter helps a group of troubled youth find common ground through a mentoring session that ends in a group sing-along.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "News of his deeds spreads, and Walter is asked to speak and perform at a city-wide unity event.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During his performance, a sudden crisis emerges as a fire breaks out nearby. Walter uses his voice to keep the crowd calm and orderly.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Walter feels grateful for his abilities and resolves to use his voice to continue making a difference.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "As the sun set on Sunday, Walter Hill smiled, knowing his voice was now more than a talent; it was a gift that could change the world.",
+  "moral": "Every unique talent has the potential to bring about significant positive change when used selflessly."
+}

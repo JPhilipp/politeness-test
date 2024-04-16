@@ -1,0 +1,46 @@
+{
+  "title": "The Quiet Lens: The Adventures of Photographer Superhero Bob Moore",
+  "summary": "Bob Moore, a devout photographer, discovers his power to manipulate light, which he uses to battle the creeping darkness in his city, learning the balance between light and dark both in photography and in life.",
+  "summaryGerman": "Bob Moore, ein frommer Fotograf, entdeckt seine Kraft, Licht zu manipulieren, das er benutzt, um die sich ausbreitende Dunkelheit in seiner Stadt zu bekämpfen, und lernt das Gleichgewicht zwischen Licht und Dunkelheit sowohl in der Fotografie als auch im Leben.",
+  "summaryDutch": "Bob Moore, een vrome fotograaf, ontdekt zijn kracht om licht te manipuleren, dat hij gebruikt om de oprukkende duisternis in zijn stad te bestrijden, en leert de balans tussen licht en duisternis zowel in fotografie als in het leven.",
+  "summaryFrench": "Bob Moore, un photographe dévot, découvre son pouvoir de manipuler la lumière, qu'il utilise pour combattre les ténèbres grandissantes dans sa ville, apprenant l'équilibre entre la lumière et l'obscurité à la fois en photographie et dans la vie.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Bob Moore starts his week with a peaceful morning stroll through the city park, taking photos of the sunrise.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "In the afternoon light, while photographing a secluded alley, Bob suddenly captures an eerie glow not visible to the naked eye.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wedneday",
+      "text": "Bob experiments with his newfound ability to manipulate light in his photographs. He feels both excited and scared.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "At a small community event, Bob uses his powers to subtly enhance the mood lighting, realizing the potential to use his powers for good.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Bob gets contacted by a mysterious group interested in his unique abilities. He seeks wisdom in prayer, asking for guidance.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The darkness in the city grows as malevolent forces try to exploit the light. Bob stands his ground, capturing and dissipating shadows.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Bob feels the weight of his responsibility, but reassured through prayer and passion for photography, he commits to protect his city.",
+      "mood": "romantic"
+    }
+  ],
+  "moral": "The power of light, whether in photography or in the soul, can illuminate and transform.",
+  "ending": "In his city now safer, Bob Moore continues to explore the depths of light and dark, through his lens and his heart."
+}

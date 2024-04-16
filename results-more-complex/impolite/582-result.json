@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Hubert Lopez: The Counsellor Hero",
+  "summary": "The story chronicles a week in the life of Hubert Lopez, an advising enthusiast and actor, who discovers his supernatural ability to influence people's emotions positively through his words. Each day reveals a new challenge, and using his unique power and skills, Hubert helps his community, confronts villains, and learns more about his gift.",
+  "summaryGerman": "Die Geschichte erzählt eine Woche im Leben von Hubert Lopez, einem begeisterten Berater und Schauspieler, der seine übernatürliche Fähigkeit entdeckt, die Emotionen der Menschen durch seine Worte positiv zu beeinflussen. Jeder Tag bringt eine neue Herausforderung mit sich, und mit seiner einzigartigen Kraft und seinen Fähigkeiten hilft Hubert seiner Gemeinschaft, stellt sich Schurken und lernt mehr über seine Gabe.",
+  "summaryDutch": "Het verhaal beschrijft een week uit het leven van Hubert Lopez, een adviesliefhebber en acteur, die zijn bovennatuurlijke vermogen ontdekt om de emoties van mensen positief te beïnvloeden met zijn woorden. Elke dag onthult een nieuwe uitdaging en met zijn unieke kracht en vaardigheden helpt Hubert zijn gemeenschap, confronteert schurken en leert hij meer over zijn gave.",
+  "summaryFrench": "L'histoire relate une semaine de la vie de Hubert Lopez, un passionné de conseil et acteur, qui découvre son pouvoir surnaturel d'influencer positivement les émotions des gens par ses paroles. Chaque jour révèle un nouveau défi, et avec son pouvoir unique et ses compétences, Hubert aide sa communauté, affronte des méchants et en apprend davantage sur son don.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Hubert discovers his supernatural ability to influence emotions while helping a friend through a breakup. The sense of happiness brought about is so profound that it surprises them both.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "During a local theatre rehearsal, Hubert uses his newfound power to boost the cast's morale, leading to a performance that receives standing ovations.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wedmesday",
+      "text": "Hubert encounters a villain spreading negativity in the subway. By speaking encouraging words, he diffuses the tension and transforms the atmosphere, leaving passengers feeling peaceful.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Hubert is called upon to mediate a neighborhood dispute. His advice not only resolves the issue but strengthens the community's bonds.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Hubert feels the weight of his responsibilities and struggles with self-doubt, questioning the source and limits of his abilities.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "In an adventurous turn, Hubert thwarts a planned heist at a local museum, cleverly using his skills in acting and persuasion to trick the criminals until the police arrive.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week's events, Hubert realizes the importance of his gift; he vows to hone it responsibly and use it to make a positive change.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "As the sun set on Sunday, Hubert Lopez smiled, ready for whatever challenges awaited him next, knowing he could make a difference.",
+  "moral": "The true power of words lies in their ability to uplift and empower."
+}

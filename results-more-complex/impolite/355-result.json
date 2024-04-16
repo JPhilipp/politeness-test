@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Heidi Watson: The Consulting Hero",
+  "summary": "Heidi Watson, 19-year-old consultant and teacher, discovers her superpowers after finding an ancient book. Over a week, she learns to use her powers, fights a cyber villain, and saves her city.",
+  "summaryGerman": "Heidi Watson, eine 19-jährige Beraterin und Lehrerin, entdeckt ihre Superkräfte, nachdem sie ein altes Buch gefunden hat. Innerhalb einer Woche lernt sie, ihre Kräfte zu nutzen, bekämpft einen Cyber-Bösewicht und rettet ihre Stadt.",
+  "summaryDutch": "Heidi Watson, een 19-jarige consultant en lerares, ontdekt haar superkrachten nadat ze een oud boek heeft gevonden. Gedurende een week leert ze haar krachten te gebruiken, vecht ze tegen een cybercrimineel en redt ze haar stad.",
+  "summaryFrench": "Heidi Watson, consultante et enseignante de 19 ans, découvre ses super-pouvoirs après avoir trouvé un livre ancien. Pendant une semaine, elle apprend à utiliser ses pouvoirs, lutte contre un méchant cybernétique et sauve sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "While tidying an old library, Heidi discovers a mysterious book glowing eerily beneath a pile of dust. As she touches it, a surge of newfound energy courses through her.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Heidi spends the day mastering her powers which include manipulating digital devices. Eager to test her skills, she helps automate tedious tasks at her consulting job, feeling incredibly energetic.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedbesday",
+      "text": "News of a cyber attack spreads through the city. Using her unique abilities, Heidi traces the attack to a notorious hacker. Her determination grows alongside a triumphant mood.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "In preparation for a counter-attack, Heidi consults with cybersecurity experts and teaches locals basic digital safety, strengthening the community in a peaceful setting.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Heidi faces the cyber villain in a virtual showdown. Using her powers and intelligence, she outsmarts the hacker, restoring peace and security to the network, ending the day feeling epic.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The city celebrates Heidi, now hailed as 'The Consulting Hero'. Her story inspires others, while she feels happy knowing she made a difference.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week's events, Heidi realizes the importance of her dual passion for consulting and teaching, feeling peaceful and pondering her future adventures.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As Heidi Watson looked towards the horizon, she knew that her journey as a hero had just begun.",
+  "moral": "Embrace your unique skills; they can transform you into a hero in unexpected ways."
+}

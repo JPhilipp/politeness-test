@@ -1,0 +1,46 @@
+{
+  "title": "The Quilted Guardian: The Story of Victor Collins",
+  "summary": "Victor Collins, a 20-year-old who enjoys coaching and quilting, discovers his ability to manipulate fabrics and uses his newly discovered powers to thwart a local crime spree, all while maintaining his usual weekday activities.",
+  "summaryGerman": "Victor Collins, ein 20-jähriger, der Spaß am Coaching und Quilten hat, entdeckt seine Fähigkeit, Stoffe zu manipulieren, und verwendet seine neu entdeckten Kräfte, um eine lokale Verbrechenswelle zu stoppen, während er seine üblichen Wochentagsaktivitäten beibehält.",
+  "summaryDutch": "Victor Collins, een 20-jarige die van coaching en quilten houdt, ontdekt zijn vermogen om stoffen te manipuleren en gebruikt zijn nieuw ontdekte krachten om een lokale misdaadgolf te dwarsbomen, terwijl hij zijn gebruikelijke weekdagactiviteiten voortzet.",
+  "summaryFrench": "Victor Collins, un jeune de 20 ans qui aime l'encadrement et le patchwork, découvre sa capacité à manipuler les tissus et utilise ses pouvoirs nouvellement découverts pour contrecarrer une vague de criminalité locale, tout en maintenant ses activités habituelles en semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Victor spends his morning coaching the local youth soccer team, feeling energetic and uplifted. In the evening, while quilting, he accidentally stitches two fabrics together and discovers his power to manipulate them.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Excited about his newfound abilities, Victor experiments further with his powers, creating complex fabric sculptures that move at his command.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wedesday",
+      "text": "Victor notices unusual activities in his neighborhood. An eerie feeling overcomes him as he realizes these might be linked to recent burglaries. He decides to keep watch.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "While covertly patrolling, Victor catches thieves in the act. Using his powers, he silently entraps them in fabric cocoons until the police arrive, feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The local news covers Victor's heroic act, dubbing him 'The Quilted Guardian'. He feels a mix of pride and a newfound sense of responsibility.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Victor offers a quilting workshop for the community, integrating safety tips. It’s a peaceful day as people of all ages bond over fabric and stories.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Victor feels content knowing he can balance his hobbies and his new role as a protector. He remains committed to both his passions and his community.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "With thread and courage, Victor wove not only quilts but also the safety and fabric of his community together.",
+  "moral": "Embrace your unique talents; they may hold the power to make a positive impact on the world."
+}

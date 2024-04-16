@@ -1,0 +1,46 @@
+{
+  "title": "The Bargaining Hero: Zelda Gonzales' Epic Week",
+  "summary": "Zelda Gonzales discovers her power to alter reality through bargaining during a week of teaching and dealing with a mysterious villain.",
+  "summaryGerman": "Zelda Gonzales entdeckt ihre Fähigkeit, die Realität durch Feilschen zu verändern, während sie eine Woche lang unterrichtet und mit einem geheimnisvollen Bösewicht zu tun hat.",
+  "summaryDutch": "Zelda Gonzales ontdekt haar kracht om de realiteit te veranderen door te onderhandelen tijdens een week van lesgeven en omgaan met een mysterieuze schurk.",
+  "summaryFrench": "Zelda Gonzales découvre son pouvoir de modifier la réalité grâce au marchandage pendant une semaine d'enseignement et de confrontation avec un vilain mystérieux.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda starts her week feeling energetic as she prepares a new set of bargaining strategies for her upcoming school auction.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While teaching, she unintentionally changes a student's failing grade to passing with just a persuasive argument, hinting at her unknown power.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Zelda bargains with a strange seller for an ancient artifact, unaware it will unlock her ability to alter the fabric of reality.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "After accidentally changing a streetlight's color while discussing city safety, she grows suspicious of her new abilities.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Zelda decides to confront her powers directly, manipulating small objects around her home to better understand her capabilities.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Her actions catch the attention of a villain seeking to exploit her powers, leading to a suspense-filled confrontation.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Successfully outbargaining the villain with clever tactics and moral persuasions, Zelda vows to use her abilities for the greater good.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Zelda Gonzales, now known as 'The Bargaining Hero', continues her life, forever ready to negotiate the balance between ordinary and extraordinary.",
+  "moral": "Even the most ordinary skills, when embraced, can reveal extraordinary abilities."
+}

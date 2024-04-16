@@ -1,0 +1,46 @@
+{
+  "title": "The Serene Lens: The Adventures of Ivan Watson",
+  "summary": "A young photographer, Ivan Watson, discovers his ability to manipulate time through his camera, using it to right wrongs over the course of a week.",
+  "summaryGerman": "Ein junger Fotograf, Ivan Watson, entdeckt seine Fähigkeit, durch seine Kamera die Zeit zu manipulieren, und nutzt sie, um im Laufe einer Woche Ungerechtigkeiten zu beseitigen.",
+  "summaryDutch": "Een jonge fotograaf, Ivan Watson, ontdekt zijn vermogen om tijd te manipuleren met zijn camera, en gebruikt dit om gedurende een week misstanden recht te zetten.",
+  "summaryFrench": "Un jeune photographe, Ivan Watson, découvre sa capacité à manipuler le temps grâce à son appareil photo, l'utilisant pour corriger des torts au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "While meditating in the park, Ivan accidentally captures a strange phenomenon in the background of his photo, a time ripple. Intrigued, he decides to explore this anomaly further.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Ivan experiments with his camera and discovers that he can manipulate short moments of time by capturing them. Excited, he resolves to use this power responsibly.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "Ivan observes a robbery and uses his newfound power to rewind the moment, capturing evidence and preventing the crime. He feels a mix of thrill and uncertainty.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "After preventing a crime, Ivan is both excited and nervous about the implications of his powers. He spends the day meditating to find peace and clarity.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With new resolve, Ivan stops a potential accident by freezing time just long enough. His confidence in controlling his ability grows.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Ivan meets another individual with similar powers. They share experiences and techniques, forging a bond and deciding to work together for greater causes.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Testing his limits, Ivan and his new ally successfully avert a natural disaster from causing havoc, saving countless lives and realizing the full potential of their powers.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "Thus, Ivan Watson learned that with great power comes great responsibility, a maxim he vowed to live by.",
+  "moral": "The journey to mastering great power responsibly often starts with a single curious moment."
+}

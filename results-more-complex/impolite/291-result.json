@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Oscar Ross, the Visionary",
+  "summary": "Oscar Ross, a retired photographer and presenter, discovers his sudden superpower of turning invisible. Throughout one adventurous week, he uses his power to thwart crime while grappling with his new identity.",
+  "summaryGerman": "Oscar Ross, ein pensionierter Fotograf und Moderator, entdeckt seine plötzliche Superkraft, unsichtbar zu werden. Während einer abenteuerlichen Woche nutzt er seine Kraft, um Verbrechen zu vereiteln, während er mit seiner neuen Identität ringt.",
+  "summaryDutch": "Oscar Ross, een gepensioneerde fotograaf en presentator, ontdekt zijn plotselinge superkracht om onzichtbaar te worden. Gedurende een avontuurlijke week gebruikt hij zijn kracht om misdaad te dwarsbomen terwijl hij worstelt met zijn nieuwe identiteit.",
+  "summaryFrench": "Oscar Ross, un photographe et présentateur à la retraite, découvre soudainement son superpouvoir de devenir invisible. Tout au long d'une semaine d'aventures, il utilise son pouvoir pour contrer le crime tout en luttant avec sa nouvelle identité.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "At the age of 69, Oscar Ross discovered his ability to become invisible after a mysterious flash of light during his evening walk. Excited but puzzled, he spends the day experimenting with his newfound power.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Empowered by his invisibility, Oscar foils a robbery in progress at a local museum. His decades of photography help him navigate silently through crowds.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Oscar decides to visit a school to speak about his life in photography, incorporating subtle hints about seeing the unseen, feeling invigorated by giving back to his community.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "He faces a dilemma when he overhears a plot to harm a local park, a place dear to him. Torn between intervening or keeping his secret, he chooses to act, preserving the park's serenity.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Firday",
+      "text": "Feeling exposed after a close call with a curious child who notices his barely visible shadow, Oscar reassesses the risks of his powers.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Inspired by yesterday's events, Oscar hosts a photography exhibition themed around 'Invisible Worlds', subtly sharing his secret through his art, generating deep intrigue.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ending his week at a quiet cafe, Oscar reflects on his unexpected journey, realizing the impact he can have. He resolves to use his power responsibly, feeling ready for whatever comes next.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "As the sun set, Oscar Ross smiled, invisible and invincible, ready to face another week.",
+  "moral": "Great power not only brings opportunity, but also the responsibility to use it wisely."
+}

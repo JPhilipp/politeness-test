@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Linda Gonzales: Teacher by Day, Hero by Night",
+  "summary": "Linda Gonzales, a 50-year-old teacher, discovers her ability to manipulate time, which she uses to solve community problems, facing challenges and ultimately triumphing over a local crime syndicate.",
+  "summaryGerman": "Linda Gonzales, eine 50-jährige Lehrerin, entdeckt ihre Fähigkeit, die Zeit zu manipulieren, die sie nutzt, um Gemeinschaftsprobleme zu lösen, Herausforderungen zu begegnen und letztendlich über ein lokales Verbrechersyndikat zu triumphieren.",
+  "summaryDutch": "Linda Gonzales, een 50-jarige lerares, ontdekt haar vermogen om tijd te manipuleren, wat ze gebruikt om gemeenschapsproblemen op te lossen, uitdagingen aan te gaan en uiteindelijk te zegevieren over een lokale misdaadsyndicaat.",
+  "summaryFrench": "Linda Gonzales, une enseignante de 50 ans, découvre sa capacité à manipuler le temps, qu'elle utilise pour résoudre les problèmes de la communauté, relever des défis et triompher finalement d'un syndicat du crime local.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "As the week begins, Linda Gonzales feels energetic as she prepares her lesson plans, unaware of the powers she is about to discover.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While helping a student after class, Linda accidentally stops time, panicking briefly before realizing the potential of her newfound power.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wiebnesday",
+      "text": "Determined to understand her abilities, Linda spends the day experimenting and learns she can rewind time for short periods.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Using her power discreetly, Linda resolves a conflict between two colleagues, feeling triumphant about her secret impact.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "News of a local burglary reaches Linda. She decides to stop the crime by rewinding time and anonymously tipping off the police.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Linda grows confident and uses her power to aid her neighborhood, fixing small grievances and promoting peace, feeling increasingly peaceful.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "At a community meeting, Linda, though anonymous about her powers, inspires her neighbors to come together and watch out for each other, reflecting on her week with a sense of pride and romance for her community.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "As the sun sets on Sunday, Linda Gonzales smiles, knowing her quiet heroics have made her world a little better, one rewound moment at a time.",
+  "moral": "The greatest powers are those used for the benefit of others, often unseen but deeply felt."
+}

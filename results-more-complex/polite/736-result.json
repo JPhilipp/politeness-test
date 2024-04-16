@@ -1,0 +1,46 @@
+{
+  "title": "The Green Guardian: The Adventures of Oscar Ward",
+  "summary": "Oscar Ward, a 59-year-old with a love for tutoring and gardening, discovers his ability to manipulate plant life, using this power to thwart a series of threats to his community over the span of one week.",
+  "summaryGerman": "Oscar Ward, ein 59-Jähriger mit einer Liebe für Nachhilfe und Gartenarbeit, entdeckt seine Fähigkeit, Pflanzenleben zu manipulieren, und nutzt diese Kraft, um eine Reihe von Bedrohungen für seine Gemeinschaft im Laufe einer Woche abzuwehren.",
+  "summaryDutch": "Oscar Ward, een 59-jarige met een liefde voor tutoring en tuinieren, ontdekt zijn vermogen om plantenleven te manipuleren, en gebruikt deze kracht om een reeks bedreigingen voor zijn gemeenschap gedurende een week af te weren.",
+  "summaryFrench": "Oscar Ward, un homme de 59 ans passionné de tutorat et de jardinage, découvre sa capacité à manipuler la vie des plantes, utilisant ce pouvoir pour contrer une série de menaces pour sa communauté au fil d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar Ward began his week as usual, tending to his garden. As he pruned a seemingly ordinary bush, it suddenly sprouted an array of exotic flowers, much to his surprise. This marked the beginning of his discovery of his power over plant life.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Walking around the neighborhood, Oscar noticed the trees swaying unnaturally, even though there was no wind. He experimented and realized he could control their movements. He spent the day helping neighbors by removing dangerous, overhanging branches without needing any tools.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedneday",
+      "text": "As rumors of a 'magical gardener' spread, a local villain known for illegal land development schemes targeted Oscar's community garden. Oscar created a thick vine barrier around the perimeter, effectively protecting the area.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The local media caught wind of Oscar's deeds. They interviewed him, casting him as the 'Green Guardian.' Oscar felt happy that his powers were recognized as beneficial, but he worried about the increasing attention.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The developer returned with machinery to tear down the vine barrier. During the confrontation, Oscar summoned a vast network of roots to immobilize the machines. The community rallied behind him, driving the developer away.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Reenergized by the community's support, Oscar hosted a plant-tutoring session for local children, teaching them about plant care and sustainable gardening practices. The session ended with the kids planting new trees around the neighborhood.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Oscar enjoyed a quiet day in his garden. He realized the true strength of his powers lay not just in protection, but in nurturing and growth. He vowed to continue using his abilities for the benefit of all.",
+      "mood": "reflective"
+    }
+  ],
+  "ending": "And so, Oscar Ward, the Green Guardian, continued to watch over his community, his garden ever flourishing under his care and compassion.",
+  "moral": "With great power comes great responsibility, and the true measure of strength is how it is used to uplift others."
+}

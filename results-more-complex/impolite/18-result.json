@@ -1,0 +1,46 @@
+{
+  "title": "The Guiding Light: The Journey of Kevin Ramirez",
+  "summary": "Kevin Ramirez, a 21-year-old with a passion for advising, discovers his superpower of intuition, which guides people towards the right choices. Throughout a week, Kevin navigates challenges, helps his community, and ultimately thwarts a sinister plan, proving the power of guidance and intuition.",
+  "summaryGerman": "Kevin Ramirez, ein 21-jähriger mit einer Leidenschaft für Beratung, entdeckt seine Superkraft der Intuition, die Menschen zu den richtigen Entscheidungen führt. Im Verlauf einer Woche meistert Kevin Herausforderungen, hilft seiner Gemeinde und vereitelt schließlich einen finsteren Plan, was die Kraft von Führung und Intuition beweist.",
+  "summaryDutch": "Kevin Ramirez, een 21-jarige met een passie voor adviseren, ontdekt zijn superkracht van intuïtie, die mensen helpt de juiste keuzes te maken. Gedurende een week gaat Kevin uitdagingen aan, helpt hij zijn gemeenschap en voorkomt uiteindelijk een sinister plan, wat de kracht van begeleiding en intuïtie bewijst.",
+  "summaryFrench": "Kevin Ramirez, âgé de 21 ans et passionné par le conseil, découvre son super pouvoir d'intuition, qui guide les gens vers les bons choix. Tout au long d'une semaine, Kevin relève des défis, aide sa communauté et déjoue finalement un plan sinistre, prouvant ainsi le pouvoir du conseil et de l'intuition.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Kevin feels an unusual surge of energy as he guides a lost tourist to safety, realizing he can sense people in distress.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While volunteering at a local shelter, Kevin advises a troubled youth, finding words that perfectly resonate, enhancing his understanding of his power.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "Kevin senses eerie forebodings and prevents a robbery by advising the store owner to close early. The community starts noticing his abilities.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "During a community meeting, Kevin uses his guidance to resolve a long-standing feud, earning public admiration and trust.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "When disaster strikes the city's power grid, Kevin guides the engineers to a quick solution, saving the day with his insightful recommendations.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Kevin's crush asks for advice on personal matters, leading to a romantic and heartfelt connection, showcasing another side of his powers.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "With his newfound confidence and community support, Kevin thwarts a major crime planned for the day, securing a peaceful end to a hectic week.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "In the heart of the city, Kevin stood as a beacon of hope, proving that sometimes the mightiest power is the wisdom to guide others.",
+  "moral": "True strength lies not in physical might, but in the wisdom to guide and uplift others."
+}

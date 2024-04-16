@@ -1,0 +1,46 @@
+{
+  "title": "The Convincing Chronicles of Frank Martinez",
+  "summary": "Frank Martinez, a regular tutor with a knack for convincing people, discovers his superpower of persuasion, using it to thwart a citywide villainous scheme, and learning the importance of using his abilities for the greater good.",
+  "summaryGerman": "Frank Martinez, ein gewöhnlicher Tutor mit einem Talent dafür, Menschen zu überzeugen, entdeckt seine Überzeugungskraft als Superkraft, verwendet sie, um einen stadtweiten bösen Plan zu vereiteln und lernt die Bedeutung, seine Fähigkeiten zum Wohl der Allgemeinheit einzusetzen.",
+  "summaryDutch": "Frank Martinez, een gewone tutor met een talent voor overtuigen, ontdekt zijn superkracht van overreding, gebruikt deze om een stadsbreed schurkenplan te dwarsbomen en leert het belang van het gebruik van zijn vaardigheden voor het grotere goed.",
+  "summaryFrench": "Frank Martinez, un tuteur ordinaire doué pour convaincre les gens, découvre son super-pouvoir de persuasion, l'utilise pour déjouer un plan maléfique à l'échelle de la ville, et apprend l'importance d'utiliser ses capacités pour le bien commun.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank Martinez walked through Central Park, helping a young student grasp complex algebra. Unbeknownst to him, a peculiar glow emanated from his hands with each convincing explanation he gave. Today's mood: peaceful.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While tutoring at the city library, Frank noticed the glowing had intensified. That evening, he convinced a frustrated poet to not give up on his dreams, the poet’s demeanor lifting magically. Today's mood: romantic.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Local news reported a mysterious figure manipulating people’s wills downtown. Testing his power, Frank successfully persuaded a thief to return a stolen purse. Today's mood: triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursay",
+      "text": "Frank uncovered a plan by Dr. Deceit to brainwash the city. Mustering courage, he devised a plan to confront the villain, his determination as glowing as his persuasive powers. Today's mood: eerie.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "At the city hall, Frank faced off with Dr. Deceit. Using his newfound persuasive power, he turned the villain’s minions against him, which led to a peaceful resolution. Today's mood: epic.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Frank's heroic actions were recognized by the mayor. Citizens praised him for his bravery. He realized the impact his convincing skills could have when used for justice. Today's mood: happy.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Frank dedicated himself to protect and serve the community, using his powers to promote peace and understanding. Today's mood: energetic.",
+      "mood": "energetic"
+    }
+  ],
+  "ending": "And so, Frank Martinez learned that the true power lies not only in what we can do, but in what we choose to do with it.",
+  "moral": "With great power comes great responsibility."
+}

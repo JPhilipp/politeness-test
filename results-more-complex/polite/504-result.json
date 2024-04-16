@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Triumph: The Adventures of Ivan Hill",
+  "summary": "Ivan Hill, a 65-year-old retiree with a penchant for assisting and guiding, discovers his latent superpowers and uses them to save his city from a series of mysterious threats over the course of a week.",
+  "summaryGerman": "Ivan Hill, ein 65-jähriger Rentner mit einer Vorliebe für Hilfe und Anleitung, entdeckt seine verborgenen Superkräfte und verwendet sie, um seine Stadt im Laufe einer Woche vor einer Reihe von geheimnisvollen Bedrohungen zu retten.",
+  "summaryDutch": "Ivan Hill, een 65-jarige gepensioneerde met een voorliefde voor assisteren en begeleiden, ontdekt zijn latente superkrachten en gebruikt ze om zijn stad te redden van een reeks mysterieuze bedreigingen gedurende een week.",
+  "summaryFrench": "Ivan Hill, un retraité de 65 ans passionné par l'assistance et le guidage, découvre ses superpouvoirs latents et les utilise pour sauver sa ville d'une série de menaces mystérieuses au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ivan Hill spends his morning walking through the city, where he unknowingly stops a robbery with a simple gesture of kindness, leaving him feeling puzzled but happy.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "During a guided walking tour for local students, Ivan notices he can hear distant cries for help. He discreetly rescues a cat stuck on a tall tree, which fills him with a sense of triumph.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Ivan's evening is interrupted by a faint, eerie glow from his backyard. Investigating, he discovers a portal, hinting at more adventures to come. He feels a mix of excitement and fear.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "After a restless night, Ivan uses his new abilities to assist in averting a subway accident. The surge of adrenaline leaves him feeling remarkably energetic.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A romantic day as Ivan reconnects with an old friend who now knows his secret. Their deep conversations and shared past bring warmth and peace to him.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Ivan, called upon by local authorities, uses his powers to avert a potential disaster at a public event. His actions are celebrated as heroic, giving the day an epic scale.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Ivan Hill feels a profound sense of peace. He understands now that age is no barrier to making a difference. He's ready for whatever next week brings.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Ivan Hill learned that heroes come in all ages, and every day holds the possibility of greatness.",
+  "moral": "No matter your age, you possess the power to make a difference."
+}

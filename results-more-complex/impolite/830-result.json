@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Triumph: The Adventures of Frank Sanders",
+  "summary": "Frank Sanders, a 51-year-old superhero with hobbies in training and negotiating, uses his unique skills to thwart a city-threatening crisis over the course of a week.",
+  "summaryGerman": "Frank Sanders, ein 51-jähriger Superheld mit Hobbys im Training und Verhandeln, nutzt seine einzigartigen Fähigkeiten, um eine die Stadt bedrohende Krise im Laufe einer Woche zu vereiteln.",
+  "summaryDutch": "Frank Sanders, een 51-jarige superheld met hobby's in training en onderhandelen, gebruikt zijn unieke vaardigheden om een crisis die de stad bedreigt gedurende een week af te wenden.",
+  "summaryFrench": "Frank Sanders, un super-héros de 51 ans avec des hobbies dans l'entraînement et la négociation, utilise ses compétences uniques pour déjouer une crise menaçant la ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank discovers an eerie signal emanating from city hall that threatens to control the minds of the city's populace.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Using his negotiation skills, Frank convinces an old rival to help him investigate the source of the signal.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "They uncover a hidden lab where a disgruntled scientist has been developing the technology.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Frank trains intensively to resist the mind control while planning a way to dismantle the setup.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With a carefully orchestrated attack, Frank manages to destroy the mind control device and free his city.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The city celebrates Frank as a hero. He spends a peaceful day reflecting on the week's events.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "During a quiet negotiation session, Frank secures an agreement to prevent future misuse of similar technologies.",
+      "mood": "peaceful"
+    }
+  ],
+  "moral": "Even in the face of great adversity, diplomacy and preparedness can save the day.",
+  "ending": "And thus, Frank Sanders once again proved that age and wisdom often triumph where brute strength does not."
+}

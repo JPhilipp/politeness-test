@@ -1,0 +1,46 @@
+{
+  "title": "The Green Guardian: Mallory Walker's Heroic Week",
+  "summary": "Mallory Walker, a 42-year-old avid gardener and mentor, discovers her superpower of manipulating plant life, which she uses to save her city from various threats over the course of a week, while also mentoring a young protégé.",
+  "summaryGerman": "Mallory Walker, eine 42-jährige leidenschaftliche Gärtnerin und Mentorin, entdeckt ihre Superkraft, Pflanzenleben zu manipulieren, die sie nutzt, um ihre Stadt im Laufe einer Woche vor verschiedenen Bedrohungen zu schützen, während sie gleichzeitig einen jungen Schützling betreut.",
+  "summaryDutch": "Mallory Walker, een 42-jarige fervente tuinierster en mentor, ontdekt haar superkracht om plantenleven te manipuleren, die ze gebruikt om haar stad gedurende een week te redden van verschillende bedreigingen, terwijl ze ook een jonge protégé begeleidt.",
+  "summaryFrench": "Mallory Walker, une jardinière passionnée et mentor de 42 ans, découvre son superpouvoir de manipulation de la vie des plantes, qu'elle utilise pour sauver sa ville de diverses menaces au cours d'une semaine, tout en mentorant un jeune protégé.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Discovering new abilities in her garden, Mallory causes plants to grow at an astonishing rate. Inspired, she decides to use her powers for good.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Mallory mentors her young protégé, Lily, in the art of floriculture and subtly in the responsible use of supernatural powers.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednesay",
+      "text": "A toxic spill near the local riverbank threatens wildlife. Mallory and Lily rush to use their powers to contain the damage.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Fully mastering her powers, Mallory transforms a desolate park into a vibrant green space, drawing the attention of the city's grateful residents.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The city faces an unnatural cold snap. Mallory's control over plant life creates a massive thermal blanket from trees, mitigating the freeze.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Public recognition grows as Mallory's efforts become crucial to the city. She carefully balances her new role with personal life.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Hosting a community event in the newly revitalized park, Mallory reflects on her journey and looks forward to future adventures.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "With her newfound powers, Mallory Walker became not just a hero to her city, but a symbol of resilience and hope.",
+  "moral": "Great power is best used with great responsibility and a caring heart."
+}

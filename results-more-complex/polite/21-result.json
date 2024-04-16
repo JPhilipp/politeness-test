@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Xavier Ross: A Hero Among Us",
+  "summary": "Throughout one week, Xavier Ross uses his unique powers of comprehension and assistance to help his community, discovering his true potential as a hero.",
+  "summaryGerman": "Innerhalb einer Woche nutzt Xavier Ross seine einzigartigen Fähigkeiten der Auffassungsgabe und Hilfe, um seiner Gemeinde zu helfen und entdeckt sein wahres Potenzial als Held.",
+  "summaryDutch": "Gedurende één week gebruikt Xavier Ross zijn unieke vermogens van begrip en assistentie om zijn gemeenschap te helpen, en ontdekt zijn ware potentieel als held.",
+  "summaryFrench": "Tout au long d'une semaine, Xavier Ross utilise ses pouvoirs uniques de compréhension et d'assistance pour aider sa communauté, découvrant son véritable potentiel de héros.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Xavier finds a mysterious book at the local library that grants him the ability to understand and communicate with animals. He saves a trapped cat using this new skill.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Using his new abilities, Xavier prevents an accident by calming a frightened horse in the city park, earning him local fame.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "While reading about local history, Xavier uncovers a forgotten underground tunnel that leads to a senior's home in need of urgent supplies.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "He organizes a book drive to help the seniors, blending his passion for reading with his desire to assist.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A romantic interest blooms when Xavier meets another volunteer at the book drive, and they bond over shared interests.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "An old nemesis tries to misconstrue Xavier’s intentions, creating doubt among his new friends.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Xavier proves his genuine intentions by using his powers to venture into a dangerous storm to rescue the nemesis’s pet, ultimately earning everyone’s trust and respect.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And so, Xavier Ross learnt that true heroism lies not just in great deeds, but in the humility of everyday help.",
+  "moral": "True heroes are those who turn their abilities into actions that uplift others."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Eve Carter: The Unseen Heroine",
+  "summary": "At 74, Eve Carter discovers her late-onset superpower of invisibility which she uses throughout one week to secretly help her community, combat threats, and impart wisdom.",
+  "summaryGerman": "Mit 74 entdeckt Eve Carter ihre spät einsetzende Superkraft der Unsichtbarkeit, die sie eine Woche lang nutzt, um ihrer Gemeinde heimlich zu helfen, Bedrohungen zu bekämpfen und Weisheit zu vermitteln.",
+  "summaryDutch": "Op 74-jarige leeftijd ontdekt Eve Carter haar nieuw verworven superkracht van onzichtbaarheid, die ze gedurende een week gebruikt om stiekem haar gemeenschap te helpen, bedreigingen te bestrijden en wijsheid over te dragen.",
+  "summaryFrench": "À 74 ans, Eve Carter découvre son super pouvoir de devenir invisible qu'elle utilise tout au long d'une semaine pour aider secrètement sa communauté, combattre des menaces et transmettre sa sagesse.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Eve Carter, sipping her morning tea, suddenly becomes invisible. Startled at first, she quickly realizes the potential of her newfound power.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Embracing her invisibility, Eve prevents a small fire in her neighbor’s kitchen without revealing her presence, feeling quietly triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Invisibly, she attends a town meeting, using subtle influence to steer discussions towards community improvements. Eve feels a sense of peaceful accomplishment.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "During a walk in the park, Eve overhears a plan for illegal logging. She crafts an anonymous tip and feels energetic tackling environmental issues.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Using her power, Eve guides a lost child back to their parents amongst a bustling festival, her heart swelling with happiness.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Eve witnesses a robbery attempt while invisible. She foils the crime by scaring the robbers with unexplained phenomena, feeling oddly epic.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Eve imparts lessons on integrity and courage to her grandchildren, who are unaware of her heroics, continuing her legacy of teaching.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "As night descends, Eve smiles softly, grateful for her extraordinary week, and embracing whatever mysteries tomorrow may bring.",
+  "moral": "The true power of a hero lies not just in the bold actions taken but in the unseen sacrifices made for others."
+}

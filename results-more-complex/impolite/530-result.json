@@ -1,0 +1,46 @@
+{
+  "title": "The Enlightening Adventures of Walter Barnes",
+  "summary": "Walter Barnes, a 59-year-old with hobbies in advertising and teaching, discovers superpowers that allow him to influence thoughts, using his new abilities to tackle local community issues over the course of a week.",
+  "summaryGerman": "Walter Barnes, ein 59-jähriger mit Hobbys in Werbung und Lehre, entdeckt Superkräfte, die es ihm ermöglichen, Gedanken zu beeinflussen und verwendet seine neuen Fähigkeiten, um lokale Gemeinschaftsprobleme im Laufe einer Woche zu bewältigen.",
+  "summaryDutch": "Walter Barnes, een 59-jarige met hobby's in reclame en lesgeven, ontdekt superkrachten die hem in staat stellen gedachten te beïnvloeden, en gebruikt zijn nieuwe vaardigheden om lokale gemeenschapsproblemen aan te pakken gedurende een week.",
+  "summaryFrench": "Walter Barnes, un homme de 59 ans passionné de publicité et d'enseignement, découvre des superpouvoirs lui permettant d'influencer les pensées, utilisant ses nouvelles capacités pour s'attaquer aux problèmes de la communauté locale au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Walter discovered his extraordinary power to influence people's thoughts during a mundane lecture on marketing strategies.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "He experimented subtly with his powers by persuading a local council to adopt a new green initiative, feeling a mix of excitement and responsibility.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "After reflecting on his ethics, Walter decided to only use his powers for the greater good, teaching small, influential community lessons.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "He stopped a potential confrontation in the park by softly altering the aggressive thoughts of the involved parties, feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "News spread of his deeds, though no one knew it was him. He felt a sensible pride in his covert actions to better his town.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "His influence on pivotal council decisions led to public improvements and a renewed sense of community.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Walter felt satisfied with the harmony he had nurtured but remained cautious of the potential consequences of his power.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Walter Barnes lived everyday as a quiet hero, wielding profound influence with mindful integrity.",
+  "moral": "Great power demands great responsibility and discretion."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Hero: Alice Foster’s Journey",
+  "summary": "Alice Foster, a 73-year-old tutoring enthusiast, discovers her ability to manipulate time during a week that changes her life and her community forever.",
+  "summaryGerman": "Alice Foster, eine 73-jährige Tutoring-Enthusiastin, entdeckt ihre Fähigkeit, die Zeit zu manipulieren, in einer Woche, die ihr Leben und ihre Gemeinschaft für immer verändert.",
+  "summaryDutch": "Alice Foster, een 73-jarige enthousiaste tutor, ontdekt haar vermogen om de tijd te manipuleren tijdens een week die haar leven en haar gemeenschap voor altijd verandert.",
+  "summaryFrench": "Alice Foster, une passionnée de tutorat de 73 ans, découvre sa capacité à manipuler le temps pendant une semaine qui change sa vie et sa communauté pour toujours.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Alice Foster, while tutoring at the local community center, suddenly stops an impending accident with a strange burst of speed, unknowingly manipulating time.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Confused but curious about her newfound abilities, Alice experiments and finds she can indeed slow down time, using it to help an injured bird recover quicker.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "Feeling more confident, Alice uses her powers to avert a series of small accidents around town, becoming the talk of the local news.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Her daily life becomes a whirlwind of heroics as Alice, now nicknamed 'The Time Tutor', juggles her tutoring schedule with her secret life.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Alice meets a mysterious figure who shares similar powers and learns about a hidden society of time manipulators.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Together with her new mentor, Alice rescues a group of kids trapped in a time freeze at a local fair.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Alice decides to use her abilities to subtly influence and improve her community while continuing her passion for teaching.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Alice Foster lived not just as a tutor, but as a timeless hero in the hearts of those she helped.",
+  "moral": "Even the ordinary can be extraordinary in the right moments."
+}

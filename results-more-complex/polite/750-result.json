@@ -1,0 +1,46 @@
+{
+  "title": "The Unsung Heroism of Hubert Washington",
+  "summary": "Hubert Washington, a 58-year-old advisor with a passion for helping, discovers his superpower to inspire lasting happiness in others and uses it to solve various challenges faced by his community over a week.",
+  "summaryGerman": "Hubert Washington, ein 58-jähriger Berater mit einer Leidenschaft für das Helfen, entdeckt seine Superkraft, dauerhaftes Glück in anderen zu inspirieren und verwendet sie, um verschiedene Herausforderungen seiner Gemeinschaft über eine Woche hinweg zu lösen.",
+  "summaryDutch": "Hubert Washington, een 58-jarige adviseur met een passie voor helpen, ontdekt zijn superkracht om blijvend geluk in anderen te inspireren en gebruikt dit om verschillende uitdagingen in zijn gemeenschap gedurende een week aan te pakken.",
+  "summaryFrench": "Hubert Washington, un conseiller de 58 ans passionné par l'aide, découvre son superpouvoir pour inspirer un bonheur durable chez les autres et l'utilise pour résoudre divers défis auxquels sa communauté est confrontée pendant une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "mood": "peaceful",
+      "text": "Hubert Washington begins his week by advising local community leaders on strategies to enhance neighborhood happiness and engagement."
+    },
+    {
+      "weekday": "Tuesday",
+      "mood": "energetic",
+      "text": "Hubert helps set up a community garden. His enthusiasm inspires many volunteers to join him."
+    },
+    {
+      "weekday": "Wednesdsay",
+      "mood": "happy",
+      "text": "Feeling the joy from the previous day's achievements, Hubert spends the day visiting elderly community members, bringing smiles and laughter."
+    },
+    {
+      "weekday": "Thursday",
+      "mood": "epic",
+      "text": "Hubert discovers he has the superpower to inspire happiness just by talking to people. He decides to use it to mediate a long-standing dispute."
+    },
+    {
+      "weekday": "Friday",
+      "mood": "triumphant",
+      "text": "The dispute resolves thanks to Hubert's intervention, leading to celebrations throughout the community."
+    },
+    {
+      "weekday": "Saturday",
+      "mood": "eerie",
+      "text": "Hubert faces his biggest challenge yet: reuniting a divided family. Despite the tense atmosphere, he remains hopeful."
+    },
+    {
+      "weekday": "Sunday",
+      "mood": "romantic",
+      "text": "Hubert ends his week at a local festival where he meets someone special, proving it's never too late for new beginnings."
+    }
+  ],
+  "ending": "In the heart of his community, Hubert Washington found his true power was the joy he could bring to others.",
+  "moral": "True heroism lies in the everyday acts of kindness that bring people together."
+}

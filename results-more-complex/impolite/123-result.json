@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Guardian: The Adventures of Alice Morris",
+  "summary": "Alice Morris, a 63-year-old consulting and teaching enthusiast, unexpectedly gains superpowers. Over a week, she uses her new abilities to solve problems and teach valuable lessons in her community.",
+  "summaryGerman": "Alice Morris, eine 63-jährige Begeisterte in Beratung und Lehrtätigkeit, erhält unerwartet Superkräfte. Innerhalb einer Woche nutzt sie ihre neuen Fähigkeiten, um Probleme zu lösen und wertvolle Lektionen in ihrer Gemeinschaft zu lehren.",
+  "summaryDutch": "Alice Morris, een 63-jarige liefhebber van consultatie en lesgeven, krijgt onverwachts superkrachten. Gedurende een week gebruikt ze haar nieuwe vaardigheden om problemen op te lossen en waardevolle lessen te geven in haar gemeenschap.",
+  "summaryFrench": "Alice Morris, passionnée de consultation et d'enseignement âgée de 63 ans, acquiert soudainement des super-pouvoirs. En une semaine, elle utilise ses nouvelles capacités pour résoudre des problèmes et enseigner des leçons précieuses dans sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Alice discovers she can manipulate time after a mysterious meteor shower the previous night.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Technical consultant Alice helps prevent a massive data breach at a local school, using her new powers to rewind time and catch the culprit before the attack.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "Alice teaches a history class how historical events could have changed with small time alterations, spurring deep interest and discussion among students.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "During a quiet evening, Alice experiments with her abilities, discovering she can only rewind time up to 24 hours.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Alice meets another superhero, sparking a romantic evening as they share tales of their adventures and challenges.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Faced with a critical decision, Alice uses her powers strategically in a local election to ensure the most honest candidate wins, subtly influencing the course of events.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Alice reflects on her week, feeling happy and fulfilled for having made a positive impact on her town.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "The week with Alice showed that age is just a number, and heroism comes in many forms.",
+  "moral": "With great power comes great responsibility, no matter how and when it is acquired."
+}

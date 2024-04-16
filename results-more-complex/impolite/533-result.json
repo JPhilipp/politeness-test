@@ -1,0 +1,46 @@
+{
+  "title": "The Triumphant Week of Ursula Anderson: The Counselor Hero",
+  "summary": "Over one week, Ursula Anderson uses her coaching and counseling skills to confront and overcome a supernatural threat to her community, harnessing her latent powers to become a superhero.",
+  "summaryGerman": "In einer Woche nutzt Ursula Anderson ihre Fähigkeiten im Coaching und in der Beratung, um eine übernatürliche Bedrohung ihrer Gemeinde zu konfrontieren und zu überwinden, indem sie ihre latenten Kräfte einsetzt, um eine Superheldin zu werden.",
+  "summaryDutch": "Gedurende een week gebruikt Ursula Anderson haar coaching- en counselingvaardigheden om een bovennatuurlijke dreiging voor haar gemeenschap het hoofd te bieden en te overwinnen, waarbij ze haar latente krachten inzet om een superheld te worden.",
+  "summaryFrench": "Pendant une semaine, Ursula Anderson utilise ses compétences en coaching et en conseil pour affronter et surmonter une menace surnaturelle pour sa communauté, en exploitant ses pouvoirs latents pour devenir une superhéroïne.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ursula discovers her ability to hear distress calls from afar while coaching her local community team.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tueesday",
+      "text": "While counseling two conflicting neighbors, Ursula calms a supernatural storm with her mere words.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Ursula meets a mysterious old woman who reveals Ursula’s latent superpowers inherited from her ancestors.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Training in her new abilities, Ursula learns to control her powers to communicate with nature.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A dark entity threatens the town. Ursula uses her powers and wit to strategically divert a crisis, inspiring locals.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The community gathers to celebrate Ursula, who has become their protector and advisor.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her new role, Ursula spends a peaceful day mentoring young potential heroes.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "In the quiet of the night, Ursula Anderson smiled, ready for whatever challenges the next week might bring.",
+  "moral": "With great power comes not only great responsibility but also the chance to make a profound impact."
+}

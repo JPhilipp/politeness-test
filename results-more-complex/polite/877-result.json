@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Guardian: Walter Jackson's Week of Wonders",
+  "summary": "At the age of 59, Walter Jackson discovers his supernatural ability to manipulate time during a crisis. Over the course of a week, he uses his newfound power to covertly save his town from various dangers, while maintaining his daily life.",
+  "summaryGerman": "Im Alter von 59 Jahren entdeckt Walter Jackson seine übernatürliche Fähigkeit, die Zeit während einer Krise zu manipulieren. Im Laufe einer Woche nutzt er seine neu entdeckte Kraft, um seine Stadt heimlich vor verschiedenen Gefahren zu retten, während er sein tägliches Leben weiterführt.",
+  "summaryDutch": "Op 59-jarige leeftijd ontdekt Walter Jackson zijn bovennatuurlijke vermogen om tijd te manipuleren tijdens een crisis. Gedurende een week gebruikt hij zijn nieuw gevonden kracht om heimelijk zijn stad te redden van verschillende gevaren, terwijl hij zijn dagelijks leven voortzet.",
+  "summaryFrench": "À l'âge de 59 ans, Walter Jackson découvre sa capacité surnaturelle à manipuler le temps lors d'une crise. Au cours d'une semaine, il utilise son nouveau pouvoir pour sauver discrètement sa ville de divers dangers, tout en maintenant sa vie quotidienne.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Walter Jackson, a seasoned consultant, starts his week with an usual morning at his office. Suddenly, he feels a strange sensation and accidentally reverses time by five minutes. Intrigued and bewildered, he tests this again with success.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Exploring this power, Walter prevents a minor accident at a construction site near his workplace. Realizing the potential, he resolves to use his power for good, feeling a mix of excitement and responsibility.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Walter secretly spends the day experimenting with his abilities, learning to control them with precision while maintaining his consulting duties. He feels a quiet sense of mastery growing inside him.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thrusday",
+      "text": "Walter hears about a robbery planning in the local news and discreetly manipulates time to alert the police earlier. His actions prevent the crime, but he remains an unsung hero, content with his secret.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Feeling a bit drained yet satisfied, Walter helps a struggling co-worker meet a tight deadline by slowing down time, enabling them to complete the project efficiently. They celebrate a small victory at work.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "At a community gathering, Walter feels a deep connection to his surroundings, knowing he’s kept them safe. He takes a quiet walk alone in the evening, reflecting on his actions.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Confident and resolved, Walter decides to embrace his role as a guardian. While relaxing at home, he plans how he'll continue to protect his community, balancing his normal life with his secret responsibilities.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As Walter drifted to sleep, he dreamt of the lives he touched, finally at peace with his dual existence.",
+  "moral": "Great power doesn't always need recognition to make a significant impact."
+}

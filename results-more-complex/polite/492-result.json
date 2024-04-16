@@ -1,0 +1,46 @@
+{
+  "title": "The Gardening Guardian: Judy Gonzalez's Unexpected Journey",
+  "summary": "Judy Gonzalez, an advertising professional with a passion for gardening, discovers her ability to control plants and must protect her city from an ecological menace over the course of a week.",
+  "summaryGerman": "Judy Gonzalez, eine Werbefachfrau mit einer Leidenschaft für Gartenarbeit, entdeckt ihre Fähigkeit, Pflanzen zu kontrollieren, und muss ihre Stadt im Laufe einer Woche vor einer ökologischen Bedrohung schützen.",
+  "summaryDutch": "Judy Gonzalez, een reclameprofessional met een passie voor tuinieren, ontdekt haar vermogen om planten te controleren en moet haar stad beschermen tegen een ecologische bedreiging gedurende een week.",
+  "summaryFrench": "Judy Gonzalez, une professionnelle de la publicité passionnée de jardinage, découvre sa capacité à contrôler les plantes et doit protéger sa ville contre une menace écologique au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy discovers her powers when her morning garden unexpectedly blooms in seconds, despite the harsh winter weather.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Overwhelmed by her new abilities, Judy struggles to control her powers, causing chaotic overgrowth in her backyard.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Wenesday",
+      "text": "Gaining confidence, Judy rescues a local park from dying by revitalizing the greenery overnight.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Rumors of 'The Green Guardian' spread, and Judy feels energized by community support and their shared love for the environment.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "An analytical corporation plans to exploit Judy’s talents for profit. She cleverly evades their scouts by camouflaging into floral settings.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Judy fully embraces her superhero role, thwarting an illegal logging operation, saving ancient trees, and her connection with nature deepens.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Celebrated by her city, Judy sets up a community garden, teaching others how to intertwine nature with urban living.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Judy Gonzalez stood in her garden, a peaceful warrior, knowing she’d forever changed the way her city interacted with nature.",
+  "moral": "Embracing your unique abilities can lead to extraordinary changes for yourself and your community."
+}

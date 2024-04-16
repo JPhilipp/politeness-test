@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Jin Perez",
+  "summary": "Follow Jin Perez, a 55-year-old who discovers his superpowers while balancing his love for reading and coaching, facing challenges and transforming his community over the course of one week.",
+  "summaryGerman": "Begleiten Sie Jin Perez, einen 55-Jährigen, der seine Superkräfte entdeckt, während er seine Liebe zum Lesen und Coaching ausgleicht, Herausforderungen meistert und im Laufe einer Woche seine Gemeinschaft verwandelt.",
+  "summaryDutch": "Volg Jin Perez, een 55-jarige die zijn superkrachten ontdekt terwijl hij zijn liefde voor lezen en coachen in evenwicht brengt, uitdagingen aangaat en in de loop van een week zijn gemeenschap transformeert.",
+  "summaryFrench": "Suivez Jin Perez, 55 ans, qui découvre ses super-pouvoirs tout en équilibrant son amour pour la lecture et le coaching, relevant des défis et transformant sa communauté au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Jin discovers he can manipulate time while reading an old mystical book. He stops a near accident in town, feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tueday",
+      "text": "With newfound skills, Jin struggles to control them, accidentally aging a tree in a park while practicing. He feels a mix of energy and eeriness.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Jin uses his time powers to help a struggling student relive parts of a sports game, improving his coaching technique and feeling uplifted.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Rumors start about a local 'time wizard'. Jin feels uneasy but reads stories to children, finding solace and peace.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Confronted by curious townspeople, Jin demonstrates his abilities by restoring the town’s old library, gaining support and feeling epic.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Jin organizes a community event at the newly restored library. His romantic interest confesses her admiration for his actions, adding a romantic conclusion to the day.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Jin feels happy knowing he has changed lives, deciding to use his powers openly as a protector of his town.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, Jin Perez found a new purpose, in both time and spirit, as the guardian of the temporal threads that weave through his town.",
+  "moral": "Every person has the power to make significant changes, sometimes all it takes is discovering the strengths hidden within."
+}

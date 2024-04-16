@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Wisdom: The Adventures of Jin Roberts",
+  "summary": "Jin Roberts, a 55-year-old advisor and teacher, discovers his superpower of instilling wisdom instantly. Over a week, he navigates through challenges and helps his community, ultimately saving his town from a misinformation crisis.",
+  "summaryGerman": "Jin Roberts, ein 55-jähriger Berater und Lehrer, entdeckt seine Superkraft der sofortigen Weisheitsvermittlung. Über eine Woche hinweg meistert er Herausforderungen und hilft seiner Gemeinde, letztendlich seine Stadt aus einer Fehlinformationskrise zu retten.",
+  "summaryDutch": "Jin Roberts, een 55-jarige adviseur en leraar, ontdekt zijn superkracht om direct wijsheid te geven. Gedurende een week navigeert hij door uitdagingen en helpt hij zijn gemeenschap, uiteindelijk zijn stad te redden van een crisis door misinformatie.",
+  "summaryFrench": "Jin Roberts, un conseiller et enseignant de 55 ans, découvre son superpouvoir d'instiller la sagesse instantanément. Au cours d'une semaine, il fait face à des défis et aide sa communauté, sauvant finalement sa ville d'une crise de désinformation.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Jin Roberts starts his week feeling energetic, excited by a strange dream hinting at newly found powers. While teaching, he accidentally reveals his ability to project wisdom into others' minds.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Feeling triumphant, Jin uses his power during a community meeting to help resolve a long-standing dispute. His advice leads to an unexpected reconciliation.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Jin notices eerie changes in town; misinformation is spreading swiftly. He grows concerned about the ethical implications of his powers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Determined, Jin spends a day in solitude, questioning his responsibility. His mood is contemplative yet peaceful as he prepares to confront the growing crisis.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With a renewed sense of duty, Jin holds a large seminar, using his power to correct false beliefs. The session is intense but ultimately uplifting.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Jin visits several local schools, teaching children about critical thinking and truth verification. The day is happy and filled with hope.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week's events, Jin feels sad but hopeful. He recognizes the limits and strengths of his powers, resolving to guide rather than control.",
+      "mood": "sad"
+    }
+  ],
+  "ending": "Thus, Jin learned the delicate balance of wisdom and power, promising to be a guardian of truth and integrity.",
+  "moral": "With great power comes great responsibility."
+}

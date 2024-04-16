@@ -1,0 +1,46 @@
+{
+  "title": "Sue Wilson: The Counselor of the City",
+  "summary": "Sue Wilson, a 59-year-old influencer and advisor, discovers her power to see the future and uses it to guide her city through a challenging week, creating a more hopeful future for all.",
+  "summaryGerman": "Sue Wilson, eine 59-jährige Influencerin und Beraterin, entdeckt ihre Fähigkeit, die Zukunft zu sehen und benutzt sie, um ihre Stadt durch eine herausfordernde Woche zu führen und eine hoffnungsvollere Zukunft für alle zu schaffen.",
+  "summaryDutch": "Sue Wilson, een 59-jarige influencer en adviseur, ontdekt haar kracht om de toekomst te zien en gebruikt deze om haar stad door een uitdagende week te leiden, een hoopvollere toekomst voor iedereen creërend.",
+  "summaryFrench": "Sue Wilson, une influenceuse et conseillère de 59 ans, découvre son pouvoir de voir l'avenir et l'utilise pour guider sa ville à travers une semaine difficile, créant un avenir plus prometteur pour tous.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Sue Wilson starts her week feeling energetic as she prepares for a small community meeting but ends up shockingly predicting a minor earthquake. Her accurate prediction saves many from harm.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuseday",
+      "text": "Energized by her newfound abilities, Sue advises the local government on safety measures. The city starts to view her as a mysterious yet vital asset.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Sue feels sad as she foresees a financial crisis looming. She spends the day consulting with local businesses to prepare them, thus mitigating its impact.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The mood turns triumphant as Sue's strategies avert a major economic downturn. The community starts to rally behind her, seeing her as a beacon of hope.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "During a romantic evening walk, Sue predicts and averts a disaster at a nearby bridge, which deepens the community's affection and trust in her.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Sue hosts a seminar to teach others about resilience and future planning. Her advice is powerful, and her followers feel more prepared and peaceful.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The week ends on an epic note as Sue leads a massive volunteer cleanup project, beautifying the city and strengthening community bonds.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus, Sue Wilson not only changed futures but united a city with her vision and care.",
+  "moral": "Empowering others with knowledge and guidance can forge a stronger and more resilient community."
+}

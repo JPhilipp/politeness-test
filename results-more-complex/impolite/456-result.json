@@ -1,0 +1,46 @@
+{
+  "title": "The Energetic Adventures of Sue Collins",
+  "summary": "Sue Collins, a 36-year-old who loves exercising and presenting, becomes the hero of Pointville when she discovers her ability to manipulate kinetic energy. She spends a week using her newfound powers to defeat villains and solve various crises around the city.",
+  "summaryGerman": "Sue Collins, eine 36-jährige, die Sport und Präsentationen liebt, wird zur Heldin von Pointville, als sie ihre Fähigkeit entdeckt, kinetische Energie zu manipulieren. Sie verbringt eine Woche damit, ihre neu gefundenen Kräfte zu nutzen, um Schurken zu besiegen und verschiedene Krisen in der Stadt zu lösen.",
+  "summaryDutch": "Sue Collins, een 36-jarige die van sporten en presenteren houdt, wordt de heldin van Pointville wanneer ze haar vermogen ontdekt om kinetische energie te manipuleren. Ze besteedt een week aan het gebruiken van haar nieuw gevonden krachten om schurken te verslaan en verschillende crises in de stad op te lossen.",
+  "summaryFrench": "Sue Collins, une femme de 36 ans qui aime faire de l'exercice et présenter, devient l'héroïne de Pointville lorsqu'elle découvre sa capacité à manipuler l'énergie cinétique. Elle passe une semaine à utiliser ses nouveaux pouvoirs pour vaincre les méchants et résoudre diverses crises dans la ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "As morning dawns in Pointville, Sue Collins discovers her unusual power to manipulate kinetic energy during her routine morning exercise. An unexpected surge of energy helps her save a cat stuck in a tree, doing it with such ease that it leaves her curious and energetic.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Emboldened by her newfound abilities, Sue experiments with her powers. She controls and redirects energy while jogging, preventing a car collision when she diffuses kinetic energy just in time. The town starts to notice.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "During a presentation at work, Sue subtly uses her powers to maintain the audience’s attention and energy levels. Her successful manipulation at an important meeting leaves her feeling powerful and energetic.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A villain known as The Drainer starts to unsettle Pointville by absorbing all forms of energy. Sue's encounter with him is eerie and testing as she fights to protect her city’s vitality.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Firday",
+      "text": "Sue hones her skills and learns to fine-tune her energy control, preparing for a rematch with The Drainer. She spends the day training, visualizing scenarios and strategizing.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The rematch with The Drainer occurs at the city park. Using her evolved tactics, Sue redirects The Drainer's absorbed energy back at him, saving the city in an epic showdown that leaves everyone awestruck.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The town celebrates Sue’s heroism with a small festival in her honor. Sue feels joyful and triumphant, having fully embraced her role as Pointville's protector.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "In the heart of Pointville, Sue Collins stood smiling, ready for her next challenge, ever more confident in her powers.",
+  "moral": "With great power comes great responsibility, and a chance to make a tangible difference."
+}

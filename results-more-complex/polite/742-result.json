@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Guardian: The Tale of Frank Lewis",
+  "summary": "Frank Lewis, a 61-year-old retired superhero with a passion for coaching and advising, uses his hidden powers to secretly protect his community over the course of a week.",
+  "summaryGerman": "Frank Lewis, ein 61-jähriger pensionierter Superheld mit einer Leidenschaft für Coaching und Beratung, nutzt seine verborgenen Kräfte, um seine Gemeinde im Laufe einer Woche heimlich zu schützen.",
+  "summaryDutch": "Frank Lewis, een 61-jarige gepensioneerde superheld met een passie voor coaching en adviseren, gebruikt zijn verborgen krachten om zijn gemeenschap gedurende een week in het geheim te beschermen.",
+  "summaryFrench": "Frank Lewis, un super-héros retraité de 61 ans passionné de coaching et de conseil, utilise ses pouvoirs cachés pour protéger secrètement sa communauté au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank enjoys a peaceful morning walk, reminiscing about his past heroic deeds. Suddenly, he spots a young girl struggling with her broken bicycle beside the road. Using his expertise, he quietly fixes it while offering words of encouragement.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Feeling energetic, Frank decides to volunteer at the local community center. He ends up coaching a youth soccer team, inspiring them with his tactics and motivational speeches, unbeknownst to them about his past.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednedsay",
+      "text": "During a late evening stroll, Frank senses something eerie; a suspicious figure lurking in the park. Using his stealth abilities, he follows the figure, only to discover it was just a local artist seeking inspiration under the moonlight.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "An old friend, who knows of Frank's heroic past, asks for advice. As they converse over coffee, Frank feels a renewed sense of purpose, offering deep insights that help resolve his friend's dilemma.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The community faces a sudden power outage. With his knowledge of electrical systems, Frank secretly restores power, ensuring the weekend plans of the neighborhood are uninterrupted.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Organizing a charity event, Frank's leadership and experience shine. The event is a great success, raising significant funds for local charities, showcasing his dedication to the well-being of others.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week's events at church, Frank feels content knowing he has made a difference quietly but effectively. His desire to help others remains as strong as ever, even without the cape and spotlight.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "In the quiet of his heart, Frank Lewis knew being a hero was never about recognition, but about the profound impact one could make in the lives of others.",
+  "moral": "True heroism lies not in seeking recognition, but in the desire to help others selflessly."
+}

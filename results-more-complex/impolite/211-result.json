@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Jin Miller: A Superhero’s Tale",
+  "summary": "Jin Miller, a 59-year-old tutor, discovers their unsuspected powers of knowledge absorption and sharing, leading the quiet neighborhood through a series of transformative events over the span of a week, culminating in a grand lesson of unity and strength.",
+  "summaryGerman": "Jin Miller, ein 59-jähriger Tutor, entdeckt seine unerwarteten Fähigkeiten zur Wissensaufnahme und -teilung, die die ruhige Nachbarschaft im Laufe einer Woche durch eine Reihe transformativer Ereignisse führt und in einer großen Lektion von Einheit und Stärke gipfelt.",
+  "summaryDutch": "Jin Miller, een 59-jarige tutor, ontdekt zijn onvermoede krachten van kennisopname en -deling, en leidt de rustige buurt door een reeks transformerende gebeurtenissen gedurende de week, en eindigt met een grote les in eenheid en kracht.",
+  "summaryFrench": "Jin Miller, un éducateur de 59 ans, découvre ses pouvoirs insoupçonnés d'absorption et de partage de connaissances, menant son quartier tranquille à travers une série d'événements transformateurs sur une semaine, qui se concluent par une grande leçon d'unité et de force.",
+  "moral": "The true power lies within our ability to share and grow together.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Jin Miller starts his week feeling energetic, tutoring local kids after school, unaware of the sparkling blue aura slowly forming around him whenever he teaches.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "The mysterious aura grows stronger. Jin helps a struggling student understand complex math, and as his hands move, the equations seem to float around him, visible only to him.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wdnesday",
+      "text": "Jin employs his newfound powers consciously for the first time, tutoring impoverished adults and spreading wisdom which enhances their career prospects dramatically.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The news of Jin's abilities spreads, and his house becomes a beacon, radiating a peaceful glow visible throughout the neighborhood.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Government agents arrive timidly to investigate. They leave inspired, touched by Jin's humble resolve to uplift others, marking an odd day of romance between power and humility.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Jin holds a massive outdoor class, teaching hundreds. The collective learning curves light up the sky, a truly epic spectacle.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Jin feels deeply happy and contemplates how passing on knowledge might be his greatest power and legacy.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "With a smile under the twilight sky, Jin Miller realized he had always been a hero, in the classroom and beyond."
+}

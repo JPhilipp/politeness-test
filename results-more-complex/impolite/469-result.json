@@ -1,0 +1,46 @@
+{
+  "title": "The Spinning Conductor: The Adventures of Ivan Hayes",
+  "summary": "Ivan Hayes, a 71-year-old with a passion for spinning and conducting, becomes a superhero who uses his unique hobbies to fight crime and bring harmony to his city over the course of a week.",
+  "summaryGerman": "Ivan Hayes, ein 71-jähriger mit einer Leidenschaft für Spinnen und Dirigieren, wird ein Superheld, der seine einzigartigen Hobbys nutzt, um Verbrechen zu bekämpfen und seine Stadt im Laufe einer Woche in Einklang zu bringen.",
+  "summaryDutch": "Ivan Hayes, een 71-jarige met een passie voor spinnen en dirigeren, wordt een superheld die zijn unieke hobby's gebruikt om misdaad te bestrijden en harmonie te brengen in zijn stad gedurende een week.",
+  "summaryFrench": "Ivan Hayes, un septuagénaire passionné de filage et de direction d'orchestre, devient un super-héros qui utilise ses hobbies uniques pour lutter contre le crime et apporter l'harmonie dans sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "On a peaceful Monday morning, Ivan discovers his ability to control sound waves while conducting his local community orchestra. This newfound power leaves him feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesdzy",
+      "text": "Feeling adventurous, Ivan tests his powers by spinning on a park bench, creating a sonorous shield that deflects a petty thief’s escape. The incident brings out an eerie yet energetic thrill.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Ivan decides to hone his powers. He spends a quiet day at home practicing, understanding how his hobbies intersect with his abilities. It’s a reflective, peaceful day.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A romantic twist occurs when Ivan saves an old flame from a runaway spinning wheel at a local fair. The act rekindles old feelings, adding a romantic undertone to his heroic life.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Using his conducting skills, Ivan orchestrates a spectacular display of sound and light to thwart a bank robbery, leaving the community in awe and himself feeling epic.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Encouraged by his successes, Ivan becomes more public with his superhero identity, leading to joyous interactions with city folk and an energetic parade in his honor.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "As the week draws to a close, Ivan conducts a concert in the park, using both his abilities and his conductor's baton to create a harmony that envelops the entire crowd, ending on a triumphant note.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "Ivan Hayes proves that no matter the age, one can spin adversity into triumph and conduct a life worth living.",
+  "moral": "Embrace your unique qualities, they might just be your superpowers."
+}

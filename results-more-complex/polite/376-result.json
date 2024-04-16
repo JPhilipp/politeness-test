@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Heroism of David Simmons",
+  "summary": "David Simmons, a 52-year-old lecturer and actor, discovers his supernatural powers and battles unforeseen evils to protect his city, diving deeper into a world where his dual passions intertwine.",
+  "summaryGerman": "David Simmons, ein 52-jähriger Dozent und Schauspieler, entdeckt seine übernatürlichen Kräfte und bekämpft unvorhergesehene Übel, um seine Stadt zu schützen, und taucht tiefer in eine Welt ein, in der seine beiden Leidenschaften sich verflechten.",
+  "summaryDutch": "David Simmons, een 52-jarige docent en acteur, ontdekt zijn bovennatuurlijke krachten en bestrijdt onvoorziene kwaadaardigheden om zijn stad te beschermen, en duikt dieper in een wereld waar zijn dubbele passies vervlochten raken.",
+  "summaryFrench": "David Simmons, un enseignant et acteur de 52 ans, découvre ses pouvoirs surnaturels et combat des maux inattendus pour protéger sa ville, plongeant plus profondément dans un monde où ses deux passions s'entrelacent.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "David Simmons begins his week feeling somewhat detached while lecturing at the university, completely unaware that a strange emerald stone in his possession would soon change his life.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "During a dramatic acting rehearsal, the stone begins to glow, bonding with David and imbuing him with powers of metaphysical manipulation, sparking a deep curiosity mixed with fear.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "David uses his newfound abilities for the first time to stop a runaway train, saving hundreds. He starts to realize the potential of his powers and the role he may have to play.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News of his heroism spreads, entwining his everyday life and his new identity. David struggles with this dual life but finds joy in secretly helping the needy.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "An eerie villain, known only as The Shadow, targets David, aware of the power the stone contains. A secretive and chilling confrontation unfolds.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With the city under threat from The Shadow’s machinations, David harnesses both his acting skills and his superpowers in a public showdown that unites and inspires his fellow citizens.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "After defeating The Shadow, David is celebrated as a hero. He reflects on how his life has changed and how he’s merged his passions into his destiny.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "With the city now safe, David Simmons returns to his lecturing job, his everyday routine enriched with an extraordinary secret.",
+  "moral": "Even the most ordinary lives can hide the most extraordinary potential."
+}

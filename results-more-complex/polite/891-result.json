@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Hero: Yvonne Morris's Week of Valor",
+  "summary": "Yvonne Morris, a 78-year-old who enjoys crocheting and consulting, uncovers and stops a local crime ring over a week, proving that heroism knows no age.",
+  "summaryGerman": "Yvonne Morris, eine 78-Jährige, die sich gerne mit Häkeln und Beratung beschäftigt, deckt innerhalb einer Woche einen lokalen Verbrecherring auf und stoppt ihn, was beweist, dass Heldentum kein Alter kennt.",
+  "summaryDutch": "Yvonne Morris, een 78-jarige die van haken en adviseren houdt, onthult en stopt een lokale misdaadring binnen een week, wat bewijst dat heldendom geen leeftijd kent.",
+  "summaryFrench": "Yvonne Morris, 78 ans, qui aime le crochet et le conseil, découvre et arrête un réseau criminel local en une semaine, prouvant que l'héroïsme ne connaît pas d'âge.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Yvonne Morris spent her morning crocheting peacefully at the park, when she overheard a suspicious conversation about a planned heist at the local bank.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Determined to unravel the plot, Yvonne used her consulting skills to gather more information discreetly, contacting her old friends in law enforcement.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Yvonne analyzed all clues she had collected, knitting patterns and strategic plans as one, to understand the heist's timing and involved parties.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "With all pieces in place, Yvonne tipped off the authorities and helped orchestrate a sting operation to catch the criminals red-handed.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "As news broke out about her heroic involvement, Yvonne was featured on local news, earning praise but also attracting unwanted attention.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "To ensure her safety, Yvonne was placed under police protection. However, her spirit remained unshaken as she crocheted a victory scarf for herself.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting back on the week, Yvonne felt incredibly happy and proud, realizing she had made her community a safer place.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And so, Yvonne Morris continued to knit and protect the fabric of society, one stitch at a time.",
+  "moral": "Age is just a number, and courage can come in the quietest of forms."
+}

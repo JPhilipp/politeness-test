@@ -1,0 +1,46 @@
+{
+  "title": "The Extraordinary Week of Oscar Murphy: Everyday Hero",
+  "summary": "Oscar Murphy discovers his ability to manipulate art and sport into superheroic feats to thwart a mysterious villain in his city, all within an action-packed week.",
+  "summaryGerman": "Oscar Murphy entdeckt seine Fähigkeit, Kunst und Sport in heldenhafte Taten umzuwandeln, um innerhalb einer aktionsreichen Woche einen geheimnisvollen Bösewicht in seiner Stadt zu vereiteln.",
+  "summaryDutch": "Oscar Murphy ontdekt zijn vermogen om kunst en sport te manipuleren in heldhaftige daden om een mysterieuze schurk in zijn stad te dwarsbomen, allemaal binnen een actievolle week.",
+  "summaryFrench": "Oscar Murphy découvre sa capacité à manipuler l'art et le sport en exploits de super-héros pour contrer un méchant mystérieux dans sa ville, le tout en une semaine pleine d'action.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar Murphy starts his week sketching at the park, when he suddenly sketches a scene that becomes real — a child stops chasing a runaway kite as the wind settles down.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tursday",
+      "text": "Excited about his newfound powers, Oscar experiments by drawing a scene where he's winning a tennis match against an ex-champion. To his astonishment, it turns into reality the next day at a local tournament.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Inspired by his successes, Oscar draws a detailed map of the city, marking suspicious activities he's noticed. As he does, clues begin to glow on the paper, leading him to a hidden crime scene.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Following the glowing clues, Oscar uncovers a plot to rob the city’s museum. He sketches a trap that safely ensnares the thieves as they enter the museum.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Media hail Oscar as a mysterious hero. While he enjoys the attention, he sketches a rainy scene to ensure a peaceful night without crimes, wishing for a break.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A mysterious figure challenges Oscar, having discovered his secret. They engage in a 'draw-off' at the city square, where reality bends with each sketch.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "In a final showdown, Oscar sketches an overwhelming sports festival that traps the villain with relentless, playful competition. The city celebrates as the villain tires and gives up.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And so, Oscar Murphy not only saved his city but also learned that the true power lies within one’s creativity and the courage to use it.",
+  "moral": "Creativity is not just an art but a powerful tool when wielded with courage and good intentions."
+}

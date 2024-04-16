@@ -1,0 +1,46 @@
+{
+  "title": "Eve King: The Illuminator",
+  "summary": "Eve King, a 36-year-old hero with hobbies in following and teaching, discovers her enhanced abilities to emit blinding light, uses them to thwart crime, and inspires her community to stand strong against adversity.",
+  "summaryGerman": "Eve King, eine 36-jährige Heldin mit Hobbys in Verfolgung und Lehre, entdeckt ihre verbesserte Fähigkeit, blendendes Licht auszustrahlen, nutzt sie, um Verbrechen zu verhindern, und inspiriert ihre Gemeinde, sich stark gegen Widrigkeiten zu behaupten.",
+  "summaryDutch": "Eve King, een 36-jarige heldin met hobby's in volgen en onderwijzen, ontdekt haar verbeterde vermogens om verblindend licht uit te stralen, gebruikt ze om misdaad te bestrijden en inspireert haar gemeenschap om sterk te staan ​​tegen tegenspoed.",
+  "summaryFrench": "Eve King, une héroïne de 36 ans avec des passe-temps dans le suivi et l'enseignement, découvre ses capacités améliorées à émettre une lumière aveuglante, les utilise pour contrecarrer le crime, et inspire sa communauté à rester forte face à l'adversité.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Eve King, a devoted yoga instructor, feels an unusual surge of energy during her early morning class. This energy allows her to accidentally emit a powerful beam of light.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tueday",
+      "text": "Intrigued by her newfound powers, Eve experiments and learns to control her ability to generate light. She saves a neighbor from a burglary by illuminating the entire street.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Eve starts to embrace her role as a local hero, patrolling the neighborhood nightly. The community starts referring to her as 'The Illuminator'.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News spreads about Eve's deeds. She receives a visit from a mysterious figure who warns her of an impending larger threat.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A major blackout strikes the city. Amidst chaos, Eve uses her bright light to guide people to safety, preventing panic and injuries.",
+      "mood": "heroic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Following the blackout, Eve organizes a community gathering under the light of her powers, fostering a sense of solidarity and readiness for any future emergencies.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Eve reflects on her week as 'The Illuminator', feeling a deep connection to her town and a renewed purpose to protect and inspire.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, Eve King proved that even the darkest nights could be brightened by a single light.",
+  "moral": "One person's strength can ignite hope and lead the way for many."
+}

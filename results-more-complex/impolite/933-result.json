@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Ursula White: The Guardian Angel of the Streets",
+  "summary": "Ursula White, a 49-year-old with a passion for praying and coaching, discovers her supernatural ability to protect and guide those in need throughout her city, balancing her serene everyday life with her newfound heroic duties.",
+  "summaryGerman": "Ursula White, eine 49-jährige Frau mit einer Leidenschaft für Gebet und Coaching, entdeckt ihre übernatürlichen Fähigkeiten, um Bedürftigen in ihrer Stadt Schutz und Führung zu bieten, während sie ihr friedliches Alltagsleben mit ihren neu gefundenen Heldentaten in Einklang bringt.",
+  "summaryDutch": "Ursula White, een 49-jarige met een passie voor bidden en coaching, ontdekt haar bovennatuurlijke vermogen om degenen in nood in haar stad te beschermen en te leiden, terwijl ze haar serene dagelijkse leven in evenwicht brengt met haar nieuwgevonden heldendaden.",
+  "summaryFrench": "Ursula White, une femme de 49 ans passionnée de prière et de coaching, découvre sa capacité surnaturelle à protéger et guider ceux qui sont dans le besoin à travers sa ville, en équilibrant sa vie quotidienne sereine avec ses nouvelles fonctions héroïques.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ursula starts her week with a morning prayer, feeling peaceful. Little does she know, her prayers are about to be answered in an unexpected way.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "During a coaching session, Ursula uncovers her ability to sense danger. She saves a young athlete from a falling tree branch, feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesdxy",
+      "text": "Ursula decides to embrace her new role. She spends the day helping lost pets and people, guided by an eerie sense of knowing where to go.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Energized by her actions, Ursula prevents a robbery, capturing the hearts of her community. She stays energetic and vigilant.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Her story starts to spread, and a local journalist wants an interview. Ursula feels happy sharing her story, hoping to inspire others.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "As Ursula coaches her team to a win, she realizes her guidance goes beyond the field. They celebrate an epic victory together.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Ursula attends church, feeling a deep sense of peace and purpose. She prays for the strength to continue her mission.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "With the city safer and her spirit fulfilled, Ursula White knew this was just the beginning of her journey as a guardian angel.",
+  "moral": "True heroes are those who use their gifts to make a difference, finding strength in service and faith."
+}

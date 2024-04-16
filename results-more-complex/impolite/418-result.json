@@ -1,0 +1,46 @@
+{
+  "title": "The Harmonic Heroism of Sue Wilson",
+  "summary": "Sue Wilson, a 65-year-old with hobbies in conducting and convincing, uses her unique skills to resolve a mysterious musical chaos and bring peace to her city over the course of a week.",
+  "summaryGerman": "Sue Wilson, eine 65-jährige Frau mit Hobbies in Dirigieren und Überzeugen, nutzt ihre einzigartigen Fähigkeiten, um über den Verlauf einer Woche ein mysteriöses musikalisches Chaos zu lösen und Frieden in ihre Stadt zu bringen.",
+  "summaryDutch": "Sue Wilson, een 65-jarige met hobby's in dirigeren en overtuigen, gebruikt haar unieke vaardigheden om gedurende een week een mysterieuze muzikale chaos op te lossen en vrede in haar stad te brengen.",
+  "summaryFrench": "Sue Wilson, une femme de 65 ans avec des hobbies dans la direction d'orchestre et la persuasion, utilise ses compétences uniques pour résoudre un chaos musical mystérieux et ramener la paix dans sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Sue Wilson, while conducting at the city's community orchestra, notices strange dissonances filtering through the notes, disturbing the usual harmony.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Sue begins her investigation by persuading the orchestra members to reveal any changes or strange occurrences around the music hall, uncovering signs of unusual electrical disturbances.",
+      "mood": "investigative"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Armed with clues, Sue works to tweak the orchestra's equipment, adjusting frequencies that seem affected by the disturbances, finding a rhythm that begins to clear the chaos.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Sue tests her sonic solutions, leading the orchestra through a series of pieces that now sound purer than ever; the city begins to notice the return of harmonious melodies.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With the music restored, Sue holds a free concert to celebrate, using her conductor's baton to weave a spellbinding performance, winning over the city's hearts.",
+      "mood": "joyous"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "As the appreciation spreads, Sue is interviewed by local media, sharing her story and explaining how music and unity can overcome any disturbance.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week's achievements, Sue spends a quiet day at home, her heart full of the melodies she helped save, feeling the city's rhythm beating as one with her own.",
+      "mood": "content"
+    }
+  ],
+  "ending": "And so, Sue Wilson proved that even the smallest note can restore harmony to the grandest of symphonies.",
+  "moral": "Unity and perseverance can turn chaos into harmony."
+}

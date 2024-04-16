@@ -1,0 +1,46 @@
+{
+  "title": "The Green Thumb Guardian: The Tale of Oscar Miller",
+  "summary": "Oscar Miller, a 66-year-old with a passion for gardening and inspiring others, discovers he can manipulate plant life to combat crime in his neighborhood, creating a safer community in just one week.",
+  "summaryGerman": "Oscar Miller, ein 66-jähriger Mann mit einer Leidenschaft für Gartenarbeit und das Inspirieren anderer, entdeckt, dass er Pflanzen manipulieren kann, um Verbrechen in seiner Nachbarschaft zu bekämpfen und innerhalb einer Woche eine sicherere Gemeinschaft zu schaffen.",
+  "summaryDutch": "Oscar Miller, een 66-jarige met een passie voor tuinieren en het inspireren van anderen, ontdekt dat hij planten kan manipuleren om criminaliteit in zijn buurt te bestrijden en creëert binnen een week een veiligere gemeenschap.",
+  "summaryFrench": "Oscar Miller, un homme de 66 ans passionné par le jardinage et l'inspiration des autres, découvre qu'il peut manipuler la vie végétale pour lutter contre la criminalité dans son quartier, créant ainsi une communauté plus sûre en seulement une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar wakes up feeling energetic, his garden vibrant and thriving. A mysterious vine appears, which intermittently glows.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Testing his newfound powers, Oscar commands the plants. He shapes a floral shield that blocks a thrown stone, saving a passerby.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wodnesday",
+      "text": "Inspired by his powers, Oscar holds a garden class, sharing his passion and subtly showing off his abilities. The neighborhood kids are mesmerized.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A crime wave threatens the peace. Oscar uses his abilities to camouflage and conceal neighbors, leading them to safety.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Oscar feels saddened as he realizes that not all problems can be solved with his powers. Some community issues need more than heroics.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A community meeting is held; Oscar uses his inspiring speech to boost morale and discuss the necessity of community vigilance.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "With crime at a low, the neighborhood celebrates with a garden party, praising Oscar, now nicknamed 'The Green Thumb Guardian'.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "By week's end, Oscar Miller not only transformed his garden, but also fostered a stronger, united community.",
+  "moral": "True heroism lies not just in battling evils, but in inspiring and uniting others."
+}

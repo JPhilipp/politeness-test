@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Oscar Thomas: Advisory Hero",
+  "summary": "Throughout one week, Oscar Thomas, a retired advisor turned writer, discovers his superpowers, helping those in crisis while balancing his peaceful life.",
+  "summaryGerman": "Während einer Woche entdeckt Oscar Thomas, ein pensionierter Berater, der zum Schriftsteller wurde, seine Superkräfte, indem er Menschen in Krisen hilft und gleichzeitig sein friedliches Leben balanciert.",
+  "summaryDutch": "Gedurende één week ontdekt Oscar Thomas, een gepensioneerde adviseur die schrijver werd, zijn superkrachten door mensen in crisis te helpen terwijl hij zijn vredige leven in evenwicht houdt.",
+  "summaryFrench": "Tout au long d'une semaine, Oscar Thomas, un conseiller à la retraite devenu écrivain, découvre ses superpouvoirs, aidant les personnes en crise tout en équilibrant sa vie paisible.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar starts his week with an unexpected visit from a young couple seeking advice on their failing business. Using his persuasive powers, he helps them devise a strategic recovery plan.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Feeling motivated by the previous day's success, Oscar writes a blog post that goes viral, helping thousands with similar problems.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wedneaday",
+      "text": "A mysterious figure approaches Oscar, revealing that his advice-giving ability is actually a superpower, grounded in deep empathy and understanding.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Testing his newfound powers, Oscar focuses on a community project, uniting his neighborhood to restore the local park.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "As word spreads of his deeds, Oscar faces a dilemma: maintain his peaceful life or fully embrace his role as a superhero. He chooses a balanced approach, resuming his writing.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Oscar spends a quiet day at home, reflecting on his experiences and outlining his next novel, inspired by the week's adventures.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Oscar meets with the young couple again, glad to see their progress and happy to realize he can make a difference both as an advisor and a hero.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Oscar Thomas closed his notebook with a smile, his heart full, knowing he had embraced both his quiet writing life and his powerful role as a superhero.",
+  "moral": "Everyone has a superpower; often, it's just the extraordinary way we can help others."
+}

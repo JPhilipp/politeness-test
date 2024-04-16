@@ -1,0 +1,46 @@
+{
+  "title": "The Melodious Adventures of Oscar Green",
+  "summary": "Oscar Green, a 39-year-old with a passion for crocheting and music, discovers his supernatural ability to manipulate emotions through his melodies, which he uses to battle the unsettling forces invading his city over the course of a week.",
+  "summaryGerman": "Oscar Green, ein 39-jähriger mit einer Leidenschaft für Häkeln und Musik, entdeckt seine übernatürliche Fähigkeit, Emotionen durch seine Melodien zu manipulieren, die er verwendet, um die unheimlichen Kräfte zu bekämpfen, die im Laufe einer Woche seine Stadt überfallen.",
+  "summaryDutch": "Oscar Green, een 39-jarige met een passie voor haken en muziek, ontdekt zijn bovennatuurlijke vermogen om emoties te manipuleren door zijn melodieën, die hij gebruikt om de onheilspellende krachten die zijn stad gedurende een week binnenvallen, te bestrijden.",
+  "summaryFrench": "Oscar Green, 39 ans, passionné de crochet et de musique, découvre sa capacité surnaturelle à manipuler les émotions à travers ses mélodies, qu'il utilise pour combattre les forces inquiétantes envahissant sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar Green begins his week noticing unusual patterns in the mood of those around him as he plays different tunes on his saxophone.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "With a suspicion, Oscar crochets a special scarf infused with notes from yesterday’s tunes and wears it, discovering he can amplify his emotional influence.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wendnesday",
+      "text": "Oscar tests his newfound powers in public, diffusing a tense standoff at a local café with a calming melody, earning him local admiration.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Seeking mastery, Oscar spends the day crocheting more musical accessories and experimenting with diverse emotional effects on his neighbors.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Trouble arises when his music accidentally instigates extreme romantic feelings at a park, causing chaos which he then has to melodiously resolve.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The eerie undertones of a new melody reveal dark forces at work. Oscar confronts shady figures attempting to harness his power for ill purposes.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Oscar leads a community event, weaving his magical melodies to foster unity and peace, successfully driving away the dark forces for good.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the week closes, Oscar vows to continue refining his unique abilities, safeguarding his city with strings and songs.",
+  "moral": "Harnessing one's unique talents can indeed wield powerful changes, both within and beyond."
+}

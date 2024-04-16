@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Adventures of Judy Thompson, The Guiding Light",
+  "summary": "Judy Thompson, a 65-year-old with a love for guiding and drawing, discovers her ability to control light during dramatic encounters around her city. Throughout a week, she uses her new powers for good, leaving behind a legacy of hope and courage.",
+  "summaryGerman": "Judy Thompson, eine 65-jährige Frau mit einer Leidenschaft für Führung und Zeichnen, entdeckt ihre Fähigkeit, Licht zu kontrollieren, während dramatischer Begegnungen in ihrer Stadt. Über eine Woche hinweg nutzt sie ihre neuen Kräfte zum Guten und hinterlässt ein Vermächtnis von Hoffnung und Mut.",
+  "summaryDutch": "Judy Thompson, een 65-jarige vrouw met een liefde voor gidsen en tekenen, ontdekt haar vermogen om licht te sturen tijdens dramatische ontmoetingen in haar stad. Gedurende een week gebruikt ze haar nieuwe krachten voor het goede, en laat ze een erfenis van hoop en moed achter.",
+  "summaryFrench": "Judy Thompson, une femme de 65 ans passionnée par le guidage et le dessin, découvre sa capacité à contrôler la lumière lors de rencontres dramatiques dans sa ville. Tout au long d'une semaine, elle utilise ses nouveaux pouvoirs pour le bien, laissant derrière elle un héritage d'espoir et de courage.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy Thompson discovers her ability to manipulate light while guiding a group of tourists through a dark, eerie cave. As she sketches the cave's interior, her drawings begin to glow, startling everyone.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Empowered by her new skills, Judy experiments at home, learning to bend light around objects to make them appear invisible. Amazed and energetic, she imagines the limitless possibilities.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Judy uses her powers publicly for the first time, stopping a robbery by blinding the thief with a burst of bright light, and feels surprisingly triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Word of her deeds spreads, and Judy is invited on a local TV show. Nervous yet happy, she shares her journey, inspiring viewers with her spirited resolve.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Feeling melancholic, Judy visits an art gallery. Her emotional connection to the artwork, combined with her powers, sets the paintings aglow, enchanting other visitors.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Judy draws a mural of her city on a prominent building's wall. She illuminates it during a community event, making the mural a beacon of hope and heritage, observed in a peaceful setting.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Judy feels a deep sense of fulfillment and decides to dedicate her life to using her powers to illuminate the world's beauty and truth.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "In the heart of the city, a mural lit by Judy Thompson shines as a symbol of beauty and possibility, casting light long after the sun sets.",
+  "moral": "Even late in life, hidden talents can emerge to guide both oneself and others towards brighter days."
+}

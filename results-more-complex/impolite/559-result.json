@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Grace Lee: From Mentor to Hero",
+  "summary": "Grace Lee, a 57-year-old woman with passions for mentoring and publicizing, unexpectedly acquires mystical powers, using them to protect her community over the course of a week.",
+  "summaryGerman": "Grace Lee, eine 57-jährige Frau mit Leidenschaften für Mentoring und Öffentlichkeitsarbeit, erwirbt unerwartet mystische Kräfte und verwendet diese, um ihre Gemeinde im Verlauf einer Woche zu schützen.",
+  "summaryDutch": "Grace Lee, een 57-jarige vrouw met passies voor mentoring en publiciteit, verwerft onverwacht mystieke krachten en gebruikt deze om haar gemeenschap te beschermen gedurende een week.",
+  "summaryFrench": "Grace Lee, une femme de 57 ans passionnée par le mentorat et la publicité, acquiert de manière inattendue des pouvoirs mystiques, qu'elle utilise pour protéger sa communauté au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Grace Lee starts her week as usual at a mentoring seminar, feeling energetic and ready to inspire. Suddenly, a mysterious figure grants her the power to amplify voices—a literal and figurative gift she plans to use wisely.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Using her new power, Grace feels happy as she amplifies the concerns of a small community group at a town hall, making the overlooked voices heard loud and clear.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "An eerie silence befalls the town as word spreads of a looming threat. Grace, feeling the weight of her new responsibilities, uses her power to unify her neighbors in preparation for the unknown.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thuersday",
+      "text": "The threat manifests as a corrupt developer trying to force residents out. Grace, now a beacon of hope, triumphantly leads a public forum, her powers bolstering the community's arguments.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "After an exhausting but victorious week, Grace today feels peaceful. She spends the day reflecting on her journey, mentoring young activists on how to harness their own innate strengths.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "An epic demonstration takes place, with Grace at the forefront, her powers magnifying the group’s message across the city. The developer backs down under the pressure of unified voices.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Grace, now known as 'The Amplifier', enjoys a romantic walk with an old friend who has always believed in her. They discuss the future and her role as a new kind of hero.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "As the sun set, Grace Lee knew her journey was just beginning.",
+  "moral": "Even ordinary voices, when united and amplified, can achieve extraordinary things."
+}

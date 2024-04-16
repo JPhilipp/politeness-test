@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Yvonne Carter: Spin Hero of the City",
+  "summary": "Yvonne Carter, a spinning instructor by day, becomes a superhero by night, using her superpowers to battle a mysterious villain threatening her city over the course of a week.",
+  "summaryGerman": "Yvonne Carter, tagsüber Spinning-Trainerin, wird nachts zur Superheldin und setzt ihre Superkräfte ein, um einen mysteriösen Bösewicht zu bekämpfen, der ihre Stadt im Laufe einer Woche bedroht.",
+  "summaryDutch": "Yvonne Carter, overdag spinninginstructeur, wordt 's nachts een superheld en gebruikt haar superkrachten om een mysterieuze schurk te bestrijden die haar stad bedreigt gedurende een week.",
+  "summaryFrench": "Yvonne Carter, instructrice de spinning le jour, devient une super-héroïne la nuit, utilisant ses super-pouvoirs pour combattre un méchant mystérieux menaçant sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Yvonne Carter starts her week with her usual spinning classes, feeling energetic. Little does she know, her life is about to change.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "She discovers a strange metallic object in the spinning studio locker. It grants her superhuman agility and speed, sparking a sense of adventure.",
+      "mood": "excited"
+    },
+    {
+      "weekday": "Wedneesday",
+      "text": "Yvonne tests her new powers by night, foiling a burglary in process. The thrill of heroism fills her.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Rumors spread about a new hero in town. Yvonne feels a mix of pride and pressure, balancing her double life.",
+      "mood": "conflicted"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The villain emerges, using dark powers to cause chaos. Yvonne, fearful yet determined, prepares to confront him.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Epic showdown between Yvonne and the villain under the city lights. Her resolve is tested, but her skills prove superior.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "After her victory, Yvonne is celebrated by the city. She returns to her normal life, but keeps the spinning studio token, ready for future challenges.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Yvonne Carter continued teaching spinning by day, secretly prepared to spin into action whenever her city needed a hero again.",
+  "moral": "With great power comes great responsibility - even if it finds you between spinning bikes."
+}

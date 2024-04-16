@@ -1,0 +1,46 @@
+{
+  "title": "The Weaving Consultant: The Adventures of Ivan Campbell",
+  "summary": "Ivan Campbell, a 35-year-old consultant with a passion for weaving, discovers his unique superpowers over the course of a week, using them to fight crime and corruption in his city.",
+  "summaryGerman": "Ivan Campbell, ein 35-jähriger Berater mit einer Leidenschaft für das Weben, entdeckt im Laufe einer Woche seine einzigartigen Superkräfte und verwendet sie, um in seiner Stadt gegen Verbrechen und Korruption zu kämpfen.",
+  "summaryDutch": "Ivan Campbell, een 35-jarige consultant met een passie voor weven, ontdekt zijn unieke superkrachten gedurende een week, en gebruikt ze om misdaad en corruptie in zijn stad te bestrijden.",
+  "summaryFrench": "Ivan Campbell, un consultant de 35 ans passionné de tissage, découvre ses superpouvoirs uniques au cours d'une semaine, les utilisant pour lutter contre le crime et la corruption dans sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ivan Campbell begins his week with an eerie feeling as he stumbles upon a hidden loom in his deceased grandfather's attic, glowing with a mysterious energy.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tudsday",
+      "text": "As Ivan weaves on the ancient loom, he discovers it grants him the power to see the darkest secrets of anyone he thinks about. He is intrigued but cautious.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Harnessing his powers, Ivan consults for a major corporation, subtly influencing a corrupt executive to confess his fraudulent deeds publicly, bringing justice.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Feeling overwhelmed by his newfound responsibilities as a vigilante, Ivan seeks solace in weaving, creating a tapestry that depicts his transformation.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Ivan feels empowered and confident as he develops plans to expand his influence as a superhero, consulting with local authorities subtly through his civic involvement.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a date night, Ivan shares his secret with his significant other, who reacts with support and excitement, deepening their romantic bond.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ivan hosts a community event, weaving together stories of empowerment and justice, inspiring others to uncover their hidden talents and fight for their community.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "In the loom of fate, Ivan Campbell wove his destiny, one thread of justice at a time.",
+  "moral": "Even ordinary passions can reveal extraordinary destinies."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Eerie Embroidery of Alice Hill",
+  "summary": "Alice Hill, a theater director and embroidery enthusiast, discovers her supernatural ability to bring her embroidered characters to life, using them to thwart a looming supernatural threat by the end of a tumultuous week.",
+  "summaryGerman": "Alice Hill, eine Theaterregisseurin und Stickerei-Enthusiastin, entdeckt ihre übernatürliche Fähigkeit, ihre gestickten Figuren zum Leben zu erwecken, und verwendet sie, um eine drohende übernatürliche Bedrohung am Ende einer turbulenten Woche zu vereiteln.",
+  "summaryDutch": "Alice Hill, een theaterregisseur en borduurfanaat, ontdekt haar bovennatuurlijke vermogen om haar geborduurde personages tot leven te wekken, en gebruikt ze om een dreigende bovennatuurlijke bedreiging aan het einde van een tumultueuze week te dwarsbomen.",
+  "summaryFrench": "Alice Hill, metteuse en scène de théâtre et passionnée de broderie, découvre sa capacité surnaturelle à donner vie à ses personnages brodés, qu'elle utilise pour contrer une menace surnaturelle imminente à la fin d'une semaine tumultueuse.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Alice Hill spends her evening experimenting with a new embroidery pattern, unknowingly stitching mystical symbols that awaken her powers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Noticing her creation moving slightly, Alice is puzzled and intrigued, diving deeper into the mysterious symbols in her embroidery books.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedneday",
+      "text": "Her embroidered characters fully come to life, revealing that Alice has unlocked an ancient enchantment. They caution her about a looming spectral threat.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Facing initial fears, Alice embraces her new role, directing her creations in a rehearsal for an impending battle against the spectral entities.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The spectral threat intensifies, casting an eerie shadow over the city. Alice and her creations prepare for the confrontation.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "In a climactic battle, Alice masterfully commands her embroidered warriors, weaving their strength into a powerful defense that saves the city.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The city returns to peace, grateful for their unexpected heroine. Alice contemplates her next artistic—and heroic—endeavor.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the curtain fell on a week of wonder and war, Alice stitched a new tapestry of peace, her threads binding more than fabric—they bound a city.",
+  "moral": "Creativity is not just an art, it's a power with mystical potentials."
+}

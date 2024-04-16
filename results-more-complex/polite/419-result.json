@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Peggy King: Crochet Hero",
+  "summary": "This story follows Peggy King, a 77-year-old superhero whose powers activate through crochet. Over one week, she mentors young heroes, unravels criminals plans, and saves her community, all with her trusty crochet hook.",
+  "summaryGerman": "Diese Geschichte folgt Peggy King, einer 77-jährigen Superheldin, deren Kräfte sich durch Häkeln aktivieren. Über eine Woche hinweg betreut sie junge Helden, entwirrt die Pläne von Verbrechern und rettet ihre Gemeinde, alles mit ihrer vertrauten Häkelnadel.",
+  "summaryDutch": "Dit verhaal volgt Peggy King, een 77-jarige superheldin wiens krachten worden geactiveerd door te haken. Gedurende één week begeleidt ze jonge helden, ontrafelt ze de plannen van criminelen en redt ze haar gemeenschap, allemaal met haar trouwe haaknaald.",
+  "summaryFrench": "Cette histoire suit Peggy King, une super-héroïne de 77 ans dont les pouvoirs s'activent par le crochet. Pendant une semaine, elle encadre de jeunes héros, démêle les plans des criminels et sauve sa communauté, tout cela avec son fidèle crochet.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Peggy starts her week by teaching a local youth group how to crochet, secretly passing on techniques that enhance mental agility and physical speed.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Detecting a burglary nearby with her finely tuned senses, Peggy swiftly crochets a net to capture the criminals, who are stunned by her speed and creativity.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "While mentoring at the community center, Peggy overhears plans of a harmful scheme threatening her town. She feels an eerie sense of responsibility to stop it.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Peggy spends the day crafting intricate crochet patterns that reveal hidden messages to local authorities, guiding them to prevent the impending crisis.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "After a tiresome week, Peggy attends a romantic dinner hosted by an admirer who appreciates her heroic deeds as much as her crochet skills.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "News breaks out about Peggy's silent heroics. Her town gathers at the park, where she teaches everyone to crochet, weaving happiness and peace throughout.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Peggy feels peaceful satisfaction. She has not only saved the day multiple times but also nurtured a community of future heroes.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Peggy King continued to mentor, crochet, and inspire, proving every stitch counts in the fabric of heroism.",
+  "moral": "Every small act of kindness and lesson can make a monumental difference in the community."
+}

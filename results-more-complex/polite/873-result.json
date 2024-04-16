@@ -1,0 +1,46 @@
+{
+  "title": "Trent Washington: The Vigil of Valor",
+  "summary": "Trent Washington discovers his super strength and uses it to thwart a major crime spree, growing into his new role as a local hero over the course of a week.",
+  "summaryGerman": "Trent Washington entdeckt seine übermenschliche Kraft und nutzt sie, um eine große Verbrechensserie zu vereiteln. Über die Dauer einer Woche wächst er in seine neue Rolle als lokaler Held hinein.",
+  "summaryDutch": "Trent Washington ontdekt zijn bovenmenselijke kracht en gebruikt deze om een grote misdaadgolf te stoppen. Gedurende een week groeit hij in zijn nieuwe rol als lokale held.",
+  "summaryFrench": "Trent Washington découvre sa super force et l'utilise pour contrecarrer une série de grands crimes, devenant un héros local au fil de la semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Trent Washington, a fitness enthusiast, found himself lifting unusually heavy weights at the gym with surprising ease. His newly discovered strength felt both exhilarating and mysterious.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "After work, Trent overhears a plot to rob a local bank. Feeling a sense of duty, he decides to keep an eye on the criminals, planning to intervene.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesady",
+      "text": "Using his extraordinary strength, Trent foils the robbery, saving many hostages. The incident gains media attention, but his identity remains hidden, deepening the mystery around the 'mysterious savior'.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The city buzzes with rumors about the new hero. Trent feels a mix of pride and nervousness as he wonders how to use his powers responsibly.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Trent decides it’s time to fully embrace his role. He designs a costume and adopts the alias 'Vigil of Valor' to protect his identity while helping others.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During his first patrol as Vigil of Valor, Trent stops a car chase and rescues a family, affirming his commitment to heroism.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Trent feels peace knowing he has found his purpose in using his strength for good, promising himself to be the guardian his city needs.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the sun sets, Trent watches over the sparkling city skyline, ready to face whatever comes next.",
+  "moral": "With great power comes great responsibility."
+}

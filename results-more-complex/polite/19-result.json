@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Heidi Cook: The Consulting Crusader",
+  "summary": "Heidi Cook, a 30-year-old consulting and teaching enthusiast, discovers her powers of persuasion and learning, using them to teach and transform her city throughout one remarkable week.",
+  "summaryGerman": "Heidi Cook, eine 30-jährige Begeisterte für Beratung und Lehre, entdeckt ihre Kräfte der Überzeugung und des Lernens, die sie nutzt, um ihre Stadt während einer bemerkenswerten Woche zu lehren und zu verwandeln.",
+  "summaryDutch": "Heidi Cook, een 30-jarige liefhebber van advies en onderwijs, ontdekt haar krachten van overreding en leren, en gebruikt deze om haar stad te onderwijzen en te transformeren gedurende een opmerkelijke week.",
+  "summaryFrench": "Heidi Cook, passionnée de conseil et d'enseignement âgée de 30 ans, découvre ses pouvoirs de persuasion et d'apprentissage, les utilisant pour enseigner et transformer sa ville tout au long d'une semaine remarquable.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Heidi Cook starts her week feeling energetic, preparing an innovative consulting workshop aimed at transforming small businesses in her community.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesdya",
+      "text": "Amid her second day, Heidi is struck by a sudden realization during a teaching session: she can literally infuse knowledge into her students, igniting their potential instantly.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Feeling eerie, Heidi experiments with her newfound powers in private, fearing the implications of her abilities but also curious about the extent of her influence.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "With resolve, Heidi embraces her role as the Consulting Crusader, helping local startups overcome seemingly impossible hurdles.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "At a city-wide teacher's conference, Heidi uses her powers publicly for the first time, earning admiration and many questions about her methods.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "On a romantic evening walk, Heidi meets a fellow educator who shares her passion for change and inspires her to think bigger than just her immediate surroundings.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Heidi feels peaceful, knowing she has made a real difference and is ready to tackle new challenges ahead.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the sun sets on Sunday, Heidi Cook looks out over the city she's learning to change, ready for the next chapter of her journey as the Consulting Crusader.",
+  "moral": "Empowered with knowledge and passion, one can inspire and transform communities."
+}

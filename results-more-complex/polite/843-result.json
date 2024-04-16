@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Wisdom with Heidi Robinson: Superhero at 76",
+  "summary": "Heidi Robinson, a 76-year-old preacher, becomes a local hero over a week by advising and empowering her community through personal crises, culminating in a thrilling rescue.",
+  "summaryGerman": "Heidi Robinson, eine 76-jährige Predigerin, wird innerhalb einer Woche zur lokalen Heldin, indem sie ihrer Gemeinde durch persönliche Krisen berät und stärkt, gipfelnd in einer aufregenden Rettungsaktion.",
+  "summaryDutch": "Heidi Robinson, een 76-jarige prediker, wordt in een week tijd een lokale heldin door haar gemeenschap te adviseren en te ondersteunen door persoonlijke crises, uitmondend in een spannende redding.",
+  "summaryFrench": "Heidi Robinson, prédicatrice de 76 ans, devient une héroïne locale en une semaine en conseillant et en renforçant sa communauté à travers des crises personnelles, aboutissant à un sauvetage palpitant.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Heidi starts her week by calming a neighborhood dispute with wise words, knitting the community closer together.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Inspired by her actions, Heidi gives a deeply moving speech at the local community center, addressing societal issues.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Heidi visits several homes, offering personal advice that leads to significant breakthroughs in her neighbors' lives.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thurseday",
+      "text": "An eerie silence grips the town as a child goes missing. Heidi organizes and leads a search party.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The child is found safely in a nearby park. Heidi's leadership is praised. She emphasizes the power of community.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Riding the waves of her success, Heidi hosts a large gathering to share her experiences and inspires many to volunteer locally.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on a week of achievements, Heidi spends a quiet day at home, receiving visitors who thank her and seek her wise counsel.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "At week's end, Heidi Robinson had not only touched lives but had taught her community the unyielding strength of unity.",
+  "moral": "Even one person's persistent efforts can bring together a community and lead to extraordinary outcomes."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Serene Guardian: The Tale of Frank Richardson",
+  "summary": "Frank Richardson, a 21-year-old who loves meditating and tutoring, discovers his telekinetic powers and learns to control them, using his abilities to save his city from a crisis by the end of a turbulent week.",
+  "summaryGerman": "Frank Richardson, ein 21-Jähriger, der Meditation und Nachhilfe liebt, entdeckt seine telekinetischen Kräfte und lernt, sie zu kontrollieren. Er verwendet seine Fähigkeiten, um seine Stadt am Ende einer turbulenten Woche vor einer Krise zu retten.",
+  "summaryDutch": "Frank Richardson, een 21-jarige die van mediteren en bijles geven houdt, ontdekt zijn telekinetische krachten en leert ze te beheersen, waarbij hij zijn vaardigheden gebruikt om zijn stad te redden van een crisis aan het einde van een turbulente week.",
+  "summaryFrench": "Frank Richardson, un jeune homme de 21 ans qui aime méditer et donner des cours particuliers, découvre ses pouvoirs télékinétiques et apprend à les contrôler, utilisant ses capacités pour sauver sa ville d'une crise à la fin d'une semaine turbulente.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank Richardson, feeling peaceful during a meditation session, senses a strange surge of energy. His newfound telekinetic power flutters pages in his books.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Energized, Frank experiments with small objects, lifting them with his mind. He decides to keep this discovery his secret while he gains control.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "During a tutoring session, Frank accidentally moves a chair telekinetically, startling himself and his student. He apologizes and tries to cover up, feeling a bit eerie.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Frank meets a mysterious figure who knows about his powers. The figure warns him of an impending challenge that will test his abilities to the extreme.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The city's dam begins to fail. Frank rushes to the scene, using his powers to repair the damage and prevent a flood, feeling triumphant as he starts to embrace his role as a hero.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The people of the city start to talk about the mysterious figure saving them. Some are scared, others curious. Frank keeps a low profile but feels increasingly epic.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Frank decides to use his powers for good, establishing himself as a silent guardian of his city. He integrates his power with his everyday life, returning to his hobbies more dedicated than ever.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, Frank Richardson, the Serene Guardian, continued to protect his city, always in secret, always with peace.",
+  "moral": "Great power comes with great responsibility, and true heroes are often the unseen ones."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Quilting Guardian: The Adventures of Judy Wilson",
+  "summary": "Judy Wilson, a 69-year-old quilter and influencer, discovers her power to mend not just fabric, but time itself, embarking on a week-long journey to unravel a community mystery.",
+  "summaryGerman": "Judy Wilson, eine 69-jährige Quilterin und Influencerin, entdeckt ihre Fähigkeit, nicht nur Stoff, sondern auch die Zeit selbst zu reparieren, und begibt sich auf eine einwöchige Reise, um ein Gemeinschaftsgeheimnis zu entwirren.",
+  "summaryDutch": "Judy Wilson, een 69-jarige quilter en influencer, ontdekt haar kracht om niet alleen stof, maar ook de tijd zelf te herstellen, en begint aan een week-lange reis om een gemeenschapsmysterie te ontrafelen.",
+  "summaryFrench": "Judy Wilson, une quilteuse et influenceuse de 69 ans, découvre son pouvoir de réparer non seulement le tissu, mais aussi le temps lui-même, et se lance dans un voyage d'une semaine pour démêler un mystère communautaire.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy Wilson stumbles upon an ancient quilt in her attic that depicts historical events from their town, some of which haven’t occurred yet. The fabric glows when touched.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Judy, feeling a surge of energy, decides to influence the upcoming town hall meeting by wearing the quilt as a shawl, noticing that people around her seem more agreeable.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Judy uses her quilting skills to repair a tear in the fabric and discovers she can alter small events from the past. She corrects a minor but long-standing town dispute.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thusday",
+      "text": "Disturbed by her newfound powers, Judy contemplates her responsibility. A cryptic message appears in the quilt’s stitches, directing her to prevent an upcoming crisis.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Judy hosts a quilting circle, discreetly using the quilt to bolster community spirit and repair broken relationships among her peers, subtly weaving peace into the fabric of the community.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The crisis hinted at in the quilt materializes as a fire in the local library. Judy uses the quilt to smother the flames, saving countless historical documents.",
+      "mood": "heroic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week's events, Judy decides to create a new quilt narrating her adventure, ensuring her story and the lessons she learned are preserved forever.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "And so, Judy Wilson, through threads and time, stitched not only fabric but the heart of her community together.",
+  "moral": "Even seemingly ordinary skills can mend the fabric of society, weaving layers of change that hold a community together."
+}

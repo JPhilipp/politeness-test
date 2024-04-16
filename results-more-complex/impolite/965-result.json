@@ -1,0 +1,46 @@
+{
+  "title": "The Enlightening Adventures of Yousef Price",
+  "summary": "This story follows Yousef Price, a 56-year-old teacher whose supernatural teaching abilities become crucial in solving mysterious events in his town over the course of a week.",
+  "summaryGerman": "Diese Geschichte folgt Yousef Price, einem 56-jährigen Lehrer, dessen übernatürliche Lehrfähigkeiten entscheidend werden, um über die Dauer einer Woche mysteriöse Ereignisse in seiner Stadt zu lösen.",
+  "summaryDutch": "Dit verhaal volgt Yousef Price, een 56-jarige leraar wiens bovennatuurlijke onderwijsvaardigheden cruciaal worden bij het oplossen van mysterieuze gebeurtenissen in zijn stad gedurende een week.",
+  "summaryFrench": "Cette histoire suit Yousef Price, un enseignant de 56 ans dont les capacités d'enseignement surnaturelles deviennent cruciales pour résoudre des événements mystérieux dans sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Yousef discovers hidden ancient texts in the school’s library that grant him the ability to impart knowledge telepathically.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuedsay",
+      "text": "Using his newfound powers, Yousef helps a struggling student excel overnight. News of this miraculous turnaround spreads like wildfire.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "The local news approaches Yousef, wanting to feature his story. He shyly agrees, hoping to inspire others.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Yousef’s powers attract the attention of envious scholars who question his methods and ethics.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Confronting the criticism, Yousef demonstrates his teaching abilities at a public seminar, winning over many skeptics.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "His reputation restored, Yousef spends a peaceful day tutoring volunteer students, spreading joy and knowledge.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Yousef realizes the true value of his gift isn't just in teaching but in empowering others to learn and grow.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, Yousef Price continued to enlighten minds, proving that true heroes empower others.",
+  "moral": "Empowerment of others is the true hallmark of heroism."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Incredible Week of Zelda Wood, The Ageless Educator",
+  "summary": "Zelda Wood, a 66-year-old teacher with a gift for inspiring change, discovers she has the power to manipulate time to help her community. Throughout a week, she tests her abilities and ultimately uses them to thwart a major crisis, teaching her the endless potential of giving back.",
+  "summaryGerman": "Zelda Wood, eine 66-jährige Lehrerin mit einer Gabe, Veränderungen zu inspirieren, entdeckt, dass sie die Zeit manipulieren kann, um ihrer Gemeinde zu helfen. Während einer Woche testet sie ihre Fähigkeiten und nutzt sie letztendlich, um eine große Krise abzuwenden, was ihr das unendliche Potenzial zurückzugeben lehrt.",
+  "summaryDutch": "Zelda Wood, een 66-jarige lerares met een gave om verandering te inspireren, ontdekt dat ze de tijd kan manipuleren om haar gemeenschap te helpen. Gedurende een week test ze haar mogelijkheden en uiteindelijk gebruikt ze deze om een grote crisis af te wenden, wat haar het eindeloze potentieel van teruggeven leert.",
+  "summaryFrench": "Zelda Wood, enseignante de 66 ans dotée d'un don pour inspirer le changement, découvre qu’elle peut manipuler le temps pour aider sa communauté. Tout au long d'une semaine, elle teste ses capacités et les utilise finalement pour déjouer une grande crise, lui enseignant le potentiel infini du don de soi.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda Wood begins her week feeling energetic as she discovers an unusual glowing clock in her classroom, which grants her the power to rewind time by five minutes.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Exploring her newfound powers, she uses them to prevent a minor accident in the school cafeteria, feeling triumphant about the possibilities.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "Zelda tests her time powers further by attempting to fix more significant past mistakes, which leads to unexpected complications, rendering the day quite eerie.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Feeling sad about the unintended consequences her actions have caused, Zelda reflects on the responsibilities that come with such power.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Determined to make amends, Zelda uses her abilities to help set right the troubles, leading to a peaceful resolution in her community.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Now recognized as a local hero, Zelda feels romantic as she reconnects with an old friend who shares her vision for a better future.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Zelda, now confident in her role as both a teacher and a superhero, prepares lessons on the moral implications of using powers for good, feeling happy and fulfilled.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As she looked at the glowing clock, Zelda Wood knew the time was always right to make a difference.",
+  "moral": "With great power comes great responsibility; even the smallest change can make a big difference."
+}

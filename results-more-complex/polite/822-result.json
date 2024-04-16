@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Hubert Morgan: Hero of Compassion",
+  "summary": "Hubert Morgan, a middle-aged community coach, discovers unique powers that allow him to inspire unprecedented kindness and unity in his city.",
+  "summaryGerman": "Hubert Morgan, ein mittelalterlicher Gemeinschaftstrainer, entdeckt einzigartige Kräfte, die es ihm ermöglichen, beispiellose Freundlichkeit und Einheit in seiner Stadt zu inspirieren.",
+  "summaryDutch": "Hubert Morgan, een gemeenschapscoach van middelbare leeftijd, ontdekt unieke krachten waarmee hij een ongekende vriendelijkheid en eenheid in zijn stad kan inspireren.",
+  "summaryFrench": "Hubert Morgan, un coach communautaire d'âge moyen, découvre des pouvoirs uniques qui lui permettent d'inspirer une gentillesse et une unité sans précédent dans sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Hubert starts the week feeling energetic as he helps organize a local sports event, unknowingly spreading his newfound power of boosting morale and unifying the community.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Feeling peaceful, Hubert spends the day mentoring young athletes, noticing their unusual rapid improvement and deepening team bonds.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wendsday",
+      "text": "An eerie silence pervades the morning, but Hubert uses his calm to ease a rising conflict at a school playground, revealing his powers' peacemaking aspect.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Hubert feels triumphant after successfully leading a volunteering initiative that unexpectedly brings rival communities together.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "An unusually happy aura surrounds Hubert as he assists a local charity event, where his enthusiasm and vitality lead to record donations.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "An epic community gathering is led by Hubert, where he unveils his secret. The crowd is moved by the realization of his impact, leading to a huge celebration of unity.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Feeling romantic, Hubert spends a quiet day with loved ones, reflecting on the week's miraculous events and planning future communal activities.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "As the sun sets on Sunday evening, our accidental hero, Hubert Morgan, remains a quiet steward of an unknowingly powerful legacy.",
+  "moral": "Even the simplest acts of kindness and support can have profound impacts on a community."
+}

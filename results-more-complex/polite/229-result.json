@@ -1,0 +1,46 @@
+{
+  "title": "The Green Harmony: The Adventures of Judy Green",
+  "summary": "Judy Green, a 37-year-old music arranger and avid gardener, discovers her supernatural ability to manipulate plants and sound waves to protect her neighborhood from various threats over the span of a week.",
+  "summaryGerman": "Judy Green, eine 37-jährige Musikarrangeurin und begeisterte Gärtnerin, entdeckt ihre übernatürlichen Fähigkeiten, Pflanzen und Schallwellen zu manipulieren, um ihre Nachbarschaft über die Dauer einer Woche vor verschiedenen Bedrohungen zu schützen.",
+  "summaryDutch": "Judy Green, een 37-jarige muziekarrangeur en fervent tuinierster, ontdekt haar bovennatuurlijke vermogen om planten en geluidsgolven te manipuleren om haar buurt te beschermen tegen verschillende bedreigingen gedurende een week.",
+  "summaryFrench": "Judy Green, une arrangeuse de musique de 37 ans et jardinière passionnée, découvre sa capacité surnaturelle à manipuler les plantes et les ondes sonores pour protéger son quartier de diverses menaces pendant une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy Green discovers her unique powers when she accidentally causes her plants to grow at an unusual pace while arranging a melody. The blend of music and flora feels magical.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "TuesdaU",
+      "text": "Emboldened by her newfound abilities, Judy experiments more and learns she can also repair damaged plants. She rejuvenates her neighbor’s dying garden.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "While gardening, Judy hears distress from the local park. Using her powers, she creates a barrier of thick vines to stop a runaway vehicle, saving a family.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Word of her heroics spreads. Doubters challenge her abilities. Judy elegantly demonstrates by orchestrating a flash mob with synchronized blooming flowers.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A rare blue rose brought from afar begins to wilt under a mysterious sickness. Judy uses her sonic waves to diagnose and cure the plant, attracting attention from local scientists.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Judy collaborates with local children to create a musical garden. Each plant plays a note, turning the garden into a living symphony.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "A minor earthquake hits; Judy calms the chaos by amplifying the harmonic frequencies of her garden to soothe the rattled community.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "As Judy stood in her thriving garden, the plants swayed to the rhythm of her heartbeat, a symphony of nature and melody echoing her courage and care.",
+  "moral": "With great power comes the responsibility to harmonize and protect."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Linda Coleman: The Guiding Light of Apex City",
+  "summary": "Linda Coleman, a 44-year-old superhero, uses her coaching and tutoring abilities enhanced by telekinesis to combat corruption. Over one week, she transitions from a normal routine to unveiling a major scandal.",
+  "summaryGerman": "Linda Coleman, eine 44-jährige Superheldin, nutzt ihre durch Telekinese verstärkten Coaching- und Tutoring-Fähigkeiten, um Korruption zu bekämpfen. Innerhalb einer Woche geht sie von einer normalen Routine dazu über, einen großen Skandal aufzudecken.",
+  "summaryDutch": "Linda Coleman, een 44-jarige superheldin, gebruikt haar coaching- en tutorvaardigheden, versterkt door telekinese, om corruptie te bestrijden. In een week tijd gaat ze van een normale routine naar het onthullen van een groot schandaal.",
+  "summaryFrench": "Linda Coleman, une superhéroïne de 44 ans, utilise ses capacités de coaching et de tutorat, renforcées par la télékinésie, pour combattre la corruption. En une semaine, elle passe d'une routine normale à la révélation d'un grand scandale.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Linda Coleman spends her day coaching local students in mathematics, unaware that by nightfall her telekinetic powers would detect fraud in the school system's funding.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Equipped with her powers, Linda discreetly investigates, uncovering hidden documents that suggest financial misconduct. Her resolve strengthens.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "With evidence in hand, Linda confronts the school board, but they dismiss her claims. Frustration mounts but inspires her to dig deeper.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Linda recruits a team of trusted teachers and students who help her gather more proof. Their teamwork embodies her belief in the power of community.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The group's efforts reveal a connection between the school board and a corrupted local business. Linda feels the weight of responsibility.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Linda and her team present their findings to the mayor, who agrees to intervene. A press conference is set, and the mood at school is electric.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "After revealing the scandal, Linda spends a restful day with her students, celebrating their hard-fought victory with a community picnic.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "With the community's trust restored, Linda proved that even heroes can emerge from the humblest of beginnings.",
+  "moral": "Every individual has the capacity to effect change, regardless of their day job."
+}

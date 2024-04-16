@@ -1,0 +1,46 @@
+{
+  "title": "The Artful Adventures of Pit Robinson",
+  "summary": "Pit Robinson, a painter and teacher, discovers his ability to manipulate colors with his mind, using his new power to combat the grayness engulfing his city over one transformative week.",
+  "summaryGerman": "Pit Robinson, ein Maler und Lehrer, entdeckt seine Fähigkeit, Farben mit seinem Geist zu manipulieren, und verwendet seine neue Kraft, um die Grauen, die seine Stadt umhüllen, im Laufe einer transformativen Woche zu bekämpfen.",
+  "summaryDutch": "Pit Robinson, een schilder en leraar, ontdekt zijn vermogen om kleuren met zijn geest te manipuleren, en gebruikt zijn nieuwe kracht om de grijsheid die zijn stad omsluit gedurende een transformerende week te bestrijden.",
+  "summaryFrench": "Pit Robinson, un peintre et enseignant, découvre sa capacité à manipuler les couleurs avec son esprit, utilisant son nouveau pouvoir pour combattre la grisaille qui engloutit sa ville pendant une semaine transformative.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Pit felt an unusual sensation as his brush strokes began to shimmer with unexplained energy, turning the classroom mural into a vibrant vortex of colors.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuseday",
+      "text": "With curiosity peaked, Pit experimented privately, discovering he could change the colors of objects with just a thought, invigorating his perception and paintings.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "He shared his secret with his closest student, Lucy, who encouraged him to embrace his gift and use it to make their city more lively and colorful.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "After noticing the drab, gray tone setting over the city, Pit decided it was time to act. He set out at night, revitalizing public spaces with spectacular color hues.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The city awoke to an explosion of colors. People felt happier and more energetic, but the sudden change drew the attention of mysterious figures in gray.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The gray-clad figures confronted Pit, revealing themselves as agents of monotony who strive to suppress creativity and vibrancy. A battle of colors ensued.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "With the help of the community and his students, Pit managed to defeat the agents. The city celebrated their newfound vibrancy with a festival of colors.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "Pit Robinson learned that with great power comes great responsibility, and with his art, he had colored not just walls, but also hearts.",
+  "moral": "Use your gifts to bring color and joy into the world."
+}

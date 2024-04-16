@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Wisdom: Ivan Bennett's Unsung Heroics",
+  "summary": "Ivan Bennett, a 74-year-old retired teacher and counselor, uses his old skills and newfound abilities to confront and resolve conflicts in his community over the course of a week.",
+  "summaryGerman": "Ivan Bennett, ein 74-jähriger pensionierter Lehrer und Berater, nutzt seine alten Fähigkeiten und neu entdeckten Fähigkeiten, um Konflikte in seiner Gemeinschaft im Laufe einer Woche zu konfrontieren und zu lösen.",
+  "summaryDutch": "Ivan Bennett, een 74-jarige gepensioneerde leraar en counselor, gebruikt zijn oude vaardigheden en nieuw gevonden capaciteiten om conflicten in zijn gemeenschap gedurende een week het hoofd te bieden en op te lossen.",
+  "summaryFrench": "Ivan Bennett, un enseignant et conseiller retraité de 74 ans, utilise ses anciennes compétences et ses capacités nouvellement découvertes pour affronter et résoudre des conflits dans sa communauté au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ivan Bennett discovers he can 'hear' the inner turmoil in people's hearts. Using his skills, he gently resolves a dispute between two neighbors over a property line, bringing peace to the block.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Empowered by yesterday's success, Ivan advises a local youth struggling with school decisions. His insightful guidance clears confusion and sets the youth on a confident path.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wedesday",
+      "text": "While at the market, Ivan detects eerie whispers of dishonesty from a shopkeeper. He confronts the issue, leading to a confession and an apology to affected customers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Ivan uses his morning walk to mediate a simmering dispute at the community center, implementing a creative resolution that inspires all involved.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Ivan reunites with an old friend, rekindling a long-lost friendship. They reminisce and share wise stories, strengthening their bond.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A local crisis avails itself when a nearby park's future is threatened. Ivan steps in, utilizing his negotiation skills to craft a solution that satisfies all parties.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week's events, Ivan holds a free counseling session at the park, advising and empowering the community on personal and collective challenges.",
+      "mood": "energetic"
+    }
+  ],
+  "ending": "By the week's end, Ivan Bennett had quietly but profoundly improved many lives, proving that heroes come in all ages and forms.",
+  "moral": "No matter one's age, the power to make a positive difference never fades."
+}

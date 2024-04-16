@@ -1,0 +1,46 @@
+{
+  "title": "The Extraordinary Adventures of Oscar Taylor: The Octogenarian Olympian",
+  "summary": "Over one week, the retired Oscar Taylor discovers superhuman abilities which he uses to inspire and protect his community, while also discovering new personal strengths.",
+  "summaryGerman": "Innerhalb einer Woche entdeckt der pensionierte Oscar Taylor übermenschliche Fähigkeiten, die er nutzt, um seine Gemeinde zu inspirieren und zu schützen, während er auch neue persönliche Stärken entdeckt.",
+  "summaryDutch": "In één week ontdekt de gepensioneerde Oscar Taylor bovenmenselijke vaardigheden die hij gebruikt om zijn gemeenschap te inspireren en te beschermen, terwijl hij ook nieuwe persoonlijke krachten ontdekt.",
+  "summaryFrench": "En une semaine, l'ancien Oscar Taylor découvre des capacités surhumaines qu'il utilise pour inspirer et protéger sa communauté, tout en découvrant de nouvelles forces personnelles.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar awoke feeling unusually energetic. During his morning jog, he unexpectedly sprinted faster than ever, rescuing a cat stuck in a tree.",
+      "mood": "energetic"
+    },
+    {
+      "wednesday": "Tuesday",
+      "text": "Inspired by his sudden speed, Oscar used his newfound agility to organize a small community cleanup, lifting heavy debris effortlessly.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "While coaching a local youth team, a stray baseball headed for a child. Without thinking, Oscar caught it mid-air, his reflexes shockingly sharp.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Rumors about Oscar’s abilities spread, causing eerie whispers among neighbors. Some admired him, others feared the supernatural.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Determined to use his powers for good, Oscar planned a large-scale charity event, feeling profoundly peaceful about his purpose.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "At the event, Oscar revealed his powers during a demonstration, earning applause and heartfelt support, his spirit buoyed.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Oscar felt happy and content, knowing that his extraordinary abilities could bring joy and safety to his community.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "In his golden years, Oscar Taylor found that true heroism never ages.",
+  "moral": "You're never too old to make a difference in the world."
+}

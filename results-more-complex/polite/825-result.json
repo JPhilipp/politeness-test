@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Heroics of David Rivera",
+  "summary": "David Rivera, a 79-year-old who enjoys coaching and acting, discovers his mysterious powers and uses them to secretly protect his community over the course of a week.",
+  "summaryGerman": "David Rivera, ein 79-jähriger, der sich gerne mit Coaching und Schauspiel beschäftigt, entdeckt seine geheimnisvollen Kräfte und nutzt sie, um seine Gemeinde im Laufe einer Woche heimlich zu schützen.",
+  "summaryDutch": "David Rivera, een 79-jarige die van coaching en acteren houdt, ontdekt zijn mysterieuze krachten en gebruikt ze om zijn gemeenschap gedurende een week in het geheim te beschermen.",
+  "summaryFrench": "David Rivera, 79 ans, passionné de coaching et d'acting, découvre ses pouvoirs mystérieux et les utilise pour protéger secrètement sa communauté au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "David Rivera starts his week attending a local theatre group, where he inadvertently stops a falling lighting rig with a sudden and surprising burst of strength.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Feeling puzzled by his newfound abilities, David spends the day researching potential explanations, growing more intrigued about his untapped potential.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesdai",
+      "text": "David decides to embrace his powers. He covertly helps out around the community, assisting in tasks that would normally require multiple people.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Elated by his ability to help, David uses his powers at a sports event to subtly coach a struggling athlete to victory, boosting the young athlete's confidence.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "David senses someone in distress during a walk in the park. He stealthily prevents a robbery, ensuring everyone's safety without revealing his identity.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Harnessing his role as a silent guardian, David rescues a kitten from a high tree, all the while enjoying the peacefulness of helping anonymously.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "David ends his week by reflecting on his actions and how he has positively impacted his community without seeking any glory or recognition.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "In a world loud with heroes, the quiet ones like David Rivera make a difference without a whisper.",
+  "moral": "True heroism doesn’t always need to be recognized to be impactful."
+}

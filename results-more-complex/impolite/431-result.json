@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Code and Courage: The Adventures of Bob Miller",
+  "summary": "Bob Miller, a 27-year-old tutor and programmer, discovers his extraordinary abilities to manipulate digital realities and uses these to foil a cyber-attack, while balancing everyday life.",
+  "summaryGerman": "Bob Miller, ein 27-jähriger Tutor und Programmierer, entdeckt seine außergewöhnlichen Fähigkeiten, digitale Realitäten zu manipulieren, und verwendet diese, um einen Cyber-Angriff zu vereiteln, während er das alltägliche Leben balanciert.",
+  "summaryDutch": "Bob Miller, een 27-jarige tutor en programmeur, ontdekt zijn buitengewone vaardigheden om digitale realiteiten te manipuleren en gebruikt deze om een cyberaanval te verijdelen, terwijl hij het alledaagse leven balanceert.",
+  "summaryFrench": "Bob Miller, un tuteur et programmeur de 27 ans, découvre ses capacités extraordinaires à manipuler les réalités numériques et les utilise pour déjouer une cyberattaque, tout en équilibrant la vie quotidienne.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Bob discovered his ability to interact with and manipulate digital interfaces with his mind during a routine coding session. Shocked and curious, he spent the day experimenting with his new skills.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While tutoring, Bob used his powers discretely to help explain complex programming concepts through visualizations. His students were unusually receptive, leaving him feeling happy and helpful.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "Bob noticed unauthorized access in the network of his daytime job. Using his powers, he tracked down the intrusion to a malicious source planning a cyber-attack.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Bob spent the day fortifying the company’s digital infrastructure and laying traps for the cyber-attackers, drawing upon both his programming skills and new abilities.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The attackers struck, but thanks to Bob's preparations, they were quickly thwarted. The incident was contained, and Bob was hailed as a hero at work, although nobody knew about his powers.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "To celebrate, Bob organized a small party with close friends, who noticed his unusually upbeat mood but knew nothing of his heroic act.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Bob realized that with great power comes great responsibility. He decides to secretly use his abilities to shield the digital world.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the sun set on Sunday, Bob Miller sat contentedly by his computer, crafting plans for his next silent guardian shift in the digital shadows.",
+  "moral": "With great power comes great responsibility, and the true heroes are often unsung."
+}

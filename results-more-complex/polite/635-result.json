@@ -1,0 +1,45 @@
+{
+  "title": "The Heroic Week of Grace Garcia",
+  "summary": "Grace Garcia, a 38-year-old coaching and directing enthusiast, discovers her superpower of transforming moods and environments positively. Throughout one week, she uses her new abilities to resolve conflicts, inspire value, and bring joy to her community.",
+  "summaryGerman": "Grace Garcia, eine 38-jährige Begeisterte für Coaching und Regiearbeit, entdeckt ihre Superkraft, Stimmungen und Umgebungen positiv zu verändern. Innerhalb einer Woche nutzt sie ihre neuen Fähigkeiten, um Konflikte zu lösen, Werte zu inspirieren und Freude in ihrer Gemeinde zu verbreiten.",
+  "summaryDutch": "Grace Garcia, een 38-jarige liefhebber van coaching en regisseren, ontdekt haar superkracht om sferen en omgevingen positief te transformeren. Gedurende één week gebruikt ze haar nieuwe vaardigheden om conflicten op te lossen, waarde te inspireren en vreugde in haar gemeenschap te brengen.",
+  "summaryFrench": "Grace Garcia, une passionnée de coaching et de direction âgée de 38 ans, découvre son super pouvoir de transformer les humeurs et les environnements de manière positive. Tout au long d'une semaine, elle utilise ses nouvelles capacités pour résoudre des conflits, inspirer des valeurs et apporter de la joie à sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Grace starts her week feeling energetic as she prepares for a coaching session. During the session, she unexpectedly helps a quarrelsome group find common ground.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While directing a play, Grace discovers her power to influence moods magically. The entire cast and crew feel an uplifting change.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Wensday",
+      "text": "Grace uses her power at a community meeting, turning a tense atmosphere into a peaceful resolution. People leave feeling serene and grateful.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "An eerie feeling overcomes the local park. Grace intervenes, restoring it to its usual joyful state, dispelling fears among the community's children.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Grace feels triumphant as she resolves a long-standing feud between two rival teams at the recreation center, fostering sportsmanship and unity.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Feeling romantic, Grace helps an estranged couple reconnect through a beautifully orchestrated scene at the local theater.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The week ends on a high note as Grace hosts a community festival that she orchestrated, bringing everyone together for a day of fun, food, and music.",
+      "mood": "happy"
+    }
+  ],
+  "moral": "Never underestimate the power of positivity to transform and uplift a community."
+}

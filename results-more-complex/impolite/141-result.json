@@ -1,0 +1,46 @@
+{
+  "title": "The Harmonic Hero: The Tale of Pit Morgan",
+  "summary": "Pit Morgan, a conductor and preacher, discovers his superpower of influencing people's emotions through music and words, and uses this ability to avert a disaster in his city.",
+  "summaryGerman": "Pit Morgan, ein Dirigent und Prediger, entdeckt seine Superkraft, die Emotionen der Menschen durch Musik und Worte zu beeinflussen, und nutzt diese Fähigkeit, um eine Katastrophe in seiner Stadt zu verhindern.",
+  "summaryDutch": "Pit Morgan, een dirigent en prediker, ontdekt zijn superkracht om de emoties van mensen te beïnvloeden met muziek en woorden, en gebruikt deze vaardigheid om een ramp in zijn stad te voorkomen.",
+  "summaryFrench": "Pit Morgan, chef d'orchestre et prédicateur, découvre son superpouvoir d'influencer les émotions des gens à travers la musique et les mots, et utilise cette capacité pour éviter un désastre dans sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Pit Morgan, during his morning choir rehearsal, feels a strange surge of energy that allows him to deeply move his choir emotionally, more than ever before.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Curious about his newfound powers, Pit uses the day to experiment with different musical tones and scriptures, finding he can evoke specific feelings among his listeners.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Pit decides to address a growing tension in the community by hosting a small concert and speech, which ends up incredibly soothing, fostering peace.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thusday",
+      "text": "News of his healing harmony spreads, and Pit is invited to a televised debate where he eloquently calms aggressive dialogues with his persuasive speech and subtle background music.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "He confronts a group of troublemakers disrupting local harmony. Using the power of his conductive aura, he turns their anger into remorse, changing their hearts.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Embracing his role as a peacemaker, Pit organizes a large, free public concert, combining his preaching and conducting into one powerful, uniting event.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The concert is a resounding success; the city officials recognize Pit's contributions and award him a medal for his outstanding civic service, marking an inspiring end to a miraculous week.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, Pit Morgan, through the divine intertwining of music and spirit, healed not just the discordant hearts around him but sowed harmony in the urban symphony.",
+  "moral": "The power of art and speech, when combined can transcend ordinary human interaction, effecting profound change and unity."
+}

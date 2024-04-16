@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Advisor: The Story of Eve Allen",
+  "summary": "Eve Allen, an ordinary 21-year-old with a passion for helping, gains mysterious powers that allow her to provide unseen advice and aid. Over a week, she transforms her city by secretly solving problems and fighting injustice.",
+  "summaryGerman": "Eve Allen, eine gewöhnliche 21-Jährige mit einer Leidenschaft für das Helfen, erlangt mysteriöse Kräfte, die es ihr ermöglichen, unsichtbare Ratschläge und Hilfe zu geben. Über eine Woche hinweg verwandelt sie ihre Stadt, indem sie heimlich Probleme löst und Ungerechtigkeiten bekämpft.",
+  "summaryDutch": "Eve Allen, een gewone 21-jarige met een passie voor helpen, krijgt mysterieuze krachten waardoor ze onzichtbaar advies en hulp kan bieden. Gedurende een week transformeert ze haar stad door in het geheim problemen op te lossen en onrecht te bestrijden.",
+  "summaryFrench": "Eve Allen, une jeune femme de 21 ans ordinaire avec une passion pour aider, acquiert des pouvoirs mystérieux qui lui permettent de fournir des conseils et des aides invisibles. En une semaine, elle transforme sa ville en résolvant secrètement des problèmes et en combattant l'injustice.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Discovering her power to invisibly whisper life-changing advice to people around her, Eve helps a lost child reunite with his parents at the park, feeling energetic and hopeful.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Eve overhears a plan about a bank robbery. Using her powers, she advises the police anonymously, leading to the robbers’ arrest before any harm could be done. Eve feels triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesay",
+      "text": "Mysteriously receiving messages about her power’s origins, Eve feels an eerie chill as she wanders through the city’s oldest library searching for clues.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Eve helps a couple on the brink of divorce remember their love for each other by sending them forgotten memories and notes, feeling romantic and helpful.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Her actions catching the eye of a sinister organization, Eve narrowly escapes their traps using her quick thinking and newfound agility. The day ends with an epic chase.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Gathering her friends, whom she had secretly helped throughout the week, Eve reveals her identity and discusses forming a team to tackle the city’s deeper issues together, feeling hopeful and peaceful.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her journey, Eve feels happy and fulfilled as the city shows visible signs of improvement and gratitude, though its citizens remain unaware of their guardian angel.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus begins the legend of Eve Allen, the unseen advisor, whose whispers carry the weight of hope and change.",
+  "moral": "Even the smallest unseen deeds can have the mightiest impact."
+}

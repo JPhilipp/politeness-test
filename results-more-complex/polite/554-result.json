@@ -1,0 +1,46 @@
+{
+  "title": "The Daring Adventures of Peggy Jackson",
+  "summary": "Over one week, Peggy Jackson, a 54-year-old tutor with a passion for dancing, discovers her superpowers, helping her community and learning more about herself.",
+  "summaryGerman": "Über eine Woche entdeckt Peggy Jackson, eine 54-jährige Tutorin mit einer Leidenschaft fürs Tanzen, ihre Superkräfte, hilft ihrer Gemeinschaft und erfährt mehr über sich selbst.",
+  "summaryDutch": "Gedurende één week ontdekt Peggy Jackson, een 54-jarige tutor met een passie voor dansen, haar superkrachten, helpt ze haar gemeenschap en leert ze meer over zichzelf.",
+  "summaryFrench": "Au cours d'une semaine, Peggy Jackson, une tutrice de 54 ans passionnée de danse, découvre ses superpouvoirs, aide sa communauté et en apprend davantage sur elle-même.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "As the sun rises, Peggy Jackson feels an unusual surge of energy while tutoring. Later, she inadvertently stops a purse snatcher using a sudden burst of superspeed.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Peggy tests her new powers at her dance class, leading to a flawless and captivating performance that leaves everyone spellbound and her feeling happy.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednedsay",
+      "text": "Trying to understand her powers better, Peggy encounters an elderly man in trouble. Using her superspeed, she rescues him from a fall, filling her with a sense of purpose.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Peggy's old student needs help with a tough exam. Using her now enhanced cognitive abilities, she tutors like never before, earning her a peaceful satisfaction.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "At the local park, Peggy stops a stray dog from causing mayhem, discovering her ability to communicate with animals, an eerie yet heartening realization.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Peggy’s dance partner confesses his admiration for her new vibrant energy, leading to a romantic evening under the stars.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Peggy hosts a community charity dance, using her story to inspire others. Her efforts culminate in a massive fundraise that feels nothing short of triumphant.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "Thus, Peggy Jackson’s life transformed, forever intertwining her destiny with the powers that found her.",
+  "moral": "Unexpected changes can lead to remarkable paths and the discovery of innate strengths."
+}

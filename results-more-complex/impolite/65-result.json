@@ -1,0 +1,46 @@
+{
+  "title": "The Negotiator: The Tale of Victor Kelly",
+  "summary": "Victor Kelly, aged 59 with hobbies of negotiating and instructing, discovers his superpower of influence and speech which he uses to thwart a corporate espionage plot.",
+  "summaryGerman": "Victor Kelly, 59 Jahre alt mit den Hobbys Verhandeln und Unterrichten, entdeckt seine Superkraft des Einflusses und der Rede, die er verwendet, um eine Verschwörung zur Unternehmensspionage zu vereiteln.",
+  "summaryDutch": "Victor Kelly, 59 jaar oud met hobby's onderhandelen en onderwijzen, ontdekt zijn superkracht van invloed en spraak die hij gebruikt om een complot van bedrijfsspionage te dwarsbomen.",
+  "summaryFrench": "Victor Kelly, âgé de 59 ans avec des passe-temps de négociation et d’enseignement, découvre son super pouvoir d'influence et de parole qu'il utilise pour contrecarrer un complot d'espionnage corporatif.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Victor spends his morning teaching negotiation tactics at a local community center, feeling energetic and ready to empower others.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "During a walk, he overhears a suspicious conversation about a corporate takeover plan. Victor feels a chill run down his spine, marking the beginning of his eerie adventure.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Using his expert negotiation skills, Victor arranges a meeting with the potential evildoers. He finds the talk intriguing and strategizes in the background.",
+      "mood": "triuphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "He gathers more evidence by instructing his sources discreetly, managing to keep the mission undercover.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Victor feels triumphant as he exposes the culprits during a high-stakes meeting, using just his words and tactics learned over the years.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The community celebrates Victor’s success. He spends the day sharing his experience and excitement with others, feeling the joy of a hero.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Victor continues his usual activities but remains alert and ready, knowing his skills are forever valuable.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "In the silence of his room, Victor Kelly smiled, ready for whatever would come next.",
+  "moral": "The true power of a superhero lies not just in physical strength, but in wisdom and the ability to influence."
+}

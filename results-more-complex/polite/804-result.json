@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Xavier Moore",
+  "summary": "Xavier Moore, a dedicated teacher and servant, discovers his ability to manipulate time during a dramatic week full of challenges, eventually using his powers to save his community.",
+  "summaryGerman": "Xavier Moore, ein engagierter Lehrer und Diener, entdeckt seine Fähigkeit, während einer dramatischen Woche voller Herausforderungen die Zeit zu manipulieren, und nutzt seine Kräfte schließlich, um seine Gemeinde zu retten.",
+  "summaryDutch": "Xavier Moore, een toegewijde leraar en dienaar, ontdekt zijn vermogen om tijdens een dramatische week vol uitdagingen de tijd te manipuleren, en gebruikt uiteindelijk zijn krachten om zijn gemeenschap te redden.",
+  "summaryFrench": "Xavier Moore, un enseignant dévoué et serviteur, découvre sa capacité à manipuler le temps au cours d'une semaine dramatique pleine de défis, et utilise finalement ses pouvoirs pour sauver sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Xavier Moore starts his week feeling peaceful as he prepares his lesson plans, unaware that he's about to discover an extraordinary ability.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "The discovery happens when Xavier accidentally freezes time in his classroom to avert a potential accident, leaving him shocked and curious.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "With a mix of fear and excitement, Xavier tests his new powers after school, successfully reversing a few minutes to perfect a tea he oversteeped.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Xavier confides in his closest colleague about his abilities. They spend the afternoon discussing the implications and responsibilities.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "An emergency at a nearby chemical plant tests Xavier's resolve as he uses his time manipulation to evacuate the area and prevent a catastrophe.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Following the chaos, Xavier teaches a community class on safety and preparedness, subtly incorporating lessons on personal strengths and heroism.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Xavier feels happy and empowered, knowing he can make a significant difference in the world with his unique gift.",
+      "mood": "happy"
+    }
+  ],
+  "moral": "With great power comes great responsibility, and even the most ordinary people can become heroes in their own right.",
+  "ending": "Thus ends the heroic week of Xavier Moore, a humble teacher with the time-bending ability to make every second count."
+}

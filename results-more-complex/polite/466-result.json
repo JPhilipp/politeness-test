@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Hero: Hubert Perry's Week of Transformation",
+  "summary": "Hubert Perry, a 21-year-old tutor and trader, discovers his unique powers and rises as a hero over the span of one transformative week.",
+  "summaryGerman": "Hubert Perry, ein 21-jähriger Tutor und Händler, entdeckt seine einzigartigen Kräfte und steigt im Verlauf einer transformativen Woche als Held auf.",
+  "summaryDutch": "Hubert Perry, een 21-jarige tutor en handelaar, ontdekt zijn unieke krachten en rijst op als een held over de spanne van één transformerende week.",
+  "summaryFrench": "Hubert Perry, un tuteur et commerçant de 21 ans, découvre ses pouvoirs uniques et s'érige en héros au cours d'une semaine transformatrice.",
+  "story": [
+    {
+      "weekday": "Mmonday",
+      "text": "While tutoring, Hubert Perry accidentally absorbs knowledge from a mysterious old book, feeling a surge of energy.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Hubert trades stocks with uncanny success, realizing his new ability to predict market movements with precision.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Hubert uses his newfound abilities to help a struggling student master complex mathematics overnight.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News of Hubert's talents spread, and he is approached by sinister figures wanting to exploit his powers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Hubert evades the sinister figures with the help of friends he’s made from the tutoring community.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "In a peaceful moment, Hubert reflects on his abilities and decides to use them for the greater good, inspiring others.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Hubert publicly thwarts a major financial fraud, becoming a hero in his community and cementing his role as a protector.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "Thus, Hubert Perry embraced his newfound role, vowing to use his powers to fight for justice and enlighten minds.",
+  "moral": "With great power comes great responsibility, and true heroes are those who use their abilities for the greater good."
+}

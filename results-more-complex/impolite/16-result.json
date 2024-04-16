@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Trent Campbell: Hero in the Shadows",
+  "summary": "Trent Campbell, a 28-year-old with a passion for mentoring and advertising, discovers his psychic abilities and saves his city from a hidden threat over the course of one week.",
+  "summaryGerman": "Trent Campbell, ein 28-jähriger mit einer Leidenschaft für Mentoring und Werbung, entdeckt seine psychischen Fähigkeiten und rettet seine Stadt vor einer verborgenen Bedrohung im Laufe einer Woche.",
+  "summaryDutch": "Trent Campbell, een 28-jarige met een passie voor mentoring en reclame, ontdekt zijn psychische vaardigheden en redt zijn stad van een verborgen dreiging in de loop van een week.",
+  "summaryFrench": "Trent Campbell, 28 ans, passionné de mentorat et de publicité, découvre ses capacités psychiques et sauve sa ville d'une menace cachée au cours d'une semaine.",
+  "moral": "Even ordinary individuals have the potential to achieve extraordinary things when they confront their fears.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Trent Campbell began his week feeling eerie as he experienced strange visions of imminent danger in his peaceful city.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Haunted by his visions, Trent sought advice from a wise mentor who hinted that his new abilities might be psychically rooted.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wedenesday",
+      "text": "Empowered by the knowledge of his powers, Trent began to experiment, learning how to control and use his newfound ability to see into the future.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "With his confidence growing, Trent stopped a disaster at a city mall predicted in his visions, saving countless lives.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "News of his heroics spread, leading a villainous figure who wanted to exploit Trent's abilities to emerge from the shadows.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Facing this new adversary in a mind-bending psychic duel, Trent fought not just for himself, but for the safety of his whole city.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "After defeating the villain, Trent emerged not only victorious but also celebrated as a protector whose true strength lay in his humility and courage.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "As Trent resumed his regular life of mentoring and advertising, he remained ever vigilant, ready to protect his city once more."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Eve Ramirez: The Advertising Hero",
+  "summary": "Over the course of a week, Eve Ramirez discovers she has the power to influence people's emotions and decisions through her advertising skills. She uses this power to combat misleading information and fake advertising, restoring honesty in her city.",
+  "summaryGerman": "Im Laufe einer Woche entdeckt Eve Ramirez, dass sie die Fähigkeit hat, durch ihre Werbefähigkeiten die Emotionen und Entscheidungen von Menschen zu beeinflussen. Sie nutzt diese Kraft, um irreführende Informationen und falsche Werbung zu bekämpfen und Ehrlichkeit in ihrer Stadt wiederherzustellen.",
+  "summaryDutch": "In de loop van een week ontdekt Eve Ramirez dat ze de kracht heeft om de emoties en beslissingen van mensen te beïnvloeden door haar reclamevaardigheden. Ze gebruikt deze kracht om misleidende informatie en valse reclame te bestrijden, waardoor eerlijkheid in haar stad wordt hersteld.",
+  "summaryFrench": "Au cours d'une semaine, Eve Ramirez découvre qu'elle a le pouvoir d'influencer les émotions et les décisions des gens grâce à ses compétences en publicité. Elle utilise ce pouvoir pour lutter contre les informations trompeuses et la publicité mensongère, rétablissant l'honnêteté dans sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Eve discovers she can subtly influence people with her advertising designs, causing happiness and trust.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Eve uses her new abilities in class, making her project remarkably persuasive and effective.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednnesday",
+      "text": "Eve senses someone using similar powers for scamming people through fake ads. She decides to stop them.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Gathering proof against the counterfeit advertisers, Eve feels a mix of danger and excitement.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Eve exposes the scammers in a creative campaign that goes viral, earning her praise and making her a local hero.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Reflecting on her actions, Eve solemnly vows to protect her city from misinformation.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Eve's story spreads, inspiring young marketers around the city to use their skills for good.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Eve Ramirez continued her dual life as a marketing student and a guardian of truth, forever altering the landscape of advertising.",
+  "moral": "With great power comes great responsibility."
+}

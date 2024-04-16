@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Heroics of Kevin Perry",
+  "summary": "Over a week, 52-year-old Kevin Perry discovers his superpowers, handles various challenges, and uses his unique abilities to positively impact his community while balancing his personal life and hobbies.",
+  "summaryGerman": "Über eine Woche entdeckt der 52-jährige Kevin Perry seine Superkräfte, meistert verschiedene Herausforderungen und nutzt seine einzigartigen Fähigkeiten, um positiv auf seine Gemeinde einzuwirken, während er sein persönliches Leben und seine Hobbys ausbalanciert.",
+  "summaryDutch": "Gedurende een week ontdekt de 52-jarige Kevin Perry zijn superkrachten, gaat verschillende uitdagingen aan en gebruikt zijn unieke vaardigheden om een positieve impact op zijn gemeenschap te hebben terwijl hij zijn persoonlijke leven en hobby's in evenwicht houdt.",
+  "summaryFrench": "Au cours d'une semaine, Kevin Perry, 52 ans, découvre ses superpouvoirs, relève divers défis et utilise ses capacités uniques pour avoir un impact positif sur sa communauté tout en équilibrant sa vie personnelle et ses loisirs.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Kevin Perry begins his week as usual at his sales job but is unexpectedly struck by a stray beam of light during his lunch break, feeling oddly energized afterwards.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Using his newfound energy, Kevin coaches his sales team with unprecedented vigor, leading them to their most productive day ever.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Encouraged by his success, Kevin decides to help a local community center develop better fundraising strategies, discovering he can influence people's emotions.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thusday",
+      "text": "Kevin helps resolve a conflict between two community groups, using his empathic abilities for peacemaking, earning him admiration and respect.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "His heroics gain media attention, putting him under unexpected scrutiny. Kevin feels the pressure but remains committed to his values.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Taking a personal day, Kevin reflects on his new life, balances his time between his hobby of coaching and his responsibilities as a newfound hero.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Kevin organizes a large community event that successfully raises funds and spirits, cementing his role as a community hero.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "As the week closes, Kevin Perry steps into his new role, ready to balance heroism with everyday life.",
+  "moral": "Even the most ordinary person can make an extraordinary difference when they embrace their unique abilities and values."
+}

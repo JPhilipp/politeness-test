@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Bob Morgan: Consulting Hero",
+  "summary": "Bob Morgan, a 43-year-old with a passion for mentoring and consulting, becomes an unexpected hero when his skills navigate the town through a series of eerie crises.",
+  "summaryGerman": "Bob Morgan, ein 43-Jähriger mit einer Leidenschaft für Mentoring und Beratung, wird unerwartet zum Helden, als seine Fähigkeiten die Stadt durch eine Reihe von unheimlichen Krisen navigieren.",
+  "summaryDutch": "Bob Morgan, een 43-jarige met een passie voor mentoring en consulting, wordt een onverwachte held wanneer zijn vaardigheden de stad door een reeks griezelige crises loodsen.",
+  "summaryFrench": "Bob Morgan, 43 ans, passionné de mentorat et de conseil, devient un héros inattendu lorsque ses compétences guident la ville à travers une série de crises étranges.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Bob Morgan starts the week energized with a new consulting project at a local non-profit. His expertise helps resolve get their finances in order.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While diving deep into the nonprofit's data, Bob discovers a hidden cyber threat that could leak sensitive information. He uses his network to consult with IT experts.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Using his newfound knowledge, Bob works alongside IT professionals to avert the cyber threat, saving the organization's vital data.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Riding high on his success, Bob hosts a workshop on cybersecurity for local businesses, inspiring others with his proactive approach.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "News of Bob's endeavors reaches the media. He spends the day in interviews, modestly sharing his experiences and insights.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Receiving emails from other non-profits, Bob agrees to mentor others on managing emergency IT situations, spreading knowledge even further.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on a whirlwind week, Bob enjoys a peaceful day at home, proud of the quiet but significant impact he's made.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Thus, Bob Morgan's ordinary week turned into an extraordinary adventure, proving every skill can make a big difference.",
+  "moral": "Every skill, no matter how mundane it may seem, has the potential to create substantial impact."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Culinary Counselor: The Adventures of Hubert Jackson",
+  "summary": "Hubert Jackson, a 33-year-old with a passion for cooking and counseling, discovers his ability to absorb others' emotions through food, using his skills to help resolve personal conflicts and fight crime in his neighborhood.",
+  "summaryGerman": "Hubert Jackson, 33 Jahre alt und leidenschaftlicher Koch und Berater, entdeckt seine Fähigkeit, die Emotionen anderer durch Essen aufzunehmen, und nutzt seine Fähigkeiten, um persönliche Konflikte zu lösen und Kriminalität in seiner Nachbarschaft zu bekämpfen.",
+  "summaryDutch": "Hubert Jackson, een 33-jarige man met een passie voor koken en counseling, ontdekt zijn vermogen om emoties van anderen via voedsel te absorberen, gebruikmakend van zijn vaardigheden om persoonlijke conflicten op te lossen en misdaad in zijn buurt te bestrijden.",
+  "summaryFrench": "Hubert Jackson, 33 ans, passionné de cuisine et de conseil, découvre sa capacité à absorber les émotions des autres par la nourriture, utilisant ses compétences pour résoudre des conflits personnels et lutter contre la criminalité dans son quartier.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Hubert Jackson wakes up with a strange sensation; while cooking breakfast, he realizes that he can feel his neighbor's anxiety. Intrigued, he decides to experiment with his new powers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Hubert uses his gift at the local community center, serving meals that calm and uplift the spirits of the visitors. He discovers he can tailor the emotional impact of his dishes.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "He consults with his first 'client', a distressed couple. Through a tailored dinner, Hubert helps them reconcile their differences, harnessing his powers for emotional healing.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Hubert crafts a feast for a local school, combating the stress of exams with his joyful and energizing meals, and the students perform remarkably better.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Word spreads about his abilities. A local gang, feeling threatened, confronts him. Hubert prepares a meal that evokes strong feelings of peace and remorse in them.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Inspired by his impact, Hubert organizes a neighborhood feast, promoting unity and joy. His culinary creations bring the community closer together.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Hubert dedicates himself to using his powers for good, blending counseling with cooking to become a superhero in his own unique way.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And thus, Hubert Jackson continued to stir not just pots and pans, but also the hearts of all those around him.",
+  "moral": "Embrace your unique talents; they might just be the key to making a positive impact in the world."
+}

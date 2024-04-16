@@ -1,0 +1,45 @@
+{
+  "title": "The Chronicles of Frank King: Programmer & Mentor",
+  "summary": "Frank King, a 70-year-old retired programmer turned local hero, uses his programming skills to save his community from a cyber-attack, mentoring young coders along the way.",
+  "summaryGerman": "Frank King, ein 70-jähriger pensionierter Programmierer, der zum lokalen Helden wurde, verwendet seine Programmierfähigkeiten, um seine Gemeinschaft vor einem Cyber-Angriff zu retten und junge Programmierer auf dem Weg zu betreuen.",
+  "summaryDutch": "Frank King, een 70-jarige gepensioneerde programmeur die een lokale held is geworden, gebruikt zijn programmeervaardigheden om zijn gemeenschap te redden van een cyberaanval terwijl hij jonge programmeurs begeleidt.",
+  "summaryFrench": "Frank King, un programmeur retraité de 70 ans devenu héros local, utilise ses compétences en programmation pour sauver sa communauté d'une cyberattaque, tout en mentorant de jeunes codeurs en cours de route.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank starts his week with his usual morning coffee and a mentoring session at the local community center, helping teenagers learn coding. The day is happy and peaceful as he shares his knowledge.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Frank discovers strange emails in his inbox suggesting a brewing cyber threat. He spends the day tracking the source, feeling a mix of curiosity and unease.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Equipped with his decades of coding experience, Frank begins crafting a countermeasure to protect the community's data. His focus is sharp, the mood energetic.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Frank collaborates online with some of his old coding buddies who help refine his plan. Together, they share a triumphant moment as they finalize the defensive program.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Deploying the software, Frank monitors its performance anxiously. By the evening, it's clear the attack has been thwarted. He feels a profound sense of achievement.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "To celebrate, Frank hosts a small gathering with his mentees, sharing stories from his programming career and the recent victory, making the day feel rather epic.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week's events, Frank feels content knowing he not only protected his community but also passed on valuable skills. The day is peaceful, capped with a quiet sunset.",
+      "mood": "peaceful"
+    }
+  ],
+  "moral": "No matter the age, one can always impact the community positively using their skills and experiences."
+}

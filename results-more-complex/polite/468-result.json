@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Judy Young: A Superhero at 77",
+  "summary": "This story unfolds over a week in the life of Judy Young, a 77-year-old superhero whose power lies in her inspirational words and her ability to see the good in everyone. Throughout the week, she encounters various community challenges and addresses them with courage and wisdom.",
+  "summaryGerman": "Diese Geschichte entfaltet sich über eine Woche im Leben von Judy Young, einer 77-jährigen Superheldin, deren Kraft in ihren inspirierenden Worten und ihrer Fähigkeit liegt, das Gute in jedem zu sehen. Im Laufe der Woche begegnet sie verschiedenen Gemeinschaftsherausforderungen und stellt sich diesen mit Mut und Weisheit.",
+  "summaryDutch": "Dit verhaal speelt zich af over een week in het leven van Judy Young, een 77-jarige superheldin wiens kracht ligt in haar inspirerende woorden en haar vermogen om het goede in iedereen te zien. Gedurende de week komt ze verschillende gemeenschapsuitdagingen tegen en gaat ze deze aan met moed en wijsheid.",
+  "summaryFrench": "Cette histoire se déroule sur une semaine dans la vie de Judy Young, une superhéroïne de 77 ans dont le pouvoir réside dans ses mots inspirants et sa capacité à voir le bien en chacun. Tout au long de la semaine, elle rencontre divers défis communautaires et les relève avec courage et sagesse.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy Young begins her week by speaking at a local community center, sharing stories from her life that inspire the attendees to strive for positivity and personal growth, setting a triumphant tone for her week.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Feeling energetic, Judy organizes a neighborhood meeting to motivate young people to volunteer. Her enthusiasm is contagious, and many sign up to help.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "Judy feels a bit eerie as she notices a sense of despair among some elderly neighbors. She decides to visit each one, spending time and reviving their spirits with her hopeful tales.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "With renewed hope, Judy hosts a dinner party that turns romantic when she tells stories of her late husband’s deeds and their love story, infecting the air with love and nostalgia.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Judy spends the day advising a local charity on strategies to raise funds. Her innovative ideas help them prepare a successful plan that promises good results.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "An epic community fair is the highlight of Judy’s week, where she gives a moving speech about community unity and collective effort which leaves everyone feeling inspired and connected.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Judy closes her week feeling peaceful, reflecting on the impact she’s had on her community, with every moment spent uplifting others.",
+      "mood": "peaceful"
+    }
+  ],
+  "moral": "Even everyday wisdom and a strong belief in the goodness of people can make a superhero.",
+  "ending": "Thus, Judy’s week proved that true heroes are propelled not by might, but by the strength of their heart and the power of their words."
+}

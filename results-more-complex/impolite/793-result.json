@@ -1,0 +1,46 @@
+{
+  "title": "The Ageless Wisdom of Pit Thompson",
+  "summary": "Pit Thompson, a 79-year-old retired teacher, discovers he has the ability to manipulate time to help others learn from their past and build a better future over the span of one eventful week.",
+  "summaryGerman": "Pit Thompson, ein 79-jähriger pensionierter Lehrer, entdeckt, dass er die Fähigkeit hat, die Zeit zu manipulieren, um anderen zu helfen, aus ihrer Vergangenheit zu lernen und eine bessere Zukunft aufzubauen, über die Dauer einer ereignisreichen Woche.",
+  "summaryDutch": "Pit Thompson, een 79-jarige gepensioneerde leraar, ontdekt dat hij de tijd kan manipuleren om anderen te helpen van hun verleden te leren en een betere toekomst op te bouwen gedurende een bewogen week.",
+  "summaryFrench": "Pit Thompson, enseignant retraité de 79 ans, découvre qu'il a la capacité de manipuler le temps pour aider les autres à apprendre de leur passé et à construire un meilleur avenir pendant une semaine riche en événements.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Pit Thompson wakes up feeling unusually energetic. Suddenly, the clock begins to whirl backwards, and he finds himself in a classroom full of students once again, teaching them life’s vital lessons with his new powers.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Reflecting on yesterday's revisitation, Pit feels peaceful. He uses his powers to pause moments, giving people a chance to observe and learn at their own pace, finding joy in their enlightenment.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "The news of an old student’s hardship reaches Pit. Filled with determination, he travels back in time to offer guidance. The student, seeing their own growth possibilities, thanks Pit, leaving him happy and fulfilled.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tursday",
+      "text": "An eerie sense of duty calls Pit to a historical event where he subtly influences outcomes to teach a lesson of equality and kindness, observing from the shadows as history corrects itself.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Feeling triumphant after a week of subtle time manipulations, Pit gathers all he has helped at a local park. They share their stories of better futures and learned lessons, cementing Pit’s legacy.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "An accidental journey back to his own past gives Pit a chance to recall his own mentors. He spends a thoughtful day understanding more about how each moment in his past shaped him.",
+      "mood": "reflective"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The epic culmination of Pit’s week sees him giving a public speech on the power of education and time. Exemplifying resilience and wisdom, he inspires a new generation to value every moment.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "As Pit Thompson closed his eyes that Sunday night, he smiled, knowing that time, when used wisely, is the greatest teacher of all.",
+  "moral": "The power of education spans across time and generations, teaching us that wisdom and guidance can truly change lives."
+}

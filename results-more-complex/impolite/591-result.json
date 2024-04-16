@@ -1,0 +1,46 @@
+{
+  "title": "The Embroidering Guardian: Nancy Carter's Unexpected Week",
+  "summary": "Nancy Carter, a 58-year-old who loves embroidering and coaching, discovers her hidden powers and protects her town from an unseen threat.",
+  "summaryGerman": "Nancy Carter, eine 58-jährige, die Stickerei und Coaching liebt, entdeckt ihre verborgenen Kräfte und schützt ihre Stadt vor einer unsichtbaren Bedrohung.",
+  "summaryDutch": "Nancy Carter, een 58-jarige die van borduren en coaching houdt, ontdekt haar verborgen krachten en beschermt haar stad tegen een ongeziene bedreiging.",
+  "summaryFrench": "Nancy Carter, une femme de 58 ans qui aime la broderie et le coaching, découvre ses pouvoirs cachés et protège sa ville contre une menace invisible.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Nancy Carter spends her evening embroidering a mysterious symbol she dreamt of the night before, feeling an eerie sense of foreboding.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While coaching her local basketball team, Nancy suddenly moves with supernatural speed to save a child from a stray ball. The sensation leaves her both shocked and energetic.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "Nancy investigates her new abilities, discovering she can manipulate time when focusing intensely. Amid her experiments, her house plants flourish, imbuing her home with a peaceful atmosphere.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A hidden threat looms over the town. Nancy senses distress nearby and rushes out, using her powers to divert a catastrophe at the local factory. Her actions are both heroic and triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With rumors of her deeds spreading, townspeople speculate on the identity of their mysterious guardian. Nancy feels a mix of pride and a desire for solitude, finding solace in her embroidery.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Nancy reflects on her newfound responsibilities and decides to train, enhancing her abilities. She feels an epic sense of purpose as she prepares.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "At a town meeting, Nancy anonymously reveals her identity through a symbolic embroidered tapestry. The community's warm reception fills her with joy and a romantic connection with fellow townsfolk.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "With her secret powers no longer hidden, Nancy Carter embroiders a new life as the town’s guardian, knowing that each stitch is a safeguard for her community.",
+  "moral": "Embrace your unique gifts; they might be just what the world needs."
+}

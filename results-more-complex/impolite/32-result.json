@@ -1,0 +1,46 @@
+{
+  "title": "The Melodic Guardian: The Tale of Yousef Yang",
+  "summary": "Yousef Yang, a 62-year-old retired musician, discovers his unique powers to manipulate emotions using his music and art, and decides to use these to protect his community over a tumultuous week.",
+  "summaryGerman": "Yousef Yang, ein 62-jähriger pensionierter Musiker, entdeckt seine einzigartigen Fähigkeiten, Emotionen mit seiner Musik und Kunst zu manipulieren, und beschließt, diese zu nutzen, um seine Gemeinde über eine turbulente Woche hinweg zu schützen.",
+  "summaryDutch": "Yousef Yang, een 62-jarige gepensioneerde muzikant, ontdekt zijn unieke krachten om emoties te manipuleren met zijn muziek en kunst, en besluit deze te gebruiken om zijn gemeenschap te beschermen gedurende een tumultueuze week.",
+  "summaryFrench": "Yousef Yang, un musicien retraité de 62 ans, découvre ses pouvoirs uniques pour manipuler les émotions avec sa musique et son art, et décide de les utiliser pour protéger sa communauté pendant une semaine tumultueuse.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Yousef Yang starts his week with the peaceful sound of him tuning his violin. As he draws in his backyard, the stroke of his pen starts to glow, revealing the first signs of his newfound power.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tueday",
+      "text": "Feeling energetic, Yousef experiments with his violin. Strangely, with each note, he sees visual waves emanating from the strings, affecting the mood of those around him.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "A local crisis unfolds as a storm threatens the town. Yousef, realizing his powers can soothe, plays his violin by the riverside. The waters and winds calm as the tones resonate deeply.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Curious about the extent of his abilities, Yousef spends hours drawing intricate patterns. With each sketch, he witnesses his creations controlling the elements around him.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A festival brings the town together, and Yousef is asked to perform. His concert turns magical, as his melodies weave through the crowd, spreading joy and peace.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Yousef encounters a group of troublemakers vandalizing local art. Channeling his sadness into his drawings, the vandals are overwhelmed with remorse and begin repairing their damage.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Yousef wonders about the responsibility that comes with his powers. As the sun sets, he draws a picture of the town under a serene twilight sky, sealing his commitment to protect.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus, Yousef Yang, armed with his violin and sketchbook, embraced his destiny as the Melodic Guardian, forever changed yet ever serene in his quest to safeguard his home.",
+  "moral": "With great power comes great responsibility, and the truest form of strength lies in the ability to evoke and manage emotions."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Grace Hall: A Superhero Story",
+  "summary": "Grace Hall, a 37-year-old teacher and community server, discovers she can manipulate time. Throughout a week, she uses her powers to avert disasters, help her community, and discover the balance between power and responsibility.",
+  "summaryGerman": "Grace Hall, eine 37-jährige Lehrerin und Gemeindehelferin, entdeckt, dass sie die Zeit manipulieren kann. Im Laufe einer Woche verwendet sie ihre Kräfte, um Katastrophen abzuwenden, ihrer Gemeinschaft zu helfen und das Gleichgewicht zwischen Macht und Verantwortung zu finden.",
+  "summaryDutch": "Grace Hall, een 37-jarige lerares en gemeenschapshelpster, ontdekt dat ze de tijd kan manipuleren. Gedurende een week gebruikt ze haar krachten om rampen te voorkomen, haar gemeenschap te helpen en de balans tussen macht en verantwoordelijkheid te ontdekken.",
+  "summaryFrench": "Grace Hall, enseignante et bénévole de 37 ans, découvre qu'elle peut manipuler le temps. Tout au long d'une semaine, elle utilise ses pouvoirs pour éviter des désastres, aider sa communauté et découvrir l'équilibre entre pouvoir et responsabilité.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Grace discovers her ability to rewind time after accidentally overturning a pot of boiling water and undoing the incident just by wishing it so.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tueesday",
+      "text": "Testing her new powers, Grace prevents a car accident, saving a family of four. She feels an overwhelming sense of purpose.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "During her teaching job, Grace discreetly uses time manipulation to help a struggling student understand a complex math problem, feeling fulfilled.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Grace halts a bank robbery by pausing time, subduing the robbers, and aligning their capture with the police. Her heroic act remains secret.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Feeling drained, Grace debates the ethics of her power, worrying about the potential consequences of altering reality too much.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After a conversation with her mentor, Grace decides to use her powers solely for unequivocal emergencies, ensuring minimal personal intervention.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Grace spends the day reflecting and serving at a local homeless shelter, realizing her ability to make a difference extends beyond her superpowers.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Grace Hall embraced her gift as both a blessing and a responsibility, balancing her dual roles as a teacher and a guardian of her community.",
+  "moral": "With great power comes great responsibility."
+}

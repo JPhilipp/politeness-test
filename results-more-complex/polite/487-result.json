@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Yousef Martin: The Consulting Hero",
+  "summary": "Yousef Martin, a 49-year-old tutor and consultant, discovers his ability to heal minds through his words and uses his powers to thwart a corporate scandal.",
+  "summaryGerman": "Yousef Martin, ein 49-jähriger Tutor und Berater, entdeckt seine Fähigkeit, Geister durch seine Worte zu heilen, und nutzt seine Kräfte, um einen Unternehmensskandal zu vereiteln.",
+  "summaryDutch": "Yousef Martin, een 49-jarige tutor en consultant, ontdekt zijn vermogen om geesten te genezen door zijn woorden en gebruikt zijn krachten om een bedrijfsschandaal te dwarsbomen.",
+  "summaryFrench": "Yousef Martin, un tuteur et consultant de 49 ans, découvre sa capacité à guérir les esprits par ses mots et utilise ses pouvoirs pour contrecarrer un scandale d'entreprise.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Yousef discovers his peculiar ability to soothe and heal people's mental anguish during a routine consulting session, leaving him feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Excited by his newfound powers, Yousef practices on his friends, helping them overcome personal barriers, which fills him with energy.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wenesday",
+      "text": "While tutoring, he accidentally reveals his powers in public, causing a ripple of eerie silence among the onlookers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Yousef is approached by a journalist who wants to disclose his secret to the world, but he denies, fearing misuse of his powers.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "He uses his abilities to avert a major corporate scandal, uncovering fraudulent activities through calming aggressive suspects into confessing.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "News of his deeds leaks, forcing Yousef to publicly embrace his role as a 'Consulting Hero', resulting in an overwhelmingly supportive response.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Yousef feels peaceful, accepting his new role and vowing to use his powers for good, mentoring others in handling their newfound abilities.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "With the city more at peace, Yousef continues to blend his consulting and tutoring work with his special abilities, fostering hope wherever he goes.",
+  "moral": "Embrace your unique abilities, as they can lead to unexpected roles where you can make a significant difference."
+}

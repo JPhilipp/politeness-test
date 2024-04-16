@@ -1,0 +1,46 @@
+{
+  "title": "The Negotiator: The Week of Walter Yang",
+  "summary": "Over the course of a week, Walter Yang, a skilled manager and negotiator, discovers his unique ability to resolve conflicts with superhuman effectiveness, eventually saving the city from a looming disaster.",
+  "summaryGerman": "Im Laufe einer Woche entdeckt Walter Yang, ein geschickter Manager und Verhandler, seine einzigartige Fähigkeit, Konflikte mit übermenschlicher Wirksamkeit zu lösen, und rettet schließlich die Stadt vor einer drohenden Katastrophe.",
+  "summaryDutch": "Gedurende een week ontdekt Walter Yang, een bekwame manager en onderhandelaar, zijn unieke vermogen om conflicten met bovenmenselijke effectiviteit op te lossen, waardoor hij uiteindelijk de stad van een dreigende ramp redt.",
+  "summaryFrench": "Au cours d'une semaine, Walter Yang, un gestionnaire et négociateur habile, découvre sa capacité unique à résoudre les conflits avec une efficacité surhumaine, sauvant finalement la ville d'une catastrophe imminente.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Walter Yang starts his week with a calm sense of determination, happily managing several tough negotiations at his firm.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While finalizing a contract, an eerie feeling grips Walter, hinting that there is more to his skills than meets the eye.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Discoveries abound; Walter realizes he can influence people's emotions, a power that aids him in peacefully resolving a minor office dispute.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Testing his newfound abilities, Walter handles a city council crisis with an energetic flair, preventing a local strike.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "His reputation growing, Walter feels triumphant as he averts a potential business takeover with his negotiation prowess.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Taking a brief respite, Walter enjoys a romantic evening that recharges his spirits and prepares him for greater challenges.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "An epic showdown unfolds when Walter confronts a corrupt politician threatening the city, using his skills to bring about a peaceful resolution.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And thus, Walter Yang not only protected his city but also mastered the art of negotiation, turning conflict into collaboration.",
+  "moral": "True power lies in the ability to transform confrontation into harmony."
+}

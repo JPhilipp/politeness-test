@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Kevin Butler: The Conducting Hero",
+  "summary": "Kevin Butler, a 47-year-old with a passion for conducting and guiding, discovers his unique ability to control elements through his baton, using it to save his city over the span of one week.",
+  "summaryGerman": "Kevin Butler, ein 47-Jähriger mit einer Leidenschaft fürs Dirigieren und Führen, entdeckt seine einzigartige Fähigkeit, Elemente mit seinem Taktstock zu kontrollieren, und verwendet sie, um seine Stadt innerhalb einer Woche zu retten.",
+  "summaryDutch": "Kevin Butler, een 47-jarige met een passie voor dirigeren en gidsen, ontdekt zijn unieke vermogen om elementen te beheersen met zijn dirigeerstokje, waarmee hij zijn stad binnen een week redt.",
+  "summaryFrench": "Kevin Butler, 47 ans, passionné de direction et de guidage, découvre sa capacité unique à contrôler les éléments avec sa baguette, qu'il utilise pour sauver sa ville en l'espace d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "As he prepared for his usual morning rehearsal with the local orchestra, Kevin discovers that his baton now responds to his gestures with bursts of wind and light.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Kevin tests his newfound powers in a secluded part of the city park, managing to summon a gentle rain and a small whirlwind, all in rhythm to his conducting.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "News spread about a mysterious weather-changing maestro. Curious, the city's people flock to Kevin’s outdoor concert, where he secretly uses his powers to enhance the performance.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A sudden fire breaks out in a nearby building during the concert. In a triumphant display, Kevin conducts a powerful symphony that summons a deluge, quenching the flames.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Recognized as a hero, Kevin is approached by local authorities to help plan emergency response strategies using his abilities, combining his love for guidance with his new powers.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "While practicing, Kevin senses a disturbance and guides the police to a hidden crime scene using subtle cues from the wind, further proving his invaluable skills.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Kevin holds a free concert for the city, using his powers unreservedly to create a mesmerizing spectacle, promoting unity and strength among the community.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "That week, Kevin Butler not only discovered his powers but also his purpose, forever changing his life and the city he vowed to protect.",
+  "moral": "Embrace your unique abilities, for they might just be what your community needs."
+}

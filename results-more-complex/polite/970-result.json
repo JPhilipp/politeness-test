@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Shield of Oscar Wang",
+  "summary": "Oscar Wang, a retired teacher, discovers his ability to project protective fields. Over the course of a week, he learns to use his powers to save his community from various dangers, proving that heroes come in all ages.",
+  "summaryGerman": "Oscar Wang, ein pensionierter Lehrer, entdeckt seine Fähigkeit, Schutzfelder zu projizieren. Im Laufe einer Woche lernt er, seine Kräfte zu nutzen, um seine Gemeinde vor verschiedenen Gefahren zu schützen, und beweist, dass Helden in jedem Alter kommen.",
+  "summaryDutch": "Oscar Wang, een gepensioneerde leraar, ontdekt zijn vermogen om beschermende velden te projecteren. Gedurende een week leert hij zijn krachten te gebruiken om zijn gemeenschap te redden van verschillende gevaren, en bewijst dat helden van alle leeftijden zijn.",
+  "summaryFrench": "Oscar Wang, un enseignant à la retraite, découvre sa capacité à projeter des champs protecteurs. Au cours d'une semaine, il apprend à utiliser ses pouvoirs pour sauver sa communauté de divers dangers, prouvant que les héros viennent de tous les âges.",
+  "moral": "Age is no barrier to heroism.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar Wang felt a strange surge of energy while reading in his backyard. This energy formed a visible shield around him when a stray baseball flew towards his window, stopping it mid-air.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Intrigued by his newfound power, Oscar experimented by focusing his thoughts. He discovered he could extend his protective field to cover other objects in his room.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedbesday",
+      "text": "Feeling confident, Oscar ventured into the local park. There, he secretly protected kids playing, preventing unforeseen accidents with his invisible shield.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A car accident occurred at an intersection; Oscar instinctively extended his shield and prevented debris from harming pedestrians, although no one saw his intervention.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Oscar realized that he needed to understand the limits of his ability. He spent the day testing how long and how far he could sustain his shield.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a local ceremony, a stage mishap nearly caused a disaster. Oscar covertly used his shield to avert a collapse, saving many without their knowledge.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Oscar decided to dedicate his time to silently guarding his community, embracing his role as an unseen hero.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Thus, Oscar Wang continued to be the silent guardian of his town, a true hero unnoticed but always present."
+}

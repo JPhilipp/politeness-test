@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Zelda Taylor: Protector of Peace",
+  "summary": "Zelda Taylor, a mentor by profession, discovers her unique ability to manipulate time during a critical incident, which she uses over the course of a week to save her city from impending doom.",
+  "summaryGerman": "Zelda Taylor, eine Mentorin von Beruf, entdeckt ihre einzigartige Fähigkeit, die Zeit zu manipulieren, während eines kritischen Vorfalls, die sie im Laufe einer Woche benutzt, um ihre Stadt vor dem drohenden Untergang zu retten.",
+  "summaryDutch": "Zelda Taylor, een mentor van beroep, ontdekt haar unieke vermogen om tijd te manipuleren tijdens een kritiek incident, die ze gedurende een week gebruikt om haar stad te redden van de dreigende ondergang.",
+  "summaryFrench": "Zelda Taylor, une mentor de profession, découvre sa capacité unique à manipuler le temps lors d'un incident critique, qu'elle utilise au cours d'une semaine pour sauver sa ville d'une destruction imminente.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda starts her week as usual, mentoring at a local community center. A sudden blackout at the center leads her to discover her time-manipulating abilities.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Excited by her newfound powers, Zelda spends the day experimenting with them, accidentally freezing time for her entire neighborhood.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "Realizing the implications of her power, Zelda seeks advice from an old mentor, who encourages her to use her abilities for the greater good.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Zelda uses her time manipulation to avert a major accident on the city's busiest intersection, saving dozens of lives and becoming a local hero.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Reports of her heroism spread, and Zelda is approached by others seeking guidance. She decides to mentor those with special abilities.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a mentoring session, Zelda learns of a planned attack on the city. Her team works together to formulate a plan.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Zelda and her team use their combined powers to thwart the attack, ensuring the safety of the city. A sense of normalcy returns as she prepares for the next week.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "As the sun set on Sunday, Zelda Taylor smiled, knowing her city was safer because of her actions.",
+  "moral": "Embrace your uniqueness, for it could be the key to making a significant difference in the world."
+}

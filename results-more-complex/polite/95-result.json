@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Ivan Peterson: The Unseen Editor",
+  "summary": "Ivan Peterson, a 67-year-old retired editor, discovers his ability to manipulate reality through written words, using his skills to fight local crime and corruption over the course of a week.",
+  "summaryGerman": "Ivan Peterson, ein 67-jähriger pensionierter Redakteur, entdeckt seine Fähigkeit, die Realität durch geschriebene Worte zu manipulieren, und nutzt seine Fähigkeiten, um im Laufe einer Woche lokale Kriminalität und Korruption zu bekämpfen.",
+  "summaryDutch": "Ivan Peterson, een 67-jarige gepensioneerde redacteur, ontdekt zijn vermogen om de realiteit te manipuleren door geschreven woorden, en gebruikt zijn vaardigheden om lokale misdaad en corruptie gedurende een week te bestrijden.",
+  "summaryFrench": "Ivan Peterson, un éditeur à la retraite de 67 ans, découvre sa capacité à manipuler la réalité par les mots écrits, utilisant ses compétences pour lutter contre la criminalité et la corruption locales au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ivan Peterson stumbles upon a mysterious notebook that claims to alter reality if written in with conviction. Intrigued, Ivan writes a small wish concerning his neighbor’s lost cat, which returns home the very next hour.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Encouraged, Ivan experiments more. He writes that the graffiti plaguing his community should be cleaned. By noon, volunteers spontaneously organize a cleaning drive.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Feeling confident, Ivan targets a local crime ring. He edits a flyer about a community meeting into an expose about the crime ring’s activities. The next day, anonymous tips flood the police station.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thrusday",
+      "text": "Ivan decides to help a struggling local business by describing it as bustling and popular in a community newsletter. By evening, the business sees its best sales day in years.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Ivan grows concerned about the ethical implications of his actions. He ponders deeply on the consequences of altering reality through his edits.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After much contemplation, Ivan resolves to use his powers only for undeniable good. He writes a plea for peace on the front page of a local newspaper which leads to a peaceful vigil held in town.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Resting from his endeavors, Ivan feels fulfilled knowing he has made his town a better place. He vows to continue his subtle work to support and uphold his community’s values.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "With pen in hand, Ivan Peterson proves age is but a number, and intentions shape the ink of life.",
+  "moral": "The pen is mightier than the sword, especially when wielded with wisdom and restraint."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Heroism of Grace Diaz",
+  "summary": "Grace Diaz, a 67-year-old with a fondness for coaching and trading, inadvertently gains superpowers and uses them to help her community over the course of a week.",
+  "summaryGerman": "Grace Diaz, eine 67-jährige mit einer Vorliebe für Coaching und Handeln, erlangt unerwartet Superkräfte und nutzt sie, um ihrer Gemeinschaft im Laufe einer Woche zu helfen.",
+  "summaryDutch": "Grace Diaz, een 67-jarige met een voorliefde voor coaching en handelen, krijgt onbedoeld superkrachten en gebruikt deze om haar gemeenschap gedurende een week te helpen.",
+  "summaryFrench": "Grace Diaz, 67 ans, passionnée de coaching et de commerce, obtient par inadvertance des superpouvoirs et les utilise pour aider sa communauté tout au long d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "After a strange meteor shower the previous night, Grace wakes up feeling unusually energetic. She discovers she can move objects with her mind while preparing breakfast.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesady",
+      "text": "Grace practices her new powers at a local park, stopping a runaway dog from running into the street and saving a child.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Grace feels a hint of sadness realizing her old life is behind her, but spends the day learning more about her abilities and their limits.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "While coaching her little league team, Grace uses her powers in subtle ways to boost confidence and skill among her players.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "During a trading meeting, Grace feels an eerie presence and secretly uses her powers to uncover a dishonest scheme, protecting many investors.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Relaxing at home, Grace feels peaceful, reflecting on how she can use her powers for the greater good without attracting too much attention.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Grace decides to mentor young superheroes, combining her love for coaching with her new role, feeling happy about her life's new direction.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, Grace Diaz became a silent guardian of her town, merging her passions with her newfound abilities.",
+  "moral": "Even the most unexpected changes can open new paths to making a difference."
+}

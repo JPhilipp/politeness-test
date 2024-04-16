@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Linda Carter: Guardian of Peace",
+  "summary": "Linda Carter, a 22-year-old with a unique connection to spiritual forces, utilizes her prayer and assistance skills to confront and overcome a mysterious force threatening her city over the course of a week.",
+  "summaryGerman": "Linda Carter, eine 22-Jährige mit einer einzigartigen Verbindung zu spirituellen Kräften, nutzt ihre Fähigkeiten im Gebet und bei der Hilfe, um eine geheimnisvolle Kraft zu konfrontieren und zu überwinden, die ihre Stadt im Laufe einer Woche bedroht.",
+  "summaryDutch": "Linda Carter, een 22-jarige met een unieke verbinding met spirituele krachten, gebruikt haar vaardigheden in gebed en assistentie om een mysterieuze kracht die haar stad bedreigt in de loop van een week te confronteren en overwinnen.",
+  "summaryFrench": "Linda Carter, 22 ans, dotée d'une connexion unique aux forces spirituelles, utilise ses compétences en prière et en assistance pour affronter et surmonter une force mystérieuse menaçant sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "As dawn rises, Linda feels an unusual heaviness in the air, a sense that something is amiss in her city. After her morning prayers, she notices an unusual surge of negative energy emanating from the downtown area.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Linda visits downtown and prays for guidance. She senses the origin of the disturbance—a hidden underground facility misusing spiritual energies. Her determination strengthens.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednzday",
+      "text": "Armed with holy artifacts and her faith, Linda enters the facility. She encounters dark apparitions, dispelling them with her powerful prayers. Each victory fills her with confidence.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "During a brief respite, Linda helps at a local shelter, providing solace and assistance. Her actions there inspire others to join her in her cause against the dark energies.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Linda confronts the mastermind behind the negative energy—a corrupted psychic. Their spiritual battle is fierce, emotions and powers clashing in an epic struggle.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With the help of her newfound allies, Linda manages to calm the psychic's turmoil, restoring peace and healing their corrupted spirit. The city begins to feel lighter, brighter.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "A day of reflection. Linda visits her church, gives thanks for her strength and the support of her community. She feels hopeful, ready to face any future challenges.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And so, Linda Carter continued her watchful protection over the city, ever vigilant and forever guided by faith and compassion.",
+  "moral": "Faith, combined with action, can overcome the darkest of forces and restore peace."
+}

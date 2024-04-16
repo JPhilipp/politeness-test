@@ -1,0 +1,46 @@
+{
+  "title": "The Serene Adventures of Oscar Walker",
+  "summary": "Over the course of a week, 71-year-old Oscar Walker, who enjoys meditating and public speaking, discovers his hidden powers during meditation and becomes a superhero, using his newfound abilities to inspire and help his community.",
+  "summaryGerman": "Im Laufe einer Woche entdeckt der 71-jährige Oscar Walker, der sich für Meditation und öffentliches Sprechen interessiert, seine verborgenen Kräfte während der Meditation und wird zu einem Superhelden, der seine neu entdeckten Fähigkeiten nutzt, um seine Gemeinde zu inspirieren und zu helfen.",
+  "summaryDutch": "Gedurende een week ontdekt Oscar Walker, 71 jaar oud en liefhebber van mediteren en publiek spreken, zijn verborgen krachten tijdens meditatie en wordt hij een superheld, die zijn nieuw gevonden vaardigheden gebruikt om zijn gemeenschap te inspireren en te helpen.",
+  "summaryFrench": "Au cours d'une semaine, Oscar Walker, 71 ans, qui aime méditer et parler en public, découvre ses pouvoirs cachés pendant la méditation et devient un super-héros, utilisant ses nouvelles capacités pour inspirer et aider sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "In the calm of his morning meditation, Oscar discovers he can sense the emotions of those around him.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Energized by his newfound sense, Oscar uses his public speaking session to address city stress, inadvertently soothing many attendees.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednuesday",
+      "text": "While meditating in the park, Oscar prevents a petty theft using only the power of his calming voice, witnessed by many.",
+      "mood": "triuphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Oscar assists in a community conflict resolution, realizing his powers can foster peace and understanding.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A local reporter interviews Oscar, who shares insights about mindfulness and his unusual abilities, intriguing the public.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A major crisis is averted at a community event when Oscar detects and alleviates the overwhelming anxiety of a lost child, reuniting them with their parents.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Oscar decides to start regular community gatherings to teach meditation and emotional awareness.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus, Oscar Walker used his serene powers not for glory, but to weave strength and serenity into the fabric of his community.",
+  "moral": "True heroism lies in using one's gifts for the betterment of others."
+}

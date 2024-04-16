@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Alice Howard: Planner by Day, Hero by Night",
+  "summary": "Over the course of one week, 18-year-old Alice Howard uses her strategic planning skills and love for sports to discover and manage her newly emerged superpowers, facing challenges and making new allies while maintaining the secret from her closest friends and family.",
+  "summaryGerman": "Im Laufe einer Woche nutzt die 18-jährige Alice Howard ihre strategischen Planungsfähigkeiten und ihre Liebe zum Sport, um ihre neu entdeckten Superkräfte zu entdecken und zu bewältigen. Sie stellt sich Herausforderungen und schließt neue Allianzen, während sie das Geheimnis vor ihren engsten Freunden und ihrer Familie bewahrt.",
+  "summaryDutch": "Gedurende een week gebruikt de 18-jarige Alice Howard haar strategische planningsvaardigheden en liefde voor sport om haar nieuw ontdekte superkrachten te ontdekken en te beheren, waarbij ze uitdagingen aangaat en nieuwe bondgenoten maakt, terwijl ze het geheim voor haar dichtstbijzijnde vrienden en familie verborgen houdt.",
+  "summaryFrench": "Au cours d'une semaine, Alice Howard, 18 ans, utilise ses compétences en planification stratégique et son amour pour le sport pour découvrir et gérer ses nouveaux super-pouvoirs, faisant face à des défis et formant de nouvelles alliances tout en gardant le secret de ses amis et de sa famille les plus proches.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Alice discovers her superpower of incredible speed while running late to a sports event. Panicked yet excited, she returns home to plan her approach.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Hiding her new abilities, Alice tries a day of normalcy. However, during sports practice, she accidentally reveals a hint of her power to a curious teammate.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Alice decides to confide in her sports coach, who is surprisingly supportive and offers to help her train and control her newfound powers.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "With a plan in place, Alice begins a rigorous training regimen, integrating her powers with her athletic skills, growing stronger each day.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Alice’s team faces a major challenge in a decisive game. Using her skills covertly, Alice leads her team to victory, learning to balance her dual identities.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Alice encounters her first villain, a rival from a competing team who has also recently gained superpowers. The confrontation tests her physically and morally.",
+      "mood": "tense"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Alice realizes how much her life has changed. She vows to use her powers for good, keeping her superhero identity a secret while leading her team.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the sun set, Alice journaled about her incredible week, planning not just her next game, but her future as a superhero.",
+  "moral": "Embrace change and use your unique strengths to make a positive impact in the world."
+}

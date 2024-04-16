@@ -1,0 +1,46 @@
+{
+  "title": "Ivan Edwards: The Palette Protector",
+  "summary": "Ivan Edwards, a 68-year-old painter and teacher, discovers his unique ability to bring his paintings to life and uses this gift to protect his town throughout a week of unexpected adventures.",
+  "summaryGerman": "Ivan Edwards, ein 68-jähriger Maler und Lehrer, entdeckt seine einzigartige Fähigkeit, seine Gemälde zum Leben zu erwecken und verwendet diese Gabe, um seine Stadt während einer Woche unerwarteter Abenteuer zu schützen.",
+  "summaryDutch": "Ivan Edwards, een 68-jarige schilder en leraar, ontdekt zijn unieke vermogen om zijn schilderijen tot leven te brengen en gebruikt deze gave om zijn stad te beschermen gedurende een week vol onverwachte avonturen.",
+  "summaryFrench": "Ivan Edwards, un peintre et enseignant de 68 ans, découvre sa capacité unique à donner vie à ses peintures et utilise ce don pour protéger sa ville tout au long d'une semaine d'aventures inattendues.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ivan discovers he can animate his paintings while preparing for his next art class, creating a serene painting that shifts eerily.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tueday",
+      "text": "Testing his powers, Ivan paints a guardian dog that leaps from the canvas to thwart a break-in at a local gallery.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Ivan spends the day teaching his students, secretly sharing the joy of art's possibilities without revealing his new powers.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Feeling isolated with his secret, Ivan paints a peaceful landscape and talks to his creation, seeking comfort.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Inspired, Ivan creates a romantic sunset scene and invites his wife to witness the painting's magic, rekindling their bond.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Ivan's town faces a crisis when a nearby dam starts leaking; he paints a team of workers who emerge to repair the dam.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "With his town safe and inspired by his creations, Ivan decides to offer a public art show that doubles as a lesson in courage and creativity.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And so, Ivan Edwards painted his way into the hearts of his community, proving that heroes can come in many forms.",
+  "moral": "Creativity is not just an art form but also a powerful tool for resilience and protection."
+}

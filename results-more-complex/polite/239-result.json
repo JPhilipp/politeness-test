@@ -1,0 +1,46 @@
+{
+  "title": "The Serene Adventures of Bob Brooks",
+  "summary": "Bob Brooks, a 64-year-old painter and helper, transforms into a superhero when his town faces unprecedented threats. Over the course of a week, he uses his powers to paint protective murals and bring peace to his community.",
+  "summaryGerman": "Bob Brooks, ein 64-jähriger Maler und Helfer, verwandelt sich in einen Superhelden, als seine Stadt unerwarteten Bedrohungen gegenübersteht. Im Laufe einer Woche verwendet er seine Kräfte, um schützende Wandgemälde zu malen und Frieden in seiner Gemeinschaft zu bringen.",
+  "summaryDutch": "Bob Brooks, een 64-jarige schilder en helper, verandert in een superheld als zijn stad ongekende bedreigingen ondergaat. Gedurende een week gebruikt hij zijn krachten om beschermende muurschilderingen te schilderen en vrede te brengen in zijn gemeenschap.",
+  "summaryFrench": "Bob Brooks, un peintre et aide de 64 ans, se transforme en super-héros lorsque sa ville fait face à des menaces sans précédent. Au cours d'une semaine, il utilise ses pouvoirs pour peindre des fresques protectrices et apporter la paix dans sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Bob Brooks discovers his ability to make his paintings come to life, which protects people from harm.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Utilizing his new powers, Bob paints a mural that stops a small fire in a local cafe, saving lives.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Feeling overwhelmed by his sudden responsibilities, Bob spends a day reflecting at his favorite park, painting the scenery.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thurday",
+      "text": "News of his deeds spreads, and Bob is asked to paint a mural at the local school to inspire the children.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Bob deals with a villain who misuses art to create chaos. Bob restores order with a powerful new creation.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Bob meets another local hero and they collaborate, combining their powers to further aid the town.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The town holds a celebration in Bob's honor; he feels happy and content with his contributions.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "At the end of a transformative week, Bob Brooks stood beside his vibrant murals, a quiet guardian whose brushstrokes were mightier than steel.",
+  "moral": "Great power can come in unexpected and humble forms; sometimes all it takes to be a hero is the will to help and a splash of creativity."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Culinary Counselor: The Adventures of Kevin Bell",
+  "summary": "Kevin Bell, a 69-year-old with a passion for cooking and counseling, transforms into a superhero to calmly resolve a neighborhood crisis while serving up justice and gourmet meals.",
+  "summaryGerman": "Kevin Bell, ein 69-jähriger mit einer Leidenschaft für Kochen und Beratung, verwandelt sich in einen Superhelden, um eine Nachbarschaftskrise sanft zu lösen, während er Gerechtigkeit und Gourmet-Mahlzeiten serviert.",
+  "summaryDutch": "Kevin Bell, een 69-jarige met een passie voor koken en counseling, verandert in een superheld om een ​​buurtcrisis kalm op te lossen terwijl hij gerechtigheid en gastronomische maaltijden serveert.",
+  "summaryFrench": "Kevin Bell, 69 ans, passionné de cuisine et de conseil, se transforme en super-héros pour résoudre calmement une crise de voisinage tout en servant la justice et des repas gastronomiques.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "In the quiet dawn, Kevin Bell discovers his ability to communicate with plants, a serene start to his week aiding his garden thrive, sparking a peaceful mood.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Utilizing his newfound powers, Kevin cooks a spectacular meal that heals his friend's ailment, leaving the community in awe and Kevin feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Word spreads of Kevin's abilities. Skeptics visit, testing his talents, creating a tense but ultimately affirming day as his genuine skills shine.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Kevin holds a cooking class infused with subtle counseling sessions, fostering a deep connection among neighbors, culminating in an energetic atmosphere.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Disaster strikes as a minor fire breaks out in Kevin’s kitchen. Using quick thinking and his plant-communication, he contains the fire, ending on an epic note.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After the eventful week, Kevin hosts a dinner where romantic tales of his past heroics become the highlight, stirring romantic feelings.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "As the week concludes, Kevin reflects on his adventures, feeling happy in his dual role as a counselor and culinary hero, his impact radiating throughout his community.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As the sun set on Sunday, Kevin Bell smiled, knowing he had seasoned the week with equal parts courage and compassion.",
+  "moral": "Great power can come from unexpected places, and with it, the responsibility to nurture and heal."
+}

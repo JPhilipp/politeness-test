@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Jin Smith: The Retired Hero’s Comeback",
+  "summary": "Jin Smith, a 65-year-old retired superhero, uses his week to come out of retirement and save his town from a mysterious threat, using his wisdom and acting skills.",
+  "summaryGerman": "Jin Smith, ein 65-jähriger pensionierter Superheld, nutzt seine Woche, um aus dem Ruhestand zurückzukehren und seine Stadt vor einer mysteriösen Bedrohung zu retten, indem er seine Weisheit und Schauspielkunst einsetzt.",
+  "summaryDutch": "Jin Smith, een 65-jarige gepensioneerde superheld, gebruikt zijn week om uit zijn pensioen te komen en zijn stad te redden van een mysterieuze bedreiging, met behulp van zijn wijsheid en acteervaardigheden.",
+  "summaryFrench": "Jin Smith, un super-héros à la retraite de 65 ans, utilise sa semaine pour sortir de la retraite et sauver sa ville d'une menace mystérieuse, en utilisant sa sagesse et ses compétences d'acteur.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Jin Smith sipped his morning tea, reflecting on his past glories as a superhero. Little did he know, his quiet retirement was about to be disrupted by news of rising crime in his neighborhood.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "After witnessing a petty theft, Jin donned his old cape and felt a rush of purpose. Using his theatrical skills, he foiled a robbery, blending his powerful advice with dramatic flair.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "His actions from the previous day made the local news. Gathering support, Jin advised local youths on taking responsibility and being proactive. His words sparked a small movement.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A local villain, intrigued by Jin's return, decided to challenge him. Jin used his wits and experience in a nerve-wracking face-off, which ended in Jin’s favor, restoring peace.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Buoyed by his success, Jin organized a neighborhood watch program, blending his love for advising with practical action, turning his advice sessions into strategy meetings.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "At a community event, Jin performed a theatrical piece he wrote, inspired by the week's events. The performance was both entertaining and motivational, drawing cheers and admiration.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Jin felt a deep satisfaction knowing he had made a difference. He realized his retirement could still be active and impactful, promising to remain a guardian for his town.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "At 65, Jin Smith proved that true heroes never really retire; they just find new ways to save the day.",
+  "moral": "You're never too old to make a difference."
+}

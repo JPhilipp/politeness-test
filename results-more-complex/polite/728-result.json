@@ -1,0 +1,46 @@
+{
+  "title": "The Baking Guardian: The Adventures of Walter Yang",
+  "summary": "Walter Yang, a 44-year-old baker and mentor, discovers his ability to inspire and protect those around him while facing daily challenges and adversaries. Over the course of one week, Walter balances his regular life with his newfound powers, realizing that heroism can come in various forms.",
+  "summaryGerman": "Walter Yang, ein 44-jähriger Bäcker und Mentor, entdeckt seine Fähigkeit, die Menschen um ihn herum zu inspirieren und zu schützen, während er täglichen Herausforderungen und Gegnern gegenübersteht. Im Laufe einer Woche balanciert Walter sein normales Leben mit seinen neu entdeckten Kräften und erkennt, dass Heldentum in verschiedenen Formen kommen kann.",
+  "summaryDutch": "Walter Yang, een 44-jarige bakker en mentor, ontdekt zijn vermogen om de mensen om hem heen te inspireren en te beschermen terwijl hij dagelijkse uitdagingen en tegenstanders het hoofd biedt. Gedurende een week balanceert Walter zijn reguliere leven met zijn nieuw gevonden krachten, en realiseert zich dat heldendom in verschillende vormen kan komen.",
+  "summaryFrench": "Walter Yang, un boulanger et mentor de 44 ans, découvre sa capacité à inspirer et à protéger ceux qui l'entourent tout en faisant face à des défis quotidiens et adversaires. Au cours d'une semaine, Walter équilibre sa vie régulière avec ses pouvoirs nouvellement trouvés, réalisant que l'héroïsme peut prendre diverses formes.",
+  "moral": "True heroism lies in the positive impact we have on others' lives, not just in grand gestures.",
+  "ending": "As the week concluded, Walter Yang continued to bake and mentor, now with a deeper understanding of the heroic roles we can all play in our everyday lives.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Walter Yang discovers his unique power to emit a calming aura while baking. His peaceful demeanor soothes a tense situation at the local community center.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "An unexpected visit from a troubled youth seeking guidance leads Walter to use his mentoring skills to inspire confidence.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Wednedsay",
+      "text": "Amid a power outage in his neighborhood, Walter's energetic personality lights up the dark, providing hope and sweet baked goods to cheer everyone.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Walter faces a challenge when a rival bakery attempts to sabotage his ingredients, but he cleverly turns the situation around, triumphing over adversity.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Haunted by his past mistakes, Walter experiences an eerie feeling. However, he resolves these feelings by reconnecting with an old friend he had once mentored.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "In a grand display of heroism, Walter saves a bakery competition from disaster, showcasing his expertise and hero-like resolve under pressure.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Walter feels content knowing he has made a difference. He spends a happy, quiet day with friends and family, reaffirming the joys of his simple, yet impactful life.",
+      "mood": "happy"
+    }
+  ]
+}

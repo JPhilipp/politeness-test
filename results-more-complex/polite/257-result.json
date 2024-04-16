@@ -1,0 +1,46 @@
+{
+  "title": "The Valiant Adventures of Judy Hayes",
+  "summary": "Judy Hayes, a 35-year-old superhero with a passion for training and advising, uses her unique abilities to combat a series of mysterious events that unfold over a week in her city.",
+  "summaryGerman": "Judy Hayes, eine 35-jährige Superheldin mit einer Leidenschaft für Training und Beratung, nutzt ihre einzigartigen Fähigkeiten, um eine Reihe mysteriöser Ereignisse, die sich über eine Woche in ihrer Stadt ereignen, zu bekämpfen.",
+  "summaryDutch": "Judy Hayes, een 35-jarige superheld met een passie voor training en advisering, gebruikt haar unieke vaardigheden om een reeks mysterieuze gebeurtenissen die zich gedurende een week in haar stad ontvouwen, te bestrijden.",
+  "summaryFrench": "Judy Hayes, une super-héroïne de 35 ans passionnée par l'entraînement et le conseil, utilise ses capacités uniques pour combattre une série d'événements mystérieux qui se déroulent sur une semaine dans sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "At dawn, Judy Hayes felt a strange energy pulsating through the city streets. She spent the day training new heroes, infusing them with her enthusiasm and sense of duty.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "An eerie silence crept over the city. Judy encountered a cryptic message on her morning jog, hinting at an impending disaster. She advised local authorities to be vigilant.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Reports of vanishing artifacts from the museum made headlines. Judy, using her knowledge, deduced the thief’s next target and set a trap.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "With the criminal gang apprehended, Judy spent the day advising the police on securing the artifacts better. Her expertise was greatly appreciated.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The city celebrated Judy’s heroism with a grand parade. Feeling loved and valued, she cherished the romantic gestures from her admirers.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Rejuvenated by the previous day's events, Judy conducted a city-wide training session for citizens, teaching them self-defense and emergency response.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her adventurous week, Judy spent a quiet day at home, planning her next steps and enjoying some rare leisure time.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As Judy Hayes looked over her city from her balcony, she smiled, knowing she had made a difference.",
+  "moral": "Dedication to one's community and proactive measures can prevent potential disasters and foster unity."
+}

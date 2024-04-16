@@ -1,0 +1,46 @@
+{
+  "title": "The Urban Guide: The Adventures of Ivan Cooper",
+  "summary": "Ivan Cooper, a retired city planner with a knack for adventure, discovers his latent superpowers and uses them to save his city from an eccentric villain over the course of a week.",
+  "summaryGerman": "Ivan Cooper, ein pensionierter Stadtplaner mit einer Vorliebe für Abenteuer, entdeckt seine latenten Superkräfte und nutzt sie, um seine Stadt im Laufe einer Woche vor einem exzentrischen Bösewicht zu retten.",
+  "summaryDutch": "Ivan Cooper, een gepensioneerde stedenbouwkundige met een voorliefde voor avontuur, ontdekt zijn latente superkrachten en gebruikt deze om zijn stad te redden van een excentrieke schurk gedurende een week.",
+  "summaryFrench": "Ivan Cooper, un urbaniste à la retraite passionné d'aventure, découvre ses superpouvoirs latents et les utilise pour sauver sa ville d'un méchant excentrique au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ivan Cooper stumbles upon a mysterious ancient compass during a morning stroll through the park, setting the stage for his unexpected journey.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Using his planning expertise, Ivan begins to decode the ancient inscriptions on the compass, revealing a hidden map of the city with mysterious markers.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Following the map, Ivan uncovers the first marker, an abandoned subway station, and discovers his power to manipulate urban structures.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thrusday",
+      "text": "Villainous forces take notice of Ivan's new powers and launch a chaotic downtown attack. Ivan uses his power to deflect debris, protecting citizens.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "After a night of reflection about his legacy and newfound role, Ivan is more determined than ever to master his powers for the good of his city.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Ivan confronts the villain at the city hall, using his powers to unravel the villain’s plan and restore order to the city's infrastructure.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The city celebrates Ivan as a new hero. He realizes that retirement is only the beginning of his new life's mission.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As Ivan stood against the setting sun, the city's skyline never looked more peaceful.",
+  "moral": "Age is but a number when it comes to making a difference and embracing new challenges."
+}

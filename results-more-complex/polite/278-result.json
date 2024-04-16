@@ -1,0 +1,46 @@
+{
+  "title": "The Harmonic Negotiator: The Adventures of Yvonne Green",
+  "summary": "Yvonne Green discovers her ability to resolve conflicts and fight evil through the power of negotiation and music, transforming her city over the course of a week.",
+  "summaryGerman": "Yvonne Green entdeckt ihre Fähigkeit, Konflikte zu lösen und das Böse durch die Macht der Verhandlung und Musik zu bekämpfen, und verwandelt ihre Stadt im Laufe einer Woche.",
+  "summaryDutch": "Yvonne Green ontdekt haar vermogen om conflicten op te lossen en het kwaad te bestrijden door de kracht van onderhandeling en muziek, en transformeert haar stad in de loop van een week.",
+  "summaryFrench": "Yvonne Green découvre sa capacité à résoudre les conflits et à combattre le mal par le pouvoir de la négociation et de la musique, transformant sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Yvonne Green, a passionate negotiator and musician, uncovers a mysterious tune in her grandpa's old music box that echoes in her mind, giving her a sense of eerie power.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tudsday",
+      "text": "Empowered by the tune, Yvonne successfully mediates a standoff between local businesses and environmental activists, using her newfound abilities to inspire an unexpected agreement.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "While playing her guitar in the park, Yvonne is confronted by a supernatural being who challenges her intentions. Her music calms the entity, revealing it as a guardian of peace.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Yvonne’s music starts attracting followers; her evening jam session in the city square turns into a peace rally, with people of all ages coming together.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A corrupt politician attempts to discredit Yvonne’s peaceful movement. She faces him in a public debate and wins the crowd with her honesty and persuasive charisma.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The villain returns with reinforcements. In an epic showdown, Yvonne uses a powerful composition to disrupt their plans, causing the villains to retreat in confusion.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "As the city celebrates its newfound unity, Yvonne performs a special concert at the city hall, dedicated to the community's resilience and harmony.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "With her unique blend of negotiation and melody, Yvonne Green proves that harmony can indeed resonate not just in music, but in the heart of every conflict.",
+  "moral": "True power lies in the harmonious blend of talents and intents that seek to unify, not divide."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Hero: Judy Nelson's Triumph",
+  "summary": "Judy Nelson, a 70-year-old retired coach, discovers her latent superpowers over the span of a week and uses them to save her community from a mysterious threat.",
+  "summaryGerman": "Judy Nelson, eine 70-jährige pensionierte Trainerin, entdeckt im Laufe einer Woche ihre verborgenen Superkräfte und nutzt sie, um ihre Gemeinde vor einer mysteriösen Bedrohung zu retten.",
+  "summaryDutch": "Judy Nelson, een 70-jarige gepensioneerde coach, ontdekt haar latente superkrachten gedurende een week en gebruikt ze om haar gemeenschap te redden van een mysterieuze dreiging.",
+  "summaryFrench": "Judy Nelson, une entraîneuse retraitée de 70 ans, découvre ses superpouvoirs latents sur une semaine et les utilise pour sauver sa communauté d'une menace mystérieuse.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy Nelson began her week feeling a strange surge of energy while coaching her local youth team. Feeling unusually energetic, she accidentally demonstrated a leap that spanned twenty feet, leaving her and her team in awe.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "With curiosity brewing, Judy decided to test her abilities. She found she could hear conversations blocks away and see through walls. This eerie discovery made her both excited and nervous.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wedesday",
+      "text": "Judy used her new powers to discreetly assist her neighbors and local community, solving small problems and preventing accidents. Her actions brought a peaceful sense of satisfaction.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A sudden rise in local crime prompted Judy to take a heroic stance. Donning a makeshift mask, she thwarted a burglary with her super strength, feeling both triumphant and emboldened.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "News of the masked hero spread, and Judy felt a romantic thrill in keeping her identity a secret. She reveled in the mystery and the whispers of her feats among the townspeople.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Judy taught her youth team not just sports, but the importance of integrity and courage, linking her actions as a superhero to her beliefs as a coach. She felt her life intertwine heroically and epicly.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Judy felt deeply content and happy. Realizing she had more to offer the world in her golden years than she ever imagined, she embraced her role as a guardian of her community.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And so, Judy Nelson lived out her days not just as a coach, but as a guardian, ever vigilant and forever cherished by those she protected.",
+  "moral": "Age is merely a number, and it's never too late to become a hero."
+}

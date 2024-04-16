@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Pit Anderson: Instructor by Day, Hero by Night",
+  "summary": "Pit Anderson, a 62-year-old cooking instructor, discovers he has the ability to manipulate time in a week filled with adventure and self-discovery. Each day brings new challenges and revelations, culminating in a triumphant use of his powers to save his city.",
+  "summaryGerman": "Pit Anderson, ein 62-jähriger Kochlehrer, entdeckt, dass er die Zeit manipulieren kann, in einer Woche voller Abenteuer und Selbstfindung. Jeder Tag bringt neue Herausforderungen und Enthüllungen, die in einem triumphalen Einsatz seiner Kräfte gipfeln, um seine Stadt zu retten.",
+  "summaryDutch": "Pit Anderson, een 62-jarige kookinstructeur, ontdekt dat hij de tijd kan manipuleren in een week vol avontuur en zelfontdekking. Elke dag brengt nieuwe uitdagingen en openbaringen, die uitmonden in een triomfantelijk gebruik van zijn krachten om zijn stad te redden.",
+  "summaryFrench": "Pit Anderson, un instructeur de cuisine de 62 ans, découvre qu'il peut manipuler le temps dans une semaine remplie d'aventures et de découverte de soi. Chaque jour apporte de nouveaux défis et révélations, aboutissant à une utilisation triomphale de ses pouvoirs pour sauver sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Pit Anderson, feeling energetic, helps his neighbors during a massive power outage and discovers he can slow downtime.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tueasday",
+      "text": "Surprised by his newfound abilities, Pit spends the day experimenting with them, cooking intricate meals in seconds, feeling triumphant yet uneasy.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Pit tries to live a normal day, teaching cooking classes. However, his powers start affecting his surroundings in eerie ways, making the class uneasy.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "After a contemplative morning, Pit decides to master his abilities, leading to a peaceful day of self-discovery.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Feeling heroic, Pit uses his powers to avert accidents around the city, becoming an anonymous hero, while his mood stays romantic thinking about his late wife who inspired him.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Pit's abilities become publicly known, causing a media frenzy. Despite the pressure, he remains epic, managing to use his powers for community benefit.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "In a massive display, Pit slows down time to rescue people from a collapsing building. Lauded as a true hero, he feels truly triumphant.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "As the week ends, Pit Anderson, once just a passionate instructor, cements his legacy as a real-life superhero.",
+  "moral": "Even in later years, it's never too late to discover your true potential and make a significant impact."
+}

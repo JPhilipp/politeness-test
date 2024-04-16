@@ -1,0 +1,46 @@
+{
+  "title": "The Peaceful Protector: The Week of Hubert Diaz",
+  "summary": "Hubert Diaz, a 70-year-old man whose hobbies include teaching and praying, discovers he has the power to instill peace in others. Over a week, he uses this ability to resolve conflicts and spread harmony in his community.",
+  "summaryGerman": "Hubert Diaz, ein 70-jähriger Mann, dessen Hobbys Lehren und Beten umfassen, entdeckt, dass er die Fähigkeit hat, Frieden in anderen zu fördern. Über eine Woche hinweg nutzt er diese Fähigkeit, um Konflikte zu lösen und Harmonie in seiner Gemeinde zu verbreiten.",
+  "summaryDutch": "Hubert Diaz, een 70-jarige man wiens hobby's onderwijzen en bidden omvatten, ontdekt dat hij de kracht heeft om vrede in anderen te brengen. Gedurende een week gebruikt hij deze vaardigheid om conflicten op te lossen en harmonie in zijn gemeenschap te verspreiden.",
+  "summaryFrench": "Hubert Diaz, un homme de 70 ans dont les passe-temps incluent l'enseignement et la prière, découvre qu'il a le pouvoir d'instaurer la paix chez les autres. Tout au long d'une semaine, il utilise cette capacité pour résoudre les conflits et répandre l'harmonie dans sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Despite his advancing age, Hubert finds himself feeling unusually energetic. He aids in resolving a long-standing feud between two neighbors simply by talking to them calmly, discovering his newfound abilities.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Hubert feels a deep sense of peace as he goes about his day, praying and reflecting. During a community meeting, he effortlessly calms an escalating argument, realizing his powers are more profound than he thought.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "Hubert continues his day teaching at a local school. A once problematic student responds positively to Hubert's peaceful influence, improving the classroom's dynamics.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Feeling slightly eerie, Hubert encounters a stranger who seems to radiate negativity. After a brief conversation, the stranger's attitude transforms, hinting at Hubert's ability to affect even the most hardened hearts.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Hubert's mood is triumphant as he helps mediate a workshop that ends with all parties feeling more united than ever before. His role as a peacemaker is becoming recognized by the community.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A romantic aura fills the air as Hubert attends a community wedding. His mere presence seems to deepen the couple's bond and the overall joy at the event.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The week ends on an epic note as Hubert leads a multi-faith prayer session that sees an unprecedented turnout, showcasing the widespread impact of his peaceful prowess.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "As the sun set on Sunday, Hubert knew his newfound purpose would bring about change, one heart at a time.",
+  "moral": "The power of peace often lies in simple acts of understanding and kindness."
+}

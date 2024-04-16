@@ -1,0 +1,46 @@
+{
+  "title": "The Chronicles of Zelda King: Editing the Fate",
+  "summary": "Zelda King, a 44-year-old editor with a knack for preaching, discovers her ability to alter reality through words and uses her powers to combat a rising darkness, bringing peace to her city.",
+  "summaryGerman": "Zelda King, eine 44-jährige Redakteurin mit einer Vorliebe für das Predigen, entdeckt ihre Fähigkeit, durch Worte die Realität zu verändern und nutzt ihre Kräfte, um eine aufkommende Dunkelheit zu bekämpfen und Frieden in ihrer Stadt zu bringen.",
+  "summaryDutch": "Zelda King, een 44-jarige redactrice met een knack voor prediken, ontdekt haar vermogen om de realiteit te veranderen door woorden en gebruikt haar krachten om een opkomende duisternis te bestrijden en vrede te brengen in haar stad.",
+  "summaryFrench": "Zelda King, une éditrice de 44 ans passionnée de prêche, découvre sa capacité à modifier la réalité par les mots et utilise ses pouvoirs pour combattre une obscurité montante, apportant la paix dans sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda King starts her week with usual work at the publishing house but feels a strange surge of energy as her edits seem to alter the fiction into real-world events.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Confirming her new powers, Zelda decides to prevent a minor conflict she reads about in a manuscript by rewriting the outcome, leading to inexplicable peace in a distant land.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wedsneday",
+      "text": "Intrigued by her capabilities, Zelda spends the day experimenting with different texts, noticing the changes around her city—flowers blooming out of season and sudden rain clearing pollution.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Zelda's actions start attracting attention; mysterious figures are spotted observing her. Tension rises as she realizes the potential danger of her powers to those who wish to misuse it.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Fearing for her safety, Zelda preaches about peace and responsibility at a local community center, unknowingly strengthening the city's morale and unity against the growing darkness.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Zelda is confronted by agents of chaos who want to harness her editing power. A battle of wits and words ensues, with Zelda cleverly rewriting scenarios to thwart her enemies.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "After a week of turmoil, Zelda manages to edit a new 'rule' into the world; those seeking to harm others with power will find themselves powerless, finally restoring balance and peace.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, with the power of her words, Zelda King wrote a new chapter of hope for all.",
+  "moral": "The pen is truly mightier than the sword, especially when wielded with wisdom and courage."
+}

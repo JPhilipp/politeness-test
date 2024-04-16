@@ -1,0 +1,46 @@
+{
+  "title": "The Energetic Adventures of Victor Diaz",
+  "summary": "Over the course of a week, Victor Diaz, a 57-year-old mentoring enthusiast with a talent for drawing, discovers his superpowers, battles foes, and embraces his new role as a community hero.",
+  "summaryGerman": "Im Verlauf einer Woche entdeckt Victor Diaz, ein 57-jähriger Mentoring-Enthusiast mit einem Talent fürs Zeichnen, seine Superkräfte, bekämpft Feinde und nimmt seine neue Rolle als Held der Gemeinschaft an.",
+  "summaryDutch": "Gedurende een week ontdekt Victor Diaz, een 57-jarige liefhebber van mentoring met een talent voor tekenen, zijn superkrachten, vecht tegen vijanden en omarmt zijn nieuwe rol als gemeenschapsheld.",
+  "summaryFrench": "Au cours d'une semaine, Victor Diaz, passionné de mentorat âgé de 57 ans et doué en dessin, découvre ses superpouvoirs, combat des ennemis et embrasse son nouveau rôle de héros communautaire.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Victor stumbled upon an ancient artifact while organizing a community clean-up. Sensing its power, he felt strangely energetic.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Twesday",
+      "text": "The artifact revealed its powers when Victor used it inadvertently during a mentoring session, healing a wounded bird with a mere gesture.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Energized by his newfound abilities, Victor drew a series of comic strips, envisioning himself as the hero 'Vector', defender of the downtrodden.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "An unexpected foe appeared, challenging Victor. Using his powers, Victor managed to protect the neighborhood while maintaining his secret.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Word spread about a mysterious protector. Victor, feeling a mix of pride and anxiety, decided to train and harness his powers more responsibly.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a mentoring workshop, Victor anonymously demonstrated the importance of bravery and kindness, inspiring his mentees in secret.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Gathering with his community, Victor felt content knowing he was not just a mentor in drawing, but in life. Unbeknownst to them, he was their guardian.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, Victor Diaz realized that heroes are not only born from strength but from the heart and the will to make a difference.",
+  "moral": "True heroism lies not in the powers we are given, but how we choose to use them."
+}

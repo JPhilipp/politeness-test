@@ -1,0 +1,46 @@
+{
+  "title": "The Weaving Wisdom of Hubert Robinson",
+  "summary": "Hubert Robinson, a 49-year-old tutor with a passion for weaving, discovers he can manipulate threads of reality, using his ability to solve local mysteries and fight crime over the course of a week.",
+  "summaryGerman": "Hubert Robinson, ein 49-jähriger Tutor mit einer Leidenschaft für das Weben, entdeckt, dass er die Fäden der Realität manipulieren kann, und nutzt seine Fähigkeit, um lokale Geheimnisse zu lösen und Verbrechen im Laufe einer Woche zu bekämpfen.",
+  "summaryDutch": "Hubert Robinson, een 49-jarige tutor met een passie voor weven, ontdekt dat hij de draden van de realiteit kan manipuleren, en gebruikt zijn vaardigheid om lokale mysteries op te lossen en criminaliteit te bestrijden gedurende een week.",
+  "summaryFrench": "Hubert Robinson, un tuteur de 49 ans passionné par le tissage, découvre qu'il peut manipuler les fils de la réalité, utilisant sa capacité pour résoudre des mystères locaux et lutter contre le crime au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Hubert Robinson starts his week by tutoring local kids in mathematics. While weaving a colorful tapestry in the evening, he absentmindedly knots a pattern that sparks a soft glow, revealing his unique power.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Intrigued by his newfound abilities, Hubert experiments with different fabrics. He discovers that silk threads enhance his control over nearby objects, subtly moving them without physical contact.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Using his powers, Hubert overhears a conspiracy to rob the local bank. He weaves a net of invisible threads across the town to monitor suspicious activities.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Hubert catches the thieves in his net, alerting the authorities without revealing himself. He feels a deep sense of responsibility towards using his powers for justice.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Hubert's tutoring students are amazed by simple demonstrations of physics and mathematics, unaware of his real powers. His ability to blend everyday lessons with extraordinary skills captivates them.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Taking a break, Hubert visits a local museum about textile arts. He feels a deep connection with ancient weavers and their stories, realizing the historical depth of his craft.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Hubert spends the day refining his control over his powers and weaving a tapestry that depicts his week's adventures, deciding to hang it discreetly in his study.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "As the sun sets on Sunday, Hubert feels content, knowing he can protect his peaceful town quietly and efficiently, all while pursuing the craft he loves.",
+  "moral": "Embrace your unique talents; they may hold unforeseen power to make a difference."
+}

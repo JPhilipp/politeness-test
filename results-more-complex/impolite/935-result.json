@@ -1,0 +1,46 @@
+{
+  "title": "The Spectacular Week of Charlie Perez, The Counselor Hero",
+  "summary": "Charlie Perez discovers his unique power to absorb and alleviate mental anguish while juggling his life as a student and counselor, ultimately facing a dramatic showdown to save his city from an emotional cataclysm.",
+  "summaryGerman": "Charlie Perez entdeckt seine einzigartige Fähigkeit, seelischen Schmerz zu absorbieren und zu lindern, während er sein Leben als Student und Berater meistert und letztendlich einem dramatischen Showdown gegenübersteht, um seine Stadt vor einem emotionalen Katastrophenfall zu retten.",
+  "summaryDutch": "Charlie Perez ontdekt zijn unieke kracht om mentaal leed te absorberen en te verlichten terwijl hij zijn leven als student en counselor jongleert, uiteindelijk geconfronteerd met een dramatische confrontatie om zijn stad te redden van een emotionele ramp.",
+  "summaryFrench": "Charlie Perez découvre son pouvoir unique d'absorber et d'atténuer les souffrances mentales tout en jonglant avec sa vie d'étudiant et de conseiller, faisant finalement face à un affrontement dramatique pour sauver sa ville d'une catastrophe émotionnelle.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Charlie Perez, a 20-year-old acting and counseling enthusiast, accidentally discovers his power to absorb the emotional pain of others during a counseling session at college.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Filled with newfound energy, Charlie uses his day to counsel more peers, realizing his powers grow stronger with each interaction, helping everyone he meets feel lighter and happier.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Charlie's repeated use of his power starts affecting his own emotional health, making him realize the need for balance and self-care.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "After a day of rest and reflection, Charlie decides to officially embrace his role as 'The Counselor Hero', helping those in need while maintaining his personal well-being.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Charlie encounters a mysterious figure who warns him of an upcoming emotional storm that could devastate the city.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Using his counseling sessions as a way to strengthen himself and his allies, Charlie prepares for the confrontation, rallying his friends and peers.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "In an epic showdown, Charlie uses his powers to absorb the emotional storm, saving the city and proving the true strength of empathy and resilience.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "With the city safe, Charlie Perez became not just a hero, but a beacon of hope and healing.",
+  "moral": "The true strength of a hero lies not just in their power, but in their capacity to use it with wisdom and compassion."
+}

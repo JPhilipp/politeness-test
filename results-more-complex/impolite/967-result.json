@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Heroism of Eve Price",
+  "summary": "At age 74, Eve Price transforms her small town into a tightly knit community by mentoring young vigilantes.",
+  "summaryGerman": "Im Alter von 74 Jahren verwandelt Eve Price ihre kleine Stadt in eine eng verbundene Gemeinde, indem sie junge Vigilanten betreut.",
+  "summaryDutch": "Op 74-jarige leeftijd transformeert Eve Price haar kleine stad naar een nauw verbonden gemeenschap door jonge vigilantes te begeleiden.",
+  "summaryFrench": "À l'âge de 74 ans, Eve Price transforme sa petite ville en une communauté soudée en encadrant de jeunes vigilants.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Eve Price, a retired teacher and respected community guide, uncovers plans for a local development that would destroy a beloved park. She decides to take a stand, rallying the community for a town hall meeting.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tueseday",
+      "text": "With the town hall meeting set for Friday, Eve spends Tuesday mentoring young activists, teaching effective protest strategies and emphasizing the importance of community solidarity.",
+      "mood": "inspiring"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Eve meets with the local news to discuss the park's history and its significance. Her emotional tales strike a chord, spreading awareness and garnering more support.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Amidst preparation chaos, Eve remains a calming presence. She spends the day finalizing speech points and reassuring anxious residents.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The community fills the town hall, and Eve delivers a passionate plea for the park. So many join her cause that the developers agree to consider alternative plans.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Riding the wave of victory, Eve leads a cleanup and small restoration project in the park, strengthening community bonds further.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The week ends with a picnic in the newly rescued park. Eve, surrounded by those she's mentored, feels a profound sense of legacy and accomplishment.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "As the sun set on the park, Eve knew she had sparked a flame of activism that would burn brightly for generations.",
+  "moral": "No matter the age, one's passion and guidance can effect powerful community change."
+}

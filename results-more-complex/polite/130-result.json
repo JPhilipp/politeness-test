@@ -1,0 +1,46 @@
+{
+  "title": "The Green Guardian: The Adventures of Trent Thompson",
+  "summary": "Trent Thompson, a 50-year-old who enjoys crocheting and gardening, discovers his power to stimulate plant growth, which he uses to thwart a local villain's destructive plans over the span of one week.",
+  "summaryGerman": "Trent Thompson, ein 50-jähriger, der gerne häkelt und gärtnert, entdeckt seine Fähigkeit, das Pflanzenwachstum zu stimulieren, und nutzt diese, um die zerstörerischen Pläne eines lokalen Bösewichts innerhalb einer Woche zu vereiteln.",
+  "summaryDutch": "Trent Thompson, een 50-jarige man die van haken en tuinieren houdt, ontdekt zijn kracht om plantengroei te stimuleren, die hij gebruikt om de destructieve plannen van een lokale schurk gedurende één week te dwarsbomen.",
+  "summaryFrench": "Trent Thompson, un homme de 50 ans qui aime crocheter et jardiner, découvre son pouvoir de stimuler la croissance des plantes, qu'il utilise pour contrecarrer les plans destructeurs d'un vilain local au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Trent Thompson, after a peaceful morning spent in his garden, notices his plants reacting unusually to his touch, growing rapidly. Intrigued and happy, he starts experimenting.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Armed with his newfound powers, Trent creates a lush floral display in his front yard, catching the eye of his neighbors and local media, feeling increasingly energetic about the possibilities.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedbesday",
+      "text": "A local villain known as 'The Scorch' vows to raze the city's parks. Trent, feeling triumpant, decides to use his powers to protect the community's green spaces.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Trent senses an eerie calm before The Scorch executes his fiery plan. That night, Trent stealthily fortifies the parks with fast-growing ivy barriers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Face-off with The Scorch: Trent expertly manipulates the vines to snare and thwart The Scorch’s devices, the battle culminating in an epic showcase of blooming firepower against fire.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The media hail Trent as 'The Green Guardian'. He spends a peaceful day at a community garden event, teaching children how to plant seeds, feeling a deep sense of fulfillment.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week’s exploits, Trent crochets a green vine patterned scarf, contemplating his next steps in harnessing his abilities for greater community service.",
+      "mood": "romantic"
+    }
+  ],
+  "moral": "Even the most unassuming talents can grow into powerful forces for good when nurtured with love and determination.",
+  "ending": "As the sun set on a tranquil Sunday, Trent knew his adventures as The Green Guardian were only just beginning."
+}

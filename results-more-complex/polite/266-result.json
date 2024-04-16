@@ -1,0 +1,46 @@
+{
+  "title": "The Week-long Tales of Judy Cox: The Encouraging Advisor",
+  "summary": "Judy Cox discovers her ability to inspire actual change through her advice, facing challenges and transforming her community in just a week.",
+  "summaryGerman": "Judy Cox entdeckt ihre Fähigkeit, durch ihre Ratschläge tatsächliche Veränderungen zu inspirieren, stellt sich Herausforderungen und verwandelt innerhalb einer Woche ihre Gemeinschaft.",
+  "summaryDutch": "Judy Cox ontdekt haar vermogen om echte verandering te inspireren met haar adviezen, gaat uitdagingen aan en transformeert haar gemeenschap in slechts een week.",
+  "summaryFrench": "Judy Cox découvre sa capacité à inspirer un véritable changement grâce à ses conseils, relève des défis et transforme sa communauté en seulement une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy Cox starts her week feeling energetic, deciding to use her morning walk to advise her neighbors on community issues.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tueesday",
+      "text": "Empowered by yesterday's responses, Judy organizes a community meeting, feeling triumphant as more people join to discuss local improvements.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "A challenging day unfolds as Judy deals with skeptics, but she remains peaceful, ensuring every voice is heard.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Judy feels slightly sad after hitting some bureaucratic roadblocks but continues to push for change with letters and calls to officials.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The community's spirit lifts as small projects begin. Judy, happy and proud, sees her efforts start to bear fruit.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With the local park cleanup underway, Judy shares a romantic picnic with her partner, celebrating the week's achievements.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Judy spends a quiet, reflective day, writing a blog post about her experiences, feeling epic about the community's epic transformations.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Judy Cox proved that one person's guidance can ignite a community's spirit and bring about monumental changes.",
+  "moral": "Never underestimate the power of encouraging words; they can inspire actions that transform the world."
+}

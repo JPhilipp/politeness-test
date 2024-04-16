@@ -1,0 +1,46 @@
+{
+  "title": "The Rise of Ling Allen: Programmer by Day, Hero by Night",
+  "summary": "Ling Allen, a 19-year-old student with a passion for programming and exercising, discovers an ability to manipulate digital devices with her mind. Throughout one week, she uncovers a plot threatening her city and learns to harness her powers to save the day.",
+  "summaryGerman": "Ling Allen, eine 19-jährige Studentin, die sich leidenschaftlich für Programmierung und Sport interessiert, entdeckt die Fähigkeit, digitale Geräte mit ihrem Geist zu manipulieren. Innerhalb einer Woche deckt sie eine der Stadt drohende Verschwörung auf und lernt, ihre Kräfte zu nutzen, um den Tag zu retten.",
+  "summaryDutch": "Ling Allen, een 19-jarige student met een passie voor programmeren en sporten, ontdekt het vermogen om digitale apparaten te manipuleren met haar geest. Gedurende een week ontdekt ze een complot dat haar stad bedreigt en leert ze haar krachten te gebruiken om de dag te redden.",
+  "summaryFrench": "Ling Allen, une étudiante de 19 ans passionnée par la programmation et le sport, découvre qu'elle peut manipuler les appareils numériques avec son esprit. Tout au long d'une semaine, elle découvre un complot menaçant sa ville et apprend à maîtriser ses pouvoirs pour sauver la journée.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling discovers her ability to interact with her smartphone without touching it during a late-night coding session. She is startled but intrigued.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesdsay",
+      "text": "Excited by her newfound power, Ling conducts experiments and confirms she can control other digital devices too. She feels increasingly energetic about her unique skill.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Ling overhears classmates discussing a mysterious hacker attack on city infrastructure. Curiosity piqued, she decides to investigate using her talents.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Ling traces the hacker's signal and discovers a dark net group planning more attacks. The revelation is frightening, but Ling feels determined.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With her acumen in programming and her powers, Ling creates a counter-virus to protect the city’s infrastructure, feeling quite triumphant as her code spreads through the net.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The hackers launch a major attack, but Ling’s countermeasures hold strong. The city, unaware of her role, remains safe. Ling feels quietly heroic and peaceful.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Ling vows to refine her abilities and keep watch over the digital realm of her city. She feels profoundly happy and responsible.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "In the silence of her room, Ling smiled, knowing she was exactly where she needed to be.",
+  "moral": "With great power comes great responsibility, and sometimes the hero within is just a discovery away."
+}

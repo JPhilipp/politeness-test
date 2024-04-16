@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Triumph: The Kevin Kelly Story",
+  "summary": "Kevin Kelly, age 60, uses his powers of motivation and mentoring to transform his community and confront a mysterious threat over the course of a week.",
+  "summaryGerman": "Kevin Kelly, 60 Jahre alt, nutzt seine Fähigkeiten der Motivation und des Mentorings, um seine Gemeinde zu verwandeln und innerhalb einer Woche eine mysteriöse Bedrohung zu konfrontieren.",
+  "summaryDutch": "Kevin Kelly, 60 jaar oud, gebruikt zijn krachten van motivatie en mentoring om zijn gemeenschap te transformeren en gedurende een week een mysterieuze dreiging het hoofd te bieden.",
+  "summaryFrench": "Kevin Kelly, âgé de 60 ans, utilise ses pouvoirs de motivation et de mentorat pour transformer sa communauté et affronter une menace mystérieuse au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Kevin Kelly starts his week with a motivational workshop at the local community center, inspiring many to pursue their dreams. He feels particularly energetic today.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "During his regular mentoring session, Kevin discovers that one of his mentees, Jenny, is troubled by a mysterious threat in the neighborhood.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "Kevin decides to investigate the mysterious threat. He spends the day gathering information and learns about a plan to disrupt the community.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "With the gathered intel, Kevin recruits community members to stand guard and prepare. Their collective spirit is high, and Kevin feels deeply connected to them all.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The mysterious threat materializes as a group trying to tear down the community hall. Kevin and the community confront them, united and strong.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After an intense confrontation, Kevin uses his influence to turn the adversaries' hearts, successfully averting the crisis. The mood in the community turns peaceful and grateful.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Kevin reflects on the week's victories with his mentees. He feels immense pride in their growth and resilience. Sunday ends with a celebration of their community's spirit.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Kevin Kelly learned that real power lies not in strength, but in the unity and determination of a community inspired to change.",
+  "moral": "The strength of a community lies in its unity and the mutual inspiration its members provide."
+}

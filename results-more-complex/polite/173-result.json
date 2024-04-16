@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Ursula Rivera: Educator by Day, Hero by Night",
+  "summary": "Ursula Rivera, a 48-year-old teacher, discovers her superpower of manipulating time to teach and protect her community over the course of a week.",
+  "summaryGerman": "Ursula Rivera, eine 48-jährige Lehrerin, entdeckt im Laufe einer Woche ihre Superkraft, die Zeit zu manipulieren, um zu lehren und ihre Gemeinde zu schützen.",
+  "summaryDutch": "Ursula Rivera, een 48-jarige lerares, ontdekt haar superkracht om tijd te manipuleren om gedurende een week te onderwijzen en haar gemeenschap te beschermen.",
+  "summaryFrench": "Ursula Rivera, une enseignante de 48 ans, découvre son superpouvoir de manipuler le temps pour enseigner et protéger sa communauté au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ursula Rivera begins her week feeling energetic as she prepares her lesson plans, unaware of the strange glowing object in her briefcase.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Ursula touches the glowing artifact, and time freezes around her. She spends the day experimenting with her newfound powers, feeling a mix of eerie and triumphant.",
+      "mood": "eerie, triumphant"
+    },
+    {
+      "weekday": "Wefnesday",
+      "text": "Now mastering her abilities, Ursula uses her power to extend time, helping struggling students understand complex topics, feeling deeply peaceful.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Ursula confronts a local crisis, stopping a disaster before it happens. The community remains unaware of their hero, but Ursula feels triumphant and happy.",
+      "mood": "triumphant, happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With her powers becoming public knowledge, Ursula teaches her students about responsibility and power, bringing a romantic and epic closure to their week.",
+      "mood": "romantic, epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Ursula spends a day out, reflecting on her new role and responsibilities, feeling a serene blend of energy and peace.",
+      "mood": "energetic, peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ursula prepares for the upcoming week, determined to balance teaching and heroism, feeling sad about the potential risks but hopeful.",
+      "mood": "sad, hopeful"
+    }
+  ],
+  "ending": "In the quiet moments of the night, Ursula Rivera looked to the stars, ready to educate and protect, ever the guardian of her community.",
+  "moral": "With great power comes the responsibility to teach and protect."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Peggy Rodriguez: The Consulting Hero",
+  "summary": "A 66-year-old consulting enthusiast, Peggy Rodriguez, discovers her superpowers and uses them to advise and protect her community over a week of unexpected events.",
+  "summaryGerman": "Eine 66-jährige Beratungsenthusiastin, Peggy Rodriguez, entdeckt ihre Superkräfte und nutzt sie, um ihre Gemeinde über eine Woche unerwarteter Ereignisse hinweg zu beraten und zu schützen.",
+  "summaryDutch": "Een 66-jarige adviesliefhebber, Peggy Rodriguez, ontdekt haar superkrachten en gebruikt ze om haar gemeenschap te adviseren en te beschermen gedurende een week van onverwachte gebeurtenissen.",
+  "summaryFrench": "Une passionnée de conseil de 66 ans, Peggy Rodriguez, découvre ses super pouvoirs et les utilise pour conseiller et protéger sa communauté pendant une semaine d'événements inattendus.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Peggy realized her advice could alter the fabric of reality. This new understanding came when her neighbor's wilted garden revived as she advised on plant care—flowers blossoming instantly.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thuesday",
+      "text": "Empowered by her discovery, Peggy held a free consulting session in the park. As she advised attendees, small miracles happened around her—lost items found themselves, and broken watches started working.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "A major storm threatened the town. Peggy, calm and collected, advised the crowd on safety, her words calming the storm itself, showcasing the extent of her powers.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Riding on the wave of her successes, Peggy organized a neighborhood watch program, advising on security. That night, peace and safety blanketed the community.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A shady corporation tried to buy out the local park. Peggy, using her influential advice, swayed the public opinion to protest, saving the park with words alone.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Her actions drew admiration. Locals organized a celebration in her honor where Peggy felt a romantic spark with another devoted community protector as they planned future improvements.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Peggy felt content knowing her advice had real power to change lives. She declared her commitment to being a consulting hero full-time.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And so, Peggy Rodriguez remained a steadfast beacon of wisdom, forever enhancing the lives of those around her with a simple, yet powerful tool: her advice.",
+  "moral": "Even the simplest acts of advice can have superheroic impacts when given from the heart."
+}

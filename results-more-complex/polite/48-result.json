@@ -1,0 +1,39 @@
+{
+  "title": "The Adventures of Ling Alexander: Mentor of Might",
+  "summary": "Ling Alexander discovers his superpower of instilling knowledge instantly and uses it to help his community, facing challenges and making crucial decisions about how to use his incredible abilities over the span of one week.",
+  "summaryGerman": "Ling Alexander entdeckt seine Superkraft, Wissen augenblicklich zu vermitteln und nutzt sie, um seiner Gemeinschaft zu helfen. Er stellt sich Herausforderungen und trifft entscheidende Entscheidungen darüber, wie er seine unglaublichen Fähigkeiten über die Spanne einer Woche einsetzen soll.",
+  "summaryDutch": "Ling Alexander ontdekt zijn superkracht om kennis direct over te brengen en gebruikt deze om zijn gemeenschap te helpen. Hij staat voor uitdagingen en maakt cruciale beslissingen over hoe hij zijn ongelooflijke vaardigheden binnen een week kan gebruiken.",
+  "summaryFrench": "Ling Alexander découvre son superpouvoir de transmettre instantanément le savoir et l'utilise pour aider sa communauté. Il fait face à des défis et prend des décisions cruciales sur la manière d'utiliser ses incroyables capacités sur une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Alexander starts his week as usual, tutoring local kids after his day job. Unknown to him, a cosmic event enhances his innate ability to teach, allowing students to grasp complex subjects instantly. Mood: energetic."
+    },
+    {
+      "weekday": "Tuusday",
+      "text": "After a sudden realization of his new power, Ling tests it further with his mentees, witnessing transformative educational breakthroughs. He contemplates the extent of his abilities. Mood: triumphant."
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Confronted by ethical dilemmas about the implications of his power, Ling debates how to responsibly use it, fearing it might overshadow the values of hard work and perseverance. Mood: sad."
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Deciding to embrace his powers for the greater good, Ling discreetly aids a struggling school, elevating the students’ performance without revealing the source. Mood: epic."
+    },
+    {
+      "weekday": "Friday",
+      "text": "Word of the mysterious improvements in student grades sparks local media interest. Ling masks his unease with continued acts of covert educational enhancement. Mood: eerie."
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Ling mentors a brilliant yet underconfident girl, helping her to not only solve difficult math problems but also boosting her self-esteem. Their interaction is profound and heartwarming. Mood: romantic."
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week's events, Ling commits to balancing his life’s work and superpower, promising to guide others in not just academics, but in believing in their self-worth. Mood: peaceful."
+    }
+  ],
+  "ending": "Ling Alexander stood at the window, watching the sunrise, feeling a profound connection to the expanding horizons of knowledge he could now share.",
+  "moral": "With great power comes great responsibility; use it to illuminate, not overshadow."
+}

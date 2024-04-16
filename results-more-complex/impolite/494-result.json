@@ -1,0 +1,46 @@
+{
+  "title": "The Chronicles of Yvonne Robinson: Bargains and Bravery",
+  "summary": "Yvonne Robinson, a consultant by day, discovers her ability to negotiate not just in business but also in heroics, tackling challenges and adversaries through a thrilling week.",
+  "summaryGerman": "Yvonne Robinson, tagsüber Beraterin, entdeckt ihre Fähigkeit, nicht nur im Geschäft, sondern auch in der Heldentat zu verhandeln, indem sie Herausforderungen und Gegner während einer spannenden Woche bewältigt.",
+  "summaryDutch": "Yvonne Robinson, overdag consultant, ontdekt haar vermogen om niet alleen in zaken te onderhandelen, maar ook in heldendaden, waarbij ze gedurende een spannende week uitdagingen en tegenstanders aanpakt.",
+  "summaryFrench": "Yvonne Robinson, consultante le jour, découvre sa capacité à négocier non seulement dans les affaires mais aussi dans les actes héroïques, en relevant des défis et des adversaires tout au long d'une semaine palpitante.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Yvonne Robinson starts her week mastering a complex consultation with a major client, unaware of her emerging powers of influence and negotiation.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesdey",
+      "text": "As a citywide blackout strikes, Yvonne uses her bargaining skills to organize a candlelit meeting, unravelling a sinister plot.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Using her persuasive power, Yvonne confronts a gang of saboteurs, turning them against their malevolent leader.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "With the city calm again, Yvonne hosts a workshop to teach negotiation techniques, ensuring everyone can defend themselves verbally when needed.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Yvonne uncovers a nefarious scheme to corrupt the city council and uses her newfound superhero contacts to expose the villains.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A celebratory dinner turns into a romantic evening as Yvonne connects with a fellow superhero, discussing plans for future collaboration.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Yvonne feels proud, ready to face whatever her consulting or newfound heroics might bring.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, Yvonne Robinson, consultant by day and superb negotiator by night, knows the true power of words in shaping the world.",
+  "moral": "The greatest heroes are those who know the power of diplomacy and can change the world without a single fight."
+}

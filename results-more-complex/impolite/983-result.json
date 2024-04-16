@@ -1,0 +1,46 @@
+{
+  "title": "The Week Ivan Bailey Became a Superhero",
+  "summary": "At 63, Ivan Bailey discovers his latent superpowers during a week of personal and community trials, using his abilities to inspire and protect his neighborhood.",
+  "summaryGerman": "Mit 63 entdeckt Ivan Bailey seine verborgenen Superkräfte während einer Woche persönlicher und gemeinschaftlicher Prüfungen und nutzt seine Fähigkeiten, um seine Nachbarschaft zu inspirieren und zu schützen.",
+  "summaryDutch": "Op 63-jarige leeftijd ontdekt Ivan Bailey zijn latente superkrachten tijdens een week van persoonlijke en gemeenschappelijke beproevingen, waarbij hij zijn vermogens gebruikt om zijn buurt te inspireren en te beschermen.",
+  "summaryFrench": "À 63 ans, Ivan Bailey découvre ses superpouvoirs latents au cours d'une semaine d'épreuves personnelles et communautaires, utilisant ses capacités pour inspirer et protéger son quartier.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ivan Bailey, a retired consultant with a penchant for public speaking, discovers he can manipulate thoughts when he unintentionally inspires an audience to community action during a lecture on civic duty.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuefday",
+      "text": "Testing his new power at a local park, Ivan encounters a group of thieves. By altering their intentions, Ivan transforms their desire for crime into a passion for volunteering.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Ivan spends the day honing his abilities and reflecting on the responsibility they carry; his day ends sharing insights at a youth club about the power of choices.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A crisis hits when a fire breaks out in a nearby building. Ivan uses his motivational speeches to organize a heroic group effort that saves the building.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Word of Ivan’s actions spread and he’s invited on a local TV show. He uses the platform to speak on the potential within every person to be a hero.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Reflecting on his week, Ivan hosts a free public speaking event where he encourages the community to recognize and nurture their inner strengths.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The town honors Ivan with a community award. Overwhelmed and proud, he vows to continue his journey, helping others realize their potential.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "At an age when some choose to slow down, Ivan Bailey chose to speed up, teaching us all that it’s never too late to become a superhero.",
+  "moral": "The true measure of a hero is not in the power they hold, but in the wisdom with which they wield it."
+}

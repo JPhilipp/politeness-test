@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Hubert Adams: The Senior Hero",
+  "summary": "Hubert Adams, a retired coach, discovers his ability to inspire real-time courage and strength in others, using it to thwart a crisis each day within his community.",
+  "summaryGerman": "Hubert Adams, ein pensionierter Trainer, entdeckt seine Fähigkeit, anderen in Echtzeit Mut und Stärke zu vermitteln, und nutzt sie, um jeden Tag eine Krise in seiner Gemeinde zu verhindern.",
+  "summaryDutch": "Hubert Adams, een gepensioneerde coach, ontdekt zijn vermogen om anderen in real-time moed en kracht te inspireren, en gebruikt het om elke dag een crisis in zijn gemeenschap te verijdelen.",
+  "summaryFrench": "Hubert Adams, un entraîneur à la retraite, découvre sa capacité à inspirer courage et force en temps réel chez les autres, en l'utilisant pour déjouer une crise chaque jour au sein de sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Hubert Adams begins his week feeling energetic after a weekend of family gatherings. While at the park advising young athletes, he senses something amiss. A tree suddenly starts to fall toward a group of children. With swift advice to the coach on ground, the children are moved out of harm’s way just in time.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "On Tuesday, Hubert feels a sense of peace as he helps a local school devise emergency preparedness protocols. His ability to foresee trouble becomes useful when he predicts a false alarm evacuation, avoiding unnecessary panic among the students.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Hubert’s day turns eerie when he hears whispers of a planned theft at the community center. He uses his coaching skills to empower the staff with vigilance and preventative strategies, which helps avert the theft entirely.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Feeling triumphant, Hubert celebrates small victories with his community, as they commend his efforts from the previous days. His humble acceptance of their praise further cements his role as a pillar in the community.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Hubert's day becomes quite romantic when he reconnects with an old flame during a community potluck dinner. Their conversation revives old feelings, showing that even heroes need a bit of love.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Hubert's week turns epic when he leads a neighborhood watch group during the annual festival, preventing various small crises and ensuring the event goes smoothly for everyone.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Hubert spends a peaceful Sunday reflecting on the events of the week, realizing that his true power lies not just in his actions, but in inspiring others to act.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Hubert Adams taught his community that true heroism is about empowerment and proactive care.",
+  "moral": "True heroism lays in empowering others and preempting crises with wisdom and foresight."
+}

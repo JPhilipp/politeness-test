@@ -1,0 +1,46 @@
+{
+  "title": "The Unlikely Triumphs of Hubert Perry",
+  "summary": "Hubert Perry, a 67-year-old who loves dancing and consulting, discovers he has the power to heal with his dance moves. Throughout a week, he tackles local challenges and helps his community.",
+  "summaryGerman": "Hubert Perry, ein 67-jähriger Liebhaber des Tanzes und Beratung, entdeckt, dass er die Kraft hat, mit seinen Tanzbewegungen zu heilen. Innerhalb einer Woche nimmt er lokale Herausforderungen an und hilft seiner Gemeinschaft.",
+  "summaryDutch": "Hubert Perry, een 67-jarige liefhebber van dans en advies, ontdekt dat hij de kracht heeft om met zijn dansbewegingen te genezen. Gedurende een week gaat hij lokale uitdagingen aan en helpt hij zijn gemeenschap.",
+  "summaryFrench": "Hubert Perry, un amateur de danse et de consultation de 67 ans, découvre qu'il a le pouvoir de guérir grâce à ses mouvements de danse. Tout au long d'une semaine, il relève les défis locaux et aide sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Hubert Perry started his week feeling oddly energetic as he joined a local dance class. Midway through the session, he accidentally healed a fellow dancer's sprained ankle with a graceful twirl.",
+      "mood": "energetic"
+    },
+    {
+      "wednesday": "Tuesday",
+      "text": "Inspired by yesterday's events, Hubert decided to offer his newfound abilities at a community center. He danced stealthily across the room, soothing arthritis pains as he went.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Hubert received a request from the local hospital to help calm young patients. His dance brought smiles and miraculously eased their fears.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A skeptic challenges Hubert to heal his chronic back pain. After a few motions set to soothing music, the man stood up, pain-free, leaving the room in awe.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "News of Hubert's abilities spread, and he was invited to a televised talent show. He danced with passion, showcasing his unique talent to a wider audience.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With the community behind him, Hubert organized a large outdoor dance event, raising funds for local health charities. It was a peaceful day filled with joy and unity.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his remarkable week, Hubert spent a quiet day at home, wondering how a simple joy like dancing could lead to such unexpected heroism.",
+      "mood": "eerie"
+    }
+  ],
+  "ending": "As the sun set on Sunday, Hubert realized that anyone, at any age, could become a hero in their own unique way.",
+  "moral": "The greatest impact often comes from sharing our unique gifts with the world."
+}

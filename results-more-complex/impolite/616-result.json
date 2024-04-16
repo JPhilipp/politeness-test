@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Valor: The Story of Super Mentor Kevin Kelly",
+  "summary": "Kevin Kelly discovers his superpower of enhancing others' skills and confidence, which he uses throughout the week to tackle various challenges in his community, ultimately confronting a major crisis.",
+  "summaryGerman": "Kevin Kelly entdeckt seine Superkraft, die Fähigkeiten und das Selbstvertrauen anderer zu steigern, die er im Laufe der Woche nutzt, um verschiedene Herausforderungen in seiner Gemeinde zu meistern und schließlich eine große Krise zu bewältigen.",
+  "summaryDutch": "Kevin Kelly ontdekt zijn superkracht om de vaardigheden en het zelfvertrouwen van anderen te vergroten, die hij gedurende de week gebruikt om verschillende uitdagingen in zijn gemeenschap aan te gaan en uiteindelijk een grote crisis het hoofd te bieden.",
+  "summaryFrench": "Kevin Kelly découvre son super pouvoir d'améliorer les compétences et la confiance des autres, qu'il utilise tout au long de la semaine pour relever divers défis dans sa communauté, et finalement faire face à une grande crise.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Kevin Kelly starts his week feeling energetic as he volunteers at the local high school tutoring students in mathematics, unknowingly transferring confidence to his mentees.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While mentoring a shy student, Kevin feels a strange, triumphant sensation as the student unexpectedly excels in a presentation, hinting at Kevin's unknown superpower.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Eerie vibes surround Kevin as he realizes that his students perform better just by being around him. He begins to suspect his tutoring goes beyond normal help.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Kevin tests his growing suspicion by engaging more intensely with different groups. Success rates soar, confirming his special ability to boost others’ potential.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Filled with confidence, Kevin decides to use his power more openly, leading a community workshop that ends with remarkable improvements in local businesses.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "An urgent situation arises when a fire breaks out in a nearby building. Without hesitation, Kevin coaches bystanders to safely assist, coordinating a successful evacuation.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his incredible week, Kevin feels peaceful, committed to using his gift not just in tutoring, but as a beacon of encouragement and growth for the whole community.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Super Mentor Kevin Kelly resolved to shape destiny itself, one empowered individual at a time, his legend just beginning.",
+  "moral": "Empowerment of others is the truest form of strength."
+}

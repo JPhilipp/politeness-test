@@ -1,0 +1,46 @@
+{
+  "title": "The Quilting Hero: Alice Bennett's Unusual Week",
+  "summary": "Alice Bennett, a 47-year-old quilting enthusiast and community servant, discovers her supernatural ability to mend more than just fabric, but wounds and rifts within her community, over the course of a week.",
+  "summaryGerman": "Alice Bennett, eine 47-jährige Quiltenthusiastin und Gemeindehelferin, entdeckt ihre übernatürlichen Fähigkeiten, nicht nur Stoff zu flicken, sondern auch Wunden und Risse in ihrer Gemeinde über den Verlauf einer Woche zu heilen.",
+  "summaryDutch": "Alice Bennett, een 47-jarige quiltliefhebber en gemeenschapsservant, ontdekt haar bovennatuurlijke vermogen om meer te repareren dan alleen stof, maar ook wonden en breuken binnen haar gemeenschap gedurende een week.",
+  "summaryFrench": "Alice Bennett, passionnée de quilting de 47 ans et servante de la communauté, découvre sa capacité surnaturelle à réparer bien plus que du tissu, mais aussi des blessures et des divisions au sein de sa communauté, au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Alice Bennett finds herself feeling surprisingly energetic as she sets up a quilting workshop to help raise funds for the local animal shelter. Unbeknownst to her, her needlework is about to stitch together more than just fabric.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuseday",
+      "text": "While teaching her workshop, Alice accidentally pricks her finger and the blood mysteriously heals immediately, leaving no trace. The incident leaves everyone, including Alice, a bit eerie.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Word of Alice's miraculous healing spreads, and neighbors begin asking for her help with small injuries. She feels happy to help but is overwhelmed by the sudden attention.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Conflicted about her new abilities, Alice spends a peaceful day at home, quilting and reflecting on her experiences. She decides to embrace her gift to better serve her community.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Alice's home becomes a comforting refuge for those with nowhere else to turn. Her healing hands mend physical ailments and, unexpectedly, a couple's fractured relationship.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A major conflict arises at a community meeting. Alice uses her newfound skills to mediate, leading to a triumphant resolution of long-standing disputes.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week's events, Alice feels a deep sense of purpose and peace as she joins her friends for a quilting bee, her story weaving a new pattern in the social fabric of her town.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "As the sun set on Sunday evening, Alice Bennett realized that the greatest patches are not only stitched in quilts but also in human hearts.",
+  "moral": "You never know how your skills can serve the world until you extend them beyond their usual application."
+}

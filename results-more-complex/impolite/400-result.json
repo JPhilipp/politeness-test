@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Mentor: The Story of Kevin Washington",
+  "summary": "Throughout the week, Kevin Washington, a local teacher with a passion for advising, discovers his ability to become invisible and uses this power to secretly guide and protect his community, overcoming challenges and leaving an inspiring impact on everyone he helps.",
+  "summaryGerman": "Während der Woche entdeckt Kevin Washington, ein örtlicher Lehrer mit einer Leidenschaft für Beratung, seine Fähigkeit, unsichtbar zu werden, und nutzt diese Kraft, um seine Gemeinde heimlich zu führen und zu schützen, Herausforderungen zu überwinden und einen inspirierenden Einfluss auf alle zu hinterlassen, denen er hilft.",
+  "summaryDutch": "Gedurende de week ontdekt Kevin Washington, een lokale leraar met een passie voor adviseren, zijn vermogen om onzichtbaar te worden en gebruikt deze kracht om zijn gemeenschap stiekem te leiden en te beschermen, uitdagingen te overwinnen en een inspirerende impact achter te laten op iedereen die hij helpt.",
+  "summaryFrench": "Tout au long de la semaine, Kevin Washington, un enseignant local passionné de conseil, découvre sa capacité à devenir invisible et utilise ce pouvoir pour guider et protéger secrètement sa communauté, surmonter des défis et laisser un impact inspirant sur tous ceux qu'il aide.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "While teaching a lesson on civic responsibility, Kevin Washington feels a strange shiver go through his body, which he dismisses as a draft in the room. Little does he know, this is the beginning of his transformation.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "During an after-school advising session, Kevin discovers he can become invisible. Shocked, he uses his power unintentionally to overhear a student in distress, guiding them without revealing his presence.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wedneday",
+      "text": "Kevin fine-tunes his control over his invisibility and starts to embrace his new abilities, thinking of ways he could use it to better support his students.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Incognito, Kevin prevents a bullying incident, guiding the potential bully to reflect on their actions, feel remorse, and apologize without ever showing himself.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Inspired by this week's events, Kevin decides to embrace his role as a silent protector of the school, ensuring that all students feel safe and valued without knowing the source of their guardian angel.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Kevin spends his day off reflecting on the ethical implications of his powers, reaffirming his commitment to using them only for good.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "At the local community meeting, Kevin hears praises about an unseen force helping the youth, and he secretly smiles, knowing he has found his true calling.",
+      "mood": "happy"
+    }
+  ],
+  "moral": "With great power comes not just responsibility, but also the need for discretion and a deep understanding of the impact one's actions can have on others.",
+  "ending": "Thus, Kevin learns to navigate his powers discreetly, making a silent yet profound difference in his community."
+}

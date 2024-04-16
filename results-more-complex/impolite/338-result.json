@@ -1,0 +1,46 @@
+{
+  "title": "The Green Guardian: The Adventures of Hubert Rogers",
+  "summary": "Hubert Rogers, a 63-year-old who loves gardening and instructing, discovers his powers of nature manipulation and must thwart a plot to destroy his community's green spaces within a week.",
+  "summaryGerman": "Hubert Rogers, ein 63-jähriger Hobbygärtner und Lehrer, entdeckt seine Fähigkeiten zur Naturmanipulation und muss innerhalb einer Woche eine Verschwörung zur Zerstörung der Grünflächen seiner Gemeinde vereiteln.",
+  "summaryDutch": "Hubert Rogers, een 63-jarige die van tuinieren en lesgeven houdt, ontdekt zijn krachten om de natuur te manipuleren en moet binnen een week een complot om de groene ruimtes van zijn gemeenschap te vernietigen dwarsbomen.",
+  "summaryFrench": "Hubert Rogers, un amateur de jardinage et d'enseignement âgé de 63 ans, découvre ses pouvoirs de manipulation de la nature et doit contrecarrer un complot visant à détruire les espaces verts de sa communauté en une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Hubert Rogers started his week as usual in his garden, tending to his beloved plants, when a mysterious glowing seed landed near his feet. Planting it led to the unexpected growth of a rare, sentient flower that communicated with Hubert, revealing his long-latent ability to influence and accelerate plant growth.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Empowered by his new abilities, Hubert spent Tuesday experimenting with his powers. He discovered he could also purify polluted soil. This brought a wave of happiness as he realized the potential to revitalize city parks and areas long neglected.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "As Hubert spread greenery across the city, a villainous real-estate mogul who had been planning to bulldoze the local park for a new shopping center became aware of Hubert's activities and began plotting against him.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Hubert taught a class on sustainable gardening, incorporating his insights about using powers for urban renewal. His enthusiastic and energetic approach inspired many, laying the groundwork for a community of like-minded green guardians.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The mogul tried to confront Hubert, using hired goons to intimidate him. Hubert, peaceful and steadfast, used vines and roots to peacefully trap the goons, showcasing the strength and resolve of nature.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "News of Hubert's heroics spread, and the community rallied to his side. A massive, nature-filled rally was held in the park, which effectively canceled the mogul’s plans. The day was filled with speeches, planting sessions, and environmental education.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the events of the week, Hubert felt both triumphant and peaceful. His community's green spaces were safe, and he’d sparked a broader movement towards environmental stewardship. His garden was now also more vibrant than ever.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Hubert Rogers not only saved his garden but inspired a city-wide transformation, proving that even at 63, one is never too old to become a hero.",
+  "moral": "No matter your age, your passion and actions can lead to meaningful change in the world."
+}

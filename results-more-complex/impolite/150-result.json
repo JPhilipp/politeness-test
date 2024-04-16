@@ -1,0 +1,46 @@
+{
+  "title": "Walter Rivera: The Negotiator's Week of Triumph",
+  "summary": "Walter Rivera, a 25-year-old with a passion for mentoring and negotiating, discovers his superpower of empathic persuasion. Over a week, he uses his ability to resolve conflicts and bring peace to his city, ultimately facing and overcoming a major societal challenge.",
+  "summaryGerman": "Walter Rivera, ein 25-Jähriger mit einer Leidenschaft für Mentoring und Verhandeln, entdeckt seine Superkraft der empathischen Überzeugung. Über eine Woche hinweg nutzt er seine Fähigkeit, Konflikte zu lösen und Frieden in seiner Stadt zu schaffen, und stellt sich letztendlich einer großen gesellschaftlichen Herausforderung.",
+  "summaryDutch": "Walter Rivera, een 25-jarige met een passie voor mentoring en onderhandelen, ontdekt zijn superkracht van empathische overreding. Gedurende een week gebruikt hij zijn vermogen om conflicten op te lossen en vrede te brengen in zijn stad, uiteindelijk geconfronteerd met en het overwinnen van een grote maatschappelijke uitdaging.",
+  "summaryFrench": "Walter Rivera, âgé de 25 ans et passionné par le mentorat et la négociation, découvre son superpouvoir de persuasion empathique. Au cours d'une semaine, il utilise sa capacité à résoudre les conflits et à apporter la paix dans sa ville, faisant finalement face et surmontant un grand défi sociétal.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Walter discovers his superpower when he effortlessly resolves a heated dispute at his local community center.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuuesday",
+      "text": "Empowered by his newfound ability, Walter mediates a challenging negotiation between two rival startups, preventing a legal battle.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Facing doubts about the ethical implications of his power, Walter spends a day reflecting on his responsibilities.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Reinvigorated, Walter helps reconnect estranged family members, realizing the positive impact he can have.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "News of his deeds spreads, and Walter is asked to intervene in a city-wide dispute that threatens peace.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Using all his skills, Walter successfully negotiates a truce that is celebrated across the community.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Walter commits to mentoring others in negotiation and empathy, aspiring to foster a generation of peacemakers.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus, Walter Rivera learned that true power lies not merely in strength, but in understanding and uniting people.",
+  "moral": "The greatest strength lies in the power of peace and understanding."
+}

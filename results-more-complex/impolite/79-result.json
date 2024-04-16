@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Heroism of Kevin Hayes",
+  "summary": "At age 70, Kevin Hayes discovers his latent superpowers during a seemingly ordinary week, using his abilities to make his community a better place while pursuing his hobbies of painting and consulting.",
+  "summaryGerman": "Im Alter von 70 Jahren entdeckt Kevin Hayes seine verborgenen Superkräfte während einer scheinbar gewöhnlichen Woche und nutzt seine Fähigkeiten, um seine Gemeinde zu verbessern, während er seinen Hobbys Malen und Beraten nachgeht.",
+  "summaryDutch": "Op 70-jarige leeftijd ontdekt Kevin Hayes zijn latente superkrachten tijdens een ogenschijnlijk gewone week en gebruikt hij zijn vaardigheden om zijn gemeenschap te verbeteren terwijl hij zijn hobby's van schilderen en advies geven voortzet.",
+  "summaryFrench": "À l'âge de 70 ans, Kevin Hayes découvre ses super-pouvoirs latents au cours d'une semaine apparemment ordinaire, utilisant ses capacités pour améliorer sa communauté tout en poursuivant ses hobbies de peinture et de conseil.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Kevin discovers he can manipulate colors with his mind while painting a landscape, which leaves him feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Inspired, Kevin uses his new skill to visually enhance a local park, making both the elderly and children feel happy and energetic.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesady",
+      "text": "A mysterious figure notices Kevin's powers, casting a shadow over his day. Kevin feels an eerie sense of being watched.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The figure confronts Kevin, revealing a shared past. The tension turns romantic as the figure turns out to be an old flame with similar abilities.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Together, they decide to use their powers for greater communal benefit, creating large murals around the city, bringing about an epic aura of unity.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a consulting session, Kevin advises a major company on creative presentation, subtly integrating his powers, which makes the session incredibly successful and leaves him feeling proud and peaceful.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ending the week, Kevin and his companion host an art show of the murals to fundraise for local charities, making the day feel happily concluded.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Kevin Hayes looked back at the week gone by, content with the colors he'd spread not just on canvas, but in life itself.",
+  "moral": "It's never too late to discover your true potential and make a positive impact."
+}

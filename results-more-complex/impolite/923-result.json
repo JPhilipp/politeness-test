@@ -1,0 +1,46 @@
+{
+  "title": "Ursula Howard: The Symphony of Justice",
+  "summary": "A 70-year-old superhero, Ursula Howard, uses her unique powers linked to art and music to tackle and solve a series of mysterious disturbances in her town over one week.",
+  "summaryGerman": "Eine 70-jährige Superheldin, Ursula Howard, nutzt ihre einzigartigen Fähigkeiten, die mit Kunst und Musik verbunden sind, um eine Reihe von mysteriösen Störungen in ihrer Stadt innerhalb einer Woche zu bekämpfen und zu lösen.",
+  "summaryDutch": "Een 70-jarige superheldin, Ursula Howard, gebruikt haar unieke krachten die verbonden zijn met kunst en muziek om een reeks mysterieuze verstoringen in haar stad gedurende een week aan te pakken en op te lossen.",
+  "summaryFrench": "Une super-héroïne de 70 ans, Ursula Howard, utilise ses pouvoirs uniques liés à l'art et à la musique pour s'attaquer et résoudre une série de perturbations mystérieuses dans sa ville sur une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ursula starts her week sensing an eerie disturbance at the local park. She uses her ability to conduct natural elements, calming a windstorm with her conductor's baton.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesdsay",
+      "text": "Alerted by strange vibrations, Ursula discovers graffiti creatures animated by dark energy at the school walls. With her sketches, she draws barriers that trap the creatures, gradually dissipating their energy.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Midweek, Ursula holds a mini-concert in the town square, using her melodies to soothe unrested spirits inadvertently awakened by town renovations, restoring peace once more.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Ursula encounters young musicians challenged by a magical, corrupting force in their instruments. With skillful conducting, she redirects the music’s flow, purifying the instruments.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A suspicious silence envelops the town library. Ursula sketches light-infused characters from books, who scout the building and dispel a lurking, knowledge-thirsty shadow.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "An old rival tries to disrupt the city’s major concert. Ursula counters with a powerful orchestral performance that turns the rival’s discord into harmony, winning over hearts.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ending her week, Ursula holds a grand finale concert drawing attendees from neighboring towns, showcasing the protective power of art and unity in her community.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As the notes faded into the sunset, Ursula Howard smiled, knowing her town was safe for another melody.",
+  "moral": "Art and harmony can conquer chaos and bring communities together."
+}

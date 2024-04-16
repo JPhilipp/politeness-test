@@ -1,0 +1,46 @@
+{
+  "title": "The Astounding Adventures of Heidi Bennett: Guardian of Knowledge",
+  "summary": "Heidi Bennett, a 21-year-old tutor, discovers her unique ability to imbue wisdom with a touch, using it to combat ignorance and inspire her city's youth over the course of an extraordinary week.",
+  "summaryGerman": "Heidi Bennett, eine 21-jährige Nachhilfelehrerin, entdeckt ihre einzigartige Fähigkeit, Weisheit durch Berührung zu vermitteln, und nutzt sie, um Unwissenheit zu bekämpfen und die Jugend ihrer Stadt im Laufe einer außergewöhnlichen Woche zu inspirieren.",
+  "summaryDutch": "Heidi Bennett, een 21-jarige tutor, ontdekt haar unieke vermogen om wijsheid met een aanraking over te dragen, en gebruikt het om onwetendheid te bestrijden en de jeugd van haar stad te inspireren gedurende een buitengewone week.",
+  "summaryFrench": "Heidi Bennett, une tutrice de 21 ans, découvre sa capacité unique à insuffler la sagesse par le toucher, utilisant ce pouvoir pour combattre l'ignorance et inspirer les jeunes de sa ville au cours d'une semaine extraordinaire.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Discovering her unusual power after accidentally enlightening a struggling student with a touch, Heidi feels an energetic surge to use her gift for greater good.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Heidi practices her newfound ability on her friends, spreading knowledge and solving complex problems instantly, feeling triumphant in her success.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Word spreads of Heidi's powers, and she is approached by a mysterious figure who warns her of the responsibility her powers hold, casting an eerie tone to her day.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thusday",
+      "text": "Heidi resolves to refine her skills at a local school, using her abilities to help students overcome educational barriers, feeling deeply peaceful as she witnesses their progress.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A former skeptic publicly challenges Heidi’s abilities, leading to a dramatic demonstration that leaves the audience awestruck and validates Heidi as a true hero.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Heidi’s story inspires a romantic subplot when a fellow educator deeply moved by her dedication expresses his admiration and support.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Heidi feels contented and ready to face new challenges, realizing she has truly made a difference.",
+      "mood": "happy"
+    }
+  ],
+  "moral": "With great power comes great responsibility; use your abilities to uplift others.",
+  "ending": "Thus, Heidi Bennett continued her journey, forever altering lives with just a touch."
+}

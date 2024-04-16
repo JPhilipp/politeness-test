@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Ling Howard, the Compassionate Hero",
+  "summary": "Ling Howard, a 76-year-old preacher, discovers his power to heal and inspire through acts of service, culminating in saving his community from despair.",
+  "summaryGerman": "Ling Howard, ein 76-jähriger Prediger, entdeckt seine Fähigkeit zu heilen und durch Dienstakte zu inspirieren und rettet seine Gemeinde vor Verzweiflung.",
+  "summaryDutch": "Ling Howard, een 76-jarige prediker, ontdekt zijn kracht om te genezen en te inspireren door daden van dienstbaarheid, wat uitmondt in het redden van zijn gemeenschap van wanhoop.",
+  "summaryFrench": "Ling Howard, un prédicateur de 76 ans, découvre son pouvoir de guérir et d'inspirer par des actes de service, aboutissant à sauver sa communauté du désespoir.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Howard begins his week at the local community center, offering guidance and solace to the troubled youth. His intuitive words soothe a particularly distressed teenager, revealing Ling's latent healing abilities.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Ling visits a neighboring town and volunteers at a food bank. There, his simple yet heartfelt preachings inspire others to volunteer, multiplying the day's efforts and feeding more families than ever.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "An eerie feeling overwhelms Ling when he notices unusual despondency at the local park. He spends the day providing counsel and companionship to the lonely, subtly invoking his newfound powers to uplift their spirits.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thurday",
+      "text": "In his community, Ling holds a sermon that unexpectedly draws a huge crowd. His words seem imbued with a special energy, invigorating the community's resolve to support each other in tough times.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "During his morning walk, Ling stumbles upon a small but intense protest over local issues. Through his calming presence and diplomatic speech, he helps resolve the conflict, restoring peace in the neighborhood.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Ling hosts a community workshop on the importance of service and caring for one another. The session proves so powerful that it leaves participants motivated and eager to spread kindness.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Heroically, Ling orchestrates a large charity event that raises significant funds to improve local facilities. His week of selfless acts culminates in a celebration of community spirit and collective achievement.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus, through a blend of wisdom and compassion, Ling Howard transformed his community, one soul at a time.",
+  "moral": "Even the smallest acts of service can lead to momentous change when carried out with love and dedication."
+}

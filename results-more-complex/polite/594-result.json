@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Superhero Hubert Coleman: Defender of Peace",
+  "summary": "Hubert Coleman, a 76-year-old retired professor with a passion for baking, discovers his ability to control time during a local baking competition. Throughout the week, he uses his powers to resolve community conflicts and inspire his neighbors, proving that heroism knows no age.",
+  "summaryGerman": "Hubert Coleman, ein 76-jähriger pensionierter Professor mit einer Leidenschaft für das Backen, entdeckt während eines örtlichen Backwettbewerbs seine Fähigkeit, die Zeit zu kontrollieren. Während der Woche nutzt er seine Kräfte, um Gemeinschaftskonflikte zu lösen und seine Nachbarn zu inspirieren, was beweist, dass Heldentum kein Alter kennt.",
+  "summaryDutch": "Hubert Coleman, een 76-jarige gepensioneerde professor met een passie voor bakken, ontdekt zijn vermogen om de tijd te beheersen tijdens een lokale bakwedstrijd. Gedurende de week gebruikt hij zijn krachten om gemeenschapsconflicten op te lossen en zijn buren te inspireren, wat bewijst dat heldendom geen leeftijd kent.",
+  "summaryFrench": "Hubert Coleman, un professeur à la retraite de 76 ans passionné de pâtisserie, découvre sa capacité à contrôler le temps lors d'un concours de pâtisserie local. Tout au long de la semaine, il utilise ses pouvoirs pour résoudre les conflits communautaires et inspirer ses voisins, prouvant que l'héroïsme ne connaît pas d'âge.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Hubert Coleman discovers his time-control powers when his sourdough starter instantly ferments, surprising everyone at the baking competition.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Using his newfound abilities, Hubert resolves a long-standing feud between neighbors over a boundary dispute, turning anger into peace.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wedenesday",
+      "text": "Hubert offers a lecture on conflict resolution at the community center, subtly using his powers to enhance understanding among the attendees.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Feeling nostalgic, Hubert bakes cookies shaped like clocks for a local school, teaching children about time and patience.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A mysterious figure challenges Hubert, sensing his powers. After a brief confrontation, Hubert's wisdom convinces the challenger to turn over a new leaf.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Hubert helps organize a block party, bringing together diverse communities with food and fun, all while subtly ensuring perfect weather.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Hubert feels a deep satisfaction in using his powers for good, realizing that true heroism is everyday kindness.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "And so, Hubert Coleman continued to live out his days as a quiet hero, proving that superpowers, like good bread, only get better with time.",
+  "moral": "No matter the age, one's capacity for making a difference in the world never diminishes."
+}

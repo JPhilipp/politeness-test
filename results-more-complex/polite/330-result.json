@@ -1,0 +1,46 @@
+{
+  "title": "The Triumphant Week of Pit Watson",
+  "summary": "At 70, Pit Watson discovers his latent abilities to manipulate sound and trains hard, ultimately using his powers to save his town from disaster.",
+  "summaryGerman": "Mit 70 entdeckt Pit Watson seine verborgenen Fähigkeiten, Klänge zu manipulieren. Er trainiert intensiv und nutzt seine Kräfte schließlich, um seine Stadt vor einer Katastrophe zu retten.",
+  "summaryDutch": "Op 70-jarige leeftijd ontdekt Pit Watson zijn verborgen vaardigheden om geluid te manipuleren en traint hard om uiteindelijk zijn stad te redden van een ramp.",
+  "summaryFrench": "À 70 ans, Pit Watson découvre ses capacités latentes à manipuler le son et s'entraîne dur, utilisant finalement ses pouvoirs pour sauver sa ville d'une catastrophe.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Pit Watson starts the week feeling an unusual buzz in his ears while arranging music, igniting curiosity about his new sensations.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "During his morning training, Pit inadvertently shatters a glass with a high-pitched note, realizing his ability to manipulate sound frequencies.",
+      "mood": "surprised"
+    },
+    {
+      "weekday": "Wenesday",
+      "text": "With determination, Pit practices isolating different sound waves, growing more adept and feeling an energetic rise in his abilities.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Pit confides in a close friend about his powers; they spend the afternoon experimenting and mapping out the extent of his abilities.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Feeling confident, Pit performs at a local event, subtly using his powers to enhance the music, thrilling the audience unknowingly.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A sudden storm threatens the town’s safety. Pit uses his sound manipulation to divert and disperse the threatening clouds, saving his community.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The town, peaceful again, praises the mysterious intervention. Pit smiles quietly, knowing his week of discovery has forever changed his life.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "In the quiet afterglow of heroism, Pit realized that sometimes, the greatest powers come to us when we least expect them and are most ready to receive.",
+  "moral": "No matter the age, it is never too late to discover new aspects of oneself and rise to new challenges."
+}

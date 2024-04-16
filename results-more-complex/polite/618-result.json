@@ -1,0 +1,46 @@
+{
+  "title": "Grace Thompson: The Negotiator's Week of Heroism",
+  "summary": "Grace Thompson, a 48-year-old hobbyist in negotiation and tutoring, discovers her unique ability to negotiate peace among supernatural beings, saving her city from an imminent threat over the course of a week.",
+  "summaryGerman": "Grace Thompson, eine 48-jährige Hobbyistin in Verhandlung und Nachhilfe, entdeckt ihre einzigartige Fähigkeit, Frieden zwischen übernatürlichen Wesen zu verhandeln und ihre Stadt im Laufe einer Woche vor einer drohenden Bedrohung zu retten.",
+  "summaryDutch": "Grace Thompson, een 48-jarige hobbyist in onderhandeling en bijles, ontdekt haar unieke vermogen om vrede te onderhandelen tussen bovennatuurlijke wezens, waardoor ze haar stad over de loop van een week redt van een dreigende dreiging.",
+  "summaryFrench": "Grace Thompson, une passionnée de négociation et de tutorat de 48 ans, découvre sa capacité unique à négocier la paix entre les êtres surnaturels, sauvant ainsi sa ville d'une menace imminente au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Grace Thompson starts her week with a strange encounter. During a tutoring session, she meets a student who claims to be a mediator for supernatural entities. Intrigued and energetic, Grace listens as she's told about her potential role in an upcoming supernatural negotiation.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuedsay",
+      "text": "Grace's curiosity turns into action. She agrees to meet with these entities under a full moon. At the meeting, she successfully mediates a dispute between warring factions of night creatures, feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "After her success, news spreads, and Grace is summoned to resolve a conflict among spirits haunting a local school. Her knack for negotiation makes this a peaceful affair.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Grace encounters a setback when a group of disgruntled trolls refuse her help. Although she feels sad about the rejection, she learns that not all conflicts are within her power to resolve.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Redeeming herself, Grace successfully convinces the trolls by outlining mutual benefits. Her successful negotiation lets the city breathe a sigh of relief, creating an eerie calm.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Inspired by her week's adventures, Grace organizes a town hall meeting to share her experiences and educate others about these supernatural beings, feeling happy and romantic about her community coming together.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Grace reflects on her week, feeling a deep sense of fulfillment. She realizes that her skills in negotiation and tutoring have prepared her well for this unexpected role as a peacekeeper between worlds.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And so, Grace Thompson's ordinary life transformed into an extraordinary tale of peace and understanding between worlds.",
+  "moral": "Every skill we possess can become our greatest strength in unexpected ways."
+}

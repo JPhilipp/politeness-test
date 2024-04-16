@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Pit Alexander: The Consulting Crusader",
+  "summary": "Pit Alexander, a 46-year-old consultant and baker, discovers his ability to control time and uses it to combat corporate injustice and bake perfection, all within one transformative week.",
+  "summaryGerman": "Pit Alexander, ein 46-jähriger Berater und Bäcker, entdeckt seine Fähigkeit, die Zeit zu kontrollieren, und nutzt sie, um Unternehmensungerechtigkeiten zu bekämpfen und perfekte Backwaren zu kreieren, alles innerhalb einer transformativen Woche.",
+  "summaryDutch": "Pit Alexander, een 46-jarige consultant en bakker, ontdekt zijn vermogen om tijd te beheersen en gebruikt dit om bedrijfsonrecht te bestrijden en perfectie te bakken, allemaal binnen één transformerende week.",
+  "summaryFrench": "Pit Alexander, un consultant et boulanger de 46 ans, découvre sa capacité à contrôler le temps et l'utilise pour combattre l'injustice d'entreprise et faire de la pâtisserie parfaite, le tout en une semaine transformatrice.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Pit Alexander wakes up feeling an odd sense of control over time after a strange dream involving a mystic baker's clock. He goes about his day, consulting for a struggling bakery, and suddenly freezes time to avert a disastrous mixing error.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Empowered by his new skills, Pit uses his morning to experiment with time manipulation, discovering he can reverse small moments. He spends the afternoon perfecting a sourdough recipe in mere seconds.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Pit helps a startup bakery expand rapidly by manipulating time to speed up their setup process. He feels the thrill of using his powers for tangible good, boosting not only business but also employee morale.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A rival consultant grows suspicious of Pit's uncanny success. Pit, feeling a mix of stress and excitement, carefully balances his normal duties with his secret time-bending activities.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Pit confronts the rival consultant, who challenges him to a bake-off. Using his powers subtly, Pit creates a masterpiece of pastry that leaves the rival in awe and a bit of fear.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "As news of his miraculous results spreads, Pit resolves to teach his methods (without revealing his powers) to other bakers, fostering a community focused on craftsmanship and innovation.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Pit feels a deep satisfaction and realizes the potential for his powers to improve not just baking, but life. He bakes a humble pie - literally - enjoying the simple pleasure of creating.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Pit Alexander continues to combine his passions for consultancy and baking, guarded yet generous with his mysterious gift, always ready to rise to the occasion.",
+  "moral": "Embrace your unique gifts; they can transform your world in unexpected ways."
+}

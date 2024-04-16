@@ -1,0 +1,46 @@
+{
+  "title": "The Spectacular Week of Oscar Nelson, Urban Hero",
+  "summary": "Oscar Nelson, a 45-year-old instructor with a passion for production, discovers his power to manipulate time during a week of extraordinary events, transforming his city for the better.",
+  "summaryGerman": "Oscar Nelson, ein 45-jähriger Lehrer mit einer Leidenschaft für Produktion, entdeckt während einer Woche außergewöhnlicher Ereignisse seine Fähigkeit, die Zeit zu manipulieren und verwandelt seine Stadt zum Besseren.",
+  "summaryDutch": "Oscar Nelson, een 45-jarige instructeur met een passie voor productie, ontdekt zijn kracht om tijdens een week van buitengewone gebeurtenissen de tijd te manipuleren, waardoor hij zijn stad ten goede verandert.",
+  "summaryFrench": "Oscar Nelson, un instructeur de 45 ans passionné de production, découvre son pouvoir de manipuler le temps lors d'une semaine d'événements extraordinaires, transformant sa ville pour le mieux.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar Nelson, while preparing for his usual production workshop, accidentally freezes time. After the initial shock, he explores his new power, realizing the potential it holds.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Oscar uses his time manipulation to avert a subway accident, becoming a silent guardian of the city. His confidence in his new abilities grows.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "Experimenting further, Oscar learns he can also accelerate time. He helps a local community garden grow overnight, which brings joy to the neighborhood.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Confronted by a villain who senses his powers, Oscar finds himself in a battle where time manipulation is key to victory.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "After defeating the villain, news of Oscar’s heroic deeds begin to spread. He feels the weight of his responsibility but is ready to embrace his role.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Oscar spends the day mentoring young aspiring heroes, using his experiences to instruct and inspire.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Oscar realizes that with great power comes great responsibility. He vows to protect his city, balancing his life with his new role.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Oscar Nelson, once an ordinary instructor, embraced his destiny as a protector of time and city, forever changing his fate and the lives around him.",
+  "moral": "Every ordinary person has the potential to do extraordinary good when given the chance."
+}

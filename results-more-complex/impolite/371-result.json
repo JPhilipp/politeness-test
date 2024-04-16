@@ -1,0 +1,46 @@
+{
+  "title": "The Super Sage: The Adventures of Charlie Cox",
+  "summary": "Over one week, 76-year-old Charlie Cox, an avid adviser and coach, mysteriously gains superpowers, helping his community and learning about his new abilities.",
+  "summaryGerman": "Über eine Woche hinweg gewinnt der 76-jährige Charlie Cox, ein begeisterter Berater und Trainer, auf mysteriöse Weise Superkräfte, hilft seiner Gemeinde und lernt über seine neuen Fähigkeiten.",
+  "summaryDutch": "Gedurende één week krijgt de 76-jarige Charlie Cox, een fervent adviseur en coach, op mysterieuze wijze superkrachten, helpt hij zijn gemeenschap en leert hij over zijn nieuwe vaardigheden.",
+  "summaryFrench": "Pendant une semaine, Charlie Cox, 76 ans, conseiller et coach passionné, acquiert mystérieusement des superpouvoirs, aide sa communauté et apprend à connaître ses nouvelles capacités.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Charlie finds an ancient artifact while gardening that grants him the power to read minds. He is baffled but intrigued.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "He playfully tests his powers by helping neighbors resolve hidden conflicts during a community meeting, feeling surprisingly youthful.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "Charlie's powers deepen; he can now also see brief glimpses of the future. He prevents a small accident at the local park, saving a child.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "With rumors spreading, Charlie grows cautious. He spends the day coaching a young basketball team, keeping his powers under wraps.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Charlie's heroism becomes more needed as a storm threatens the town. He uses his foresight to organize effective evacuations.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Feeling the toll of his age and abilities, Charlie mentors a young girl about leadership, hinting at passing on his knowledge and power.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Charlie decides to establish a secret society of heroes, continuing to advise and protect his community quietly.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As the sun set, Charlie Cox smiled, ready for whatever came next, his garden ever so radiant.",
+  "moral": "Even in our later years, we can discover new roles and impact the world in unexpected ways."
+}

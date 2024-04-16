@@ -1,0 +1,46 @@
+{
+  "title": "The Enlightening Adventures of Xavier Phillips",
+  "summary": "Xavier Phillips, a 27-year-old tutor, discovers his superpower of influencing knowledge. Throughout the week, he balances educating, facing challenges, and ultimately confronts a villain, saving his city with the power of enlightenment.",
+  "summaryGerman": "Xavier Phillips, ein 27-jähriger Nachhilfelehrer, entdeckt seine Superkraft, Wissen zu beeinflussen. Im Laufe der Woche balanciert er Bildung, steht vor Herausforderungen und konfrontiert schließlich einen Bösewicht, indem er seine Stadt mit der Kraft der Aufklärung rettet.",
+  "summaryDutch": "Xavier Phillips, een 27-jarige tutor, ontdekt zijn superkracht om kennis te beïnvloeden. Gedurende de week balanceert hij het onderwijzen, staat hij voor uitdagingen en uiteindelijk confronteert hij een schurk, waardoor hij zijn stad redt met de kracht van verlichting.",
+  "summaryFrench": "Xavier Phillips, un tuteur de 27 ans, découvre son superpouvoir d'influencer le savoir. Tout au long de la semaine, il équilibre l'éducation, fait face à des défis et finit par confronter un vilain, sauvant sa ville avec le pouvoir de l'illumination.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "mood": "energetic",
+      "text": "Xavier wakes up feeling unusually vivid; today he discovers his ability to instill knowledge instantly in others. He experiments with this power during his tutoring sessions, seeing incredible results."
+    },
+    {
+      "weekday": "Tuesday",
+      "mood": "triumphant",
+      "text": "Excited by the potential, Xavier spends the day using his powers to help struggling students excel. Their success stories fill him with a deep sense of accomplishment."
+    },
+    {
+      "weekday": "Wednsday",
+      "mood": "eerie",
+      "text": "While exploring the limits of his abilities, Xavier encounters a shadowy figure who seems to absorb knowledge. This meeting leaves him unsettled, but more determined to understand his power."
+    },
+    {
+      "weekday": "Thursday",
+      "mood": "romantic",
+      "text": "During a tutoring session at the library, Xavier meets Lila, a fellow educator, and feels an instant connection. They discuss the potential of knowledge and education while sharing personal insights."
+    },
+    {
+      "weekday": "Friday",
+      "mood": "sad",
+      "text": "Xavier feels overwhelmed by the responsibility of his powers after witnessing the dark side of his new foe, who uses knowledge for manipulation."
+    },
+    {
+      "weekday": "Saturday",
+      "mood": "epic",
+      "text": "Determined to stop the villainous mind absorber, Xavier prepares for a confrontation. He gathers all his courage, backed by his students and Lila, to face the challenger in a battle of wits."
+    },
+    {
+      "weekday": "Sunday",
+      "mood": "peaceful",
+      "text": "After defeating the nemesis, Xavier feels a serene pride. He spends the day reflecting on his journey and the impact of using one's gifts for the greater good."
+    }
+  ],
+  "ending": "As the sun set on a peaceful Sunday, Xavier realized that every piece of knowledge shared lights up a part of the world.",
+  "moral": "The true power of knowledge lies in how we use it to uplift others."
+}

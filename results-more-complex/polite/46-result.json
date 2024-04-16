@@ -1,0 +1,46 @@
+{
+  "title": "The Embroidering Empowerment of Ling Richardson",
+  "summary": "Ling Richardson, a 41-year-old consultant with a passion for embroidery, discovers her superhero powers after a mysterious meteor impacts near her home, leading her to a week of adventures that fundamentally change her community and herself.",
+  "summaryGerman": "Ling Richardson, eine 41-jährige Beraterin mit einer Leidenschaft für Stickerei, entdeckt ihre Superkräfte, nachdem ein mysteriöser Meteor in der Nähe ihres Hauses einschlägt, was zu einer Woche voller Abenteuer führt, die ihre Gemeinde und sie selbst grundlegend verändert.",
+  "summaryDutch": "Ling Richardson, een 41-jarige consultant met een passie voor borduren, ontdekt haar superkrachten nadat een mysterieuze meteoriet dicht bij haar huis inslaat, wat leidt tot een week van avonturen die haar gemeenschap en haarzelf fundamenteel veranderen.",
+  "summaryFrench": "Ling Richardson, une consultante de 41 ans passionnée de broderie, découvre ses super-pouvoirs après qu'un météore mystérieux tombe près de chez elle, ce qui la mène à une semaine d'aventures qui changent fondamentalement sa communauté et elle-même.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Richardson's week starts with an unusual flash in the sky while she is embroidering. A meteor crashes into her backyard, and upon investigating it, she feels a surge of energy.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "After a restless night, Ling discovers she can manipulate textiles with her mind. She begins practicing her newfound powers, initially controlling threads to perform intricate embroidery without hands.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wensday",
+      "text": "Ling saves a local fashion show from disaster by secretly using her powers to repair torn outfits backstage, earning the gratitude of the designers and models.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Inspired, Ling decides to use her abilities more publicly, starting by creating unique, sustainable clothes for the homeless, providing both warmth and dignity.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Her acts of kindness soon catch media attention, bringing both supporters and skeptics. Ling feels the weight of her new role and responsibilities.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "As public opinion polarizes, Ling organizes a large-scale event, where she demonstrates her power to solve practical problems through creative textile manipulation, winning over many doubters.",
+      "mood": "triumpant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her journey, Ling spends the day peacefully embroidering, realizing she has woven not only textiles but also a stronger community.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "In just one week, Ling Richardson turned a strange celestial event into a beacon of change, inspiring her community with the quiet strength of threads.",
+  "moral": "Even the smallest threads can connect to create a strong fabric, mirroring how small actions can weave a resilient community."
+}

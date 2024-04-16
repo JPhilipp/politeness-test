@@ -1,0 +1,46 @@
+{
+  "title": "The Ecliptic Adventures of Yvonne Harris",
+  "summary": "Over one week, Yvonne Harris discovers her ability to manipulate light and uses her power to save her city from looming darkness, all while balancing her passions for photography and teaching.",
+  "summaryGerman": "Über eine Woche hinweg entdeckt Yvonne Harris ihre Fähigkeit, Licht zu manipulieren und nutzt ihre Kraft, um ihre Stadt vor der drohenden Dunkelheit zu retten, während sie gleichzeitig ihre Leidenschaften für Fotografie und Lehre ausbalanciert.",
+  "summaryDutch": "Gedurende één week ontdekt Yvonne Harris haar vermogen om licht te manipuleren en gebruikt ze haar kracht om haar stad te redden van de dreigende duisternis, terwijl ze haar passies voor fotografie en onderwijs in evenwicht houdt.",
+  "summaryFrench": "Pendant une semaine, Yvonne Harris découvre sa capacité à manipuler la lumière et utilise son pouvoir pour sauver sa ville de l'obscurité imminente, tout en équilibrant ses passions pour la photographie et l'enseignement.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Yvonne discovers her ability to bend light while photographing a sunrise, accidentally creating stunning visual effects.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "She experiments more with her powers, helping students visualize scientific concepts with shimmering light displays.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesady",
+      "text": "A mysterious figure shadows Yvonne, intrigued by her unique abilities.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Testing her limits, Yvonne stops a burglar by blinding him with a flash of light, realizing her powers can provide protection.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The mysterious figure approaches, revealing himself as a mentor who also manipulates light, offering guidance.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Her city faces a blackout; Yvonne uses her powers to light up areas, guiding people to safety and averting chaos.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "As the city recovers, Yvonne reflects on how she can blend her new abilities with her love for photography and teaching to inspire others.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Through the lenses of her camera and her newfound powers, Yvonne captured not just images, but the light of hope.",
+  "moral": "Embrace your unique talents; they may shine light on paths unknown."
+}

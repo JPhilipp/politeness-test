@@ -1,0 +1,46 @@
+{
+  "title": "The Crocheting Crusader: Frank Brooks",
+  "summary": "Frank Brooks, a 63-year-old retired superhero, uses his crocheting skills to mentor youths and combat crime in his community, finding a renewed sense of purpose throughout one transformative week.",
+  "summaryGerman": "Frank Brooks, ein 63-jähriger pensionierter Superheld, nutzt seine Häkelfähigkeiten, um Jugendliche zu betreuen und in seiner Gemeinde Verbrechen zu bekämpfen, wobei er im Laufe einer transformativen Woche einen neuen Sinn findet.",
+  "summaryDutch": "Frank Brooks, een 63-jarige gepensioneerde superheld, gebruikt zijn haakvaardigheden om jongeren te begeleiden en misdaad in zijn gemeenschap te bestrijden, en vindt gedurende één transformerende week een hernieuwd gevoel van doel.",
+  "summaryFrench": "Frank Brooks, un super-héros à la retraite de 63 ans, utilise ses compétences en crochet pour encadrer les jeunes et combattre le crime dans sa communauté, trouvant un sens renouvelé tout au long d'une semaine transformatrice.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank Brooks spends his morning mentoring at the local community center, teaching teenagers how to crochet as a method of mindfulness and creativity.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While crocheting a colorful blanket, Frank overhears a plan to vandalize the community center. He decides to watch over the center at night.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Frank thwarts the vandalism attempt using his old superhero skills combined with some quick crochet entangling techniques, saving the center.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursay",
+      "text": "Word of Frank's heroic deeds spreads through the community. He feels energized by the support and spends the day creating more crochet patterns.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Inspired by recent events, Frank starts a crochet club for the community where stories and skills are shared, strengthening community bonds.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "As the crochet club meets for the first time, Frank delivers a heartfelt speech about the power of unity and the impact of sharing skills for a common good.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Frank realizes how his passions for crochet and mentoring have created a unique avenue for fighting crime and fostering community.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "In the threads of yarn and fabric of the community, Frank found his true calling.",
+  "moral": "Your unique talents can serve greater purposes in ways you might never expect."
+}

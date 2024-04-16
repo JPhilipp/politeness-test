@@ -1,0 +1,46 @@
+{
+  "title": "The Harmonic Guardian: The Week of Oscar Lopez",
+  "summary": "Oscar Lopez discovers his power to control emotions with music, using it to confront a looming evil and restore harmony to his city over the course of one week.",
+  "summaryGerman": "Oscar Lopez entdeckt seine Fähigkeit, mit Musik Emotionen zu kontrollieren, setzt sie ein, um einem drohenden Übel zu begegnen und bringt innerhalb einer Woche Harmonie in seine Stadt zurück.",
+  "summaryDutch": "Oscar Lopez ontdekt zijn kracht om emoties met muziek te beheersen, gebruikt dit om het kwaad te confronteren en herstelt de harmonie in zijn stad gedurende een week.",
+  "summaryFrench": "Oscar Lopez découvre son pouvoir de contrôler les émotions avec la musique, l'utilisant pour affronter un mal imminent et restaurer l'harmonie dans sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar Lopez, a professional organizer and music composer, wakes up to a city disrupted by inexplicable sadness. Feeling strangely energetic, he writes a melody that inexplicably lifts the spirits of those who hear it.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "News of Oscar's uplifting music spreads. People come from all over to listen, and he starts to realize his compositions can influence emotions. Feeling triumphant, he plans a public concert.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesady",
+      "text": "During a rehearsal, Oscar feels an eerie presence. Investigating, he discovers a dark entity feeding on the city's despair. Determined, he composes a powerful symphony.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Oscar performs his new symphony. The music resonates throughout the city, disrupting the entity’s influence. The crowd is mesmerized, and the city’s mood begins to shift towards hope.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The entity grows weaker as Oscar's music restores joy and peace. Inspired, he dedicates the day to composing personal pieces that reflect his journey, feeling deeply peaceful.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Oscar organizes a huge concert featuring his most emotional and powerful pieces. The event is a romantic celebration of resilience and love, attended by thousands, marking a new era for the city.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the past week, Oscar feels happy and content. With his newfound powers understood and embraced, he vows to protect and uplift his city through his music.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And so, Oscar Lopez became not just a hero, but a beacon of hope and joy through the universal language of music.",
+  "moral": "Music has the power to heal and unite, transcending all barriers and touching every soul."
+}

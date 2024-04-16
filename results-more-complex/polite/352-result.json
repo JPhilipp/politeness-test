@@ -1,0 +1,46 @@
+{
+  "title": "The Persuasive Power of Trent Wang",
+  "summary": "Trent Wang, a 78-year-old superhero with the power of persuasion, takes on a mission to thwart a city-threatening plan. Throughout a week, he uses his unique ability to influence, rallying allies and outsmarting enemies to save the city from disaster.",
+  "summaryGerman": "Trent Wang, ein 78-jähriger Superheld mit der Kraft der Überzeugung, nimmt die Mission an, einen stadtbedrohenden Plan zu vereiteln. Über eine Woche hinweg nutzt er seine einzigartige Fähigkeit zu beeinflussen, verbündet sich und überlistet Feinde, um die Stadt vor einer Katastrophe zu retten.",
+  "summaryDutch": "Trent Wang, een 78-jarige superheld met de kracht van overtuiging, neemt de missie op zich om een plan dat de stad bedreigt te dwarsbomen. Gedurende een week gebruikt hij zijn unieke vermogen om te beïnvloeden, bondgenoten te verzamelen en vijanden te slim af te zijn om de stad te redden van een ramp.",
+  "summaryFrench": "Trent Wang, un super-héros de 78 ans doté du pouvoir de persuasion, entreprend une mission pour contrecarrer un plan menaçant la ville. Tout au long d'une semaine, il utilise son habileté unique à influencer, rassemblant des alliés et déjouant les ennemis pour sauver la ville d'une catastrophe.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Trent Wang starts his week by discovering a secret plan that could bring chaos to his city. He decides to use his powers to prevent it.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Armed with determination, Trent reaches out to key influencers across the city, persuading them of the looming threat.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wenesday",
+      "text": "Using his vast network, Trent gathers crucial information about the villains' scheme, preparing for a confrontation.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Trent faces a setback as his enemies discover his plan. However, undeterred, he uses his wit to escape danger.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Trent's efforts pay off as he convinces a former adversary to switch sides, strengthening his team.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With all pieces in place, Trent leads a daring intervention to stop the disastrous plan and succeeds.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The city safe once more, Trent spends a peaceful day reflecting on his achievements and the power of words.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Trent Wang proved that even at 78, one's voice can be the mightiest tool.",
+  "moral": "Never underestimate the power of persuasion and the impact of standing up for what is right."
+}

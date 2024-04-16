@@ -1,0 +1,46 @@
+{
+  "title": "Heidi Cook: The Palette Protector",
+  "summary": "Heidi Cook, a 50-year-old with a passion for mentoring and painting, discovers her ability to bring her artworks to life and uses them to battle a week-long menace threatening her town.",
+  "summaryGerman": "Heidi Cook, eine 50-jährige mit einer Leidenschaft für Mentoring und Malerei, entdeckt ihre Fähigkeit, ihre Kunstwerke zum Leben zu erwecken und verwendet sie, um eine wochenlange Bedrohung ihrer Stadt zu bekämpfen.",
+  "summaryDutch": "Heidi Cook, een 50-jarige met een passie voor mentoring en schilderen, ontdekt haar vermogen om haar kunstwerken tot leven te brengen en gebruikt ze om een week lang een bedreiging voor haar stad te bestrijden.",
+  "summaryFrench": "Heidi Cook, une femme de 50 ans passionnée de mentorat et de peinture, découvre sa capacité à donner vie à ses œuvres d'art et les utilise pour lutter contre une menace qui pèse sur sa ville pendant une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Heidi Cook discovers her paintings can come to life during a mentoring session, which energizes her with a mix of excitement and disbelief.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tueday",
+      "text": "Using her newfound powers, Heidi animates a knight from one of her canvases to help resolve a local dispute, feeling a thrill of adventure.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Heidi spends a tranquil day training with her creations, learning to control their actions and understanding her limits.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A mysterious figure challenges Heidi, bringing an eerie tension to the town as shadows seem to move on their own.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Heidi unites with her animated heroes to protect her community, battling the strange shadows in epic clashes.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After a week of turmoil, Heidi finds time for a romantic dinner with her husband, celebrating their shared victory over the shadows.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the events, Heidi feels content knowing she can return to her peaceful life, but ready to defend her town if needed.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And so, with brush in hand and courage at heart, Heidi Cook not only painted her dreams but also protected them.",
+  "moral": "Embrace your unique talents; they might be just what the world needs."
+}

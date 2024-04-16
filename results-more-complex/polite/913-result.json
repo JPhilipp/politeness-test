@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Week of Pit Griffin, Hero Counselor",
+  "summary": "Over a week, Pit Griffin uses his counseling skills to confront and resolve a mysterious threat affecting his community, learning about his inner strength and the power of empathy.",
+  "summaryGerman": "Über eine Woche hinweg nutzt Pit Griffin seine Beratungsfähigkeiten, um eine mysteriöse Bedrohung, die seine Gemeinde betrifft, zu konfrontieren und zu lösen. Dabei lernt er seine innere Stärke und die Kraft der Empathie kennen.",
+  "summaryDutch": "Gedurende een week gebruikt Pit Griffin zijn vaardigheden in counseling om een mysterieuze dreiging die zijn gemeenschap beïnvloedt te confronteren en op te lossen, en leert hij over zijn innerlijke kracht en de kracht van empathie.",
+  "summaryFrench": "Pendant une semaine, Pit Griffin utilise ses compétences en conseil pour affronter et résoudre une menace mystérieuse affectant sa communauté, apprenant sa force intérieure et le pouvoir de l'empathie.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Pit Griffin starts his week feeling energetic, giving a motivational talk at a local community center which unexpectedly helps someone from the audience.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "An eerie mood takes over as Pit receives a series of anonymous messages hinting at a hidden danger in his town.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Confused and concerned, Pit uses his counseling sessions to subtly investigate the concerns and fears of his clients, gathering clues.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Connecting the dots, Pit grows sad realizing the threat is closer to his inner circle than he thought, affecting some of his closest clients.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Energized by determination, Pit orchestrates a community meeting to openly discuss the issues, encouraging everyone to share and support one another.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The mood is triumphant as the community band together, resolving the conflict and unveiling the anonymous messenger was actually seeking help.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Pit feels peaceful and proud of his town's resilience and unity, vowing to continue using his skills for good.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Pit Griffin realized that sometimes, the hero a community needs is the one who listens.",
+  "moral": "Empathy and communication are powerful tools for overcoming adversity."
+}

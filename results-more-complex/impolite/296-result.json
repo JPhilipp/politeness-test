@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Heroics of Jin Phillips",
+  "summary": "Jin Phillips, a 26-year-old consulting hobbyist and knitter, discovers unique powers that help save his city from a mysterious threat over the course of a week.",
+  "summaryGerman": "Jin Phillips, ein 26-jähriger Beratungsliebhaber und Stricker, entdeckt einzigartige Fähigkeiten, die dabei helfen, seine Stadt im Laufe einer Woche vor einer mysteriösen Bedrohung zu retten.",
+  "summaryDutch": "Jin Phillips, een 26-jarige hobbyist in consulting en breien, ontdekt unieke krachten die zijn stad helpen redden van een mysterieuze dreiging gedurende een week.",
+  "summaryFrench": "Jin Phillips, un amateur de consulting et de tricot de 26 ans, découvre des pouvoirs uniques qui aident à sauver sa ville d'une menace mystérieuse au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Jin Phillips starts his week as usual, consulting at a local tech startup. That evening, while knitting a scarf, he accidentally pricks his finger. The blood reacts strangely with the wool, which begins to glow, leaving Jin both intrigued and a bit eerie.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Curious about the glowing scarf, Jin experiments and finds he can manipulate the fabric's properties, changing colors and patterns at will. He feels energetic, experimenting late into the night.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wendsday",
+      "text": "Jin reveals his newfound abilities to his best friend, who suggests they could be used for good. By evening, they notice increasing reports of dark, unexplained clouds over the city. Jin decides to investigate.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Jin uses his scarf to navigate through the dark clouds, discovering a strange device causing them. He feels triumphant, disabling the device and clearing the skies.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The city celebrates the return of clear skies. Jin, now dubbed 'The Wool Warden' by the local press, feels happy and proud, realizing his powers can truly make a difference.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Jin spends a peaceful day at home, knitting and reflecting on the week's events. He starts to think of ways to use his powers for more heroic acts in the future, feeling peaceful and contemplative.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Inspired, Jin holds a community event to teach knitting, secretly passing on the joys of his hobby and subtly checking if others might share his peculiar abilities.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "As the week closes, Jin Phillips embraces his role as a new kind of superhero, proving that extraordinary capabilities can emerge from the most ordinary activities.",
+  "moral": "Great power can come from unexpected places, and everyone has the potential to be a hero."
+}

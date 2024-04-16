@@ -1,0 +1,46 @@
+{
+  "title": "The Unstoppable Linda Long: A Week of Heroic Deeds",
+  "summary": "69-year-old Linda Long, a retired coach, discovers her superpowers of enhanced wisdom and strength. Throughout one week, she uses her abilities to save her community from various threats, bringing peace and justice while connecting with residents and inspiring them.",
+  "summaryGerman": "Die 69-jährige Linda Long, eine pensionierte Trainerin, entdeckt ihre Superkräfte der erweiterten Weisheit und Stärke. Innerhalb einer Woche nutzt sie ihre Fähigkeiten, um ihre Gemeinde vor verschiedenen Bedrohungen zu retten und bringt Frieden und Gerechtigkeit, während sie sich mit den Bewohnern verbindet und sie inspiriert.",
+  "summaryDutch": "De 69-jarige Linda Long, een gepensioneerde coach, ontdekt haar superkrachten van verhoogde wijsheid en kracht. Gedurende een week gebruikt ze haar vaardigheden om haar gemeenschap te beschermen tegen verschillende bedreigingen, en brengt vrede en gerechtigheid terwijl ze contact maakt met inwoners en hen inspireert.",
+  "summaryFrench": "Linda Long, 69 ans, une coach à la retraite, découvre ses superpouvoirs d'une sagesse et d'une force accrues. Tout au long d'une semaine, elle utilise ses capacités pour sauver sa communauté de diverses menaces, apportant paix et justice tout en se connectant avec les résidents et en les inspirant.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Linda discovers her super strength while helping to move heavy equipment at her old gym. Surprised and curious, she feels energetic.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "She tests her new powers by stopping a runaway bus with her bare hands, saving dozens of lives. The community starts to notice. She's triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wenesday",
+      "text": "Linda receives mysterious hints about the source of her powers. She follows clues around town, feeling slightly eerie.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Discovering that her powers come from a hidden meteorit,e she decides to use them for good. She feels a peaceful responsibility.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A major fire breaks out. Linda coordinates the evacuation and personally rescues those trapped inside. She is a hero to all, feeling epic.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Resting at home, Linda reflects on her week. Her old friends come to visit, proud of her heroic deeds. The day is happy and filled with laughter.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Linda starts a training program for local youth, passing on her skills and values. She feels fulfilled, looking forward to more peaceful days.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And thus, Linda Long continued to inspire, proving that heroes come in all ages.",
+  "moral": "True heroism knows no age and can emerge when you least expect it."
+}

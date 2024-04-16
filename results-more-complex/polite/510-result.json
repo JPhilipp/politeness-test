@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Heroism of Yvonne Smith",
+  "summary": "Over a week, 78-year-old Yvonne Smith, transforming from a simple baker and embroiderer to a neighborhood protector, confronts a mysterious force.",
+  "summaryGerman": "Über eine Woche verwandelt sich die 78-jährige Yvonne Smith von einer einfachen Bäckerin und Stickerin zu einer Beschützerin der Nachbarschaft und stellt sich einer geheimnisvollen Kraft.",
+  "summaryDutch": "Gedurende een week transformeert de 78-jarige Yvonne Smith van een simpele bakker en borduurder naar een buurtbeschermer die een mysterieuze kracht confronteert.",
+  "summaryFrench": "Au cours d'une semaine, Yvonne Smith, 78 ans, se transforme de simple boulangère et brodeuse en protectrice du quartier, affrontant une force mystérieuse.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Yvonne Smith, while baking her signature chocolate chip cookies, notices strange flickering lights in her garden. Intrigued and a bit concerned, she decides to investigate after finishing her baking.",
+      "mood": "curious"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "The lights lead Yvonne to a hidden, radiant flower that she has never seen before in her garden. As she touches it, she feels a surge of youth and vigor flowing through her.",
+      "mood": "mysterious"
+    },
+    {
+      "weekday": "Wdnesdy",
+      "text": "Empowered by her newfound energy, Yvonne helps her neighbors carry heavy groceries and solve complex puzzles, all the while keeping her powers a secret.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A storm hits the town, and Yvonne, undaunted, uses her powers to protect her neighbors' homes from falling branches and flooding, knitting barriers from the air itself.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Curious about the limits of her abilities, Yvonne experiments with her power. She discovers she can make her embroidery animate, crafting protective charms for her neighbors.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The source of Yvonne's power—a celestial being—appears in her dreams, warning her of an upcoming battle that she must prepare for.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Yvonne faces off against a spectral entity threatening her community. Using all her skills, both domestic and magical, she manages to banish it, restoring peace to her neighborhood.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "As the week closes, Yvonne Smith, now a celebrated hero, returns to her quiet life, her heart filled with the joy of service.",
+  "moral": "No matter your age or life’s routine, there lies within everyone a hero waiting to emerge."
+}

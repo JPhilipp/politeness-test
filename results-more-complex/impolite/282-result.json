@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Frank Jones: The Influencer Baker",
+  "summary": "Frank Jones, a 44-year-old baking influencer, discovers a special flour that gives him the ability to control time. Over a week, he learns to use his powers to thwart a city-wide crisis, turning adversity into triumph.",
+  "summaryGerman": "Frank Jones, ein 44-jähriger backender Influencer, entdeckt ein spezielles Mehl, das ihm die Fähigkeit verleiht, die Zeit zu kontrollieren. Über eine Woche lernt er, seine Kräfte zu nutzen, um eine stadtweite Krise abzuwenden und Widerstände in Triumphe zu verwandeln.",
+  "summaryDutch": "Frank Jones, een 44-jarige bakinfluencer, ontdekt een speciaal meel dat hem de mogelijkheid geeft om de tijd te beheersen. Gedurende een week leert hij zijn krachten te gebruiken om een stadsbrede crisis af te wenden, tegenspoed om te zetten in triomf.",
+  "summaryFrench": "Frank Jones, un influenceur en pâtisserie de 44 ans, découvre une farine spéciale qui lui donne le pouvoir de contrôler le temps. Pendant une semaine, il apprend à utiliser ses pouvoirs pour déjouer une crise à l'échelle de la ville, transformant l'adversité en triomphe.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank Jones discovers a mysterious bag of flour in his bakery. While experimenting, he realizes it can pause time momentarily.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Excited by his newfound power, Frank tests it by stopping time to save a kitten from traffic, feeling a mix of energy and joy.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "He demonstrates his power to a close friend but struggles with controlling it precisely, leading to a melancholy day of retrospect.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thrusday",
+      "text": "A local villain learns of Frank's power and tries to steal the magical flour, creating a dramatic day of confrontation.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "After thwarting the theft, Frank is hailed as a hero. He spends the day sharing his love for baking and making special time-pausing pastries for the community.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "As the challenges grow, Frank spends a peaceful day perfecting his control over his powers, realizing the responsibility they carry.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "With the city now calm, Frank holds a large baking event where time stands still as people enjoy his delicious creations, ending the week on an epic note.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "As the sun set, Frank knew that life, much like baking, was all about the perfect timing.",
+  "moral": "With great power comes not just responsibility, but also the opportunity to make a positive difference."
+}

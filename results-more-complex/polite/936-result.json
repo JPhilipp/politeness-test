@@ -1,0 +1,46 @@
+{
+  "title": "The Embroidering Advisor: The Week Xavier Russell Became a Hero",
+  "summary": "Xavier Russell, a 59-year-old with passions for advising and embroidering, discovers his superpower of translating thoughts into intricate patterns, using them to communicate, solve conflicts, and inspire change within his community over the course of one week.",
+  "summaryGerman": "Xavier Russell, ein 59-jähriger, dessen Leidenschaften Beratung und Stickerei sind, entdeckt seine Superkraft, Gedanken in komplexe Muster umzusetzen, die er nutzt, um zu kommunizieren, Konflikte zu lösen und innerhalb einer Woche Veränderungen in seiner Gemeinschaft zu inspirieren.",
+  "summaryDutch": "Xavier Russell, een 59-jarige man met een passie voor adviseren en borduren, ontdekt zijn superkracht om gedachten in ingewikkelde patronen te vertalen, die hij gebruikt om te communiceren, conflicten op te lossen en binnen een week verandering in zijn gemeenschap te inspireren.",
+  "summaryFrench": "Xavier Russell, un homme de 59 ans passionné de conseil et de broderie, découvre son superpouvoir de traduire les pensées en motifs complexes, qu'il utilise pour communiquer, résoudre des conflits et inspirer un changement dans sa communauté en l'espace d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "At his embroidery club, Xavier accidentally stitches a pattern that reveals a hidden conflict among club members, surprising everyone with its accuracy.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Using his newfound powers, Xavier helps resolve the dispute from yesterday, and the club members begin to seek his advice more earnestly.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "Xavier meets an old friend who struggles with a personal issue. After a heartfelt conversation, Xavier creates an embroidery that helps the friend see a solution.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News of Xavier's talent spreads across town. He spends the day advising various town members and creating personalized embroideries for them.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "At a local event, Xavier's embroideries are showcased, and he receives community recognition for his contributions.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Feeling the weight of his responsibilities, Xavier takes a quiet day off to reflect and continues embroidering patterns of the stories he heard.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Rejuvenated by his day of reflection, Xavier hosts a small workshop on embroidery and advising, empowering others to find their own forms of expression.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus, Xavier Russell wove his wisdom and compassion into the fabric of the community, one thread at a time.",
+  "moral": "Every individual has unique talents that, when harnessed, can create profound impact in their community."
+}

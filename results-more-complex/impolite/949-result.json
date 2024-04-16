@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Zelda Carter: The Voice of Power",
+  "summary": "Zelda Carter, a 32-year-old who enjoys public speaking, discovers her ability to inspire action through her words. Over a week, she learns to control her power, using it to resolve local issues and eventually rallying the community to save the city park.",
+  "summaryGerman": "Zelda Carter, eine 32-jährige Liebhaberin von öffentlichen Reden, entdeckt ihre Fähigkeit, durch ihre Worte zum Handeln zu inspirieren. Innerhalb einer Woche lernt sie, ihre Kraft zu kontrollieren, nutzt sie, um lokale Probleme zu lösen und die Gemeinschaft schließlich dazu zu bringen, den Stadtpark zu retten.",
+  "summaryDutch": "Zelda Carter, een 32-jarige liefhebber van openbaar spreken, ontdekt haar vermogen om door haar woorden tot actie te inspireren. In een week leert ze haar kracht te beheersen, gebruikt ze deze om lokale problemen op te lossen en uiteindelijk de gemeenschap te mobiliseren om het stadspark te redden.",
+  "summaryFrench": "Zelda Carter, une passionnée de prise de parole en public âgée de 32 ans, découvre sa capacité à inspirer l'action par ses mots. En une semaine, elle apprend à contrôler son pouvoir, l'utilisant pour résoudre des problèmes locaux et finalement rallier la communauté pour sauver le parc de la ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda Carter steps on stage at a local community meeting, only to find that her usual nerves turn into an electrifying energy. As she speaks, the crowd follows her every word intently.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Zelda spends the day researching her newfound power. She practices her speeches, observing that plants seem to grow and electronic devices react when she speaks passionately.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "Zelda inadvertently causes a small chaos at a coffee shop when her casual comment motivates everyone present to passionately debate the best type of coffee, showing her the need to control her power.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Zelda, feeling the weight of her abilities, decides to use her power for good. She organizes a local clean-up, her words motivating a record turnout.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Encouraged by her success, Zelda makes a heartfelt plea at another public gathering, this time to raise funds for the endangered city park. The community's response is overwhelming.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With the park funding secured, Zelda spends a peaceful day reflecting on her journey and the positive impact she has made. She feels a deep connection to her community and her purpose.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Zelda gives a speech at the park celebration, inspiring her neighbors not only to appreciate the park but to actively participate in their community. Her message of unity and action resonates deeply.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "With her voice, Zelda Carter transformed not just a park, but the heart of her community.",
+  "moral": "Your greatest power may lie in your ability to inspire others."
+}

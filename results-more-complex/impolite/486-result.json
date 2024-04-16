@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Grace Jackson: Tutor by Day, Guardian by Night",
+  "summary": "Grace Jackson, a 56-year-old with a passion for tutoring and directing, discovers her latent superpowers, using her newly found abilities to protect her community from a lurking danger, leading up to an epic battle and a newfound path in heroism.",
+  "summaryGerman": "Grace Jackson, eine 56-Jährige mit einer Leidenschaft für das Lehren und Regieführen, entdeckt ihre latenten Superkräfte und verwendet ihre neu entdeckten Fähigkeiten, um ihre Gemeinde vor einer lauernden Gefahr zu schützen, die zu einer epischen Schlacht und einem neuen Weg im Heldentum führt.",
+  "summaryDutch": "Grace Jackson, een 56-jarige met een passie voor tutoring en regisseren, ontdekt haar latente superkrachten, gebruikt haar nieuw gevonden vaardigheden om haar gemeenschap te beschermen tegen een dreigend gevaar, wat leidt tot een episch gevecht en een nieuw pad in heldendom.",
+  "summaryFrench": "Grace Jackson, 56 ans, passionnée par l'enseignement et la mise en scène, découvre ses superpouvoirs latents et utilise ses capacités nouvellement trouvées pour protéger sa communauté d'un danger qui guette, menant à une bataille épique et à un nouveau chemin dans l'héroïsme.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Grace Jackson begins her week feeling energetic as she prepares lesson plans for her tutoring sessions. Unbeknownst to her, a strange glow emanates from the old book she picked up at a yard sale.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While directing a play rehearsal, Grace accidentally projects a force field, stopping a set piece from falling onto an actor. Shocked yet curious, she realizes her powers and starts experimenting.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wedneday",
+      "text": "Haunted by eerie dreams about her new abilities, Grace spends a restless night trying to decipher their origin. By dawn, she unravels clues pointing to the ancient book.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Grace feels peaceful as she masters control over her powers, incorporating them discreetly into her everyday life, helping those in secret.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A villain known as The Shadow emerges, threatening the town. Grace, feeling sad about the danger her friends face, decides it’s time to intervene more openly.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Grace reveals her superhero identity while saving the local library from The Shadow’s dark forces. The encounter is epic, revealing her full potential.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "After yesterday's battle, the town celebrates Grace’s heroism. She feels happy and fulfilled, knowing she can balance her life and her secret heroics.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "With great power comes an even greater duty to teach and protect.",
+  "moral": "Never underestimate the power and potential within you, regardless of your age or occupation."
+}

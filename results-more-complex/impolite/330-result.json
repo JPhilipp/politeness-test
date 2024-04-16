@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Ivan Smith: Guidance Hero",
+  "summary": "Ivan Smith, a counsellor with a knack for advising, discovers his powers of empathy are amplified to superhuman levels, allowing him to resolve conflicts and inspire hope throughout his community.",
+  "summaryGerman": "Ivan Smith, ein Berater mit einem Talent für Ratschläge, entdeckt, dass seine empathischen Fähigkeiten auf übermenschliche Levels verstärkt werden, wodurch er in der Lage ist, Konflikte zu lösen und Hoffnung in seiner Gemeinschaft zu wecken.",
+  "summaryDutch": "Ivan Smith, een adviseur met een talent voor adviseren, ontdekt dat zijn empathische vermogens tot bovenmenselijke niveaus zijn versterkt, waardoor hij conflicten kan oplossen en hoop kan inspireren in zijn gemeenschap.",
+  "summaryFrench": "Ivan Smith, un conseiller doué pour donner des avis, découvre que ses pouvoirs d'empathie sont amplifiés à un niveau surhumain, lui permettant de résoudre des conflits et d'inspirer l'espoir dans toute sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ivan discovers his powers after a meditation session, feeling an overwhelming sense of connection to the emotions of others.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Ivan helps mediate a local dispute, finding his new abilities allow him to truly understand both sides deeply and fairly.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesay",
+      "text": "News of Ivan's talent spreads, and he is invited to counsel a group struggling with internal rifts.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A challenging day where Ivan confronts a personal dilemma; using his powers makes him vulnerable to absorbing too much emotional distress.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Rejuvenated after a resolution to limit his exposure daily, Ivan assists in a large community meeting, preventing what could have been a fierce conflict.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A peaceful day spent reflecting on his experiences and advising individuals one-on-one.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ivan organizes a community event that brings together people from all walks of life, cementing his role as a pillar of peace and understanding.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Thus, Ivan Smith continued to serve as a beacon of harmony, proving that true strength lies in compassion and understanding.",
+  "moral": "The greatest heroes are those who bring out the heroism in others."
+}

@@ -1,0 +1,45 @@
+{
+  "title": "The Unseen Sketches of Ling Edwards",
+  "summary": "Ling Edwards, a 57-year-old consultant and artist, discovers her ability to bring her drawings to life, using her powers to address mysterious troubles in her city over the span of a week.",
+  "summaryGerman": "Ling Edwards, eine 57-jährige Beraterin und Künstlerin, entdeckt ihre Fähigkeit, ihre Zeichnungen zum Leben zu erwecken, und nutzt ihre Kräfte, um innerhalb einer Woche geheimnisvolle Probleme in ihrer Stadt zu lösen.",
+  "summaryDutch": "Ling Edwards, een 57-jarige consultant en kunstenares, ontdekt haar vermogen om haar tekeningen tot leven te brengen, waarbij ze haar krachten gebruikt om in de loop van een week mysterieuze problemen in haar stad aan te pakken.",
+  "summaryFrench": "Ling Edwards, une consultante et artiste de 57 ans, découvre sa capacité à donner vie à ses dessins, utilisant ses pouvoirs pour s'attaquer aux problèmes mystérieux de sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Edwards begins her week feeling energetic, sketching a vibrant cityscape that unexpectedly begins to animate on the paper.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuseday",
+      "text": "Shocked by her drawing's animation, Ling spends a day experimenting and realizes she can control this new ability. A sense of triumph fills her place.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "An eerie silence envelops her neighborhood, disrupted only by Ling's animated sketches patrolling the streets, detecting unseen dangers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "With her heroic actions becoming known, Ling encounters someone being threatened by local thugs, using her skills to save the day.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Feeling sad, Ling wonders about the responsibilities her powers entail but is encouraged by the community's support and heartfelt thanks.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "An epic confrontation arises when a formidable foe exploits her powers for chaos. Ling cleverly outsmarts their plans through her quick wit and unique abilities.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week's events, Ling feels peaceful, sketching a serene landscape that fades without incident, signaling her control over her powers.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the sun set, Ling closed her sketchbook, her city a little safer thanks to her unseen sketches."
+}

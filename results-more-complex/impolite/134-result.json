@@ -1,0 +1,46 @@
+{
+  "title": "The Energetic Week of Nancy Flores",
+  "summary": "Nancy Flores, a 20-year-old editing enthusiast and lecturer, discovers her superpower of manipulating time through her speeches and edits, using it to save her city from an unforeseen disaster.",
+  "summaryGerman": "Nancy Flores, eine 20-jährige Begeisterte der Bearbeitung und Vortragskunst, entdeckt ihre Superkraft, die Zeit durch ihre Reden und Bearbeitungen zu manipulieren, und nutzt sie, um ihre Stadt vor einer unvorhergesehenen Katastrophe zu retten.",
+  "summaryDutch": "Nancy Flores, een 20-jarige liefhebster van redigeren en lezingen, ontdekt haar superkracht om de tijd te manipuleren door haar toespraken en bewerkingen, en gebruikt deze om haar stad te redden van een onvoorzien onheil.",
+  "summaryFrench": "Nancy Flores, une passionnée de montage âgée de 20 ans et conférencière, découvre son super-pouvoir de manipuler le temps à travers ses discours et ses montages, qu'elle utilise pour sauver sa ville d'une catastrophe imprévue.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Nancy Flores discovers her unique ability to pause and rewind time while editing a particularly challenging video lecture.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Excited, Nancy experiments with her power, managing to extend deadlines and perfect her edits with unreal precision.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Trouble arises as local news reports a looming crisis – a dam nearby threatens to break.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thrusday",
+      "text": "Nancy gives a motivational speech at a community center, accidentally slowing down time and realizing the potential of her power in public speaking.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Harnessing her power, Nancy works tirelessly, combining her editing skills and time manipulation to strategize a crisis intervention.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "In a climax of effort, Nancy addresses the city live, rewinding moments of the impending disaster as engineers alleviate the dam pressure.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The city safe, Nancy reflects on her new role as a protector and vows to sharpen her powers for the greater good.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "In the humble silence of her room, Nancy Flores smiled, ready for whatever the next week might bring.",
+  "moral": "With great power comes the responsibility to use it wisely and for the welfare of others."
+}

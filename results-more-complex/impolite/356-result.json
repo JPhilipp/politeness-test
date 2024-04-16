@@ -1,0 +1,46 @@
+{
+  "title": "The Quiet Valor of Judy Price",
+  "summary": "Over one week, Judy Price, a 76-year-old retired teacher, discovers her unique power of invisibility. She uses this newfound ability to thwart minor crimes and help her community quietly, learning that heroes can come in any age and form.",
+  "summaryGerman": "Über eine Woche entdeckt die 76-jährige pensionierte Lehrerin Judy Price ihre einzigartige Fähigkeit der Unsichtbarkeit. Sie nutzt diese neu entdeckte Fähigkeit, um kleinere Verbrechen zu vereiteln und ihrer Gemeinde leise zu helfen, und lernt, dass Helden in jedem Alter und in jeder Form kommen können.",
+  "summaryDutch": "Gedurende één week ontdekt Judy Price, een 76-jarige gepensioneerde lerares, haar unieke kracht van onzichtbaarheid. Ze gebruikt deze nieuw gevonden vaardigheid om kleine misdrijven te dwarsbomen en haar gemeenschap stilletjes te helpen, en leert dat helden in elke leeftijd en vorm kunnen komen.",
+  "summaryFrench": "Pendant une semaine, Judy Price, une enseignante retraitée de 76 ans, découvre son pouvoir unique d'invisibilité. Elle utilise cette capacité nouvellement trouvée pour contrecarrer les petits crimes et aider sa communauté en silence, apprenant que les héros peuvent venir à tout âge et sous toutes les formes.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy discovered her ability to turn invisible while volunteering at the local library. She helped find lost books without drawing attention.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "With confidence growing, Judy intervened unnoticed at a grocery store, preventing a purse theft.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "She secretly assisted at a crosswalk, keeping school children safe from a distracted driver.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "At the park, Judy used her powers to stop vandals from defacing public property.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Judy spent the day reflecting on her actions, feeling a peaceful sense of satisfaction at her indirect influence.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Inspired, she held a covert class for some troubled teens in her neighborhood, teaching them the value of kindness and public service.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Judy, feeling fulfilled, decided to mentor other elderly citizens on how they too can contribute to their community, regardless of their age.",
+      "mood": "inspiring"
+    }
+  ],
+  "ending": "Judy Price proves that a superhero doesn't need a cape or limelight to make a difference.",
+  "moral": "True heroism is in the quiet deeds of daily life."
+}

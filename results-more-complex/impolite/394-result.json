@@ -1,0 +1,47 @@
+{
+  "title": "The Crochet Counselor: The Adventures of Oscar Bennett",
+  "summary": "Oscar Bennett, a 19-year-old with a passion for counseling and crocheting, discovers his superpowers one eventful week, helping his community to overcome various challenges.",
+  "summaryGerman": "Oscar Bennett, ein 19-Jähriger mit einer Leidenschaft für Beratung und Häkeln, entdeckt in einer ereignisreichen Woche seine Superkräfte und hilft seiner Gemeinde, verschiedene Herausforderungen zu meistern.",
+  "summaryDutch": "Oscar Bennett, een 19-jarige met een passie voor counseling en haken, ontdekt zijn superkrachten tijdens een enerverende week en helpt zijn gemeenschap om verschillende uitdagingen te overwinnen.",
+  "summaryFrench": "Oscar Bennett, un jeune de 19 ans passionné par le conseil et le crochet, découvre ses superpouvoirs au cours d'une semaine mouvementée, aidant sa communauté à surmonter divers défis.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar Bennett spends his mornings giving counseling sessions at the community center. One afternoon, while crocheting a scarf, he accidentally stitches a mysterious symbol, activating latent superpowers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Energized by his new abilities, Oscar uses his 'Empathy Wave' to calm a heated dispute at the local high school, restoring peace and understanding among students.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "With confidence growing, Oscar begins to embrace his role. He crochets personalized comfort items imbued with calmative properties, distributing them to stressed residents.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A major storm strikes, and Oscar uses his crocheted creations to create protective barriers, shielding homes from the storm's wrath.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The day after the storm, Oscar helps with the cleanup. His efforts bring not only physical reconstruction but also emotional healing to the community.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "At a community rally, Oscar is celebrated as a hero. He feels a deep connection to his town and its people, strengthened by his adventures.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Oscar realizes that his greatest power lies in his capacity to care and to create. He vows to continue developing his powers for the good of all.",
+      "mood": "reflective"
+    }
+  ],
+  "ending": "And thus, Oscar Bennett wove not only threads but also the hearts of his community together, one stitch at a time.",
+  "mood": "epic",
+  "moral": "True heroism is found in the everyday acts of empathy and compassion."
+}

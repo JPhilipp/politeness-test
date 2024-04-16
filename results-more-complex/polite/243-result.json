@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Charlie Rogers: Tutor by Day, Hero by Night",
+  "summary": "Charlie Rogers, a 45-year-old tutor, discovers his superpowers and saves his community from a mysterious threat over the course of a week.",
+  "summaryGerman": "Charlie Rogers, ein 45-jähriger Tutor, entdeckt seine Superkräfte und rettet innerhalb einer Woche seine Gemeinde vor einer mysteriösen Bedrohung.",
+  "summaryDutch": "Charlie Rogers, een 45-jarige tutor, ontdekt zijn superkrachten en redt zijn gemeenschap van een mysterieuze dreiging gedurende een week.",
+  "summaryFrench": "Charlie Rogers, un tuteur de 45 ans, découvre ses superpouvoirs et sauve sa communauté d'une menace mystérieuse au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Charlie Rogers starts his week in a typical manner, tutoring local students in mathematics. Unbeknownst to him, a strange meteorite nearby grants him the power of telekinesis.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Feeling unusually energetic, Charlie experiments with his newfound powers. He helps a student retrieve a lost kitten by moving a heavy branch using only his mind.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Charlie starts to feel the responsibility of his powers. He spends the day contemplating how to best use them while continuing his tutoring sessions.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thrusday",
+      "text": "A mysterious figure observes Charlie using his powers. Feeling intrigued and somewhat threatened, Charlie prepares for potential conflicts.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The observer reveals himself as a villain wanting to harness Charlie's powers for evil. A battle ensues, pushing Charlie to his limits to protect his students and their families.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After defeating the villain, Charlie is hailed as a local hero. He spends a calm day reflecting on the events, ensuring everyone he helped is safe and sound.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Charlie decides to use his powers to further assist in everyday community problems, bringing a sense of security and happiness to the neighborhood.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "By week's end, Charlie Rogers not only embraced his new identity as a superhero but also solidified his role as a beloved community tutor and protector.",
+  "moral": "Great power comes with great responsibility, and the best use of power is in service to others."
+}

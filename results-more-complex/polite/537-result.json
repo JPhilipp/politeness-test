@@ -1,0 +1,46 @@
+{
+  "title": "The Weeklong Adventures of Pit Price: A Superhero Story",
+  "summary": "Pit Price, a retired general at 74, discovers a hidden gadget in his attic, giving him the power to command minds. He uses these powers to avert a city crisis, leading and planning his actions. Throughout the week, he learns the true extent of his abilities and faces moral challenges, ultimately using his newfound powers for the greater good.",
+  "summaryGerman": "Pit Price, ein pensionierter General im Alter von 74 Jahren, entdeckt ein verborgenes Gerät auf seinem Dachboden, das ihm die Macht gibt, Gedanken zu kontrollieren. Er nutzt diese Kräfte, um eine städtische Krise abzuwenden, indem er seine Aktionen leitet und plant. Im Laufe der Woche erfährt er das wahre Ausmaß seiner Fähigkeiten und steht vor moralischen Herausforderungen, nutzt aber letztendlich seine neu gewonnenen Kräfte zum Wohle aller.",
+  "summaryDutch": "Pit Price, een gepensioneerde generaal van 74, ontdekt een verborgen gadget op zijn zolder, waarmee hij de macht krijgt om geesten te beheersen. Hij gebruikt deze krachten om een stedelijke crisis af te wenden, door zijn acties te leiden en te plannen. Gedurende de week leert hij de ware omvang van zijn capaciteiten en staat hij voor morele uitdagingen, uiteindelijk gebruikt hij zijn nieuw verworven krachten ten goede.",
+  "summaryFrench": "Pit Price, un général à la retraite de 74 ans, découvre un gadget caché dans son grenier, lui donnant le pouvoir de commander les esprits. Il utilise ces pouvoirs pour éviter une crise urbaine, dirigeant et planifiant ses actions. Tout au long de la semaine, il découvre la véritable étendue de ses capacités et fait face à des défis moraux, utilisant finalement ses nouveaux pouvoirs pour le bien commun.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "While cleaning his attic, Pit discovers an ancient, mystical artifact that allows him to influence thoughts. He spends the day experimenting with this ability, feeling a mix of excitement and responsibility.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Pit uses his powers to safely direct a group away from a collapsing building site. He feels the weight of this power but is thrilled by the positive impact he can make.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednedsay",
+      "text": "Exhausted from the previous day’s events, Pit contemplates the ethical implications of his abilities. He feels torn between the potential for misuse and the undeniable potential to do good.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Inspired by recent events, Pit plans a rescue operation for a missing pet in the neighborhood that he learned was stuck in a closed-off area. His leadership skills shine as he coordinates the local folks.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Pit encounters an old adversary who questions his right to use such powers. They engage in a heated yet respectful debate, ending in a newfound understanding.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Using his powers, Pit helps local authorities uncover a hidden criminal operation which had been haunting the city. He feels an immense sense of responsibility and pride in his role.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflection and relaxation. Pit spends the day with friends and family, sharing stories but keeping his superhero deeds a secret. The day ends with a sense of calm and readiness for new challenges.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the sun sets, Pit Price looks out over his city, knowing he's changed it for the better.",
+  "moral": "With great power comes great responsibility. Use it wisely and for the benefit of others."
+}

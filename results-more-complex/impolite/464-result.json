@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Zelda Foster: From Advertiser to Hero",
+  "summary": "Zelda Foster, a creative advertiser and consultant, discovers her abilities and saves her city from a surprise villain attack, finding a new calling as a superhero.",
+  "summaryGerman": "Zelda Foster, eine kreative Werbefachfrau und Beraterin, entdeckt ihre Fähigkeiten und rettet ihre Stadt vor einem überraschenden Bösewichtangriff, was ihr eine neue Berufung als Superheldin gibt.",
+  "summaryDutch": "Zelda Foster, een creatieve adverteerster en consultant, ontdekt haar vaardigheden en redt haar stad van een verrassingsaanval door een schurk, en vindt een nieuwe roeping als superheld.",
+  "summaryFrench": "Zelda Foster, une publicitaire et consultante créative, découvre ses capacités et sauve sa ville d'une attaque surprise de vilains, trouvant ainsi une nouvelle vocation en tant que super-héros.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda Foster starts her week with a routine coffee at her favorite café, using the time to brainstorm her next big advertising campaign. A peculiar encounter with a strangely dressed man who speaks in riddles leaves her feeling intrigued but slightly uneasy.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "An unexpected surge of energy propels Zelda through her meetings, where she unknowingly uses subtle manipulations of reality to pitch perfect ideas. She starts to suspect that something extraordinary is happening to her.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "While consulting for a tech startup, Zelda accidentally teleports to their offsite server room. Shocked but thrilled, she realizes she has superpowers. She spends the day experimenting and mastering her newfound skills.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "An emergency citywide, triggered by a villainous siege, sees Zelda stepping into her hero role. She uses her advertising acumen to distract and misdirect the villains, helping the authorities to coordinate a counterattack.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Building on yesterday's actions, Zelda feels a deeper connection to her city and its people. She decides to embrace her role as a superhero, balancing it with her career in advertising.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "To solidify her new dual life, Zelda designs her superhero brand and identity, cleverly integrating it with her professional skills to ensure maximum impact and public trust.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Zelda spends a quiet day reflecting on her incredible week and the path forward. With her unique blend of skills, she's not just a hero; she's a symbol of innovation and protection.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Thus, Zelda embraced her double-life, finding joy and purpose in protecting and inspiring her beloved city.",
+  "moral": "Embrace your unique talents, for they may lead you to extraordinary destinies."
+}

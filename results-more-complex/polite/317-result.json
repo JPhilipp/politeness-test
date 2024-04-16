@@ -1,0 +1,39 @@
+{
+  "title": "The Heroic Week of Kevin Kelly: From Writer to Guardian",
+  "summary": "Kevin Kelly discovers his unique ability to manipulate ink and words, using these powers to confront a mysterious menace threatening his city. Throughout the week, he balances his love for writing and his new role as a superhero, emerging triumphant and more connected to his community.",
+  "summaryGerman": "Kevin Kelly entdeckt seine einzigartige Fähigkeit, Tinte und Wörter zu manipulieren, und nutzt diese Kräfte, um eine mysteriöse Bedrohung, die seine Stadt bedroht, zu konfrontieren. Während der Woche balanciert er seine Liebe zum Schreiben und seine neue Rolle als Superheld, triumphiert und fühlt sich seiner Gemeinschaft näher.",
+  "summaryDutch": "Kevin Kelly ontdekt zijn unieke vermogen om inkt en woorden te manipuleren, en gebruikt deze krachten om een mysterieuze dreiging die zijn stad bedreigt het hoofd te bieden. Gedurende de week balanceert hij zijn liefde voor schrijven met zijn nieuwe rol als superheld, komt als overwinnaar uit de strijd en voelt zich meer verbonden met zijn gemeenschap.",
+  "summaryFrench": "Kevin Kelly découvre sa capacité unique à manipuler l'encre et les mots, utilisant ces pouvoirs pour affronter une menace mystérieuse menaçant sa ville. Tout au long de la semaine, il équilibre son amour pour l'écriture et son nouveau rôle de super-héros, finissant triomphant et plus connecté à sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Kevin Kelly stumbles upon an ancient pen at a local flea market, which grants him the power to bring his written words to life. Mood: eerie"
+    },
+    {
+      "weekday": "Tueesday",
+      "text": "As Kevin experiments with his new-found ability, he writes a story that unexpectedly summons a protective guardian beast. Mood: energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "He uses his powers defensively when a strange shadow begins to stalk prominent local figures. Mood: triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Kevin teaches a class on creative writing, subtly integrating his real experiences, inspiring his students to find magic in their words. Mood: inspirational"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The shadow attacks the city council meeting, and Kevin thwarts the threat with a squad of ink-creatures. Mood: epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Having saved the city, Kevin reconnects with old friends, sharing tales of his unexpected heroism. Mood: romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Kevin spends the day writing a memoir about his adventures, pondering the profound impact of words. Mood: peaceful"
+    }
+  ],
+  "ending": "As dusk settled on Sunday, Kevin Kelly knew his life had changed forever - not just by might, but by the might of the pen.",
+  "moral": "The pen is not only mightier than the sword, but it also holds the power to change worlds — literary and literal alike."
+}

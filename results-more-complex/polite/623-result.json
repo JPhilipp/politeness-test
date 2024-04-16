@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Sue Watson: The Consulting Hero",
+  "summary": "Sue Watson, a 74-year-old with a penchant for consulting and instructing, discovers her hidden powers and helps her community over a transformative week.",
+  "summaryGerman": "Sue Watson, eine 74-jährige mit einer Vorliebe für Beratung und Unterricht, entdeckt ihre verborgenen Kräfte und hilft ihrer Gemeinde während einer transformativen Woche.",
+  "summaryDutch": "Sue Watson, een 74-jarige met een voorliefde voor consultatie en instructie, ontdekt haar verborgen krachten en helpt haar gemeenschap gedurende een transformerende week.",
+  "summaryFrench": "Sue Watson, âgée de 74 ans et passionnée de consultation et d'enseignement, découvre ses pouvoirs cachés et aide sa communauté pendant une semaine transformatrice.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Sue Watson starts her week feeling energetic as she helps a local non-profit strategize their next campaign.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Feeling peaceful, Sue spends the day teaching young entrepreneurs online, imparting wisdom and providing insightful feedback.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "The day takes an eerie turn when Sue discovers she can predict and solve complex problems with uncanny accuracy.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tursday",
+      "text": "Triumphant, Sue uses her newfound abilities to avert a financial disaster for a struggling local business.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Her confidence grows as the city mayor personally thanks her, making her feel epic at a celebrated dinner.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Sue feels sad reminiscing about her late husband, but finds solace in the community she has helped to build and strengthen.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ending the week on a happy note, Sue gathers all her mentees for a group workshop, feeling fulfilled and joyful.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Sue’s week proved that no matter the age, one can always be a hero to the community.",
+  "moral": "The true strength of a community hero lies not just in their powers, but in their dedication and love for helping others."
+}

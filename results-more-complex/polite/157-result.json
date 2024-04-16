@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Frank Robinson",
+  "summary": "At 64, Frank Robinson discovers his unique ability to inspire profound change during his speeches, leading to a week of surprising superhero acts and personal revelations.",
+  "summaryGerman": "Mit 64 entdeckt Frank Robinson seine einzigartige Fähigkeit, während seiner Reden tiefgreifende Veränderungen zu inspirieren, was zu einer Woche voller überraschender Heldentaten und persönlicher Erkenntnisse führt.",
+  "summaryDutch": "Op 64-jarige leeftijd ontdekt Frank Robinson zijn unieke vermogen om tijdens zijn toespraken diepgaande veranderingen te inspireren, wat leidt tot een week van verrassende heldendaden en persoonlijke openbaringen.",
+  "summaryFrench": "À 64 ans, Frank Robinson découvre sa capacité unique à inspirer un changement profond lors de ses discours, conduisant à une semaine d'actes de super-héros surprenants et de révélations personnelles.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank Robinson began his week feeling the usual retirement quietness until he felt a sudden surge of energy while counseling a troubled youth. Unbeknownst to him, his words began to manifest real-life positive changes in the boy's behavior.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuedsay",
+      "text": "Empowered by yesterday’s unusual experience, Frank decided to engage more actively in his community center, speaking to a large group about overcoming adversity. The audience was visibly moved, and their emotional responses soon turned into actual life improvements.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Curious about his newfound powers, Frank spent the day experimenting with his speeches, discovering that his words could heal emotional wounds. He healed a broken family relationship simply through a heartfelt speech about forgiveness.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Frank held a workshop on public speaking for local students. He taught them about the power of words, which not only inspired the students but also seemed to enhance their confidence and public speaking skills instantly.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "During a romantic dinner with his wife, Frank explained his week's discoveries. She listened intently, expressing pride and admiration. That evening, Frank felt his powers could also spread love and understanding.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Taking a well-earned rest, Frank spent Saturday reflecting on his week. He wrote down his experiences, pondering how best to use his powerful gift. The day was calm, peaceful, and full of introspection.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "With a plan to share his knowledge worldwide, Frank prepared a roadway for a global tour named 'The Power of Words'. He felt ready, excited, and somewhat responsible for sharing his gift to better the world.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Frank Robinson's words had become the superpower he never knew he needed.",
+  "moral": "The power of words can transform lives more profoundly than we ever imagine."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Woven Wisdom of Trent Johnson",
+  "summary": "Trent Johnson, a 75-year-old superhero with hobbies in weaving and advising, discovers his telekinetic powers over textiles, using them to avert crises and impart valuable lessons over the span of a week.",
+  "summaryGerman": "Trent Johnson, ein 75-jähriger Superheld mit Hobbys im Weben und Beraten, entdeckt seine telekinetischen Kräfte über Textilien, nutzt sie, um Krisen abzuwenden und wertvolle Lektionen über die Spanne einer Woche zu vermitteln.",
+  "summaryDutch": "Trent Johnson, een 75-jarige superheld met hobby's in weven en adviseren, ontdekt zijn telekinetische krachten over textiel, gebruikt ze om crises af te wenden en waardevolle lessen te geven gedurende een week.",
+  "summaryFrench": "Trent Johnson, un superhéros de 75 ans aux hobbies de tissage et de conseil, découvre ses pouvoirs télékinétiques sur les textiles, les utilisant pour éviter des crises et transmettre de précieuses leçons sur une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Trent Johnson's ordinary morning took a twist when he knitted a scarf that began to float, revealing his newfound powers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Harnessing his abilities, Trent stopped a runaway train with a barrier of interlaced yarn, saving hundreds.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "During a local council meeting, Trent discreetly used his powers to repair a historic tapestry, preserving the town's heritage.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Trent spent the day advising young heroes on the importance of control and wisdom, using his powers as an example.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "An old enemy sought to exploit Trent's weaving for evil, but Trent crafted a net of threads, capturing the foe.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Reflecting on the week's events, Trent held a community class, teaching weaving and sharing stories of his adventures.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "At week’s end, Trent created a grand mural of woven fibers, illustrating his journey and inspiring all.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "As Trent Johnson sat watching his woven mural flutter in the breeze, he smiled, knowing his legacy was intertwined with every thread.",
+  "moral": "The threads of wisdom and power, when woven with care, can create a tapestry of profound impact."
+}

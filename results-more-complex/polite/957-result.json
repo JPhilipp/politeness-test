@@ -1,0 +1,46 @@
+{
+  "title": "The Energetic Adventures of Zelda Thomas",
+  "summary": "Zelda Thomas, a 31-year-old dance teacher, discovers her superpower of controlling rhythm and time through dance, using it to foil a series of crimes and bring joy to her community.",
+  "summaryGerman": "Zelda Thomas, eine 31-jährige Tanzlehrerin, entdeckt ihre Superkraft, Rhythmus und Zeit durch Tanz zu kontrollieren, und verwendet sie, um eine Reihe von Verbrechen zu vereiteln und Freude in ihre Gemeinschaft zu bringen.",
+  "summaryDutch": "Zelda Thomas, een 31-jarige dansleraar, ontdekt haar superkracht om ritme en tijd te beheersen door dans, en gebruikt het om een reeks misdaden te dwarsbomen en vreugde in haar gemeenschap te brengen.",
+  "summaryFrench": "Zelda Thomas, une professeure de danse de 31 ans, découvre son superpouvoir de contrôler le rythme et le temps par la danse, l'utilisant pour déjouer une série de crimes et apporter de la joie à sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda Thomas starts her week full of energy as she teaches a dance class that unexpectedly reveals her ability to control the flow of time when she dances. As the day progresses, she becomes excited about exploring her newfound powers.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "After experimenting with her abilities, Zelda prevents a bank robbery by pausing time and contacting the police, gaining confidence in her superhero role.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wdnesday",
+      "text": "Zelda uses her powers to teach a specially arranged dance class for troubled youth, noticing how her control of rhythm helps resolve conflicts peacefully.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A local news crew captures footage of Zelda’s heroics, leading to a surge of interest and an eerie feeling of being watched.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "To relax from her hectic week, Zelda organizes a flash mob in the city park, which unexpectedly turns into a romantic evening when she meets a charming fellow dancer.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Zelda combines her love for dance and superhero duties by hosting a large charity dance gala, where all proceeds go to crime victims. Her energetic enthusiasm motivates everyone to participate.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Zelda feels more connected to her community and empowered to make a difference, ending her week on an epic note as the town celebrates her contributions.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus, Zelda learned that embracing her unique talents can bring rhythm not only to music but to the heartbeats of those around her.",
+  "moral": "Embrace your unique talents, for they may hold the power to make a significant positive impact on the world."
+}

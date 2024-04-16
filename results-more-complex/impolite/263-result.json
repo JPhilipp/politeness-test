@@ -1,0 +1,46 @@
+{
+  "title": "The Extraordinary Week of Eve Campbell: Tutor by Day, Hero by Night",
+  "summary": "Eve Campbell, a 30-year-old tutoring professional, discovers her superpowers, setting off a week of adventure where she balances her daily life with her nightly heroics, ultimately saving her city from disaster.",
+  "summaryGerman": "Eve Campbell, eine 30-jährige Nachhilfelehrerin, entdeckt ihre Superkräfte und erlebt eine Woche voller Abenteuer, in der sie ihr tägliches Leben mit nächtlichen Heldentaten in Einklang bringt und letztlich ihre Stadt vor einer Katastrophe rettet.",
+  "summaryDutch": "Eve Campbell, een 30-jarige tutor, ontdekt haar superkrachten en beleeft een week vol avonturen waarin ze haar dagelijks leven combineert met haar nachtelijke heldendaden, uiteindelijk haar stad redden van een ramp.",
+  "summaryFrench": "Eve Campbell, une professionnelle du tutorat âgée de 30 ans, découvre ses superpouvoirs, déclenchant une semaine d'aventures où elle équilibre sa vie quotidienne avec ses actes héroïques nocturnes, finalement sauvant sa ville d'un désastre.",
+  "story": [
+    {
+      "weekday": "Munday",
+      "text": "Eve discovers a mysterious glowing amulet in a book she borrowed for tutoring, which grants her the ability to manipulate time.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Testing her new powers discretely at the local park, Eve finds she can pause and resume time. She starts to contemplate the possibilities.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Eve uses her powers to avert a traffic accident, saving a child and getting a taste of heroism. She feels a sense of purpose and responsibility.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Balancing tutoring sessions with her nighttime escapades starts to take a toll on Eve. Despite her fatigue, she remains determined.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A major crisis unfolds as a bridge starts collapsing during rush hour. Eve manages to freeze time and help evacuate everyone safely.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "News of a mysterious hero spreads. The city starts to wonder about this new guardian. Eve feels a romantic thrill in her secret identity.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Eve feels deeply at peace with her dual life. She commits to using her powers for the good of her city.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Eve embraced her new identity, forever changing the fate of her beloved city.",
+  "moral": "With great power comes great responsibility, but also the chance to make a real difference."
+}

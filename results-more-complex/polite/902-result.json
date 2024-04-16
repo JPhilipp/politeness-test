@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Zelda Yang: The Unsung Hero of Metroville",
+  "summary": "Zelda Yang, a 55-year-old advertising maven and community coach, discovers her hidden powers of influence and persuasion, using them to tackle a mysterious threat in her city over the span of one week.",
+  "summaryGerman": "Zelda Yang, eine 55-jährige Werbeexpertin und Gemeinschaftstrainerin, entdeckt ihre verborgenen Kräfte der Einflussnahme und Überzeugung, um innerhalb einer Woche eine mysteriöse Bedrohung in ihrer Stadt zu bekämpfen.",
+  "summaryDutch": "Zelda Yang, een 55-jarige reclamemaven en gemeenschapscoach, ontdekt haar verborgen krachten van invloed en overtuiging, die ze gebruikt om binnen een week een mysterieuze dreiging in haar stad aan te pakken.",
+  "summaryFrench": "Zelda Yang, une experte en publicité et coach communautaire de 55 ans, découvre ses pouvoirs cachés d'influence et de persuasion, qu'elle utilise pour faire face à une menace mystérieuse dans sa ville en l'espace d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda starts her week with a peaceful morning, teaching junior advertisers how to captivate audiences. Little does she know, her natural ability also captivates a hidden audience.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "A sudden eerie chill sweeps through Metroville, and Zelda feels a pull towards the old city hall. Inside, whispers seem to guide her.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesady",
+      "text": "Using skills honed in her coaching, Zelda persuades a group of former villains to help her investigate the disturbances. Her leadership shines.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Zelda and her unlikely team uncover plans for a device that could erase memories city-wide. Energized, she rallies everyone for a showdown.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "In a secret lab, Zelda taps into her untapped persuasive power, dismantling the device and convincing its creator to seek redemption.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After saving Metroville, Zelda hosts a community event to celebrate unity and resilience, feeling endlessly happy with her newfound friends and allies.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Zelda feels triumphant and peaceful, knowing she’s made a real difference while staying true to her roots in advertising and coaching.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus, Zelda Yang retired that Sunday evening, her heart full and her city safe, knowing that sometimes, the real superpowers lay in the voices and stories we share.",
+  "moral": "True heroism lies not in superhuman strength, but in leveraging one's natural skills and passions to make a transformational impact."
+}

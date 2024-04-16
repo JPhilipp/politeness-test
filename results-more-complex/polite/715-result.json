@@ -1,0 +1,46 @@
+{
+  "title": "The Spectacular Week of Heidi Kelly: Superhero at 62",
+  "summary": "Heidi Kelly, a 62-year-old with a passion for following and acting, discovers her superpowers, embarks on a journey of thrilling adventures, and confronts a villain threatening her town, all while balancing her daily life and hobbies.",
+  "summaryGerman": "Heidi Kelly, eine 62-jährige mit einer Leidenschaft für Verfolgung und Schauspiel, entdeckt ihre Superkräfte, begibt sich auf eine Reise voll spannender Abenteuer und stellt sich einem Bösewicht, der ihre Stadt bedroht, während sie ihr tägliches Leben und ihre Hobbys ausbalanciert.",
+  "summaryDutch": "Heidi Kelly, een 62-jarige met een passie voor volgen en acteren, ontdekt haar superkrachten, begint aan een reis vol spannende avonturen en confronteert een schurk die haar stad bedreigt, terwijl ze haar dagelijks leven en hobby's in balans houdt.",
+  "summaryFrench": "Heidi Kelly, âgée de 62 ans et passionnée de suivi et d'acting, découvre ses superpouvoirs, se lance dans une aventure palpitante et affronte un vilain qui menace sa ville, tout en équilibrant sa vie quotidienne et ses passe-temps.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Heidi Kelly wakes up feeling surprisingly energetic. After breakfast, a sudden burst of supernatural strength helps her prevent an accident. She discovers she has superpowers.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tueday",
+      "text": "While attending her local acting class, Heidi uses her newfound super hearing to overhear a plan to rob the town museum. She feels a thrill of responsibility.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Heidi spends the day researching her powers and practicing control over them. She ends the day feeling peaceful and more in tune with her abilities.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Using her super speed, Heidi foils the museum robbery, earning the gratitude of the town. Her act is epic, and townspeople start seeing her as a hero.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Heidi returns to her routine, feeling happy but aware of the villain lurking. She balances her newfound hero life with her hobbies.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a romantic dinner, Heidi's date reveals he is the villain. This adds a twist to her week, turning it into a romantic yet dangerous evening.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Heidi, using both her powers and acting skills, outsmarts the villain, saving the town. The climax is triumphant, securing her place as a local superhero.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "And so, Heidi Kelly lived on, not just as a citizen, but as a guardian of her beloved town.",
+  "moral": "No matter the age, it's never too late to discover your hidden strengths and make a difference."
+}

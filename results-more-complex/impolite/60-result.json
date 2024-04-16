@@ -1,0 +1,46 @@
+{
+  "title": "The Invincible Linda Robinson: A Week of Heroism",
+  "summary": "Linda Robinson, a 69-year-old who enjoys preaching and coaching, discovers her superpowers and saves her community from a series of mysterious threats over the course of a week.",
+  "summaryGerman": "Linda Robinson, eine 69-jährige Predigerin und Trainerin, entdeckt ihre Superkräfte und rettet ihre Gemeinde über den Verlauf einer Woche vor einer Serie von mysteriösen Bedrohungen.",
+  "summaryDutch": "Linda Robinson, een 69-jarige die van preken en coachen houdt, ontdekt haar superkrachten en redt haar gemeenschap van een reeks mysterieuze bedreigingen gedurende een week.",
+  "summaryFrench": "Linda Robinson, âgée de 69 ans et passionnée de prêche et de coaching, découvre ses superpouvoirs et sauve sa communauté d'une série de menaces mystérieuses au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "At a community meeting, Linda suddenly feels a surge of energy. Later, she discovers she can manipulate time to extend sessions and help more people.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tudsday",
+      "text": "Her powers stabilize, and Linda uses her ability to resolve an ongoing conflict between two rival groups at the community center, fostering a new peace.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "An eerie feeling prompts Linda to patrol her neighborhood, where she stops a burglary using her newfound super-speed.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Linda spends the day coaching a struggling local sports team, using her time-manipulating abilities to give them extra practice hours, which turns the team around.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "During a motivational speech, Linda inspires the community with her story. News of her deeds and her wisdom spreads like wildfire.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Linda feels nostalgic and spends a peaceful day reflecting on her life, realizing the extended impact her abilities and actions have on her surroundings.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "A celebration is held in Linda's honor, where she vows to continue protecting and serving her community, feeling happier and more fulfilled than ever.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, Linda Robinson proved that real heroes do not always wear capes; sometimes, they hold a coach’s whistle and a sermon book.",
+  "moral": "No matter your age or background, you can make a significant impact in your community."
+}

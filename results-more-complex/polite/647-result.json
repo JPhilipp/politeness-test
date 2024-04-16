@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Rise of David Long: Programmer by Day, Hero by Night",
+  "summary": "A 53-year-old programmer and fitness enthusiast named David Long discovers his unique powers of controlling digital devices with his mind, which he uses to thwart a cyber attack on his city.",
+  "summaryGerman": "Ein 53-jähriger Programmierer und Fitnessbegeisterter namens David Long entdeckt seine einzigartigen Fähigkeiten, digitale Geräte mit seinem Geist zu steuern, die er verwendet, um einen Cyberangriff auf seine Stadt zu vereiteln.",
+  "summaryDutch": "Een 53-jarige programmeur en fitnessliefhebber genaamd David Long ontdekt zijn unieke krachten om digitale apparaten te besturen met zijn geest, die hij gebruikt om een cyberaanval op zijn stad te verijdelen.",
+  "summaryFrench": "Un programmeur et passionné de fitness âgé de 53 ans, nommé David Long, découvre ses pouvoirs uniques de contrôler les dispositifs numériques avec son esprit, qu'il utilise pour déjouer une cyberattaque sur sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "David Long begins his week as usual, coding at work and hitting the gym. However, during his workout, he suddenly finds he can interact with the digital screens without touching them.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Excited by his newfound abilities, David spends the evening experimenting and fine tuning his powers. He realizes that he can manipulate any digital device within his line of sight.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesay",
+      "text": "David overhears news of a planned cyber attack on the city's infrastructure. Troubled but determined, he starts devising a plan to use his powers to protect his city.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "David discreetly uses his abilities at work to strengthen the company's cybersecurity. His unnoticed efforts successfully block an initial minor attack, reaffirming his resolve.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The anticipated cyber attack begins. David, now confident in his abilities, battles the digital onslaught, preventing major damage by redirecting malicious traffic and neutralizing malware.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After hours of intense concentration and tireless fighting, David finally stops the attack. The city remains blissfully unaware of how close they came to chaos.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the events, David decides to keep his abilities secret but remains vigilant, ready to protect his city whenever needed. His normal life continues, but now with an extraordinary secret.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, David Long melded his passions for programming and fitness into a heroic saga of clandestine guardianship.",
+  "moral": "Hidden strengths can emerge in the most ordinary individuals, guiding them to extraordinary acts of courage."
+}

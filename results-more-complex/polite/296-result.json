@@ -1,0 +1,45 @@
+{
+  "title": "The Serene Adventures of Pit Ward, Weaver of Justice",
+  "summary": "At age 79, Pit Ward discovers ancient fabrics that grant him unique powers, leading him through a week of transforming his small town by intertwining wisdom, peace, and justice.",
+  "summaryGerman": "Mit 79 Jahren entdeckt Pit Ward antike Stoffe, die ihm einzigartige Kräfte verleihen, und führt ihn durch eine Woche, in der er seine Kleinstadt durch die Verflechtung von Weisheit, Frieden und Gerechtigkeit verwandelt.",
+  "summaryDutch": "Op 79-jarige leeftijd ontdekt Pit Ward oude stoffen die hem unieke krachten geven, en hij brengt een week door met het transformeren van zijn kleine stad door wijsheid, vrede en gerechtigheid te verweven.",
+  "summaryFrench": "À 79 ans, Pit Ward découvre des tissus anciens qui lui confèrent des pouvoirs uniques, le menant à travers une semaine de transformation de sa petite ville en entrelaçant sagesse, paix et justice.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Pit Ward, while weaving a mysterious ancient yarn, discovers it glows with a strange hue, setting the stage for his transformation.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Empowered by the glowing yarn, Pit decides to craft a tapestry depicting the town’s history, inspiring unity and peace amongst his neighbors.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wedneday",
+      "text": "After hearing about recent thefts, Pit creates invisible security threads around the homes in his community, deterring the thieves mysteriously.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "At the town meeting, Pit reveals his new abilities and the purpose of his weaving, gaining support and awe from the community.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Pit spends the day weaving a giant net to capture a problematic wild animal, successfully relocating it without harm.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Reviving ancient patterns, Pit weaves warmth-keeping scarves for the elderly, spreading comfort and care.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The town gathers to celebrate Pit’s heroism with a festival of woven artworks, culminating in a grand display of unity and craft.",
+      "mood": "epic"
+    }
+  ],
+  "moral": "Even the aged and seemingly ordinary have the power to weave significant change and protect their communities."
+}

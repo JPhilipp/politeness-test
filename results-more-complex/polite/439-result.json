@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Linda Edwards",
+  "summary": "Linda Edwards, a 48-year-old with a passion for mentoring, discovers her superpowers and uses them to inspire and protect her community over the span of a week.",
+  "summaryGerman": "Linda Edwards, eine 48-jährige Frau mit einer Leidenschaft für Mentoring, entdeckt ihre Superkräfte und nutzt sie, um ihre Gemeinde innerhalb einer Woche zu inspirieren und zu schützen.",
+  "summaryDutch": "Linda Edwards, een 48-jarige vrouw met een passie voor mentoring, ontdekt haar superkrachten en gebruikt deze om haar gemeenschap gedurende een week te inspireren en te beschermen.",
+  "summaryFrench": "Linda Edwards, une femme de 48 ans passionnée par le mentorat, découvre ses superpouvoirs et les utilise pour inspirer et protéger sa communauté pendant une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Linda discovers her ability to control time while helping a troubled teen manage their schedule. Feeling energized, she uses this power to create extra hours for mentoring.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "She meets with city officials, using her influence to advocate for community programs. The officials are receptive, leaving Linda feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednezzday",
+      "text": "Disturbances in the community lead Linda to use her powers to prevent a local library from closing. Her actions build a peaceful resolution and maintain the library as a community hub.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A mysterious figure challenges Linda's efforts. The eerie mood of their encounter leaves her cautious but undeterred in her mission.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Her determination pays off as she's able to secure funding for a new youth center. Linda's happiness at this victory is shared with her mentees.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Linda hosts a large community gathering to celebrate their successes. It's an epic day filled with joy, games, and demonstrations of her time-control abilities to inspire the youngsters.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Linda feels a deep connection with her community. She vows to continue her protective and mentoring role, feeling content and fulfilled.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Linda looked over her city, flashlight in hand, ready to face a new week, her heart full of purpose and hope.",
+  "moral": "True heroism lies not only in the mighty acts but also in the daily commitment to making a positive impact."
+}

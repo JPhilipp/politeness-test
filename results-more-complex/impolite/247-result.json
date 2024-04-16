@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Valor: The Story of Alice Cooper",
+  "summary": "This story follows Alice Cooper, a 30-year-old superhero, whose hobbies are helping people and worshiping, as she faces challenges over a week but triumphs over a major threat to her city.",
+  "summaryGerman": "Diese Geschichte folgt Alice Cooper, einer 30-jährigen Superheldin, deren Hobbys Menschen helfen und Anbetung sind, während sie im Laufe einer Woche Herausforderungen begegnet, aber eine große Bedrohung für ihre Stadt überwindet.",
+  "summaryDutch": "Dit verhaal volgt Alice Cooper, een 30-jarige superheldin, wiens hobby's mensen helpen en aanbidden zijn, terwijl ze gedurende een week uitdagingen het hoofd biedt maar triomfeert over een grote bedreiging voor haar stad.",
+  "summaryFrench": "Cette histoire suit Alice Cooper, une super-héroïne de 30 ans, dont les passe-temps sont aider les gens et adorer, alors qu'elle fait face à des défis pendant une semaine mais triomphe d'une grande menace pour sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Alice Cooper starts her week helping at a local shelter and spreading cheer among the homeless. Her compassionate actions bring smiles to many faces.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Alice senses a mysterious, eerie energy pulsing beneath the city. She dedicates her day to investigate, finding clues and piecing together a potential threat.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wedenesday",
+      "text": "The threat becomes clearer: an ancient evil trying to resurface. Alice spends the day rallying her community for support and preparing for battle.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "An epic showdown takes place between Alice and the emerging evil force. She displays incredible courage and strength, protecting her beloved city.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "After a victorious battle, Alice helps to repair the city and restore peace. Her heroic efforts are celebrated by all those she has saved.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Alice spends a peaceful day recovering and worshiping, reflecting on the week's events and giving thanks for her strength and the support of her community.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Rejuvenated, Alice continues her regular activities of helping and worshiping, ready for whatever new challenges may come her way.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And so, Alice Cooper proved once again that with courage and unity, any darkness can be overcome.",
+  "moral": "Unity and courage are our greatest weapons against adversity."
+}

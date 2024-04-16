@@ -1,0 +1,46 @@
+{
+  "title": "The Courageous Chronicles of Alice Cook: Tutor by Day, Hero by Night",
+  "summary": "Over a week, Alice Cook, a 21-year-old tutor with a passion for helping others, discovers her supernatural ability to manipulate time during her tutoring and training sessions. She uses these powers to thwart a local crime spree, while maintaining her daily responsibilities.",
+  "summaryGerman": "Über eine Woche entdeckt Alice Cook, eine 21-jährige Tutorin mit einer Leidenschaft für das Helfen anderer, ihre übernatürliche Fähigkeit, während ihrer Tutoring- und Trainingssitzungen die Zeit zu manipulieren. Sie nutzt diese Kräfte, um eine lokale Verbrechenswelle zu vereiteln, während sie ihre täglichen Pflichten weiterführt.",
+  "summaryDutch": "Gedurende een week ontdekt Alice Cook, een 21-jarige tutor met een passie voor het helpen van anderen, haar bovennatuurlijke vermogen om tijd te manipuleren tijdens haar begeleiding- en trainingssessies. Ze gebruikt deze krachten om een lokale misdaadgolf te dwarsbomen, terwijl ze haar dagelijkse verantwoordelijkheden behoudt.",
+  "summaryFrench": "Pendant une semaine, Alice Cook, une tutrice de 21 ans passionnée par l'aide aux autres, découvre sa capacité surnaturelle à manipuler le temps lors de ses séances de tutorat et d'entraînement. Elle utilise ces pouvoirs pour contrer une vague de criminalité locale, tout en maintenant ses responsabilités quotidiennes.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Alice Cook starts her week tutoring mathematics, feeling peaceful as she helps students grasp complex concepts.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesdsay",
+      "text": "During a late evening run, Alice experiences a strange sensation and accidentally reverses time by five minutes.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Alice hones her newfound abilities, using them to perfect her training regimen, ending the day feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "While tutoring, Alice notices a commotion nearby; she discreetly uses her powers to stop a burglary, exciting her sense of justice.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Alice feels sad grappling with the morality of using her powers secretly, but resolves to be a guardian in the shadows.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During another evening chase, Alice becomes a mysterious protector, preventing a crime spree and inspiring safety tales among locals.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Alice feels content knowing she has made a difference while keeping her normal life intact.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the new week dawns, Alice Cook feels triumphant, committed to balancing both her lives, embodying the true spirit of a modern hero.",
+  "moral": "With great power comes great responsibility; use your gifts to make a positive impact on the world."
+}

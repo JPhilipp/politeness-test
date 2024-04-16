@@ -1,0 +1,46 @@
+{
+  "title": "The Sculpting Savior: The Adventures of Peggy Coleman",
+  "summary": "An 80-year-old sculptor and preacher, Peggy Coleman, discovers her ability to manipulate clay to life. Over a week, she uses her powers to solve community problems and teach valuable life lessons.",
+  "summaryGerman": "Eine 80-jährige Bildhauerin und Predigerin, Peggy Coleman, entdeckt ihre Fähigkeit, Ton zum Leben zu erwecken. Über eine Woche hinweg nutzt sie ihre Kräfte, um Gemeindeprobleme zu lösen und wertvolle Lebenslektionen zu vermitteln.",
+  "summaryDutch": "Een 80-jarige beeldhouwster en predikante, Peggy Coleman, ontdekt haar vermogen om klei tot leven te wekken. Gedurende een week gebruikt ze haar krachten om problemen in de gemeenschap op te lossen en waardevolle levenslessen te onderwijzen.",
+  "summaryFrench": "Une sculptrice et prédicatrice de 80 ans, Peggy Coleman, découvre sa capacité à manipuler l'argile pour la donner vie. Pendant une semaine, elle utilise ses pouvoirs pour résoudre des problèmes communautaires et enseigner des leçons de vie précieuses.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Peggy Coleman was sculpting in her backyard when her clay unexpectedly morphed into a small, lively dog. Amazed, she discovered her new powers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Inspired, Peggy sculpted a rain cloud to water the parched village park. The rain revitalized the community garden, much to everyone’s delight.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednedsay",
+      "text": "A local bully was causing trouble at the market. Peggy sculpted a large, friendly giant who gently deterred the bully, restoring peace.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Feeling reflective, Peggy sculpted an array of beautiful animals which she displayed at the local church, sharing messages of love and coexistence in her sermon.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The town council was struggling to agree on a new community project. Peggy crafted a model of her vision for a new community center, which swayed the council’s decision.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "To highlight the plight of endangered species, Peggy sculpted an interactive exhibit of various animals causing an outpouring of support and awareness.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Resting from her week's adventures, Peggy held a small gathering in her garden filled with her life-like sculptures, reminding the community of the power of creativity and faith.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "And so, with clay and faith, Peggy Coleman sculpted a better world, one masterpiece at a time.",
+  "moral": "Creativity and faith can turn ordinary resources into extraordinary solutions."
+}

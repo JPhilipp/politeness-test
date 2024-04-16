@@ -1,0 +1,46 @@
+{
+  "title": "The Spinning Tutor: Adventures of Judy Kelly",
+  "summary": "Judy Kelly, a 75-year-old superhero, uses her hobbies of tutoring and spinning to battle a week-long menace in her community, ultimately bringing peace and learning to all.",
+  "summaryGerman": "Judy Kelly, eine 75-jährige Superheldin, nutzt ihre Hobbys Nachhilfe geben und Spinnen, um eine wochenlange Bedrohung in ihrer Gemeinde zu bekämpfen und letztendlich Frieden und Lernen für alle zu bringen.",
+  "summaryDutch": "Judy Kelly, een 75-jarige superheldin, gebruikt haar hobby's bijles en spinnen om een week lang een bedreiging in haar gemeenschap te bestrijden, waardoor uiteindelijk vrede en leren voor iedereen wordt gebracht.",
+  "summaryFrench": "Judy Kelly, une super-héroïne de 75 ans, utilise ses passe-temps, le tutorat et le filage, pour combattre une menace qui dure une semaine dans sa communauté, apportant finalement la paix et l'apprentissage à tous.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy starts her week feeling energetic as she tutors local children and teaches them how to spin yarn, unknowingly weaving magical protection over the town.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "An eerie chill sweeps the town as mysterious shadows loom. Using her keen sense of observation, Judy identifies subtle changes in her students' behavior.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Armed with knowledge and conviction, Judy provides her students with spellbound yarn to carry as talismans, which she cleverly incorporates into the day's lessons.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Despite a peaceful day of tutoring, Judy senses tension. She spins late into the night, crafting more talismans, her wheel humming a comforting tune through the darkness.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The town's atmosphere turns sad as Judy discovers a nefarious plan to erase local cultural heritage. She mobilizes her old network of fellow artisans to fight back.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "An epic showdown unfolds at the town square, where Judy's spun talismans reveal their power, dispelling the shadows and uncovering the truth behind the disturbances.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The community gathers, celebrating their victory and the preservation of their heritage, all thanks to Judy's humble yet profound heroism.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "With every thread spun and every lesson taught, Judy Kelly wove a tapestry of protection and wisdom that would safeguard her community for generations.",
+  "moral": "One's everyday skills and passions can be powerful forces for good in the world."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Rise of Ivan Hall: Tutor by Day, Hero by Night",
+  "summary": "Ivan Hall, a 19-year-old tutor and consultant, discovers his superpowers and must balance his daily life with his new responsibilities as a superhero, ultimately saving his city from a mysterious threat.",
+  "summaryGerman": "Ivan Hall, ein 19-jähriger Tutor und Berater, entdeckt seine Superkräfte und muss sein tägliches Leben mit seinen neuen Pflichten als Superheld ausbalancieren, um letztendlich seine Stadt vor einer geheimnisvollen Bedrohung zu retten.",
+  "summaryDutch": "Ivan Hall, een 19-jarige tutor en consultant, ontdekt zijn superkrachten en moet zijn dagelijks leven in evenwicht brengen met zijn nieuwe verantwoordelijkheden als superheld, om uiteindelijk zijn stad te redden van een mysterieuze bedreiging.",
+  "summaryFrench": "Ivan Hall, un tuteur et consultant de 19 ans, découvre ses super-pouvoirs et doit équilibrer sa vie quotidienne avec ses nouvelles responsabilités en tant que super-héros, finalement pour sauver sa ville d'une menace mystérieuse.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ivan Hall spends his morning tutoring high school students in mathematics. After the session, while walking home, he rescues a cat stuck in a tree, discovering his ability to climb at superhuman speeds.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Puzzled by his newfound abilities, Ivan experiments after class. He learns he can also jump long distances. The evening is spent researching superpowers and potential vulnerabilities.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Ivan confides in his best friend about his powers. They brainstorm potential hero names and decide on 'The Academic Avenger'. Ivan feels energized and ready to explore his purpose.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "His first save as a superhero comes unexpectedly when he thwarts a robbery using his agility. News of a mysterious hero spreads in the city.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Ivan tries to keep up with his consulting projects while patrolling the city. He feels torn between his normal life and heroic duties but remains committed.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A major crisis unfolds as a strange fog envelops the city, causing chaos. Ivan uses his skills to safely navigate and assist trapped citizens, truly stepping up as a hero.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The fog clears to reveal a peaceful city, grateful for Ivan's bravery. Ivan realizes that his ability to help others extends beyond tutoring and consulting.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "With the city safe once more, Ivan Hall sits atop a skyscraper, watching the sunrise, ready for whatever challenges may come his way.",
+  "moral": "True heroism is balancing personal aspirations with the power to make a difference in the world."
+}

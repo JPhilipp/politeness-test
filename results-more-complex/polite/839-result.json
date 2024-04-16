@@ -1,0 +1,46 @@
+{
+  "title": "The Energetic Adventures of Judy Gonzales, Senior Superhero",
+  "summary": "Judy Gonzales is a 73-year-old who discovers her superpowers of speed knitting and culinary magic, using them to thwart local trouble and spread joy in her community.",
+  "summaryGerman": "Judy Gonzales ist eine 73-jährige, die ihre Superkräfte des Schnellstrickens und kulinarische Magie entdeckt, um örtliche Störungen zu vereiteln und Freude in ihrer Gemeinde zu verbreiten.",
+  "summaryDutch": "Judy Gonzales is een 73-jarige die haar superkrachten van snel breien en culinaire magie ontdekt, waarmee ze lokale problemen tegengaat en vreugde verspreidt in haar gemeenschap.",
+  "summaryFrench": "Judy Gonzales, âgée de 73 ans, découvre ses superpouvoirs de tricot rapide et de magie culinaire, qu'elle utilise pour contrer les troubles locaux et répandre la joie dans sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy Gonzales spends her morning crocheting a cozy blanket for the upcoming community fair. Little does she know, her hands move at an astonishing speed, finishing it in just hours!",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "At the fair, Judy's baked goods start repairing themselves every time someone takes a bite, causing great amazement and delight among the townsfolk.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tursday",
+      "text": "Noticing her new powers, Judy decides to help at a local farm. With her rapid crocheting, she fixes all the animal shelters overnight.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Using her culinary magic, Judy whips up gigantic, nutritious cookies to feed the whole town during a sudden food shortage.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Word of Judy’s deeds spreads. The local news comes to interview her, and she shyly shares her story, inspiring many.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "An unexpected frost threatens the crops, but Judy knits massive blankets to cover them, saving the harvest and earning the grateful farmers' cheers.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "To celebrate, Judy organizes a massive picnic, featuring her now-famous cookies and knitted gifts for everyone. The community binds even tighter in thanks and reverence.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Judy Gonzales proves that heroes come in all ages, and that it's never too late to discover your powers and use them for good.",
+  "moral": "No matter your age, you have the power to bring change and joy to your community."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Moments of Charlie Cox: A Hero's Journey",
+  "summary": "Over the course of one week, Charlie Cox, a 33-year-old with a passion for mentoring and photography, discovers his unique ability to manipulate time through photographs, using this power to save his city.",
+  "summaryGerman": "Im Laufe einer Woche entdeckt Charlie Cox, ein 33-Jähriger mit einer Leidenschaft für Mentoring und Fotografie, seine einzigartige Fähigkeit, durch Fotografien Zeit zu manipulieren, und nutzt diese Kraft, um seine Stadt zu retten.",
+  "summaryDutch": "Gedurende een week ontdekt Charlie Cox, een 33-jarige met een passie voor mentoring en fotografie, zijn unieke vermogen om met foto's de tijd te manipuleren, en gebruikt deze kracht om zijn stad te redden.",
+  "summaryFrench": "Au cours d'une semaine, Charlie Cox, un homme de 33 ans passionné par le mentorat et la photographie, découvre sa capacité unique de manipuler le temps à travers les photographies, utilisant ce pouvoir pour sauver sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Charlie Cox, while mentoring young photographers, stumbles upon an old camera with mystical properties. Capturing a scene of a minor accident and spontaneously rewinding the moment, he is bewildered by his newfound power.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuseday",
+      "text": "Experimenting further, Charlie uses the camera to prevent a robbery, discovering he can change small events by capturing and altering their outcomes before they finalize.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Charlie saves a cat stuck in a tree by rewinding its jump. Recognizing the responsibility his power holds, he decides to use his gift discreetly and wisely.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The news of peculiar occurrences spreads, placing Charlie on alert. He has to carefully balance his life between his professional passion and his secret nightly activities.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A close call with a curious journalist makes Charlie aware of the need for secrecy. He must protect his identity to maintain the normalcy of his day-to-day life.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a photography exhibit, Charlie notices an impending disaster through his camera's viewfinder and discreetly averts it, realising the broad scope of situations he can influence.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week's adventures, Charlie commits to being a guardian of his city, blending his love for photography with his role as a mysterious hero.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus, Charlie Cox found harmony between his passion and his power, forever capturing moments not just to preserve them, but to make them right.",
+  "moral": "Great power must be coupled with great responsibility and discretion."
+}

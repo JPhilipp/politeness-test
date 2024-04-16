@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Oscar Jenkins: The Organized Mentor",
+  "summary": "Oscar Jenkins discovers his unique ability to foresee and prevent disasters with his organizational skills, using them to save his city over the span of a week.",
+  "summaryGerman": "Oscar Jenkins entdeckt seine einzigartige Fähigkeit, mit seinen organisatorischen Fähigkeiten Katastrophen vorherzusehen und zu verhindern, und verwendet sie, um seine Stadt innerhalb einer Woche zu retten.",
+  "summaryDutch": "Oscar Jenkins ontdekt zijn unieke vermogen om rampen te voorzien en te voorkomen met zijn organisatorische vaardigheden, en gebruikt ze om zijn stad te redden gedurende een week.",
+  "summaryFrench": "Oscar Jenkins découvre sa capacité unique à prévoir et à prévenir les catastrophes grâce à ses compétences organisationnelles, qu'il utilise pour sauver sa ville en l'espace d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar Jenkins starts his week like any other, mentoring local youth on leadership. But as he organizes an event, he has a sudden vision of a gas leak in the area.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesaday",
+      "text": "Oscar acts on his premonition, evacuating the building before anyone is harmed. The gas company confirms his suspicion, amazed by his foresight.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Buoyed by his success, Oscar feels a surge of responsibility. He spends the day refining his skills, organizing a small community fair while keeping a vigilant eye.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A suspicious person is observed at the fair. Oscar, following his instincts, diplomatically handles the situation, preventing a potential theft.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Oscar's growing reputation as a protector leads more people to seek his guidance. He mentors them on safety and preparedness, fostering a vigilant community.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "His visions become clearer, predicting a major storm. Oscar organizes the town for quick evacuation and safety measures, minimizing the impact. ",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "As the storm clears, Oscar reflects on his eventful week. The town praises him for his heroics, recognizing him as 'The Organized Protector'.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Thus Oscar Jenkins, through simple acts of organization and foresight, became a true hero.",
+  "moral": "Early preparation and attention to detail can save lives and create heroes."
+}

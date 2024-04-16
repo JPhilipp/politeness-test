@@ -1,0 +1,45 @@
+{
+  "title": "The Wool Weaver - The Tale of Xavier Miller",
+  "summary": "Xavier Miller, a 56-year-old with a passion for knitting and teaching, discovers mystical yarn that grants him superpowers. Throughout a week, he uses his powers to subtly change his community, confronting challenges and ultimately teaching a profound lesson of compassion and courage.",
+  "summaryGerman": "Xavier Miller, ein 56-Jähriger mit einer Leidenschaft für Stricken und Unterrichten, entdeckt mystische Wolle, die ihm Superkräfte verleiht. Innerhalb einer Woche nutzt er seine Kräfte, um seine Gemeinde subtil zu verändern, stellt sich Herausforderungen und lehrt letztendlich eine tiefgreifende Lektion über Mitgefühl und Mut.",
+  "summaryDutch": "Xavier Miller, een 56-jarige met een passie voor breien en lesgeven, ontdekt mystieke garen die hem superkrachten geeft. Gedurende een week gebruikt hij zijn krachten om subtiel zijn gemeenschap te veranderen, confronteert uitdagingen en leert uiteindelijk een diepgaande les over mededogen en moed.",
+  "summaryFrench": "Xavier Miller, 56 ans, passionné de tricot et d'enseignement, découvre un fil mystique qui lui confère des superpouvoirs. Tout au long d'une semaine, il utilise ses pouvoirs pour changer subtilement sa communauté, relève des défis et enseigne finalement une leçon profonde de compassion et de courage.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Xavier Miller, while organizing his knitting supplies, discovers a strange, shimmering yarn. Intrigued, he decides to knit a scarf. As he weaves, the yarn imbues him with a sense of profound peace and the power to heal wounds through the fabric.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuedsay",
+      "text": "Testing his newfound powers, Xavier subtly heals his neighbor's sprained ankle with a knitted wristband. Amazed by the results, he feels a blend of happiness and responsibility.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Xavier holds a knitting class where he teaches retirees to knit. During the session, he discreetly uses his abilities to relieve their minor aches and pains, feeling a deep satisfaction in improving their lives.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "During a local fair, Xavier hears about a spreading illness. He knits face masks overnight and distributes them, secretly imbuing each with protective qualities. The community feels safer, and Xavier is triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Xavier encounters doubt when a skeptical journalist questions the sudden wellness in town. Struggling with whether to reveal his secret, he feels a mix of emotions.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Deciding honesty is best, Xavier reveals his powers through a public knitting demonstration, showing how his crafts heal and protect. The community responds with awe and gratitude, deepening their respect for him.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Xavier continues his knitting, now openly using his powers to aid his community. Feeling fulfilled and energetic, he realizes the true impact of his abilities and the importance of embracing one's unique gifts.",
+      "mood": "energetic"
+    }
+  ],
+  "ending": "In a world where heroes come in many forms, Xavier Miller knitted his way into the hearts of his community."
+}

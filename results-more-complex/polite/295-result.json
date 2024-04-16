@@ -1,0 +1,46 @@
+{
+  "title": "The Blossoming Heroics of Romeo Scott",
+  "summary": "Romeo Scott, a counselor and gardening enthusiast by day, discovers his supernatural abilities to influence emotions and promote growth. Over a week, he thwarts a city threat using his unique powers, bringing peace and restoration.",
+  "summaryGerman": "Romeo Scott, tagsüber Berater und Gartenbauenthusiast, entdeckt seine übernatürlichen Fähigkeiten, Emotionen zu beeinflussen und Wachstum zu fördern. Innerhalb einer Woche vereitelt er eine Bedrohung für die Stadt durch seine einzigartigen Kräfte und bringt Frieden und Wiederherstellung.",
+  "summaryDutch": "Romeo Scott, overdag een counselor en tuinierliefhebber, ontdekt zijn bovennatuurlijke vermogens om emoties te beïnvloeden en groei te bevorderen. In de loop van een week verijdelt hij een bedreiging voor de stad met zijn unieke krachten, waardoor vrede en herstel wordt gebracht.",
+  "summaryFrench": "Romeo Scott, conseiller et amateur de jardinage de jour, découvre ses capacités surnaturelles à influencer les émotions et à promouvoir la croissance. En une semaine, il déjoue une menace pour la ville grâce à ses pouvoirs uniques, apportant paix et restauration.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Romeo Scott spends a peaceful morning in his garden, unknowingly activating his latent power to accelerate plant growth. His hands glow a soft green as flowers bloom instantly around him.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While counseling a client, Romeo accidentally taps into his emotion-altering abilities, helping them overcome deep-seated anxiety. He realizes his powers could serve a greater purpose.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednesdy",
+      "text": "An eerie chill pervades the city as a malevolent fog descends. Romeo senses its impact on the populace’s emotions, feeling a call to action.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Romeo uses his emotional powers to instill hope and drive back the fog. He discovers he can combine his abilities with his counseling skills for more potent effects.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Armed with gardening supplies, Romeo embarks on a city-wide campaign to plant mood-enhancing flora, clearing the fog entirely and lifting spirits across the community.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Romeo's efforts attract media attention. Amidst interviews, he shares insights on emotional wellness, connecting his double life as a counselor and a superhero.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Romeo returns to his garden. He realizes his dual role in nurturing both plants and people, feeling a profound connection to life’s interconnected nature.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "As the sun set on Sunday, Romeo Scott felt ready to cultivate growth and happiness wherever his unique powers were needed.",
+  "moral": "Embrace your uniqueness, for it holds the power to restore and inspire."
+}

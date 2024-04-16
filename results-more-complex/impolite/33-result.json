@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Bob Cox, Consulting Hero",
+  "summary": "Bob Cox, a 38-year-old advising and consulting expert, unexpectedly gains superpowers and uses them to solve complex challenges, ultimately saving his city while tackling his personal demons in a week-long adventure.",
+  "summaryGerman": "Bob Cox, ein 38-jähriger Beratungs- und Consulting-Experte, erhält unerwartet Superkräfte und nutzt sie, um komplexe Herausforderungen zu lösen und seine Stadt zu retten, während er in einem einwöchigen Abenteuer seine persönlichen Dämonen bekämpft.",
+  "summaryDutch": "Bob Cox, een 38-jarige expert in adviseren en consulten, krijgt onverwachts superkrachten en gebruikt deze om complexe uitdagingen op te lossen en zijn stad te redden, terwijl hij zijn persoonlijke demonen aanpakt in een avontuur van een week.",
+  "summaryFrench": "Bob Cox, un expert de 38 ans en conseil et consultation, gagne soudainement des superpouvoirs et les utilise pour résoudre des défis complexes, ultimement sauvant sa ville tout en affrontant ses démons personnels dans une aventure qui dure une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Bob Cox starts his week with a typical consultancy meeting, but a strange meteorite crash near his office gifts him with the power to see the future. He predicts a major crisis and feels eerily powerful.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tyesday",
+      "text": "Bob uses his new abilities to warn the city officials about an impending disaster he foresaw. Initially met with skepticism, his accuracy proves undeniable, giving him new confidence.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "With the crisis averted, Bob feels energized and decides to use his powers proactively. He starts a consulting service for difficult-to-solve cases, blending his professional skills with his superpower.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Bob encounters a challenging case that requires him to delve into his past experiences, reminding him of the less successful ventures he had. The journey is tough but enlightening.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Riding on his week's success, Bob helps a struggling romantic couple foresee the outcomes of their decisions. His advice restores their love, and they thank him deeply, feeling more connected than ever.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Encouraged by yesterday's success Bob hosts a seminar on how to harness potential power within oneself. The event turns out to be a huge hit, reaffirming his role as a hero in the professional world.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Having transformed his powers into a tool for helping others, Bob enjoys a peaceful day reflecting on his incredible week. He understands that helping others can also heal oneself.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus, Bob Cox found his true calling not just in consulting, but in using his powers to make real changes in the world.",
+  "moral": "Your greatest challenges can become your most powerful tools for helping others."
+}

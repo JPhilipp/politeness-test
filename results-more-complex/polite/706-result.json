@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Bob Perry: Counselor by Day, Hero by Night",
+  "summary": "Bob Perry, a 38-year-old counselor, discovers his hidden powers and uses them to resolve tensions in his community while also combating a mysterious threat.",
+  "summaryGerman": "Bob Perry, ein 38-jähriger Berater, entdeckt seine verborgenen Kräfte und nutzt sie, um Spannungen in seiner Gemeinde zu lösen und gleichzeitig eine mysteriöse Bedrohung zu bekämpfen.",
+  "summaryDutch": "Bob Perry, een 38-jarige counselor, ontdekt zijn verborgen krachten en gebruikt ze om spanningen in zijn gemeenschap op te lossen en tegelijkertijd een mysterieuze bedreiging te bestrijden.",
+  "summaryFrench": "Bob Perry, un conseiller de 38 ans, découvre ses pouvoirs cachés et les utilise pour résoudre les tensions dans sa communauté tout en combattant une menace mystérieuse.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Bob Perry stumbled upon a glowing stone during a morning jog, which inexplicably granted him the power of empathy enhancement, feeling the emotions of others more intensely.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Using his newfound abilities, Bob successfully mediated a major dispute at the local community center, feeling both fulfilled and energized.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Bob's powers started to affect his personal life, causing strain with his family due to the overwhelming emotions, leading to a sad evening of reflection.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thursdsay",
+      "text": "An anonymous note led Bob to suspicious activities at the town's edge. His investigation filled the night with an epic sense of purpose.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Bob, feeling energetic, used his counseling session to empower his clients, harnessing his abilities for greater community healing.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a day of relaxation and hobby coaching, Bob encountered a romantic interest who shared similar passions, adding a new layer to his life.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Bob resolved the threat to his town by revealing the corrupt officials behind the suspicious activities, restoring peace and earning the town’s gratitude.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the sun set on a grateful community, Bob Perry smiled, knowing his journey had only just begun.",
+  "moral": "Hidden strengths can be found in the most unexpected places and times."
+}

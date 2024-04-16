@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Victor Morgan",
+  "summary": "At 61, Victor Morgan discovers his unique ability to manipulate time during his favorite activities, drawing and counseling, which he uses to save his community from an impending disaster.",
+  "summaryGerman": "Mit 61 entdeckt Victor Morgan seine einzigartige Fähigkeit, während seiner Lieblingsbeschäftigungen, Zeichnen und Beratung, die Zeit zu manipulieren, die er nutzt, um seine Gemeinde vor einer bevorstehenden Katastrophe zu retten.",
+  "summaryDutch": "Op 61-jarige leeftijd ontdekt Victor Morgan zijn unieke vermogen om tijdens zijn favoriete bezigheden, tekenen en counselen, de tijd te manipuleren, wat hij gebruikt om zijn gemeenschap te redden van een dreigende ramp.",
+  "summaryFrench": "À 61 ans, Victor Morgan découvre sa capacité unique à manipuler le temps pendant ses activités préférées, le dessin et le conseil, qu'il utilise pour sauver sa communauté d'une catastrophe imminente.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Victor Morgan starts his week peacefully drawing landscapes at the local community center, unaware that his drawings are altering reality outside.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While counseling a troubled youth, Victor accidentally discovers his ability to rewind time, using it to prevent a serious altercation.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednessday",
+      "text": "Victor experiments with his newfound powers, creating eerie moments where time stands still, allowing him to better understand his abilities.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Empowered and energetic, Victor decides to use his power to counsel people in crisis, fixing more conflicts and mending broken relationships.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "News of Victor's abilities spread, making him a local hero. He grows increasingly confident, staging a romantic sunset that reunites a long-separated couple.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The city faces a devastating flood. Utilizing his mastery over time, Victor coordinates a successful community evacuation, saving countless lives.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "After a week of heroics, Victor spends his day drawing the epic events, sealing his memories and committing to continue helping as long as he can.",
+      "mood": "happy"
+    }
+  ],
+  "moral": "No matter the age, one's unique talents and experiences can be harnessed for the greater good.",
+  "ending": "And so, Victor Morgan lived each day to its fullest, always ready to turn the tides of time for the sake of others."
+}

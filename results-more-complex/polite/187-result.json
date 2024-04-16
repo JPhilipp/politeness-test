@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Zelda Thomas: City's Unseen Guardian",
+  "summary": "Zelda Thomas, a 33-year-old with hobbies in coaching and advising, discovers her supernatural powers and uses them to protect her city from a hidden threat over the course of a week.",
+  "summaryGerman": "Zelda Thomas, eine 33-Jährige mit Hobbys im Coaching und Beraten, entdeckt ihre übernatürlichen Kräfte und nutzt sie, um ihre Stadt im Laufe einer Woche vor einer verborgenen Bedrohung zu schützen.",
+  "summaryDutch": "Zelda Thomas, een 33-jarige met hobby's in coaching en adviseren, ontdekt haar bovennatuurlijke krachten en gebruikt ze om haar stad te beschermen tegen een verborgen dreiging gedurende een week.",
+  "summaryFrench": "Zelda Thomas, âgée de 33 ans et passionnée par le coaching et le conseil, découvre ses pouvoirs surnaturels et les utilise pour protéger sa ville d'une menace cachée au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda starts her week feeling energetic as she prepares for a busy week of coaching. Little does she know, she will soon discover her hidden powers.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While walking through a less-traveled part of the city, Zelda witnesses a mysterious event that triggers her superhero abilities: she can manipulate time!",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Zelda, now aware of her powers, decides to use them to avert small crises around the city, subtly helping people avoid accidents and dangers.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thuersday",
+      "text": "After a close call during her secret heroics, Zelda feels the weight of her new responsibility and consults an old friend experienced in metaphysical matters.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Zelda becomes more comfortable with her powers. She saves a child from a falling tree branch, which leaves the city in awe of the mysterious new hero.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Feeling romantic, Zelda spends her day with her significant other, keeping her superhero identity a secret. They enjoy a peaceful day unaware of her double life.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Zelda prepares for the upcoming week, deciding to embrace her role as the city's guardian fully.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Zelda's story began as an ordinary week but turned into the start of her new life as a superhero.",
+  "moral": "Everyday heroes walk among us, often hiding in plain sight."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Charlie Campbell: Tutor Turned Hero",
+  "summary": "Charlie Campbell, a tutoring enthusiast with a knack for promoting good causes, stumbles upon mysterious powers, uses them to fight crime in his city, and confronts a powerful adversary, learning the true extent of his abilities.",
+  "summaryGerman": "Charlie Campbell, ein begeisterter Tutor mit einem Talent für die Förderung guter Zwecke, stößt auf mysteriöse Kräfte, nutzt sie, um in seiner Stadt Verbrechen zu bekämpfen, und trifft auf einen mächtigen Gegner, wodurch er das wahre Ausmaß seiner Fähigkeiten erkennt.",
+  "summaryDutch": "Charlie Campbell, een enthousiaste tutor met een talent voor het promoten van goede doelen, ontdekt mysterieuze krachten, gebruikt deze om misdaad in zijn stad te bestrijden, en confronteert een krachtige tegenstander, waardoor hij de ware omvang van zijn mogelijkheden leert.",
+  "summaryFrench": "Charlie Campbell, un passionné de tutorat avec un don pour la promotion de bonnes causes, découvre des pouvoirs mystérieux, les utilise pour lutter contre le crime dans sa ville et affronte un adversaire puissant, apprenant ainsi l'étendue réelle de ses capacités.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Charlie Campbell starts his week as usual, tutoring kids and promoting the upcoming charity event. However, during a promotion, he unexpectedly halts a robbery with astonishing reflexes and strength he did not know he possessed.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Curious about his newfound abilities, Charlie experiments after work. He discovers he can also see in the dark and leap incredible distances. Charlie decides to use these powers for good.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Wearing a mask, Charlie stops a street fight and prevents a store break-in. Word about a mysterious hero begins to spread in the community. He feels a profound sense of purpose.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A suspicious figure begins tracking the movements of 'the masked tutor'. Charlie grows concerned that his dual life may bring danger to his daytime activities.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Fraiday",
+      "text": "Charlie’s adversary reveals himself as a former scientist bent on gaining powers through unethical experiments. They clash dramatically across the rooftops of the city.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After a fierce battle, Charlie outsmarts and defeats the deranged scientist, promising to dismantle the criminal network the scientist had built. The city celebrates its new hero.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Charlie decides to manage both lives, using his days to educate and his nights to protect. He starts creating his official superhero identity.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "In the balance of light and darkness, Charlie Campbell found his true calling.",
+  "moral": "With great power comes great responsibility, and a chance to make a real difference."
+}

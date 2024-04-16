@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Victor Yang: Teacher by Day, Hero by Night",
+  "summary": "Victor Yang, a 42-year-old teacher, discovers his ability to manipulate sound waves during an incident at his school. Throughout the week, he learns to control his powers, assists in various emergencies and speaks against crime, becoming a local hero.",
+  "summaryGerman": "Victor Yang, ein 42-jähriger Lehrer, entdeckt seine Fähigkeit, Schallwellen zu manipulieren, bei einem Vorfall in seiner Schule. Im Laufe der Woche lernt er, seine Kräfte zu kontrollieren, hilft bei verschiedenen Notfällen und spricht sich gegen Kriminalität aus und wird so zu einem lokalen Helden.",
+  "summaryDutch": "Victor Yang, een 42-jarige leraar, ontdekt zijn vermogen om geluidsgolven te manipuleren tijdens een incident op zijn school. Gedurende de week leert hij zijn krachten te beheersen, helpt bij verschillende noodgevallen en spreekt zich uit tegen misdaad, en wordt een lokale held.",
+  "summaryFrench": "Victor Yang, un enseignant de 42 ans, découvre sa capacité à manipuler les ondes sonores lors d'un incident dans son école. Tout au long de la semaine, il apprend à contrôler ses pouvoirs, aide lors de diverses urgences et prend la parole contre le crime, devenant un héros local.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Victor Yang was in the middle of a lecture when a sudden burst of sound shattered the windows. Unharmed but startled, he realized he had unintentionally amplified his voice. Alone afterward, he experimented, finding he could manipulate sound waves.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Emboldened by his newfound powers, Victor spent the day learning to control them. He discovered he could silence a room or amplify a whisper to echo through the halls. Energized, he prepared a speech on using powers for good.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Using his abilities, Victor halted a robbery by disorienting the thieves with an intense resonance. As the police arrived, he disappeared into the night, feeling triumphant about his covert heroism.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "After yesterday’s events, Victor spoke at a community center about responsibility and power, igniting public interest. He felt happy to use both his speaking skills and new abilities to make a difference.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Fiiday",
+      "text": "A call for help had Victor aiding emergency responders to free trapped victims in a collapsed building using his sound manipulation to detect and communicate with the survivors. The ordeal was intense, but his efforts were epic.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Victor spent a quiet day refining his control over his powers. Focusing on minor, peaceful uses, he practiced by helping neighbors with noise reduction and enjoying calm discussions about everyday heroism.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ending the week as a speaker at a large anti-violence rally, Victor used his status as a local hero to advocate for peace and justice. He felt profoundly fulfilled, having found a balance between his life as a teacher and a superhero.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "As the sun set on Sunday, Victor stood smiling, ready for whatever challenges the next week would bring.",
+  "moral": "With great power comes great responsibility, and even the most ordinary days can be a backdrop for making a difference."
+}

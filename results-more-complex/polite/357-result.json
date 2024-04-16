@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Sue Cooper",
+  "summary": "Sue Cooper, a 38-year-old instructor and mentor, discovers her hidden superpowers and saves her town from an impending disaster over the span of a week.",
+  "summaryGerman": "Sue Cooper, eine 38-jährige Ausbilderin und Mentorin, entdeckt ihre verborgenen Superkräfte und rettet ihre Stadt innerhalb einer Woche vor einer bevorstehenden Katastrophe.",
+  "summaryDutch": "Sue Cooper, een 38-jarige instructrice en mentor, ontdekt haar verborgen superkrachten en redt haar stad van een dreigende ramp in de loop van een week.",
+  "summaryFrench": "Sue Cooper, une formatrice et mentor de 38 ans, découvre ses superpouvoirs cachés et sauve sa ville d'une catastrophe imminente durant une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Sue Cooper starts her week as usual, teaching and mentoring with a bright smile. By noon, an unexplained surge of energy propels her to apprehend a fleeing thief effortlessly, marking the first glimpse of her newfound abilities.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Intrigued by her unexpected heroic act, Sue spends the day testing her limits. She discovers she can command elements of nature, a realization that leaves her both astonished and excited about her potential.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Odnesday",
+      "text": "Midweek, Sue courageously rescues a family from a burning building using her power to manipulate water, drawing attention from the local media and community.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Dealing with her sudden fame and superpowers, Sue feels overwhelmed and isolates herself to reflect on her new responsibilities and the impact on her normal life.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Inspired by her mentors, Sue decides to use her powers for the greater good. She begins planning ways to blend her instructional skills with her abilities to teach safety and preparedness.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a community event, Sue demonstrates her powers publicly for the first time, earning admiration and gaining a group of supporters who offer to help her in her mission.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Sue ends her week by preventing a natural disaster, using her mastery over the elements to divert a severe storm away from her town, receiving praises as the town's guardian.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "And so, Sue Cooper learned that heroism is as much about the power within as it is about the choices one makes.",
+  "moral": "True heroism lies not in the power one possesses, but in how one chooses to use that power."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of David Perry: The Guiding Light",
+  "summary": "Over the course of a week, David Perry discovers his powers of influence and guidance, using them to advert danger and guide his community.",
+  "summaryGerman": "Im Laufe einer Woche entdeckt David Perry seine Kräfte der Einflussnahme und Führung, um Gefahren abzuwenden und seiner Gemeinschaft den Weg zu weisen.",
+  "summaryDutch": "Gedurende een week ontdekt David Perry zijn krachten van invloed en begeleiding, waarmee hij gevaar afwendt en zijn gemeenschap leidt.",
+  "summaryFrench": "Au cours d'une semaine, David Perry découvre ses pouvoirs d'influence et de guidance, les utilisant pour écarter le danger et guider sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "David Perry, a passionate advertiser with a knack for guiding tours, finds himself feeling unexplained energetic waves throughout his body while conducting a presentation.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesady",
+      "text": "David discovers he can influence people's emotions and decisions subtly. He experiments with calming an impatient client and is thrilled with the positive effects.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "While leading a historical city tour, eerie sensations guide David to a hidden underground passage, revealing lost artifacts of the city.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Utilizing his newfound guidance abilities, David helps a lost child find her parents in a crowded festival, feeling an immense sense of peace and purpose.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "David's abilities become well-known, and he's asked to help negotiate a crucial community deal, where his influence leads to a happy agreement among parties.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "His day off turns romantic when he uses his guiding light to create a perfect surprise date for his partner, enhancing their mutual attraction.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Gathering trusted friends, David forms a team dedicated to using their various abilities for the greater good of their city, feeling utterly epic as they plan their future.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus, David Perry transforms from an advertising expert into the Guiding Light of the city, finding his true calling in life.",
+  "moral": "The power to influence and guide others should be used wisely and for the common good."
+}

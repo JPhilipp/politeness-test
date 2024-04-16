@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Guardian: The Week of Charlie Wright",
+  "summary": "Charlie Wright, a 51-year-old with a passion for presenting and encouraging, discovers his hidden ability to influence emotions and uses it to solve problems in his community over the span of a week.",
+  "summaryGerman": "Charlie Wright, ein 51-Jähriger mit einer Leidenschaft für Präsentationen und Ermutigungen, entdeckt seine verborgene Fähigkeit, Emotionen zu beeinflussen, und nutzt sie, um Probleme in seiner Gemeinschaft im Laufe einer Woche zu lösen.",
+  "summaryDutch": "Charlie Wright, een 51-jarige met een passie voor presenteren en aanmoedigen, ontdekt zijn verborgen vermogen om emoties te beïnvloeden en gebruikt dit om problemen in zijn gemeenschap gedurende een week op te lossen.",
+  "summaryFrench": "Charlie Wright, âgé de 51 ans et passionné par la présentation et l'encouragement, découvre sa capacité cachée à influencer les émotions et l'utilise pour résoudre des problèmes dans sa communauté au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "At a local motivational seminar, Charlie Wright inadvertently calms an escalating argument just with his reassuring presence and words, sparking his curiosity about his unusual influence.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Energized by yesterday's discovery, Charlie experiments by encouraging his coworkers with personalized pep talks, observing an immediate boost in productivity and morale.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedneday",
+      "text": "Charlie volunteers at a nearby school, using his presenting skills to help shy students build confidence, resulting in a heartfelt thank-you note from a once-mute student.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "After hearing about a local crisis, Charlie heads to the scene and uses his calming influence to facilitate a peaceful resolution between feuding parties.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Feeling the toll of his new role, Charlie is momentarily overwhelmed and doubts his abilities. However, a heartfelt conversation with a grateful villager renews his purpose.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With new resolve, Charlie organizes a community event that brings everyone together, fostering connections and repairing old wounds through shared stories and laughter.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week's events at his favorite quiet spot, Charlie decides to embrace his role as the 'Unseen Guardian' of his town, vowing to continue making a difference quietly but effectively.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And so, Charlie Wright, with no cape or mask, became a hero in the truest sense, wielding his power of encouragement to heal and unify.",
+  "moral": "True heroism lies not in the grand gestures, but in the quiet moments of kindness and support."
+}

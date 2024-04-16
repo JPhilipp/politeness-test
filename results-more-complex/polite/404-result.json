@@ -1,0 +1,46 @@
+{
+  "title": "The Weaving Wisdom of Frank Johnson",
+  "summary": "Frank Johnson, a 53-year-old who enjoys weaving and advising, becomes a local hero by using his unique abilities to solve mysterious incidents in his town over the course of a week.",
+  "summaryGerman": "Frank Johnson, ein 53-jähriger Mann, der Weben und Beraten mag, wird innerhalb einer Woche zum Helden der Stadt, indem er seine einzigartigen Fähigkeiten nutzt, um mysteriöse Vorfälle zu lösen.",
+  "summaryDutch": "Frank Johnson, een 53-jarige die van weven en adviseren houdt, wordt in de loop van een week een lokale held door zijn unieke vaardigheden te gebruiken om mysterieuze incidenten in zijn stad op te lossen.",
+  "summaryFrench": "Frank Johnson, âgé de 53 ans et passionné de tissage et de conseil, devient un héros local en utilisant ses capacités uniques pour résoudre des incidents mystérieux dans sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank discovers a peculiar pattern in the local crime reports while weaving a blanket. Feeling intrigued, he decides to investigate further.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "He visits the scenes of the recent mysterious thefts, dispensing advice to concerned neighbors and gathering clues.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedneday",
+      "text": "Using his analytical skills honed from weaving intricate patterns, Frank connects the dots between the crimes, leading him closer to the perpetrator.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Frank sets a trap using a beautifully crafted textile as bait. His plan: to catch the thief in the act.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "His trap works perfectly. Frank apprehends the thief, who is astonished by Frank's clever use of weaving in the sting operation.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Local news outlets swarm Frank, eager to learn about the unique blend of crafting and crime-solving. Frank feels a bit overwhelmed but happy.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Frank returns to his peaceful weaving, satisfied with having made his community safer.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "With the threads of mystery unraveled, Frank continued to weave his tales and advice into the fabric of his community.",
+  "moral": "Skills in unexpected passions can often be the thread that solves even the most tangled mysteries."
+}

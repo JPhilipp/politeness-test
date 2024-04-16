@@ -1,0 +1,46 @@
+{
+  "title": "The Energetic Aura of Grace Campbell",
+  "summary": "Grace Campbell discovers her newfound powers of emotional aura manipulation, using them to help her community over the course of a week.",
+  "summaryGerman": "Grace Campbell entdeckt ihre neu gewonnenen Kräfte zur Manipulation emotionaler Auren und nutzt sie, um ihrer Gemeinschaft im Laufe einer Woche zu helfen.",
+  "summaryDutch": "Grace Campbell ontdekt haar nieuwgevonden krachten van emotionele aura-manipulatie en gebruikt ze om haar gemeenschap gedurende een week te helpen.",
+  "summaryFrench": "Grace Campbell découvre ses nouveaux pouvoirs de manipulation des auras émotionnelles, qu'elle utilise pour aider sa communauté au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Mnday",
+      "text": "Grace Campbell starts her week feeling unusually energetic while coaching her local youth sports team. Suddenly, she notices the team's spirits lifting inexplicably whenever she feels particularly upbeat.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Noticing her impact, Grace experiments with her mood during a city council meeting that she attends. As she focuses on feelings of optimism, the previously tense atmosphere lightens, and the meeting ends on a productive note.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Grace chooses to use her powers subtly at the town’s hospital, exuding calmness and peace around patients and staff. Her presence seems to facilitate faster recoveries and more optimistic outlooks.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Curious about the limits of her abilities, Grace triggers a wave of sadness during a visit to a troubled area, only to quickly realize that amplifying negative emotions has immediate adverse effects. She vows to use her powers responsibly.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Determined to make amends, Grace spends her day spreading joy at a local festival. Her aura enhances the communal joy, making the event a memorable one for everyone involved.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Grace meets another individual with similar powers. Their shared experiences lead to an unexpected and deep connection, adding a new dimension to her abilities and her understanding of them.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Grace reflects on her week, pleased with the outcomes and aware of the responsibilities her powers carry. She ends her week surrounded by friends and family, feeling fulfilled and ready to continue her journey.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And thus, Grace Campbell learns the extent of her influence and the wisdom needed to wield it.",
+  "moral": "With great power comes great responsibility."
+}

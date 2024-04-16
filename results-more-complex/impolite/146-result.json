@@ -1,0 +1,46 @@
+{
+  "title": "The Week Ling Gray Became a Hero",
+  "summary": "Ling Gray, normally a counselor, uses her skills to avert a crisis in her city, gaining new powers along the way.",
+  "summaryGerman": "Ling Gray, normalerweise eine Beraterin, nutzt ihre Fähigkeiten, um eine Krise in ihrer Stadt zu verhindern und gewinnt dabei neue Kräfte.",
+  "summaryDutch": "Ling Gray, normaal gesproken een counselor, gebruikt haar vaardigheden om een crisis in haar stad te voorkomen, en verwerft onderweg nieuwe krachten.",
+  "summaryFrench": "Ling Gray, habituellement conseillère, utilise ses compétences pour éviter une crise dans sa ville, tout en acquérant de nouveaux pouvoirs.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Gray, a dedicated motivator and counselor, discovered she could hear the inner fears and desires of people around her. This new realization left her both shocked and curious.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Excited by her new abilities, Ling experimented with her power at work, subtly using her insights to guide her clients towards overcoming their fears.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Ling felt her powers growing stronger as she helped a young couple save their marriage, allowing her to not only hear but also soothe their emotional turmoil.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A local crisis emerged when a fire broke out near a crowded mall. Ling rushed to the scene, using her abilities to calm the crowd and coordinate a successful evacuation.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Her heroics made the news, and Ling was celebrated as a local hero. She was happy but realized that her life would never be the same again.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a moment of reflection, Ling decided to use her powers for greater societal good, planning to offer free group counseling sessions using her unique abilities.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ling spent the day with friends and family who supported her new journey. They discussed the potential of her powers, ending the week on a hopeful note.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And so, Ling Gray embraced her role as a counselor and hero, ready to face whatever challenges lied ahead.",
+  "moral": "Great power brings great responsibility, but also the opportunity to make a significant difference in the lives of others."
+}

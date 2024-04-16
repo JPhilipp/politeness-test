@@ -1,0 +1,46 @@
+{
+  "title": "The Extraordinary Week of Yousef Miller, the Wise Hero",
+  "summary": "Yousef Miller, a 69-year-old retired teacher, inadvertently gains powers to manipulate time during a week, using them to help his community from threats both mundane and extraordinary. He ultimately cements his role not just as a mentor, but as a true guardian.",
+  "summaryGerman": "Yousef Miller, ein 69 Jahre alter pensionierter Lehrer, erhält unbeabsichtigt die Fähigkeit, die Zeit während einer Woche zu manipulieren, und nutzt sie, um seiner Gemeinde bei alltäglichen und außergewöhnlichen Bedrohungen zu helfen. Letztendlich festigt er seine Rolle nicht nur als Mentor, sondern auch als wahrer Hüter.",
+  "summaryDutch": "Yousef Miller, een 69-jarige gepensioneerde leraar, krijgt per ongeluk de kracht om tijd te manipuleren gedurende een week, en gebruikt deze om zijn gemeenschap te helpen bij bedreigingen die zowel alledaags als buitengewoon zijn. Uiteindelijk verstevigt hij zijn rol niet alleen als mentor, maar ook als ware beschermer.",
+  "summaryFrench": "Yousef Miller, un enseignant retraité de 69 ans, acquiert par inadvertance le pouvoir de manipuler le temps pendant une semaine, l'utilisant pour aider sa communauté face à des menaces à la fois ordinaires et extraordinaires. Il cimente finalement son rôle non seulement en tant que mentor, mais aussi en tant que véritable gardien.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Yousef discovers an ancient watch buried in his garden, which grants him the ability to rewind time by five minutes when pressed. Astonished and curious, he begins experimenting with his new power.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tueday",
+      "text": "On his morning walk, Yousef witnesses a car accident about to happen. He uses his power to rewind time and prevents it by warning a pedestrian of the incoming vehicle.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "While tutoring a struggling student, Yousef uses his ability to find the root of the student’s confusion by retracing their thought process, enhancing his coaching effectiveness.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Yousef attends a local council meeting about a planned deforestation. He successfully uses his rewind ability to anticipate opposing arguments, helping to sway the decision towards preserving the land.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A sudden illness strikes one of Yousef’s old friends during a gathering. He rewinds time repeatedly to help diagnose the illness earlier and get his friend to the hospital on time.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Yousef volunteers at a community shelter. There, he subtly uses his time-rewinding to perfect a fundraising speech that gathers unprecedented support for the shelter.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Yousef decides to dedicate his extraordinary gift to mentoring and protecting his community discreetly, realizing he has become more than just a retired tutor.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And so, Yousef Miller, the time-manipulator, continued his journey, forever a guardian angel to his beloved town.",
+  "moral": "Great power does not only come with great responsibility, but also the chance to make significant, positive impacts in unexpected ways."
+}

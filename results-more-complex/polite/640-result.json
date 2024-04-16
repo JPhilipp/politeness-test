@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Bargains: Alice Robinson Saves the Day",
+  "summary": "Alice Robinson, a retired teacher with a knack for planning and bargaining, uses her skills to thwart a neighborhood crime spree over the course of a week, ultimately restoring peace to her community.",
+  "summaryGerman": "Alice Robinson, eine pensionierte Lehrerin mit einer Vorliebe für Planung und Verhandeln, nutzt ihre Fähigkeiten, um innerhalb einer Woche eine Verbrechenswelle in ihrer Nachbarschaft zu stoppen und letztendlich den Frieden in ihrer Gemeinschaft wiederherzustellen.",
+  "summaryDutch": "Alice Robinson, een gepensioneerde lerares met een talent voor plannen en onderhandelen, gebruikt haar vaardigheden om in de loop van een week een misdaadgolf in haar buurt te dwarsbomen en uiteindelijk de vrede in haar gemeenschap te herstellen.",
+  "summaryFrench": "Alice Robinson, une enseignante à la retraite douée pour la planification et la négociation, utilise ses compétences pour contrer une vague de criminalité dans son quartier au cours d'une semaine, restaurant finalement la paix dans sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Alice starts her week with curiosity about unusual activities observed in her neighborhood. Noticing strangers lurking around, she decides to keep an eye out.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Using her love for planning, Alice devises a schedule to observe the strangers’ movements and spots patterns in their actions.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Alice uses her bargaining skills to gather more information from a local vendor who has also noticed suspicious behavior.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thuersday",
+      "text": "Alice shares her findings with the neighborhood watch and convinces them to increase their patrols using her detailed plans.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With extra eyes on the street, the community notices the strangers becoming nervous. Alice’s planning seems to be paying off.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A break-in attempt is thwarted thanks to Alice's strategy. The police apprehend the would-be thieves as they try to escape.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Alice is celebrated by her neighbors for her vigilance and sharp mind, ensuring a peaceful end to an exciting week.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And thus, Alice Robinson, with her modest glasses and her extraordinary love for bargains, proved that heroes aren’t just born—they are self-made.",
+  "moral": "Vigilance and community cooperation are powerful tools against crime."
+}

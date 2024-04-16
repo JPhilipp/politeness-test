@@ -1,0 +1,46 @@
+{
+  "title": "The Incredible Adventures of Frank Green, the Publicizing Hero",
+  "summary": "Frank Green, a 70-year-old superhero, uses his abilities to instruct and publicize good deeds, tackling challenges across his city over the course of a week.",
+  "summaryGerman": "Frank Green, ein 70-jähriger Superheld, nutzt seine Fähigkeiten, um gute Taten zu lehren und zu publizieren, und stellt sich im Laufe einer Woche Herausforderungen in seiner Stadt.",
+  "summaryDutch": "Frank Green, een 70-jarige superheld, gebruikt zijn vaardigheden om goede daden te instrueren en te publiceren, en gaat gedurende een week uitdagingen aan in zijn stad.",
+  "summaryFrench": "Frank Green, un super-héros de 70 ans, utilise ses capacités pour instruire et publier de bonnes actions, relevant des défis dans sa ville tout au long d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank Green starts the week by teaching a group of young journalists the importance of truth in publicizing. He feels energetic as he shares his experience and wisdom.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Using his extensive network, Frank uncovers a plot to defame a local charity. He works ardently to clear their name, feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Frank spends the day visiting local schools, promoting community involvement. Despite a light rain, the mood is peaceful and reflective.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tursday",
+      "text": "A mysterious figure challenges Frank's methods, casting doubt among the community. Frank feels a bit eerie as he starts to uncover the truth.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Frank hosts a large seminar about the role of media in society. His passionate speech inspires many, leaving him feeling happy.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a public event, an emergency arises, and Frank coordinates the response, showcasing his leadership. The day ends on an epic note.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week's adventures, Frank writes an article to recap his lessons and experiences, sharing stories of bravery and kindness.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Thus, through his tireless efforts, Frank Green not only protected but also enlightened his community.",
+  "moral": "True heroism lies not just in the actions we undertake, but also in the words we spread and the knowledge we share."
+}

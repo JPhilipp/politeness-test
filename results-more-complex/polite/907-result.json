@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Judy Harris: Superhero Instructor",
+  "summary": "At the age of 60, Judy Harris discovers her ability to influence reality, using her powers to inspire and protect her community over the course of a week.",
+  "summaryGerman": "Im Alter von 60 Jahren entdeckt Judy Harris ihre Fähigkeit, die Realität zu beeinflussen. Sie nutzt ihre Kräfte, um ihre Gemeinschaft über die Dauer einer Woche zu inspirieren und zu schützen.",
+  "summaryDutch": "Op 60-jarige leeftijd ontdekt Judy Harris haar vermogen om de realiteit te beïnvloeden, waarbij ze haar krachten gebruikt om haar gemeenschap gedurende een week te inspireren en te beschermen.",
+  "summaryFrench": "À l'âge de 60 ans, Judy Harris découvre sa capacité à influencer la réalité, utilisant ses pouvoirs pour inspirer et protéger sa communauté au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy Harris, a retired teacher, wakes up feeling unusual clarity and strength. As she goes about her morning routine, she realizes she can alter small things with her thoughts.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Testing her new abilities, Judy discovers she can influence people's emotions. She helps a distressed neighbor feel peaceful, calming her anxiety instantly.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednedsay",
+      "text": "Judy spends the day teaching local kids about the power of positivity. Her stories visibly lift their spirits, and her influence grows stronger.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A minor crisis arises when a local park's trees start wilting mysteriously. Judy, sensing a negative force, redirects her energy to rejuvenate the trees.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Inspired by her success, Judy hosts a community workshop on personal empowerment. Her influence spreads, creating a wave of optimism.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Judy encounters a cynical journalist skeptical of her powers. After a heartfelt discussion, she manages to change his perspective, adding a new ally to her cause.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Judy realizes the extent of her influence. She vows to use it carefully, dedicating her new life to the service of others.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the sun sets on Sunday, Judy Harris feels content, knowing her journey as a superhero is just beginning.",
+  "moral": "Even in later life, unexpected gifts can emerge, ready to be used for the greater good."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Zelda Peterson: The Guiding Light",
+  "summary": "Zelda Peterson discovers her unique ability to see into the future, guiding her community through a tough week with her newfound powers.",
+  "summaryGerman": "Zelda Peterson entdeckt ihre einzigartige Fähigkeit, in die Zukunft zu sehen, und leitet ihre Gemeinschaft mit ihren neu entdeckten Kräften durch eine schwierige Woche.",
+  "summaryDutch": "Zelda Peterson ontdekt haar unieke vermogen om in de toekomst te kijken, en gidst haar gemeenschap door een zware week met haar nieuwgevonden krachten.",
+  "summaryFrench": "Zelda Peterson découvre son capacité unique à voir dans l'avenir, guidant sa communauté à travers une semaine difficile avec ses nouveaux pouvoirs.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda Peterson starts her week feeling energetic as she coaches her local youth volleyball team. During practice, she experiences a sudden vision of an accident at the nearby crosswalk.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Heeding her vision, Zelda rushes to the crosswalk during her lunchtime, where she manages to prevent a serious accident involving a young cyclist and a speeding car.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "The news of her heroic act spreads, and while she feels happy to have helped, she is also a bit overwhelmed by the attention.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Trying to understand her new abilities, Zelda spends a quiet day researching and comes across a mysterious old book about 'Seers' in the local library.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Empowered by her discoveries, Zelda uses her ability to guide a lost hiker safely out of the forest through telepathic guidance.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "As word of her deeds continues to spread, people begin seeking her guidance for personal decisions, making her day extremely busy and fulfilling.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Zelda feels content knowing she can make a difference and vows to use her powers to help others.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "With a heart filled with purpose, Zelda Peterson stands as a beacon of hope in her community, ready to guide those in need.",
+  "moral": "With great power comes great responsibility; use your talents to guide and uplift others."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Easel of Justice: The Story of Mallory Parker",
+  "summary": "Mallory Parker, a 64-year-old retired superhero with a passion for painting and instructing, returns to her heroic duties to stop an art theft, restoring peace and inspiring a new generation.",
+  "summaryGerman": "Mallory Parker, eine 64-jährige pensionierte Superheldin mit einer Leidenschaft für Malerei und Unterrichten, kehrt zu ihren heldenhaften Pflichten zurück, um einen Kunstdiebstahl zu stoppen, Frieden wiederherzustellen und eine neue Generation zu inspirieren.",
+  "summaryDutch": "Mallory Parker, een 64-jarige gepensioneerde superheldin met een passie voor schilderen en onderwijzen, keert terug naar haar heldhaftige taken om een kunstdiefstal te stoppen, vrede te herstellen en een nieuwe generatie te inspireren.",
+  "summaryFrench": "Mallory Parker, une super-héroïne à la retraite de 64 ans passionnée par la peinture et l'enseignement, reprend du service pour arrêter un vol d'art, restaurer la paix et inspirer une nouvelle génération.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Mallory Parker, enjoying her quiet life as a retired superhero, spends her day painting serene landscapes in her studio, feeling peaceful as she instructs a small class of eager learners.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuedsay",
+      "text": "A news report about a stolen priceless painting catches Mallory’s attention. Her old instincts kick in, and she feels a rush of energetic determination to solve the mystery.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Mallory investigates the art gallery from where the painting was stolen. The aura of the empty walls gives her clues an eerie feeling, pushing her closer to the culprit.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Using her connections from her heroic past, Mallory gathers information about the art thief—an old nemesis—and plans her next move, her mood becoming triuphmant as she uncovers crucial bits.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Confronting her nemesis in a dramatic showdown at an abandoned warehouse filled with stolen art, Mallory feels the fire of the epic battle that ensues.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After successfully recovering the painting and handing over the thief to the authorities, Mallory holds a community art show, which has an unexpectedly romantic turn with an old friend.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Mallory repaints the recovered artwork with her students, feeling happy and fulfilled, knowing she has not only restored art but also inspired hope.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As the sun set on Sunday evening, Mallory Parker knew that heroes come in many forms, some with a paintbrush in hand.",
+  "moral": "It's never too late to make a difference, and sometimes old skills can be used in new ways."
+}

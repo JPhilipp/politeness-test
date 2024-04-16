@@ -1,0 +1,46 @@
+{
+  "title": "The Week of David Simmons, The Weaving Warrior",
+  "summary": "David Simmons, a 59-year-old who enjoys coaching and weaving, uses his peculiar powers to solve mysteries and combat a secret corruption in his town over the course of a week.",
+  "summaryGerman": "David Simmons, ein 59-jähriger, der sich gerne mit Coaching und Weben beschäftigt, nutzt seine besonderen Fähigkeiten, um innerhalb einer Woche Rätsel zu lösen und eine geheime Korruption in seiner Stadt zu bekämpfen.",
+  "summaryDutch": "David Simmons, een 59-jarige die van coaching en weven houdt, gebruikt zijn eigenaardige krachten om gedurende een week mysteries op te lossen en een geheime corruptie in zijn stad te bestrijden.",
+  "summaryFrench": "David Simmons, un homme de 59 ans qui aime l'encadrement et le tissage, utilise ses pouvoirs particuliers pour résoudre des mystères et combattre une corruption secrète dans sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "David Simmons discovers a strange pattern in the fabric he's weaving that resembles a map of his town, highlighting certain areas in an eerie glow.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Inspired, David decides to investigate one of the highlighted areas and finds hints of illegal activities, feeling both intrigued and determined.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Using his coaching skills, David gathers a small team of trusted friends to help him delve deeper into the mystery.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tursday",
+      "text": "David and his team uncover evidence of corruption linked to the town's council. The discovery fills them with a mix of triumph and unease.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Risking his safety, David confronts one of the key figures in the corruption scandal, weaving a compelling argument that leaves the figure speechless and ashamed.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The town begins to buzz with whispers of David's findings; he spends a peaceful day at home, weaving and reflecting on the week's tumultuous events.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "At a town meeting, David presents his evidence, leading to arrests and reforms. He feels a profound sense of accomplishment as he sees his community's newfound hope.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "David Simmons returned to his weaving with the town's gratitude woven into every thread, forever remembered as the Weaving Warrior.",
+  "moral": "Even the quietest hobbies can unravel great truths and inspire monumental changes."
+}

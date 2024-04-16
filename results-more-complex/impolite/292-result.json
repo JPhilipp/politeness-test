@@ -1,0 +1,46 @@
+{
+  "title": "The Secret Powers of Eve White",
+  "summary": "Eve White, a 76-year-old tutoring enthusiast, discovers her hidden powers and uses them to protect her community over the course of a week.",
+  "summaryGerman": "Eve White, eine 76-jährige Tutoring-Liebhaberin, entdeckt ihre verborgenen Kräfte und nutzt sie, um ihre Gemeinschaft im Laufe einer Woche zu schützen.",
+  "summaryDutch": "Eve White, een 76-jarige tutorliefhebber, ontdekt haar verborgen krachten en gebruikt ze om haar gemeenschap te beschermen gedurende een week.",
+  "summaryFrench": "Eve White, passionnée de tutorat âgée de 76 ans, découvre ses pouvoirs cachés et les utilise pour protéger sa communauté au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Eve White was on her way to the local library when she unexpectedly assisted a pedestrian in avoiding a speeding car using astonishing reflexes. This strange occurrence left her puzzled but intrigued about her sudden burst of energy.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesdaay",
+      "text": "While tutoring math, Eve noticed she could solve complex problems unusually quickly. Curious, she began experimenting, discovering an ability to manipulate numerical values with her mind.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Eve spent the day exploring her new capabilities, realizing she could extend them beyond numbers to influencing physical objects. This revelation was both thrilling and slightly eerie.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Word of Eve’s abilities spread, and she was approached by a group in need. A local park was threatened by industrial development, and Eve used her powers to halt the construction equipment peacefully.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Eve decided it was time to use her powers for greater causes. She began organizing community vigilance efforts, focusing on public safety and well-being, inspiring many.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a community gathering, Eve felt a deep connection with her friends and neighbors as they celebrated their small victories. The day was filled with laughter and a sense of unity.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Eve felt a profound sense of accomplishment. She realized that age is just a number and that her true calling might have just begun.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "In the twilight of her years, Eve White discovered that it's never too late to become a hero.",
+  "moral": "Age does not define one's ability to make a significant impact."
+}

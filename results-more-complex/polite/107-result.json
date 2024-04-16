@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Weaving Justice: The Story of Ivan Carter",
+  "summary": "Ivan Carter, a 33-year-old who enjoys advising and weaving, discovers his supernatural ability to manipulate threads of fate, resolving conflicts and bringing justice throughout the week.",
+  "summaryGerman": "Ivan Carter, ein 33-Jähriger, der gerne berät und webt, entdeckt seine übernatürliche Fähigkeit, die Fäden des Schicksals zu manipulieren, indem er Konflikte löst und die ganze Woche über Gerechtigkeit bringt.",
+  "summaryDutch": "Ivan Carter, een 33-jarige die graag adviseert en weeft, ontdekt zijn bovennatuurlijke vermogen om de draden van het lot te manipuleren, conflicten oplost en gedurende de week gerechtigheid brengt.",
+  "summaryFrench": "Ivan Carter, un homme de 33 ans qui aime conseiller et tisser, découvre sa capacité surnaturelle à manipuler les fils du destin, résolvant les conflits et apportant la justice tout au long de la semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ivan Carter stumbled upon an ancient loom in his attic, touched by a mysterious aura. As he wove, his thoughts spun tales of justice and resolution.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Using his newfound powers, Ivan advised a struggling couple to mend their relationship, weaving strands of understanding between them.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Wedesday",
+      "text": "During a town meeting, Ivan's threads revealed a corrupt politician's deceit, uncovering truths woven deep within the community.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Ivan helped a lost child find their parents by crafting a guiding thread of light, leading the child home safely.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A burst of creativity saw Ivan weaving a spectacular tapestry, captivating the town with its depiction of their collective hopes and dreams.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "As conflicts arose, Ivan advised feuding neighbors, his words and threads sewing seeds of peace and cooperation amongst them.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on a week of wondrous deeds, Ivan wove a small scarf imbued with happiness, to remind himself of the joy in helping others.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "With each thread spun, Ivan Carter wove a tapestry of justice, his legacy palpable in the fabric of the community.",
+  "moral": "The threads of fate wielded with compassion can weave the most intricate patterns of justice and peace."
+}

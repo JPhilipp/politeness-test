@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Nancy Bennett, Producer and Mentor Extraordinaire",
+  "summary": "Nancy Bennett, an ordinary film producer by day, discovers she can manipulate time after a strange encounter. She uses her newfound abilities to mentor young filmmakers, battle a media mogul corrupting the industry, and save her city from disaster, all in one hectic week.",
+  "summaryGerman": "Nancy Bennett, tagsüber eine gewöhnliche Filmproduzentin, entdeckt, dass sie nach einer seltsamen Begegnung die Zeit manipulieren kann. Sie nutzt ihre neu gewonnenen Fähigkeiten, um junge Filmemacher zu betreuen, einen Medienmogul zu bekämpfen, der die Branche korrumpiert, und ihre Stadt vor einer Katastrophe zu retten, und das alles in einer hektischen Woche.",
+  "summaryDutch": "Nancy Bennett, overdag een gewone filmproducent, ontdekt dat ze de tijd kan manipuleren na een vreemde ontmoeting. Ze gebruikt haar nieuwgevonden vaardigheden om jonge filmmakers te begeleiden, een mediamagnaat die de industrie corrumpeert te bestrijden, en haar stad te redden van een ramp, allemaal in één hectische week.",
+  "summaryFrench": "Nancy Bennett, productrice de films le jour, découvre qu'elle peut manipuler le temps après une rencontre étrange. Elle utilise ses nouvelles capacités pour encadrer de jeunes cinéastes, combattre un magnat des médias corrompant l'industrie, et sauver sa ville d'une catastrophe, tout cela en une semaine chargée.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "mood": "eerie",
+      "text": "Nancy Bennett's regular morning took a turn when she met an old man who claimed he was a retired superhero. After the encounter, she mysteriously stops her watch with a mere gesture, sparking the beginning of her surreal abilities."
+    },
+    {
+      "weekday": "Tusday",
+      "mood": "energetic",
+      "text": "Excited by her new potential, Nancy tries manipulating time to extend the day's hours, successfully gaining extra hours to mentor her protégés and refine their projects."
+    },
+    {
+      "weekday": "Wednesday",
+      "mood": "triumphant",
+      "text": "Nancy uses her powers in public to avert a major film set accident, gaining her subtle recognition among the community as a guardian angel of the film industry."
+    },
+    {
+      "weekday": "Thursday",
+      "mood": "romantic",
+      "text": "Her abilities catch the attention of a charming journalist, Mark, who wants to uncover the truth behind the city's new mysterious hero. Their investigative efforts draw them closer together."
+    },
+    {
+      "weekday": "Friday",
+      "mood": "epic",
+      "text": "A notorious media mogul learns of Nancy's powers and attempts to exploit them to control the film industry. Nancy and Mark team up in an epic showdown to stop his nefarious scheme."
+    },
+    {
+      "weekday": "Saturday",
+      "mood": "sad",
+      "text": "In the aftermath, Nancy feels dismayed by the extent some would go for power, reflecting on her responsibilities as a mentor and protector."
+    },
+    {
+      "weekday": "Sunday",
+      "mood": "peaceful",
+      "text": "At week's end, the city remains safe, and Nancy, now revered as 'The Timekeeper,' continues her mission to inspire and lead the next generation of creative minds."
+    }
+  ],
+  "ending": "In a week's full cycle, Nancy Bennett learned to master time not just to save the moment, but to shape the future of her city and its artists.",
+  "moral": "With great power comes not just responsibility, but the chance to make meaningful change in the world around us."
+}

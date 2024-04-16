@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Journey of Alice Price, the Planning Protector",
+  "summary": "Alice Price, a 40-year-old planning enthusiast and mentor, discovers her power to manipulate time during a particularly hectic week. She uses this newfound ability to resolve conflicts and guide her community, ultimately embracing her role as a local superhero.",
+  "summaryGerman": "Alice Price, eine 40-jährige Planungsenthusiastin und Mentorin, entdeckt während einer besonders hektischen Woche ihre Fähigkeit, die Zeit zu manipulieren. Sie nutzt diese neu gewonnene Fähigkeit, um Konflikte zu lösen und ihre Gemeinschaft zu führen, und akzeptiert letztendlich ihre Rolle als lokale Superheldin.",
+  "summaryDutch": "Alice Price, een 40-jarige planning liefhebber en mentor, ontdekt haar vermogen om tijd te manipuleren tijdens een bijzonder hectische week. Ze gebruikt deze nieuwgevonden kracht om conflicten op te lossen en haar gemeenschap te leiden, en omarmt uiteindelijk haar rol als lokale superheld.",
+  "summaryFrench": "Alice Price, une passionnée de planification et mentor de 40 ans, découvre son pouvoir de manipuler le temps pendant une semaine particulièrement chargée. Elle utilise cette capacité nouvellement acquise pour résoudre des conflits et guider sa communauté, acceptant finalement son rôle de super-héroïne locale.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Alice starts her week with a usual planning session for her mentoring group. As she adjusts the schedule, she notices the clock hands moving backwards, an event that sparks curiosity.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Experimenting with her newfound ability, Alice manages to extend her lunch break to relax, marking the first intentional use of her time manipulation power.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedmesday",
+      "text": "During a conflict in her mentoring session, Alice speeds up time to quickly move past the tensions. She starts to grasp the weight of her capabilities.",
+      "mood": "triuphmant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Realizing the potential of her powers, Alice spends the day practicing and refining her time control, preparing to use it for community benefit.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Alice uses her power to avert a crisis at a local event. She swiftly coordinates tasks by manipulating time, ensuring everything goes smoothly.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Embraced by the community for her heroic acts, Alice mentors young individuals on the value of time and planning, feeling fulfilled and at peace.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Alice feels a deep connection to her role in the community, opts to schedule weekly sessions to help others plan better.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "In the quiet of Sunday evening, Alice Price looked out over her city, now a sanctuary of time, and smiled knowing she was exactly where she needed to be.",
+  "moral": "With great power comes great responsibility, and sometimes, the ability to plan is the greatest power of all."
+}

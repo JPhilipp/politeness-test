@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Heidi Martinez: The Consulting Hero",
+  "summary": "Heidi Martinez discovers her ability to change realities by giving consultations, using it to solve crimes and personal crises over the course of a week.",
+  "summaryGerman": "Heidi Martinez entdeckt ihre Fähigkeit, durch Beratungen Realitäten zu verändern, und nutzt sie, um innerhalb einer Woche Verbrechen und persönliche Krisen zu lösen.",
+  "summaryDutch": "Heidi Martinez ontdekt haar vermogen om realiteiten te veranderen door consultaties te geven, en gebruikt dit om binnen een week misdaden en persoonlijke crises op te lossen.",
+  "summaryFrench": "Heidi Martinez découvre sa capacité à changer les réalités en donnant des consultations, l'utilisant pour résoudre des crimes et des crises personnelles au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Heidi Martinez starts her week as usual at her consulting firm, unaware that today she will discover her unique abilities. After giving advice to a distressed client, she notices the client's mood immediately lightens—an effect far stronger than her normal consulting influence.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Today, Heidi decides to test her newfound powers by advising a local store owner on how to boost sales. Miraculously, by evening, the store sees a record number of customers. Heidi feels exhilarated by her success.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wedneday",
+      "text": "Heidi is approached by the police to help resolve a tense hostage situation. Using her advice, the police safely resolve the issue without harm. Heidi realizes the potential of her powers to do good.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Feeling the weight of her abilities, Heidi is momentarily overwhelmed and unsure if she should intervene in people's lives so directly. After a long walk and reflection, she feels peaceful, understanding her role better.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Heidi uses her consulting to help a failing local school. By the end of the day, she secures new funding and innovative teachers ready to turn the school around. The community's gratitude makes her immensely happy.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Using her consulting superhero identity, Heidi speaks at a conference, influencing other consultants to use their skills for social good. Her words inspire many, filling her with a sense of energy and purpose.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Heidi feels a deep sense of fulfillment. She decides to write a book about her experiences, hoping to guide others with her knowledge and experience.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Her story was just beginning.",
+  "moral": "With great power comes great responsibility."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Triumph of Ursula Sanders",
+  "summary": "Ursula Sanders, a 57-year-old with hobbies in persuading and tutoring, becomes a superhero by transforming her community.",
+  "summaryGerman": "Ursula Sanders, eine 57-jährige Frau mit Vorlieben für Überzeugung und Nachhilfe, wird zur Superheldin, indem sie ihre Gemeinschaft transformiert.",
+  "summaryDutch": "Ursula Sanders, een 57-jarige met hobby's in overtuigen en bijles geven, wordt een superheld door haar gemeenschap te transformeren.",
+  "summaryFrench": "Ursula Sanders, une femme de 57 ans passionnée par la persuasion et le tutorat, devient une superhéroïne en transformant sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ursula stumbles upon a strange glowing stone while tutoring a student in geology. Investigating its properties later that evening sparks a sense of eerie suspense.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Experimenting with the stone, Ursula discovers it grants her the ability to influence people's thoughts. Feeling energetic, she makes plans to use this power positively.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wenesday",
+      "text": "Ursula persuades local leaders to fund a new community center, using subtle hints of her new power to emphasize her arguments.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Conflicts arise as a suspicious journalist begins questioning the sudden success of Ursula’s initiatives. The day ends on a note of tension.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Ursula resolves the conflict by openly sharing her story with the journalist, who is inspired and agrees to keep her secret, leading to a new friendship.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Emboldened by her experiences, Ursula spends the day training herself to better control her powers, experiencing moments both frustrating and triumphant.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Ursula feels peaceful as she walks through the community center bustling with happy faces, knowing her efforts have paid off.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "With the power of persuasion quite literally at her fingertips, Ursula Sanders learned that even the smallest stones can create the biggest ripples.",
+  "moral": "The power of influence should always be wielded with responsibility and compassion."
+}

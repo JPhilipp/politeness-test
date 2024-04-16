@@ -1,0 +1,46 @@
+{
+  "title": "The Week Yvonne Ward Became A Superhero",
+  "summary": "Yvonne Ward, a 54-year-old programmer and counselor, discovers her superpowers and combats a sinister threat to her city over the span of one week, growing into her role as a superhero.",
+  "summaryGerman": "Yvonne Ward, eine 54-jährige Programmiererin und Beraterin, entdeckt ihre Superkräfte und bekämpft innerhalb einer Woche eine finstere Bedrohung für ihre Stadt, während sie in ihre Rolle als Superheldin hineinwächst.",
+  "summaryDutch": "Yvonne Ward, een 54-jarige programmeur en counselor, ontdekt haar superkrachten en bestrijdt gedurende één week een sinister dreiging voor haar stad, terwijl ze groeit in haar rol als superheldin.",
+  "summaryFrench": "Yvonne Ward, une programmeuse et conseillère de 54 ans, découvre ses super pouvoirs et combat une menace sinistre pour sa ville sur l'espace d'une semaine, en grandissant dans son rôle de super-héroïne.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Yvonne Ward stumbled upon an ancient code in a forgotten library book on programming, unknowingly activating latent superpowers within her. That evening, Yvonne experienced her first surge of psycho-kinetic energy while debugging a complex software issue.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuseday",
+      "text": "The following day, Yvonne tested her new abilities, lifting objects with her mind. Amazed and alarmed, she sought advice from a trusted friend, feeling a mix of excitement and fear.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Midweek, Yvonne decided to use her powers for good. She anonymously stopped a street robbery, experiencing a thrill from her heroic act and the sense of justice delivered.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "By Thursday, word of a mysterious new hero had spread. Yvonne spent the day counseling troubled youths, subtly using her powers to reassure and heal, feeling peaceful and purposeful.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With confidence growing, Yvonne faced her first major challenge: a cyber-terrorist threatening the city. Tapping into her programming skills and newfound powers, she thwarted the attack remotely, saving countless lives.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Overjoyed by her success, Yvonne revealed her secret identity to her family, who supported her wholeheartedly. The bond they shared grew stronger, enriched by her incredible revelation.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Concluding her first week as a superhero, Yvonne spent a quiet day reflecting on her responsibilities and the future, determined to continue protecting her community.",
+      "mood": "sad"
+    }
+  ],
+  "ending": "Thus began the legend of Yvonne Ward, an ordinary programmer turned guardian of her city.",
+  "moral": "With great power comes great responsibility, and the courage to embrace it."
+}

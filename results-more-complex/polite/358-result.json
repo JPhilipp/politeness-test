@@ -1,0 +1,46 @@
+{
+  "title": "The Astounding Adventures of Heidi Cooper: Guardian of Knowledge",
+  "summary": "Heidi Cooper, a tutor by day, discovers her superpowers over the course of a week and uses them to protect her city from the chaos unleashed by a mysterious villain.",
+  "summaryGerman": "Heidi Cooper, tagsüber Tutorin, entdeckt im Laufe einer Woche ihre Superkräfte und nutzt sie, um ihre Stadt vor dem Chaos zu schützen, das von einem geheimnisvollen Bösewicht entfesselt wird.",
+  "summaryDutch": "Heidi Cooper, overdag een tutor, ontdekt gedurende een week haar superkrachten en gebruikt deze om haar stad te beschermen tegen de chaos die een mysterieuze schurk ontketent.",
+  "summaryFrench": "Heidi Cooper, tutrice de jour, découvre ses superpouvoirs au cours d'une semaine et les utilise pour protéger sa ville du chaos déclenché par un vilain mystérieux.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Heidi Cooper begins her week as usual, tutoring local students after her day job. While assisting a student with chemistry, Heidi accidentally mixes two compounds that emit a mysterious glow, triggering a sudden surge of energy within her.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tueday",
+      "text": "With her newfound abilities, Heidi feels empowered and curious. She spends the day experimenting with her powers, discovering she can manipulate knowledge and understanding directly.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Heidi begins to notice disturbances around the city: books flying off shelves, signs flickering strange symbols. She senses a connection between these events and her new powers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Realizing her responsibility, Heidi devotes herself to mastering her powers. She harnesses them to calm the chaos, restoring peace at the local library, which had become a hotbed of paranormal activity.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The disturbances intensify. Heidi faces off against a cloaked figure who seems to be manipulating the abnormalities for malicious purposes. An epic battle of wits and power ensues.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After a tumultuous confrontation, Heidi overpowers the antagonist, revealing him to be a former scholar intent on monopolizing knowledge. She uses her powers to disseminate the knowledge back to the community.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The city, now peaceful again, recognizes Heidi as their protector. She returns to her routine, now vigilant and ready to safeguard her city's knowledge and wisdom.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, Heidi Cooper not only embraced her powers but also became the heroine her city never knew it desperately needed.",
+  "moral": "With great power comes great responsibility, and the true measure of a hero is how they use that power to benefit others."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Walter Nelson: Tutor by Day, Hero by Twilight",
+  "summary": "Walter Nelson, a 45-year-old tutor, discovers his superpowers and uses them to protect his community from a sudden threat, balancing his daily life with his new heroic duties.",
+  "summaryGerman": "Walter Nelson, ein 45-jähriger Tutor, entdeckt seine Superkräfte und nutzt sie, um seine Gemeinde vor einer plötzlichen Bedrohung zu schützen, während er sein tägliches Leben mit seinen neuen heldenhaften Pflichten in Einklang bringt.",
+  "summaryDutch": "Walter Nelson, een 45-jarige tutor, ontdekt zijn superkrachten en gebruikt ze om zijn gemeenschap te beschermen tegen een plotselinge dreiging, terwijl hij zijn dagelijkse leven in balans brengt met zijn nieuwe heldenplichten.",
+  "summaryFrench": "Walter Nelson, un tuteur de 45 ans, découvre ses superpouvoirs et les utilise pour protéger sa communauté contre une menace soudaine, tout en équilibrant sa vie quotidienne avec ses nouvelles responsabilités héroïques.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Walter Nelson, a tutor passionate about helping students, felt a strange surge of energy during a session with a struggling student. This sudden boost helped the student grasp complex concepts effortlessly.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While walking home, Walter noticed his heightened senses when he heard a distant cry for help. Rushing to the scene, he stopped a theft, discovering his newfound strength and speed.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wdnesday",
+      "text": "Walter spent the day researching his powers. Realizing he could use them to benefit others, he decided to balance his tutoring with nightly patrols, adopting the moniker 'The Altruist'.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "During his patrol, Walter encountered a group harassing a homeless man. Using his powers, he dispersed the group and ensured the man's safety, feeling a deep sense of purpose.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Walter's dual life began to take a toll. Despite feeling weary, he continued tutoring, fueled by students' achievements and the community's growing whispers of a guardian angel.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A major threat surfaced: a dangerous gang planned a massive heist. Walter, determined to protect his neighborhood, strategized his intervention.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The climax of Walter's week came as he successfully thwarted the gang's heist, saving countless lives. The community celebrated their unnamed hero, unaware of his true identity.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "As Walter Nelson walked through the cheering crowd, a smile played on his lips; he had found his true calling.",
+  "moral": "Even the most ordinary among us can become heroes in our own right."
+}

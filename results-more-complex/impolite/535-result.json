@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Charlie Brooks: The Sales Planner Hero",
+  "summary": "Charlie Brooks discovers his unique ability to influence time during crucial moments, using it to overcome challenges and make a sizable impact on his community.",
+  "summaryGerman": "Charlie Brooks entdeckt seine einzigartige Fähigkeit, in entscheidenden Momenten die Zeit zu beeinflussen, um Herausforderungen zu überwinden und einen bedeutenden Einfluss auf seine Gemeinschaft zu nehmen.",
+  "summaryDutch": "Charlie Brooks ontdekt zijn unieke vermogen om tijdens cruciale momenten de tijd te beïnvloeden, waarbij hij uitdagingen overwint en een aanzienlijke impact maakt op zijn gemeenschap.",
+  "summaryFrench": "Charlie Brooks découvre sa capacité unique à influencer le temps lors de moments cruciaux, l'utilisant pour surmonter des défis et avoir un impact considérable sur sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Charlie Brooks starts his week as usual at his job in sales and event planning. However, today he experiences strange lapses in time every time he finalizes a deal or schedules an event.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Fascinated by his newfound ability, Charlie experiments during a major business negotiation, managing to extend a crucial moment to secure a better deal, which leaves him feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Charlie uses his powers to help a local charity event succeed beyond expectations by manipulating small time frames to ensure optimal outcomes, winning him the community's appreciation and making him feel happy.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A rival in his field grows suspicious of Charlie’s sudden success and confronts him. The tension in their meeting is palpable and leaves Charlie feeling uneasy but energetic to find a solution.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "As rumors begin to swirl about Charlie’s 'magic touch', he decides to reveal his secret to a trusted colleague who helps him strategize on using his gift more discreetly and effectively.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With his colleague’s aid, Charlie refines his control over his abilities, blending his talent within his planning and timing impeccably during a romantic evening event, which feels quite romantic.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Charlie reflects on his week, realizing the potent combination of his skills and powers. He decides to embrace his role as a protector of moments, ensuring that all important events in his community benefit from his intervention.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And thus, Charlie Brooks found his purpose, not just as a planner and salesman, but as a guardian of time.",
+  "moral": "Embrace your unique talents; they might be exactly what the world needs."
+}

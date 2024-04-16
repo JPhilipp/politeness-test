@@ -1,0 +1,46 @@
+{
+  "title": "The Guardianship of Linda Lopez",
+  "summary": "Linda Lopez, a young superhero known for her mentoring abilities, discovers her power to manipulate time during a critical week of protecting her city from a mysterious threat.",
+  "summaryGerman": "Linda Lopez, eine junge Superheldin, die für ihre Mentoring-Fähigkeiten bekannt ist, entdeckt ihre Fähigkeit, während einer entscheidenden Woche, in der sie ihre Stadt vor einer mysteriösen Bedrohung schützt, die Zeit zu manipulieren.",
+  "summaryDutch": "Linda Lopez, een jonge superheldin bekend om haar mentoringvaardigheden, ontdekt haar vermogen om tijd te manipuleren tijdens een cruciale week waarin ze haar stad beschermt tegen een mysterieuze dreiging.",
+  "summaryFrench": "Linda Lopez, une jeune superhéroïne connue pour ses capacités de mentorat, découvre son pouvoir de manipuler le temps pendant une semaine critique pour protéger sa ville contre une menace mystérieuse.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Linda starts her week with typical coaching sessions for young athletes. A sudden tremor interrupts as a strange time anomaly appears in the city park.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesady",
+      "text": "Investigating the anomaly, Linda unexpectedly finds herself able to slow down time, which helps her save a group of children from a collapsing tree.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Linda tests her new powers but struggles to control them. During a coaching session, time slips cause confusion among her athletes.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "With help from a physicist friend, Linda learns more about her abilities and practices to better harness her time manipulation.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Her newfound control comes just in time as a villain emerges, threatening to plunge the city into perpetual darkness using a time distortion device.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "In an intense battle, Linda uses her time powers to counteract the device, rescuing the city and learning that leadership involves timely intervention.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "After her victory, Linda spends a peaceful day reflecting on how her powers can be used for more than just combat, perhaps even for better mentoring.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus, Linda Lopez not only saved her city but also expanded the horizon of her contributions beyond the battlefield.",
+  "moral": "With great power comes great responsibility, and sometimes, an even greater opportunity to mentor and lead."
+}

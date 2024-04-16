@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Heroics of Sue James",
+  "summary": "Sue James, a 56-year-old coach and counselor, inadvertently discovers her superpower of empathy enhancement, which she uses to resolve community conflicts and guide troubled youth, transforming her town in just one week.",
+  "summaryGerman": "Sue James, eine 56-jährige Trainerin und Beraterin, entdeckt unerwartet ihre Superkraft der Empathieverstärkung, die sie verwendet, um Gemeinschaftskonflikte zu lösen und problematischen Jugendlichen zu helfen, wodurch sie ihre Stadt in nur einer Woche verwandelt.",
+  "summaryDutch": "Sue James, een 56-jarige coach en counselor, ontdekt per ongeluk haar superkracht van empathieverbetering, die ze gebruikt om gemeenschapsconflicten op te lossen en problematische jongeren te begeleiden, waardoor ze haar stad in slechts één week transformeert.",
+  "summaryFrench": "Sue James, une coach et conseillère de 56 ans, découvre par inadvertance son superpouvoir d'amélioration de l'empathie, qu'elle utilise pour résoudre les conflits communautaires et guider les jeunes en difficulté, transformant ainsi sa ville en seulement une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Sue James starts her week with a usual morning at the public school, where she helps students resolve their conflicts. Today, her sessions are inexplicably more effective, leaving her feeling energetic.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While volunteering at a local counseling center, Sue discovers her enhanced ability to deeply empathize, causing a breakthrough with a long-standing case. She feels triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednedsay",
+      "text": "Sue feels the eerie sense that her abilities are growing stronger. She helps the police peacefully diffuse a tense situation with her calming presence.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Word spreads of Sue's talents, bringing more people to seek her advice, creating a peaceful day filled with heart-to-heart talks.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Sue organizes a community meeting that turns into an epic gathering of storytelling, sharing, and support, leveraging her powers for communal healing.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a reflective walk in the park, Sue contemplates the profound impact of her new gift and considers how she can use it to benefit more people.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Sue becomes a local hero. She resolves to carry on her missions, bringing peace and understanding wherever she goes.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "Thus, Sue James, by simply enhancing empathy, made her world a phenomenally better place.",
+  "moral": "Empathy can be a superpower capable of transforming communities."
+}

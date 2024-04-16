@@ -1,0 +1,46 @@
+{
+  "title": "The Serene Strength of Yousef Harris",
+  "summary": "Over the course of a week, Yousef Harris, a 57-year-old who loves preaching and tutoring, discovers his unique superpowers, using them to positively transform his community.",
+  "summaryGerman": "Im Laufe einer Woche entdeckt Yousef Harris, ein 57-Jähriger, der das Predigen und Nachhilfe geben liebt, seine einzigartigen Superkräfte und verwendet sie, um seine Gemeinschaft positiv zu verändern.",
+  "summaryDutch": "Gedurende een week ontdekt Yousef Harris, een 57-jarige die van prediken en bijles geven houdt, zijn unieke superkrachten, die hij gebruikt om zijn gemeenschap positief te transformeren.",
+  "summaryFrench": "Au cours d'une semaine, Yousef Harris, 57 ans, qui aime prêcher et donner des cours particuliers, découvre ses superpouvoirs uniques, qu'il utilise pour transformer positivement sa communauté.",
+  "story": [
+    {
+      "weekday": "Munday",
+      "text": "Yousef Harris wakes up feeling unusually energetic. While tutoring, he accidentally discovers his power to enhance others' understanding simply by touching their books.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Leveraging his new ability, Yousef spends the day at the local school, helping struggling students, leaving him feeling happy and fulfilled.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "During a mid-week sermon, Yousef uses his power to instill peace in his listeners, resolving long-standing feuds among his community members.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A mysterious figure challenges Yousef, questioning the origins of his powers. Yousef ends the day feeling unsettled yet determined.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Confrontation ensues with the mysterious figure revealing himself as a mentor sent to test Yousef. The encounter ends on an uplifting note, leaving Yousef feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Emboldened, Yousef organizes a community event, using his powers to foster understanding and unity. The event is an epic success.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Yousef feels grateful for his gifts and decides to dedicate his life to spreading knowledge and wisdom, feeling profoundly peaceful yet powerful.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "With his newfound powers, Yousef Harris pledged to continue guiding and uplifting those around him, one heart and mind at a time.",
+  "moral": "True strength lies not in the powers one possesses, but in how one chooses to use them for the benefit of others."
+}

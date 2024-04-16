@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Linda Reed: The Super Tutor",
+  "summary": "Linda Reed, 61, discovers her hidden superpowers while tutoring and selling books, using her abilities to inspire and protect her community over a transformative week.",
+  "summaryGerman": "Linda Reed, 61, entdeckt ihre verborgenen Superkräfte, während sie Nachhilfe gibt und Bücher verkauft, und nutzt ihre Fähigkeiten, um ihre Gemeinde über eine transformative Woche hinweg zu inspirieren und zu schützen.",
+  "summaryDutch": "Linda Reed, 61, ontdekt haar verborgen superkrachten tijdens het bijles geven en boeken verkopen, en gebruikt haar vaardigheden om haar gemeenschap te inspireren en te beschermen gedurende een transformerende week.",
+  "summaryFrench": "Linda Reed, 61 ans, découvre ses superpouvoirs cachés tout en donnant des cours particuliers et en vendant des livres, utilisant ses capacités pour inspirer et protéger sa communauté pendant une semaine transformatrice.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Linda Reed starts her week as usual, tutoring young students in mathematics. Mid-session, Linda accidentally projects a mathematical formula onto the wall without any equipment, realizing she has projection powers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Encouraged by her newfound powers, Linda tries to harness them at her book stall. When a thief tries to steal her books, she stops him with a telekinetic grip, surprising herself and the thief.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Linda spends the day practicing her powers. She learns she can influence thoughts slightly, helping a depressed student find hope and joy again.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Hearing about a local crisis, a building fire nearby, Linda rushes to help. Using her powers, she projects calming images, aiding evacuation efforts and guiding people safely.",
+      "mood": "heroic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Linda organizes a small community event to reveal her powers. She explains how she plans to use them to support and protect her town, receiving overwhelming support and love from the community.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With her powers now public, Linda continues her tutoring, using her abilities to make learning fun and engaging, creating real-time visuals and thought experiments.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Linda reflects on her incredible week and how it has changed her. She decides to establish a foundation to help others, using her powers and influence to foster education and safety in her community.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "In just one week, Linda Reed had transformed from a simple tutor to a true hero, proving that superpowers can indeed come in the most unexpected forms.",
+  "moral": "Great power can come from small beginnings; what matters is how we choose to use it."
+}

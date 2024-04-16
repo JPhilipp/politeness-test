@@ -1,0 +1,46 @@
+{
+  "title": "The Incredible Adventures of Charlie Robinson",
+  "summary": "Charlie Robinson discovers his ability to manipulate time during a week packed with teaching, helping, and saving his city from disaster.",
+  "summaryGerman": "Charlie Robinson entdeckt seine Fähigkeit zur Zeitmanipulation in einer Woche voller Lehren, Helfen und der Rettung seiner Stadt vor einer Katastrophe.",
+  "summaryDutch": "Charlie Robinson ontdekt zijn vermogen om tijd te manipuleren in een week vol met lesgeven, helpen en het redden van zijn stad van een ramp.",
+  "summaryFrench": "Charlie Robinson découvre sa capacité à manipuler le temps au cours d'une semaine remplie d'enseignement, d'aide, et de sauver sa ville d'une catastrophe.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Charlie begins his week with an energetic presentation on new educational methods, unaware of the power brewing within him.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "After a strange, eerie feeling throughout the day, Charlie accidentally reverses time by five minutes during a lecture.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wdnesday",
+      "text": "Charlie experiments with his new abilities at home, feeling triumphant as he masters his power to rewind brief moments.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Using his powers subtly, Charlie helps a student overcome a tough personal challenge, feeling deeply peaceful and fulfilled.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A major accident in the city sees Charlie using his time-reversing ability publicly for the first time to save lives.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The news of his heroics spreads, and Charlie is invited to a romantic dinner by an admirer who learned of his brave deeds.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Charlie, feeling happy and accepted, spends a quiet day reflecting on his new role as a protector of the city.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As the week closes, Charlie embraces his role as a guardian of time, ready to face whatever challenges may come.",
+  "moral": "With great power comes great responsibility, and even the smallest moments can change the course of history."
+}

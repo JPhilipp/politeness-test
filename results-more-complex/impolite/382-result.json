@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Oscar Gonzalez: The Organizer",
+  "summary": "Over a week, Oscar Gonzalez discovers his superpower of hyper-organization and presentation, using it to thwart a city-wide conspiracy and save his town.",
+  "summaryGerman": "Im Laufe einer Woche entdeckt Oscar Gonzalez seine Superkraft der Hyperorganisation und Präsentation, die er nutzt, um eine stadtweite Verschwörung zu durchkreuzen und seine Stadt zu retten.",
+  "summaryDutch": "Gedurende een week ontdekt Oscar Gonzalez zijn superkracht van hyperorganisatie en presentatie, die hij gebruikt om een stadsbrede samenzwering te dwarsbomen en zijn stad te redden.",
+  "summaryFrench": "Au cours d'une semaine, Oscar Gonzalez découvre son super-pouvoir d'hyper-organisation et de présentation, qu'il utilise pour déjouer un complot à l'échelle de la ville et sauver sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar Gonzalez, a 35-year-old keen on presenting and organizing, suddenly finds his morning routine altered when his planner sends him on unexpected detours that end up preventing early accidents and mishaps around the town.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Discovering his knack for being at the right place at the right time, Oscar orchestrates a series of presentations at work that inadvertently reveal espionage among his colleagues.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wedesnday",
+      "text": "Driven by his newfound abilities, Oscar decides to secretly use his organizational power to further investigate the conspiracy, linking events with a meticulous timeline.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "His actions start to draw attention. Menacing figures begin to shadow his movements, leading to a tense day where Oscar has to evade capture while maintaining his daily duties.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The threat becomes clear when his foes attempt to sabotage his presentation, but Oscar counters wisely with facts and figures that not only save his project but expose the villains to his audience.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "News of his heroism spreads, and the community gathers to honor him. He meets many who were unknowingly affected by his actions, sharing a moment of gratitude and connection.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Relaxing after a whirlwind week, Oscar reflects on how his hobbies enabled him to save his city and considers how he might use his skills for greater good in the future.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And so, Oscar Gonzalez learned that sometimes the mightiest powers come in the form of a planner and a sharp mind.",
+  "moral": "Never underestimate the power of good organization and timely action."
+}

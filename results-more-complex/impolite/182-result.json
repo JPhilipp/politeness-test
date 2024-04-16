@@ -1,0 +1,46 @@
+{
+  "title": "David Thompson: Director of Destinies",
+  "summary": "David Thompson, a consulting director by day, discovers he has the power to reshape reality around film plots, using his abilities to thwart a corporate scheme threatening his city over the span of a week.",
+  "summaryGerman": "David Thompson, tagsüber Beratungsdirektor, entdeckt, dass er die Kraft hat, die Realität um Filmplots herum neu zu gestalten, und nutzt seine Fähigkeiten, um innerhalb einer Woche ein Unternehmenskomplott zu vereiteln, das seine Stadt bedroht.",
+  "summaryDutch": "David Thompson, overdag een raadgevende regisseur, ontdekt dat hij de kracht heeft om de realiteit rond filmplots te herschappen, en gebruikt zijn vaardigheden om in de loop van een week een bedrijfsschema dat zijn stad bedreigt te dwarsbomen.",
+  "summaryFrench": "David Thompson, directeur conseil de jour, découvre qu'il a le pouvoir de remodeler la réalité autour des scénarios de films, utilisant ses capacités pour contrecarrer un stratagème d'entreprise menaçant sa ville sur une période d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "David Thompson starts his week feeling energetic, blissfully unaware of the strange power awakening within him as he navigates through his typical day of consulting and directing.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "An eerie feeling overtakes David while reviewing a screenplay. He absentmindedly wishes for a sudden plot twist, and to his shock, a similar unexpected event occurs in real life.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "David cautiously experiments with his newfound ability, reshaping minor outcomes with his mind. He begins to understand the extent of his powers, feeling both excited and overwhelmed.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Triumphant about mastering his powers, David corrects small injustices around him through subtle narrative changes, feeling a profound sense of responsibility and control.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "David uncovers a corporate plot to demolish a historic neighborhood for profit. He decides to use his powers to craft a counter-narrative, casting himself as the hero in a real-life film plot.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "In a climactic battle of wits and wills, David outmaneuvers the corrupt executives by weaving their defeat into the screenplay of his latest project, which mirrors into reality.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The city safe and the neighborhood preserved, David reflects on his adventures. He resolves to use his powers for good, guarding his secret while continuing his life as director and consultant.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the credits would roll in his life's movie, David Thompson smiles at a job well done, knowing the real power was not just his alone but in every story waiting to be told.",
+  "moral": "The power of storytelling is not only to entertain but to reshape our very realities."
+}

@@ -1,0 +1,45 @@
+{
+  "title": "The Green Guardian: The Adventures of Frank King",
+  "summary": "Frank King, a marketing expert with a passion for gardening, discovers he has the power to control plants and uses it to fight crime and protect his city over the course of a week.",
+  "summaryGerman": "Frank King, ein Marketingexperte mit einer Leidenschaft für Gartenarbeit, entdeckt, dass er die Fähigkeit besitzt, Pflanzen zu kontrollieren, und nutzt sie, um Verbrechen zu bekämpfen und seine Stadt zu schützen.",
+  "summaryDutch": "Frank King, een marketingexpert met een passie voor tuinieren, ontdekt dat hij planten kan beheersen en gebruikt dit om misdaden te bestrijden en zijn stad te beschermen gedurende een week.",
+  "summaryFrench": "Frank King, un expert en marketing passionné de jardinage, découvre qu'il a le pouvoir de contrôler les plantes et l'utilise pour lutter contre le crime et protéger sa ville pendant une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "In the heart of a bustling city, Frank King, a 24-year-old marketing coordinator, discovers his unique ability to communicate with plants while tending to his rooftop garden. As he shapes a rose bush with his thoughts, he realizes his powers could reach beyond simple gardening.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Emboldened by his newfound powers, Frank uses his lunch break to stop a petty theft at a nearby park. Concealing himself behind lush foliage, he manipulates vines to trip the fleeing thief, handing him over to the police discretely.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Frank spends his evening experimenting with his abilities, discovering he can grow plants at an accelerated rate. Using this power, he creates a small oasis in a neglected part of the city, bringing smiles to local residents.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Turdsday",
+      "text": "During a marketing meeting, Frank senses an imminent attack in the city. Excusing himself, he transforms an abandoned lot into a maze of thickets, which confuses and captures a group of would-be vandals.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "News of the 'Green Guardian' spreads across the city. Frank decides to embrace this persona, creating a costume that blends with nature. He patrols the city, resolving conflicts silently and efficiently.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "In a grand stand-off at the city botanical garden, Frank faces off against eco-terrorists threatening to release a toxic gas. Using his mastery over plants, he thwarts their plan and secures the area, ensuring no harm comes to civilians.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Frank reflects on his week as a superhero. He spends a peaceful day gardening, helping neighbors with their plants, and planning for his future role as protector of both people and nature.",
+      "mood": "peaceful"
+    }
+  ],
+  "moral": "Embrace your unique talents; they might just be what the world needs."
+}

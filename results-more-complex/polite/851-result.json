@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Guardian: The Tale of Ivan Scott",
+  "summary": "Ivan Scott, a retired writer and public speaker, discovers his unexpected ability to become invisible, which he uses over the course of a week to protect his community from unseen dangers.",
+  "summaryGerman": "Ivan Scott, ein pensionierter Schriftsteller und Redner, entdeckt seine unerwartete Fähigkeit, unsichtbar zu werden, die er im Laufe einer Woche nutzt, um seine Gemeinde vor unsichtbaren Gefahren zu schützen.",
+  "summaryDutch": "Ivan Scott, een gepensioneerde schrijver en spreker, ontdekt zijn onverwachte vermogen om onzichtbaar te worden, wat hij gedurende een week gebruikt om zijn gemeenschap te beschermen tegen ongeziene gevaren.",
+  "summaryFrench": "Ivan Scott, écrivain et orateur à la retraite, découvre sa capacité inattendue à devenir invisible, qu'il utilise au cours d'une semaine pour protéger sa communauté contre les dangers invisibles.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ivan Scott woke up feeling unusually energetic. During his morning walk, he vanished right as a car sped towards him, avoiding what would have been a disastrous accident.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "More comfortable with his newfound skill, Ivan used his invisibility to stop a burglary in his neighborhood. Spying the burglars, he scared them away by moving objects around, making them believe the house was haunted.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Ivan addressed the local community at the library about safety and vigilance. His passionate speech, unseen but powerfully heard, inspired many to take action.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Feeling romantic, Ivan visited his old writing spots around the city, reminiscing about his past and invisibly interacting with admirers of his books, leaving signed copies on their tables.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Thrilled by his heroics, Ivan felt epic and spent the day helping his neighbors with chores while invisible, enjoying their confusion and surprise as tasks seemed to complete themselves.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Satudray",
+      "text": "His actions throughout the week not going unnoticed, Ivan attended a community meeting as an unseen observer, realizing the positive impact he had fostered in his community.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on a week of secret heroism, Ivan wrote a memoir piece, documenting his thoughts and experiences, content with his double life.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "In the quiet of his study, Ivan smiled, content that even in the twilight years, one can still be a hero in their own right.",
+  "moral": "No matter your age, you have the power to make a positive impact in the world."
+}

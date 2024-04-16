@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Frank Morris: The Reluctant Hero",
+  "summary": "Frank Morris, a hobbyist coach, unexpectedly gains superpowers and faces the dilemma of using them responsibly while maintaining his passion for mentoring.",
+  "summaryGerman": "Frank Morris, ein Hobbytrainer, bekommt unerwartet Superkräfte und steht vor dem Dilemma, diese verantwortungsbewusst einzusetzen, während er seine Leidenschaft für das Mentoring beibehält.",
+  "summaryDutch": "Frank Morris, een hobbycoach, krijgt onverwacht superkrachten en staat voor het dilemma om deze verantwoord te gebruiken terwijl hij zijn passie voor mentoring voortzet.",
+  "summaryFrench": "Frank Morris, un entraîneur passionné, obtient des super-pouvoirs de manière inattendue et fait face au dilemme de les utiliser de manière responsable tout en maintenant sa passion pour le mentorat.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank discovers he can manipulate time after a mysterious storm during his morning jog.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Testing his powers, Frank accidentally freezes time at a local basketball game, sparking both confusion and awe.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "Frank uses his power to avert a potential accident, saving a child and feeling the weight of his new responsibilities.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Struggling with the moral implications, Frank seeks advice from an old mentor, finding solace but no clear answers.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Embracing his role, Frank starts using his abilities to secretly help his community, improving local events and activities.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "News of a mysterious 'guardian' begins to circulate, as Frank's efforts have not gone unnoticed.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Frank reflects on his week, realizing that he can balance his life and his powers, focusing on being both a mentor and a hero.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Frank Morris embraced his dual role, learning that true heroism comes in many forms.",
+  "moral": "With great power comes great responsibility, and even the smallest acts can make a big difference."
+}

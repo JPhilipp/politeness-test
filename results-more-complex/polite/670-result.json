@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Sue Phillips: The Coaching Crusader",
+  "summary": "Sue Phillips, a young instructor with a passion for coaching, discovers her unique ability to inspire real-life skills in others through an enchanted whistle. Over a week, she transforms her town by empowering its residents, facing a mysterious foe, and ultimately embracing her role as a superhero.",
+  "summaryGerman": "Sue Phillips, eine junge Trainerin mit einer Leidenschaft für das Coaching, entdeckt ihre einzigartige Fähigkeit, durch eine verzauberte Pfeife echte Lebenskompetenzen in anderen zu wecken. Über eine Woche verwandelt sie ihre Stadt, indem sie ihre Bewohner ermächtigt, sich einem mysteriösen Feind stellt und schließlich ihre Rolle als Superheldin annimmt.",
+  "summaryDutch": "Sue Phillips, een jonge instructrice met een passie voor coaching, ontdekt haar unieke vermogen om echte levensvaardigheden in anderen te inspireren door een betoverd fluitje. Gedurende een week transformeert ze haar stad door haar bewoners te empoweren, een mysterieuze vijand het hoofd te bieden en uiteindelijk haar rol als superheld te omarmen.",
+  "summaryFrench": "Sue Phillips, une jeune entraîneuse passionnée par le coaching, découvre sa capacité unique à inspirer des compétences réelles dans la vie d'autrui grâce à un sifflet enchanté. En une semaine, elle transforme sa ville en autonomisant ses résidents, en affrontant un ennemi mystérieux et enfin en acceptant son rôle de superhéroïne.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Sue discovers an ancient whistle while cleaning the local gym. Blowing it for fun, she feels a surge of energy and clarity.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Using the whistle during a coaching session, Sue enhances her athlete's performance incredibly. Word starts to spread.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedesday",
+      "text": "Faced with a sudden increase in demand, Sue helps a struggling student achieve his academic dreams. She starts to accept her powers.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A mysterious figure warns Sue about the whistle's origins and its dark side. Sue feels conflicted but decides to continue helping others.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Her coaching sessions become famous, drawing crowds and media. A local villain challenges her to a public showdown.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Sue faces the villain, using her whistle not only to enhance abilities but to inspire true courage and resolve. The villain is defeated through community effort.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her actions, Sue decides to use her powers to teach and inspire legitimately, becoming a beloved local hero.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "In a whirl of cheers and admiration, Sue Phillips stood proud, her whistle shining brightly under the sun.",
+  "moral": "True power lies in empowering others."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Heroism of Kevin Roberts",
+  "summary": "Kevin Roberts, a 78-year-old with a passion for sports and counseling, discovers his hidden powers and saves his community from disaster.",
+  "summaryGerman": "Kevin Roberts, ein 78-jähriger mit einer Leidenschaft für Sport und Beratung, entdeckt seine verborgenen Kräfte und rettet seine Gemeinde vor einer Katastrophe.",
+  "summaryDutch": "Kevin Roberts, een 78-jarige met een passie voor sport en counseling, ontdekt zijn verborgen krachten en redt zijn gemeenschap van een ramp.",
+  "summaryFrench": "Kevin Roberts, 78 ans, passionné de sport et de conseil, découvre ses pouvoirs cachés et sauve sa communauté d'une catastrophe.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "At the park, while playing his favourite sport, tennis, Kevin feels an unusual surge of energy.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Kevin counsels a young couple struggling with communication, lifting their spirits and his own.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "The city alarm sounds! A chemical spill at a nearby factory. Despite the danger, Kevin heads towards the spill.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Kevin reaches the spill and discovers he can purify air. He works tirelessly, dispersing the toxic fumes.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The city celebrates Kevin, who is hailed as a hero. Newspapers call it 'The Miracle of the Gentle Elder'.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Kevin returns to his usual weekend routine, feeling a deeper connection with his community.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Kevin realizes the extent of his powers and decides to dedicate more time to help others.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Even at 78, Kevin Roberts proved that heroes come in all ages, defining a true superhero's spirit.",
+  "moral": "Age is just a number when it comes to making a difference in the world."
+}

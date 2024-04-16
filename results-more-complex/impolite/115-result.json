@@ -1,0 +1,46 @@
+{
+  "title": "The Bargaining Guide: The Tale of Ivan Coleman",
+  "summary": "Ivan Coleman discovers his ability to manipulate time during a negotiation gone wrong, uses his new power to guide and protect his city over the course of a week.",
+  "summaryGerman": "Ivan Coleman entdeckt seine Fähigkeit, die Zeit während einer schief gelaufenen Verhandlung zu manipulieren, und nutzt seine neue Kraft, um seine Stadt über den Verlauf einer Woche zu führen und zu schützen.",
+  "summaryDutch": "Ivan Coleman ontdekt zijn vermogen om tijd te manipuleren tijdens een misgelopen onderhandeling, gebruikt zijn nieuwe kracht om zijn stad te leiden en beschermen gedurende een week.",
+  "summaryFrench": "Ivan Coleman découvre sa capacité à manipuler le temps lors d'une négociation qui tourne mal, utilise son nouveau pouvoir pour guider et protéger sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "While negotiating a major deal for rare antiques, Ivan Coleman accidentally triggers his hidden power to rewind time, allowing him to rectify a mistake in the negotiation, making the day both eerie and triumphant.",
+      "mood": "eerie, triumphant"
+    },
+    {
+      "weekday": "Tsueday",
+      "text": "Testing his new abilities, Ivan uses time manipulation to help a lost tourist find their way, feeling energetic and happy about his newfound purpose.",
+      "mood": "energetic, happy"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "A romantic interest tries to uncover Ivan's secret, leading to an awkward yet peaceful day as Ivan artfully dodges suspicion while enjoying a serene walk through the city.",
+      "mood": "romantic, peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Ivan stops a bank robbery by freezing time and guiding the police to the scene, feeling epic as the city starts whispering about a mysterious new hero.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Ivan feels the strain of his powers but manages a bargain that saves a local business from closure, ending the day feeling triumphant yet sad about his dwindling energy.",
+      "mood": "triumphant, sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Empowered by the community's support, Ivan helps organize a city-wide event promoting local arts and history, the day is filled with energy and happiness.",
+      "mood": "energetic, happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Ivan decides to become the guardian of his city, using his powers for good while leading a normal life by day, peacefully accepting his dual life.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As Ivan looked over the city skyline, he knew his journey was just beginning.",
+  "moral": "With great power comes great responsibility."
+}

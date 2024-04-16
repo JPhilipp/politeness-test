@@ -1,0 +1,46 @@
+{
+  "title": "The Astounding Adventures of Alice Robinson, the Planner Protector",
+  "summary": "Over one week, Alice Robinson, a 63-year-old with a flair for counseling and planning, discovers her superpowers, helping her community combat unexpected challenges, and eventually comes to terms with her new role as a superhero.",
+  "summaryGerman": "Über eine Woche entdeckt Alice Robinson, 63 Jahre alt und passioniert in Beratung und Planung, ihre Superkräfte, mit denen sie ihrer Gemeinde hilft, unerwartete Herausforderungen zu meistern, und akzeptiert schließlich ihre neue Rolle als Superheldin.",
+  "summaryDutch": "Gedurende één week ontdekt Alice Robinson, een 63-jarige met een talent voor counseling en planning, haar superkrachten, helpt ze haar gemeenschap met het bestrijden van onverwachte uitdagingen, en accepteert ze uiteindelijk haar nieuwe rol als superheld.",
+  "summaryFrench": "Pendant une semaine, Alice Robinson, 63 ans, passionnée de conseil et de planification, découvre ses super-pouvoirs, aide sa communauté à relever des défis inattendus et finit par accepter son nouveau rôle de super-héroïne.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Alice discovers her power to see minutes into the future during a routine counseling session, surprising both herself and her client.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Monday",
+      "text": "Alice struggling with doubts about her new abilities, attempts to plan her day around her premonitions.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Empowered by new confidence, Alice prevents a crucial mistake during a local community event by advising the organizer based on her visions.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "With growing acclaim, Alice starts to embrace her role, assisting more residents with personal and community plans, using her foresight.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Firday",
+      "text": "Unexpected challenges test Alice: a potential disaster looms, but she meticulously averts it with her strategic planning.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Alice's ability becomes a topic of a small town romance as she guides a young couple to resolve their misunderstandings with her insights.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Alice feels content and peaceful, realizing how her powers have positively reshaped her community's fate.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And thus, Alice Robinson found her true calling as a superhero, proving that age is just a number when it comes to making a difference.",
+  "moral": "Never underestimate your ability to adapt and make a significant impact, regardless of age or circumstances."
+}

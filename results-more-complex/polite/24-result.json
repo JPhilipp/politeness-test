@@ -1,0 +1,46 @@
+{
+  "title": "The Harmonic Protector: The Tale of David Parker",
+  "summary": "David Parker, a 36-year-old musician, discovers his supernatural ability to influence emotions and events through his music, battling personal challenges and societal issues over a week to emerge as a local hero.",
+  "summaryGerman": "David Parker, ein 36-jähriger Musiker, entdeckt seine übernatürlichen Fähigkeiten, Emotionen und Ereignisse durch seine Musik zu beeinflussen, kämpft über eine Woche gegen persönliche Herausforderungen und gesellschaftliche Probleme, um als lokaler Held hervorzugehen.",
+  "summaryDutch": "David Parker, een 36-jarige muzikant, ontdekt zijn bovennatuurlijke vermogen om emoties en gebeurtenissen te beïnvloeden met zijn muziek, worstelt een week lang met persoonlijke uitdagingen en maatschappelijke kwesties om als lokale held naar voren te komen.",
+  "summaryFrench": "David Parker, un musicien de 36 ans, découvre sa capacité surnaturelle à influencer les émotions et les événements par sa musique, affrontant des défis personnels et des problèmes sociétaux sur une semaine pour émerger comme un héros local.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "David starts his week feeling peaceful, playing hymns at the local church, where he vaguely feels the air vibrating unusually around his organ.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Feeling energetic, David experiments with new tunes, accidentally causing a downpour outside — his first hint that his music might control more than just moods.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedneeday",
+      "text": "An eerie feeling envelops David as he realises his tunes caused yesterday's weather. Testing his powers, he creates a soothing melody that clears the skies.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "David uses his music to calm a local dispute, feeling triumphant as the opposing parties leave, chuckling together. His confidence in his abilities grows.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "An epic moment unfolds when David stops a bank robbery by captivating the robbers with a powerful, orchestral blast from his keyboard, hailed as a hero by the town.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "David feels romantic, playing melodious love songs at a wedding. His day is filled with joy as couples dance, completely enraptured by his melodies.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ending the week, David plays at the church again, using his newfound power to instill hope and courage, grounding himself in his purpose to use his gift for good.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And so, David Parker continued to tune his life and those around him, one note at a time.",
+  "moral": "Embrace your unique gifts; they may be your greatest tool to impact the world positively."
+}

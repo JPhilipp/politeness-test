@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Journey of Jin Baker, Advisor Hero",
+  "summary": "Jin Baker, a 21-year-old with a knack for advising, discovers his abilities to influence decisions with his mind, uses it to prevent a disaster and learns the importance of ethically using one's gifts.",
+  "summaryGerman": "Jin Baker, ein 21-Jähriger mit einem Talent für Beratung, entdeckt seine Fähigkeit, Entscheidungen mit seinem Verstand zu beeinflussen, verwendet sie, um eine Katastrophe zu verhindern, und lernt die Bedeutung der ethischen Nutzung seiner Gaben.",
+  "summaryDutch": "Jin Baker, een 21-jarige met een talent voor adviseren, ontdekt zijn vermogen om beslissingen met zijn geest te beïnvloeden, gebruikt het om een ramp te voorkomen en leert het belang van het ethisch gebruiken van zijn gaven.",
+  "summaryFrench": "Jin Baker, un jeune de 21 ans doué en conseil, découvre sa capacité à influencer les décisions avec son esprit, l'utilise pour éviter un désastre et apprend l'importance d'utiliser ses dons de manière éthique.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Jin Baker starts his week feeling uncharacteristically energetic as he senses an unfamiliar surge of clarity in making decisions.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While experimenting with his new-found abilities, Jin discreetly helps resolve a heated debate at a community meeting, feeling strangely triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Jin begins to question the ethics of influencing others without their knowledge, resulting in a day filled with introspection and an eerie sense of power.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Seeking advice, Jin confides in a trusted mentor about his abilities, who encourages him to always use his powers for good, leaving him feeling peaceful.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Jin uses his abilities in secret to prevent a potentially disastrous financial decision at his father's bakery, feeling a complex blend of heroic and sad.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Encouraged, Jin spends the day helping strangers with simple but meaningful decisions, discovering the joy in small acts of kindness, feeling very happy.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Jin saves his neighborhood from a malicious scheme, realized through a consultation session. His actions felt epic and mark the emergence of a new local hero.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "In the quiet aftermath, Jin Baker realized that true heroism comes in many forms, and the most powerful might just be a well-timed piece of advice.",
+  "moral": "The greatest power lies in using our gifts for the betterment of others with thoughtfulness and discretion."
+}

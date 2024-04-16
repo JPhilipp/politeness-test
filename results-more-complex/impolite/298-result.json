@@ -1,0 +1,46 @@
+{
+  "title": "Judy Jenkins: The Negotiator's Niche",
+  "summary": "At 64, Judy Jenkins discovers her latent superpower of resolving conflicts with incredible ease. Over a week, she embraces this power, helping her city negotiate peace with rioters, stopping crimes, and mentoring young heroes.",
+  "summaryGerman": "Mit 64 entdeckt Judy Jenkins ihre verborgene Superkraft, Konflikte mit unglaublicher Leichtigkeit zu lösen. Innerhalb einer Woche nimmt sie diese Kraft an, hilft ihrer Stadt, Frieden mit Randalierern auszuhandeln, stoppt Verbrechen und leitet junge Helden an.",
+  "summaryDutch": "Op 64-jarige leeftijd ontdekt Judy Jenkins haar verborgen superkracht om conflicten met ongelooflijk gemak op te lossen. Gedurende een week omarmt ze deze kracht, helpt ze haar stad om vrede te onderhandelen met relschoppers, stopt misdaden en begeleidt jonge helden.",
+  "summaryFrench": "À 64 ans, Judy Jenkins découvre son superpouvoir latent de résoudre les conflits avec une facilité incroyable. Au cours d'une semaine, elle embrasse ce pouvoir, aidant sa ville à négocier la paix avec des émeutiers, à arrêter des crimes et à encadrer de jeunes héros.",
+  "moral": "It's never too late to discover and embrace your unique abilities to make a positive impact in the world.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy Jenkins, a retired lawyer, feels a sense of restlessness at 64. She suddenly calms a heated dispute at the local cafe with mere words, suprising herself and those around her.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Empowered by yesterday's event, Judy mediates a dispute between two local businesses, miraculously resolving it. She feels her powers of persuasion strengthening.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "Judy is invited by the city mayor to help negotiate terms with a group of minor rioters. Her efforts are successful, and she begins to feel a sense of destiny in her new role.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News of her abilities spreads, and Judy spends the day mentoring young community leaders on how to resolve conflicts peacefully and effectively.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Judy helps avert a potentially violent protest by facilitating an early morning negotiation between community representatives and local authorities – her experience as a negotiator proving invaluable.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Celebrating a week of immense personal growth and community service, Judy hosts a small gathering at her home, sharing her journey and inspiring others.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflective and proud, Judy prepares for the upcoming week, determined to continue her peaceful mission. Her impact has garnered attention, and she is now a recognized local hero.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Judy Jenkins proved that even at 64, one could embark on a new journey as a superhero, transforming her gift into a beacon of hope for her city."
+}

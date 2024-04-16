@@ -1,0 +1,46 @@
+{
+  "title": "The Bargaining Hero: Adventures of Kevin Roberts",
+  "summary": "Kevin Roberts, a 57-year-old amateur superhero, uses his unique abilities of supporting and bargaining to confront a series of challenges throughout one week, ultimately saving his city from a looming crisis.",
+  "summaryGerman": "Kevin Roberts, ein 57-jähriger Amateur-Superheld, nutzt seine einzigartigen Fähigkeiten des Unterstützens und Verhandelns, um im Laufe einer Woche eine Reihe von Herausforderungen zu bewältigen und letztendlich seine Stadt vor einer drohenden Krise zu retten.",
+  "summaryDutch": "Kevin Roberts, een 57-jarige amateur-superheld, gebruikt zijn unieke vaardigheden van ondersteunen en onderhandelen om gedurende een week een reeks uitdagingen aan te gaan en uiteindelijk zijn stad te redden van een dreigende crisis.",
+  "summaryFrench": "Kevin Roberts, un super-héros amateur de 57 ans, utilise ses capacités uniques de soutien et de négociation pour affronter une série de défis tout au long d'une semaine, sauvant finalement sa ville d'une crise imminente.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Kevin stumbles upon a suspicious deal in his neighborhood. Intrigued and concerned, he decides to keep an eye on the involved parties.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Using his superb negotiation skills, Kevin manages to learn about a plot that could endanger the entire community. He feels determined to uncover more.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Kevin supports local businesses to strengthen community ties and gather allies. His efforts are met with great appreciation and collaboration.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Exploiting his bargaining skills, Kevin extracts vital information from a reluctant informant, revealing the time and place of the plot’s execution.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Fiiday",
+      "text": "With the knowledge of the imminent threat, Kevin sets up a strategic plan to thwart the villains’ scheme, pulling together community resources.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The day of reckoning comes. Kevin and his impromptu team bravely confront the criminals, disrupting their operations and ensuring public safety.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The city celebrates as their new hero, Kevin Roberts, is lauded for his bravery and quick thinking. The city is peaceful once more.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus, the unexpected hero, Kevin Roberts, proved that with the right skills and heart, anyone can protect their community.",
+  "moral": "Even ordinary talents, when used wisely, can have extraordinary impacts."
+}

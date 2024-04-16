@@ -1,0 +1,46 @@
+{
+  "title": "The Quiet Valor of Victor Yang",
+  "summary": "Victor Yang, a 20-year-old who loves preaching and knitting, discovers his superpower of instilling peace through his words and crafts, affecting change in a turbulent city over one week.",
+  "summaryGerman": "Victor Yang, ein 20-jähriger, der das Predigen und Stricken liebt, entdeckt seine Superkraft, Frieden durch seine Worte und Handarbeiten zu verbreiten, und bewirkt Veränderungen in einer turbulenten Stadt über eine Woche.",
+  "summaryDutch": "Victor Yang, een 20-jarige die van preken en breien houdt, ontdekt zijn superkracht om vrede te verspreiden door zijn woorden en ambachten, wat veranderingen teweegbrengt in een turbulente stad gedurende een week.",
+  "summaryFrench": "Victor Yang, âgé de 20 ans qui aime prêcher et tricoter, découvre son superpouvoir d’instaurer la paix par ses mots et ses travaux manuels, affectant le changement dans une ville turbulente sur une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Victor starts his week with an energetic sermon that surprisingly calms a local dispute, discovering a peaceful aura in his words.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tueasday",
+      "text": "Inspired, Victor knits scarves at the local park, sharing stories with passersby, spreading tranquility further.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "The news of his calming influence reaches the media, and Victor gives a televised interview, nervously sharing his vision of a peaceful community.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Amidst rising tensions in the city, Victor holds a knitting workshop which turns into a large, harmonious gathering.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A challenge comes when agitators try to disrupt his gathering. Victor's words turn triumphant, maintaining the peace against odds.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Victor spends a quiet day reflecting, knitting alone by a serene lake, his deeds talked about across the city.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The city mayor invites Victor to a civic event, recognizing his efforts in fostering peace through simplicity and humility.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "In a week's span, the quiet valor of Victor Yang wove a tapestry of serenity that embraced an entire city.",
+  "moral": "Great strength lies in tranquility and the simplest acts can bring about the most profound peace."
+}

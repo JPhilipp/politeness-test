@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Hubert Harris: Superhero at Seventy-Two",
+  "summary": "A retired schoolteacher, Hubert Harris, discovers his ability to inspire actionable hope and courage in his community, facing challenges and transforming his quiet neighborhood into an empowered society over the course of a week.",
+  "summaryGerman": "Ein pensionierter Lehrer, Hubert Harris, entdeckt seine Fähigkeit, in seiner Gemeinde handlungsfähige Hoffnung und Mut zu inspirieren und verwandelt innerhalb einer Woche seine ruhige Nachbarschaft in eine ermächtigte Gesellschaft.",
+  "summaryDutch": "Een gepensioneerde leraar, Hubert Harris, ontdekt zijn vermogen om actieve hoop en moed in zijn gemeenschap te inspireren, waarmee hij in de loop van een week zijn rustige buurt omvormt tot een empowered samenleving.",
+  "summaryFrench": "Un enseignant à la retraite, Hubert Harris, découvre sa capacité à inspirer un espoir et un courage concrets dans sa communauté, transformant son quartier tranquille en une société habilitée au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Hubert Harris starts his week feeling energetic. At the local park, he wisely advises a group of young entrepreneurs, sparking innovation and excitement.",
+      "mood": "energetic"
+    },
+    {
+      "wednesday": "Tuesday",
+      "text": "Hubert discovers his spoken words are mysterically imbued with motivational power. He encourages youths at a workshop, helping them overcome personal challenges.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "A mysterious figure watches Hubert. Unfazed, Hubert continues his routine, visiting the local shelter to counsel those in need.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News spreads of Hubert's impact. More people arrive seeking his advice. Hubert feels happy, knowing his life experiences are beneficial to others.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A challenge arises when a local business faces closure. Hubert steps in, advising the owners and encouraging community support to keep it open.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "At a community gathering, Hubert is recognized as a local hero. He feels epic as he realizes the significant difference he's making.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Hubert spends a peaceful day at home, planning how to further utilize his newfound abilities to uplift others.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And thus, Hubert Harris, at 72, became a hero not by chance, but by choice, instilling hope where there was despair, and courage where there was fear.",
+  "moral": "Age is merely a number; true heroism lies in the impact you make on the lives of others."
+}

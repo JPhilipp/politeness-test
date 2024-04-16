@@ -1,0 +1,46 @@
+{
+  "title": "The Rise of David Walker: The Baking Lecturer Hero",
+  "summary": "David Walker, a 33-year-old whose passion for baking and lecturing leads him to discover his superpower of influencing people's emotions with his confections, uses his new abilities to thwart a citywide threat.",
+  "summaryGerman": "David Walker, ein 33-Jähriger, dessen Leidenschaft für das Backen und Vortragen ihn dazu führt, seine Superkraft zu entdecken, die Emotionen der Menschen mit seinen Süßwaren zu beeinflussen, nutzt seine neuen Fähigkeiten, um eine stadtweite Bedrohung abzuwehren.",
+  "summaryDutch": "David Walker, een 33-jarige wiens passie voor bakken en lesgeven hem leidt tot de ontdekking van zijn superkracht om de emoties van mensen met zijn gebak te beïnvloeden, gebruikt zijn nieuwe vaardigheden om een stadsbrede bedreiging af te wenden.",
+  "summaryFrench": "David Walker, un homme de 33 ans dont la passion pour la boulangerie et l'enseignement le conduit à découvrir son superpouvoir d'influencer les émotions des gens avec ses pâtisseries, utilise ses nouvelles capacités pour contrer une menace à l'échelle de la ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "David Walker begins his week by teaching a lecture on the art of baking sourdough, feeling energetic and fulfilled sharing his knowledge.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While experimenting with a new cupcake recipe, David inadvertently discovers his ability to evoke deep emotions in others through his baking, leaving him both excited and a bit eerie.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wedsday",
+      "text": "David tests his new-found powers on his class by serving various pastries, noticing their moods shift dramatically. His day is a mix of trepidation and awe.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News breaks of a local villain spreading sadness across the city. Inspired, David decides to combat this with his uplifting treats.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The city's morale begins to lift as David’s desserts counteract the villain's influence. He feels heroic and proud of his unconventional but impactful contributions.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With the villain thwarted, the community celebrates, heralding David as a new kind of hero. The day is peaceful and filled with joyous gatherings.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, David teaches a special class about using one’s unique talents for the greater good, feeling content and hopeful about the future.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, David Walker transformed his simple love for baking into an extraordinary force for good.",
+  "moral": "Embrace your passions, as they may hold the key to unique and powerful contributions."
+}

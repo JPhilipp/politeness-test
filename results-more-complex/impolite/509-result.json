@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Shield: The Legend of Walter Taylor",
+  "summary": "An 80-year-old advisor named Walter Taylor discovers he can shield his city from unseen threats. Over a week, he comes to terms with his powers and ultimately saves his community.",
+  "summaryGerman": "Ein 80-jähriger Berater namens Walter Taylor entdeckt, dass er seine Stadt vor unsichtbaren Bedrohungen schützen kann. Innerhalb einer Woche akzeptiert er seine Kräfte und rettet letztendlich seine Gemeinde.",
+  "summaryDutch": "Een 80-jarige adviseur genaamd Walter Taylor ontdekt dat hij zijn stad kan beschermen tegen onzichtbare bedreigingen. Gedurende een week accepteert hij zijn krachten en uiteindelijk redt hij zijn gemeenschap.",
+  "summaryFrench": "Un conseiller de 80 ans nommé Walter Taylor découvre qu'il peut protéger sa ville contre les menaces invisibles. En une semaine, il accepte ses pouvoirs et finit par sauver sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Walter discovers his ability to create invisible shields around things when he unknowingly stops a falling branch from hitting a passerby.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tueday",
+      "text": "After testing his powers in various situations, Walter saves a child from a runaway bike, feeling both a sense of duty and concern over his newfound ability.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Walter confides in his longtime friend, Jane, who encourages him to use his powers for the greater good, fostering a sense of hope.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Local news starts reporting on a mysterious guardian angel. Walter feels proud but decides to remain anonymous.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Walter prevents a bank robbery by shielding the entrance until the police arrive. The event leaves him feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Reflection and conversations with community members lead Walter to a deeper understanding of leadership.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "During a city festival, Walter secretly averts a major disaster, securing his role as the city’s unseen protector.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "In the quietude of his own home, Walter decides that his guidance, even if unseen, is invaluable.",
+  "moral": "True heroes are not always in the spotlight; sometimes, they are the unseen guardians whose impacts are felt rather than seen."
+}

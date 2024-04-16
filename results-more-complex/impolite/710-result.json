@@ -1,0 +1,46 @@
+{
+  "title": "The Unlikely Heroism of Frank Roberts",
+  "summary": "Frank Roberts, a 73-year-old tutor and crocheter, unexpectedly discovers his unique superpowers and uses them to save his community from danger over the course of a week.",
+  "summaryGerman": "Frank Roberts, ein 73-jähriger Tutor und Häkler, entdeckt unerwartet seine einzigartigen Superkräfte und nutzt sie, um seine Gemeinde im Laufe einer Woche vor Gefahren zu retten.",
+  "summaryDutch": "Frank Roberts, een 73-jarige tutor en haker, ontdekt onverwachts zijn unieke superkrachten en gebruikt deze om zijn gemeenschap te redden van gevaar gedurende een week.",
+  "summaryFrench": "Frank Roberts, un tuteur et crocheteur de 73 ans, découvre par hasard ses superpouvoirs uniques et les utilise pour sauver sa communauté du danger au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "While tutoring a student in physics, Frank accidentally discovers that he can turn yarn into unbreakable threads. Astounded by his discovery, he spends the day experimenting.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tueday",
+      "text": "Empowered by his newfound skill, Frank uses his crocheting to create protective gear for local firefighters. His work provides a much-needed morale boost to the community.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Local news catches wind of Frank’s heroics, and reporters flock to his home for interviews. Despite the attention, he remains focused on helping others.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A crisis arises when a nearby chemical plant catches fire. Frank swiftly crochets a giant net to contain and remove hazardous debris, preventing further disaster.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The mayor awards Frank with a medal for his bravery and unusual heroism. Frank feels proud but is mostly happy that no further damage was done to his town.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Inspired by this week's events, Frank begins tutoring young people on how to harness their unique talents for the good of all, underlining the importance of community and innovation.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week's achievements, Frank spends a quiet day at home, crocheting his next project while pondering the mysterious origin of his powers.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "And so, heroism found an unlikely home in Frank Roberts, proving that the greatest powers can often come in the most surprising forms.",
+  "moral": "Never underestimate the power of small contributions and personal talents; they can be the key to unexpected heroism and large impacts."
+}

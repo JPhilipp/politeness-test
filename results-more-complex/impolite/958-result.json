@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Kevin Hayes: Superhero at Sixty",
+  "summary": "Kevin Hayes, a 60-year-old cooking enthusiast and mentor, discovers his ability to inspire literal growth in people and plants, using his newfound powers to transform his community over the course of a week.",
+  "summaryGerman": "Kevin Hayes, ein 60-jähriger Kochbegeisterter und Mentor, entdeckt seine Fähigkeit, wörtliches Wachstum bei Menschen und Pflanzen zu inspirieren. Er nutzt seine neu entdeckten Kräfte, um seine Gemeinschaft im Laufe einer Woche zu verwandeln.",
+  "summaryDutch": "Kevin Hayes, een 60-jarige kookliefhebber en mentor, ontdekt zijn vermogen om letterlijke groei bij mensen en planten te inspireren. Hij gebruikt zijn nieuw gevonden krachten om zijn gemeenschap gedurende een week te transformeren.",
+  "summaryFrench": "Kevin Hayes, un passionné de cuisine et mentor de 60 ans, découvre sa capacité à inspirer une croissance littérale chez les personnes et les plantes. Il utilise ses nouveaux pouvoirs pour transformer sa communauté au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Kevin discovers his powers while gardening. To his surprise, plants he tenderly cares for grow at an accelerated rate.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Testing his abilities, Kevin helps a neighbor's wilted garden. By evening, it's in full bloom, stunning the neighborhood.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "Word spreads. Locals flock to Kevin, asking for guidance on personal and community projects.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Kevin mentors a troubled youth, helping him see his potential. They work together in the garden, and the boy’s outlook brightens.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The community starts a garden project led by Kevin, turning a barren park into a lush green space.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Kevin hosts a cooking and gardening class. Relationships blossom among attendees, including a touch of romance for Kevin.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "A celebration is held in the new community garden, with Kevin as the guest of honor.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And so, through nurturing both the soil and the soul, Kevin Hayes sowed seeds of change that would nourish his community for years to come.",
+  "moral": "Great power often comes in gentle forms, and true leadership blooms from the seeds of care and mentorship."
+}

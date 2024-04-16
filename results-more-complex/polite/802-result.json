@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Redemption: Eve Edwards' Battle for Justice",
+  "summary": "Eve Edwards, a passionate preacher and saleswoman, discovers her power to influence truth and justice, using her abilities to expose corruption in her community over the span of one week.",
+  "summaryGerman": "Eve Edwards, eine leidenschaftliche Predigerin und Verkäuferin, entdeckt ihre Fähigkeit, Wahrheit und Gerechtigkeit zu beeinflussen, und nutzt ihre Fähigkeiten, um innerhalb einer Woche Korruption in ihrer Gemeinde aufzudecken.",
+  "summaryDutch": "Eve Edwards, een gepassioneerde predikant en verkoopster, ontdekt haar vermogen om waarheid en gerechtigheid te beïnvloeden, en gebruikt haar vaardigheden om corruptie in haar gemeenschap in de loop van een week bloot te leggen.",
+  "summaryFrench": "Eve Edwards, une prédicatrice et vendeuse passionnée, découvre son pouvoir d'influencer la vérité et la justice, utilisant ses capacités pour exposer la corruption dans sa communauté sur une période d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Eve Edwards starts her week feeling triumphant as she successfully secures a location to host her next big sale event, unaware that it will serve a much greater purpose.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While preparing for the event, Eve stumbles upon documents hinting at local government corruption. She feels a mix of shock and determination.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Eve uses her preaching skills at a community gathering to subtly raise awareness about the issues she's uncovered, inspiring her audience to seek truth.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Continuing her investigation, Eve gathers enough evidence to expose the corrupt officials but struggles with the fear of repercussions.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With the support of her community, Eve publicly exposes the corruption during her sale event, which turns into a rally for justice.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The aftermath of Friday's revelation brings media attention. Eve feels a deep sense of peace knowing she has done the right thing.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Eve reflects on the events of the week at her local church, feeling energized to continue her mission for truth and justice.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus concluded a week where selling and preaching intertwined, proving that every voice can indeed enforce a change when righteousness leads the way.",
+  "moral": "The courage to expose the truth is within anyone who dares to seek justice and equality."
+}

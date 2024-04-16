@@ -1,0 +1,46 @@
+{
+  "title": "The Guiding Light of Judy Ross",
+  "summary": "Judy Ross, a 38-year-old advisor, discovers her ability to foresee future threats and uses her skills to guide her city to safety amidst a series of eerie events.",
+  "summaryGerman": "Judy Ross, eine 38-jährige Beraterin, entdeckt ihre Fähigkeit, zukünftige Bedrohungen vorherzusehen und nutzt ihre Fähigkeiten, um ihre Stadt während einer Reihe von unheimlichen Ereignissen in Sicherheit zu bringen.",
+  "summaryDutch": "Judy Ross, een 38-jarige adviseur, ontdekt haar vermogen om toekomstige bedreigingen te voorzien en gebruikt haar vaardigheden om haar stad veilig te leiden te midden van een reeks griezelige gebeurtenissen.",
+  "summaryFrench": "Judy Ross, une conseillère de 38 ans, découvre sa capacité à prévoir les menaces futures et utilise ses compétences pour guider sa ville vers la sécurité au milieu d'une série d'événements étranges.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy Ross starts her week feeling unusually energetic. At her office, she suddenly visualizes a strange cloud looming over the city park. Intrigued and concerned, she decides to investigate after work.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tueasday",
+      "text": "At the park, Judy encounters a mysterious figure who hints at imminent danger. She uses her advisory skills to gather more insights from the enigmatic stranger, who disappears as mysteriously as he appeared.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Using her newfound foresight, Judy warns the local authorities about a potential disaster. Skeptical at first, they are convinced when minor incidents start occurring as Judy had predicted.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Judy feels the tension build as the predicted day nears. She spends her day advising local businesses and residents to take precautions, her reputation as a reliable source growing.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The day of the foreseen disaster arrives. Judy coordinates with emergency services as they brace for the unknown. Thanks to her guidance, the city is prepared.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The disaster— a sudden, severe storm— hits the city. Thanks to Judy's predictions, damage is minimal and there are no casualties. Her abilities prove invaluable, and she becomes a local hero.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The city holds a small ceremony in honor of Judy, recognizing her heroic deeds. Feeling immensely proud and peaceful, she contemplates her future role in safeguarding her community.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "With her newfound powers, Judy Ross continues to guide and protect, becoming a beacon of hope in her community.",
+  "moral": "With great power comes great responsibility; use your unique abilities to make a positive impact in the world."
+}

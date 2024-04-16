@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Wisdom with Romeo Martinez",
+  "summary": "Romeo Martinez, a 46-year-old teacher, unexpectedly gains the power to manifest his advice into real-world outcomes, leading to a week filled with challenges and achievements as he transforms his community.",
+  "summaryGerman": "Romeo Martinez, ein 46-jähriger Lehrer, erlangt unerwartet die Fähigkeit, seine Ratschläge in reale Ergebnisse umzusetzen, was zu einer Woche voller Herausforderungen und Erfolge führt, während er seine Gemeinde verwandelt.",
+  "summaryDutch": "Romeo Martinez, een 46-jarige leraar, krijgt onverwachts de kracht om zijn adviezen om te zetten in echte resultaten, wat leidt tot een week vol uitdagingen en prestaties terwijl hij zijn gemeenschap transformeert.",
+  "summaryFrench": "Romeo Martinez, un enseignant de 46 ans, acquiert soudainement le pouvoir de transformer ses conseils en résultats concrets, conduisant à une semaine remplie de défis et de réalisations alors qu'il transforme sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Romeo discovers he can influence real-life scenarios just by giving advice. He tests this newfound ability at school, helping a troubled student regain confidence.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Excited by his powers, Romeo advises a colleague on how to mend a strained relationship at work, resulting in a peaceful and more productive atmosphere.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednesdag",
+      "text": "Romeo’s powers begin to draw attention. He feels a mix of unease and responsibility, realizing the potential impact of his actions.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Romeo helps resolve a long-standing neighborhood dispute by advising the feuding parties, leading to a heartwarming reconciliation.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The day brings energetic challenges as Romeo is bombarded with requests from people seeking his wisdom. His day ends with him feeling overextended but fulfilled.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Faced with a moral dilemma, Romeo decides to use his power only for selfless acts, reinforcing his commitment to serve the community.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Romeo feels content knowing he has made a positive difference. He spends a peaceful day with his family, rejuvenating for the challenges ahead.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "In the quiet of the evening, Romeo Martinez looked out at the twinkling lights of the city, ready to face whatever the new week might bring.",
+  "moral": "With great power comes great responsibility; use it wisely to help others."
+}

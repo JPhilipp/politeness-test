@@ -1,0 +1,45 @@
+{
+  "title": "The Green Threads of Frank Russell",
+  "summary": "Frank Russell, a 43-year-old weaver and gardener, discovers his ability to control plants and weave magical threads, using his powers to thwart a city threat and grow into a local hero over the span of one week.",
+  "summaryGerman": "Frank Russell, ein 43-jähriger Weber und Gärtner, entdeckt seine Fähigkeit, Pflanzen zu kontrollieren und magische Fäden zu weben, und nutzt seine Kräfte, um innerhalb einer Woche eine Bedrohung für die Stadt abzuwehren und zu einem lokalen Helden zu werden.",
+  "summaryDutch": "Frank Russell, een 43-jarige wever en tuinier, ontdekt zijn vermogen om planten te beheersen en magische draden te weven, en gebruikt zijn krachten om binnen een week een stadsdreiging te stoppen en uit te groeien tot een lokale held.",
+  "summaryFrench": "Frank Russell, un tisseur et jardinier de 43 ans, découvre sa capacité à contrôler les plantes et à tisser des fils magiques, utilisant ses pouvoirs pour contrer une menace urbaine et devenir un héros local en l'espace d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank Russell began his week as usual, tending to his garden. However, while trimming a particularly stubborn vine, Frank discovered his hands emitted a strange glow, causing the vine to grow and move at his command.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Intrigued by his newfound powers, Frank spent the day experimenting with his abilities. He wove a basket from thin air, which gleamed with a subtle light. Energized, he wondered about the extent of his abilities.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Frank's attempts at using his powers caught the attention of a local botanist who helped him understand his connection to plant life. Frank was both happy and determined to master his powers.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursady",
+      "text": "A crisis arose when a massive sinkhole threatened a nearby neighborhood. Frank swung into action, using his power to weave strong roots to stabilize the ground, saving countless homes.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Word of Frank's heroics spread, bringing reporters and curious citizens to his garden. Frank, feeling a romantic stir, shared his evening with a journalist who admired both his garden and his courage.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Empowered by public support, Frank held a community event in the park where he demonstrated how to use gardening as a form of therapy and artistic expression, binding the community together.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Frank felt overwhelmed with a sense of purpose. As he sat in his garden at dusk, he knew his life was forever changed. He was not just a gardener and a weaver, but a protector of his community.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And so, Frank Russell found greatness intertwined with the threads of his quiet passions."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Sage Resurgence of Trent Wang",
+  "summary": "In a week's journey, 75-year-old Trent Wang shifts from a retired consultant to a heroic figure who saves his city by using his wisdom and strategic thinking.",
+  "summaryGerman": "In einer einwöchigen Reise verwandelt sich der 75-jährige Trent Wang von einem pensionierten Berater in eine heldenhafte Figur, die seine Stadt durch seine Weisheit und strategisches Denken rettet.",
+  "summaryDutch": "In een reis van een week verandert de 75-jarige Trent Wang van een gepensioneerde raadgever in een heroïsche figuur die zijn stad redt met zijn wijsheid en strategisch denken.",
+  "summaryFrench": "Dans un périple d'une semaine, Trent Wang, 75 ans, passe de consultant à la retraite à un héros qui sauve sa ville grâce à sa sagesse et à sa réflexion stratégique.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "The week starts with Trent receiving a mysterious letter that hints at an imminent threat to his city. Intrigued and concerned, Trent vows to use his lifetime of experience to thwart this danger.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Trent spends the day gathering information. He reconnects with old colleagues and sources to form a clearer picture of the impending crisis. His network proves invaluable.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesdoy",
+      "text": "Using the information collected, Trent identifies a potential source of the threat: an unscrupulous businessman planning to demolish key parts of the city for profit. Trent formulates a plan.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "With a meticulous strategy in place, Trent contacts local authorities and key influencers to expose the plan. His persuasive skills and solid evidence begin to sway public opinion.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The city’s people rally behind Trent. News outlets and social media buzz with stories of Trent’s cunning and the dubious plans he has uncovered. The businessman faces increasing scrutiny.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Under pressure, the businessman retracts his plans and the city breathes a collective sigh of relief. Trent, although tired, feels a renewed sense of purpose, enjoying a peaceful day.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The city organizes a small ceremony honoring Trent’s efforts. Grateful citizens express their thanks, and Trent shares wise words on vigilance and community strength.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As the sun sets on Sunday, Trent Wang smiles, knowing his city is safer because of his actions.",
+  "moral": "No matter the age, one can always make a significant impact."
+}

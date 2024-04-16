@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Journey of Frank Flores",
+  "summary": "Frank Flores, a 21-year-old with a passion for assisting and teaching, discovers his unique power to become invisible, which he uses throughout one week to secretly help his community and teach important life lessons.",
+  "summaryGerman": "Frank Flores, ein 21-Jähriger mit einer Leidenschaft für Hilfe und Unterricht, entdeckt seine einzigartige Fähigkeit, unsichtbar zu werden, die er eine Woche lang verwendet, um seiner Gemeinde heimlich zu helfen und wichtige Lebenslektionen zu unterrichten.",
+  "summaryDutch": "Frank Flores, een 21-jarige met een passie voor assisteren en onderwijzen, ontdekt zijn unieke kracht om onzichtbaar te worden, die hij gedurende één week gebruikt om zijn gemeenschap stiekem te helpen en belangrijke levenslessen te onderwijzen.",
+  "summaryFrench": "Frank Flores, 21 ans, passionné d'assistance et d'enseignement, découvre son pouvoir unique de devenir invisible, qu'il utilise pendant une semaine pour aider secrètement sa communauté et enseigner des leçons de vie importantes.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank discovers his ability to turn invisible after a mysterious solar eclipse. Feeling both anxious and excited, he decides to explore this new skill.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tursday",
+      "text": "Frank uses his invisibility for the first time to prevent a school fight. He secretly orchestrates a peaceful resolution between the feuding students.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Inspired by yesterday's success, Frank spends the day assisting local businesses, anonymously fixing small problems and leaving helpful notes.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Frank teaches an impromptu class about kindness and courage at the community center, while remaining unseen.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "While invisible, Frank overhears plans about a local park being demolished. He rallies the community and they design a save-the-park campaign.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During the park rally, Frank shares his invisibility secret with a trusted friend, who helps him strategize for more community improvement projects.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Frank feels fulfilled and motivated to continue using his powers for good, embracing his role as a silent guardian of his town.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Frank learned that sometimes the greatest heroes are the ones we never see.",
+  "moral": "True heroism lies not in seeking recognition, but in selfless actions."
+}

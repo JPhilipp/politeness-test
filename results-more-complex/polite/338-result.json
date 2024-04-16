@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Yousef Lewis: Unassuming Hero",
+  "summary": "Yousef Lewis, a 53-year-old community volunteer, unexpectedly becomes a hero by using his skills to help others over the course of a week.",
+  "summaryGerman": "Yousef Lewis, ein 53-jähriger Gemeindehelfer, wird unerwartet zum Helden, indem er seine Fähigkeiten nutzt, um anderen im Laufe einer Woche zu helfen.",
+  "summaryDutch": "Yousef Lewis, een 53-jarige communityvrijwilliger, wordt onverwachts een held door zijn vaardigheden te gebruiken om anderen te helpen gedurende een week.",
+  "summaryFrench": "Yousef Lewis, un bénévole de la communauté de 53 ans, devient un héros de manière inattendue en utilisant ses compétences pour aider les autres au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Yousef Lewis spends his morning instructing young volunteers at a community center, feeling energetic and fulfilled.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "After hearing a distress call on his way home, Yousef aids a family in evacuating their home during a small fire, feeling triumphant as firefighters arrive.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wenesday",
+      "text": "Yousef helps an elderly man who had fallen in the park, staying with him until help arrives, creating a peaceful yet eerie mood around sunset.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "He spends the day running a charity event which helps raise significant funds for his community, embodying an aura of happiness and success.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Yousef’s efforts lead to a public acknowledgment by the local mayor, swelling Yousef’s day with pride and an epic atmosphere.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "He hosts a free training on disaster readiness for the community, sparking interest and energy among the participants.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Yousef feels deeply peaceful, knowing he has made a tangible impact on his community.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the sun sets on Sunday, Yousef Lewis smiles, ready to embrace whatever challenges next week may bring.",
+  "moral": "Everyday acts of service can make a real hero."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Adventures of Bob Patterson",
+  "summary": "Over one week, Bob Patterson, a humble guide with a talent for negotiation, discovers his ability to become invisible at will and uses his new power to avert a crisis while facing his own challenges.",
+  "summaryGerman": "Über eine Woche hinweg entdeckt Bob Patterson, ein bescheidener Führer mit einem Talent für Verhandlungen, seine Fähigkeit, nach Belieben unsichtbar zu werden, und nutzt seine neue Kraft, um eine Krise abzuwenden, während er seine eigenen Herausforderungen bewältigt.",
+  "summaryDutch": "Gedurende een week ontdekt Bob Patterson, een bescheiden gids met een talent voor onderhandelen, zijn vermogen om naar believen onzichtbaar te worden en gebruikt hij zijn nieuwe kracht om een crisis af te wenden terwijl hij zijn eigen uitdagingen het hoofd biedt.",
+  "summaryFrench": "Au cours d'une semaine, Bob Patterson, un guide humble doué pour la négociation, découvre sa capacité à devenir invisible à volonté et utilise son nouveau pouvoir pour éviter une crise tout en faisant face à ses propres défis.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Bob Patterson, while guiding a tour across the city, accidentally discovers his ability to become invisible when he narrowly avoids a crashing drone.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Experimenting with his newfound power, Bob navigates his day invisibly, learning to control it while negotiating a peaceful resolution to a local dispute.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Bob uses his invisibility to uncover corruption in a deal that seemed too good to be true, securing justice for those affected.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "While invisible, Bob overhears plans for a bank heist. He wrestles with the responsibility his power brings, feeling isolated.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Bob prevents the heist by secretly alerting the police while invisibly guiding them during the operation, feeling the thrill of his silent heroics.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After a week of solitude in his invisible state, Bob reconnects with friends, realizing the importance of his visible life and relationships.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Bob decides to use his power sparingly, understanding its potential dangers and choosing to live predominantly in the visible world, appreciating normalcy.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "In the dance of visibility and invisibility, Bob Patterson finds balance in both worlds, harnessing his power for the greater good.",
+  "moral": "With great power comes great responsibility."
+}

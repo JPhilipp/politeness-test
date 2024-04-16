@@ -1,0 +1,46 @@
+{
+  "title": "The Week-Long Saga of Mallory Murphy: Consultant Superhero",
+  "summary": "Mallory Murphy, a 63-year-old marketing consultant, discovers a hidden ability to influence minds through advertising, which she uses to thwart a scheming villain's plot over the course of a week.",
+  "summaryGerman": "Mallory Murphy, eine 63-jährige Marketingberaterin, entdeckt die verborgene Fähigkeit, durch Werbung Gedanken zu beeinflussen, die sie nutzt, um über die Dauer einer Woche die Pläne eines verschlagenen Schurken zu durchkreuzen.",
+  "summaryDutch": "Mallory Murphy, een 63-jarige marketingconsultant, ontdekt een verborgen vermogen om gedachten te beïnvloeden via reclame, wat ze gebruikt om gedurende een week het plan van een sluwe schurk te dwarsbomen.",
+  "summaryFrench": "Mallory Murphy, une consultante en marketing de 63 ans, découvre une capacité cachée à influencer les esprits à travers la publicité, qu'elle utilise pour contrecarrer le complot d'un méchant rusé au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Mallory Murphy begins her week reviewing client advertisements. As she adjusts a billboard design, she suddenly finds that her thoughts are manifesting visually in the ads, changing their messages.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Embracing her newfound powers, Mallory adjusts a national campaign to promote peace and community. The campaign goes viral, starting a wave of positive actions across the city.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednedsay",
+      "text": "A notorious corporate spy catches wind of Mallory's abilities and plans to use her to create subversive campaigns. Mallory feels the weight of her powers and the potential dangers.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The villain confronts Mallory, trying to coerce her into cooperating. Instead, Mallory uses her powers cleverly to expose the villain's past misdeeds in an impromptu ad, leading to his arrest.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Media swarm Mallory as her actions become public. She uses the opportunity to spread a message of integrity in marketing and the positive potential of advertising.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Reflecting on her week, Mallory decides to reserve her powers for promoting honest and beneficial messages. She spends a peaceful day consulting clients on ethical advertising strategies.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Mallory enjoys a quiet day at home, her mind at ease with the thought that her skills can make a difference. Her story becomes an inspiration for ethical marketing practices globally.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Thus ends the extraordinary week of Mallory Murphy, who shows the world that even later in life, superheroes can emerge with messages of truth and ethics.",
+  "moral": "With great power comes the responsibility to use it ethically and for the betterment of society."
+}

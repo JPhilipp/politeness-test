@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Frank Alexander: The Ageless Hero",
+  "summary": "Frank Alexander, a retired coach and hobbyist publicist, discovers he can manipulate time after helping an elderly woman. Throughout the week, he learns to control this power, confronting a major threat and ultimately saving his town.",
+  "summaryGerman": "Frank Alexander, ein pensionierter Coach und Hobby-Publizist, entdeckt, dass er die Zeit manipulieren kann, nachdem er einer älteren Frau geholfen hat. Im Laufe der Woche lernt er, diese Kraft zu kontrollieren, stellt sich einer großen Bedrohung und rettet letztendlich seine Stadt.",
+  "summaryDutch": "Frank Alexander, een gepensioneerde coach en hobbypublicist, ontdekt dat hij tijd kan manipuleren nadat hij een oudere vrouw heeft geholpen. Gedurende de week leert hij deze kracht te beheersen, confronteert een grote dreiging en redt uiteindelijk zijn stad.",
+  "summaryFrench": "Frank Alexander, un entraîneur à la retraite et publiciste amateur, découvre qu'il peut manipuler le temps après avoir aidé une femme âgée. Tout au long de la semaine, il apprend à contrôler ce pouvoir, à affronter une grande menace et finalement à sauver sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank Alexander, while helping an elderly woman across the street, accidentally discovers his newfound ability to slow down time. This realization leaves him intrigued but unsure of the extent of his powers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tueday",
+      "text": "Empowered by yesterday's discovery, Frank spends the day experimenting with his abilities. He manages to concentrate and reverse a small object's motion. His confidence grows.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Frank uses his time manipulation to help a local school resolve a scheduling conflict, making him feel useful and needed. He feels happy and fulfilled from the gratitude he receives.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Word of Frank's deeds spreads. The community begins to seek him out for help with bigger issues, such as resolving old disputes and influencing important decisions.",
+      "mood": "heroic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The increasing demand for his powers drains Frank. He retreats to a quiet park where he contemplates the heavy responsibility that comes with such exceptional abilities.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A crisis emerges when a local dam begins to fail. With little time to spare, Frank uses his power on a grand scale, stopping time to avert a flood and coordinate emergency services efficiently.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The town celebrates Frank as a hero. Frank reflects on his journey and resolves to use his powers for the good of all, but also to seek balance in his life.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "As the sun set on Sunday, Frank Alexander sat quietly, watching the town below bask in peace, knowing he had truly made a difference.",
+  "moral": "With great power comes great responsibility, and the wisdom to use it wisely."
+}

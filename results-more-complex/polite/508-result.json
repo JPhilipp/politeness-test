@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Oscar Green: Classroom Hero",
+  "summary": "Oscar Green, a 51-year-old tutor, discovers his ability to imbue knowledge telepathically over one week, using his powers to help students overcome obstacles and gain confidence in their studies.",
+  "summaryGerman": "Oscar Green, ein 51-jähriger Tutor, entdeckt seine Fähigkeit, innerhalb einer Woche Wissen telepathisch zu vermitteln und nutzt seine Kräfte, um Schülern zu helfen, Hindernisse zu überwinden und Vertrauen in ihre Studien zu gewinnen.",
+  "summaryDutch": "Oscar Green, een 51-jarige tutor, ontdekt zijn vermogen om kennis telepathisch over te dragen gedurende één week, en gebruikt zijn krachten om studenten te helpen obstakels te overwinnen en vertrouwen te krijgen in hun studies.",
+  "summaryFrench": "Oscar Green, un tuteur de 51 ans, découvre sa capacité à transmettre des connaissances par télépathie pendant une semaine, utilisant ses pouvoirs pour aider les élèves à surmonter des obstacles et à prendre confiance en leurs études.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar feels a strange surge of energy while tutoring mathematics, realizing he can transmit complex concepts directly into his students' minds.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Excited by his newfound abilities, Oscar helps a struggling student master algebra, seeing her confidence soar.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Oscar uses his powers discreetly, afraid of being discovered, but finds joy in his students' unprecedented academic success.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The news of his students' success stories spreads, and Oscar receives a mysterious invitation to join a society of similarly gifted educators.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Meeting with the society, Oscar learns about the responsibilities of using his powers and vows to serve as a guardian of knowledge and learning.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Oscar spends a quiet day reflecting on his role and the ethical implications of his abilities, feeling a deep sense of peace and duty.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Putting his powers to use for community outreach, Oscar holds a free tutoring session in the local park, inspiring a new generation of learners.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Thus, Oscar Green became a hero not in capes, but in classrooms, shaping futures with a single thought.",
+  "moral": "With great power comes great responsibility, especially in the sharing of knowledge."
+}

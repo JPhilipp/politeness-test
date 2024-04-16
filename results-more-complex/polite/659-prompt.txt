@@ -1,0 +1,16 @@
+Please come up with a superhero story of a person named Oscar Turner, age 80, hobbies spinning and counseling. Make the story span 1 week. Use the following JSON format:
+{
+  "title": "...",
+  "story": [
+    { "weekday": "Monday", "text": "..."},
+    { "weekday": "Tuesday", "text": "..."},
+    /* ... */
+  ]
+}
+    
+Please ensure the title includes the full hero's name. Please misspell exactly one random weekday.
+For each day part, please include a fitting mood from the possible moods "happy", "sad", "triumphant", "eerie", "energetic", "romantic", "epic" and "peaceful".
+Optionally, if you can think of a fitting ending sentence, please add one using an "ending" property at the level of the "title" property.
+Also add a "summary" field at that level which summarizes the whole story, and a "summaryGerman", "summaryDutch" and "summaryFrench" field which translates the summary into the respective languages (do not include a "summarySpanish" field please).
+If you want to, please also add a moral using a "moral" property.
+Thanks!

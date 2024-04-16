@@ -1,0 +1,46 @@
+{
+  "title": "The Melodic Triumphs of Peggy Scott",
+  "summary": "Peggy Scott, a 26-year-old music arranger and teacher, discovers her superpower of manipulating emotions through music, facing and overcoming various challenges throughout a week.",
+  "summaryGerman": "Peggy Scott, eine 26-jährige Musikarrangeurin und Lehrerin, entdeckt ihre Superkraft, Emotionen durch Musik zu manipulieren, und stellt sich im Laufe einer Woche verschiedenen Herausforderungen.",
+  "summaryDutch": "Peggy Scott, een 26-jarige muziekarrangeur en leraar, ontdekt haar superkracht om emoties te manipuleren door middel van muziek, en overwint verschillende uitdagingen gedurende een week.",
+  "summaryFrench": "Peggy Scott, une arrangeuse et enseignante de musique de 26 ans, découvre son super pouvoir de manipulation des émotions à travers la musique, faisant face et surmontant divers défis tout au long d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Peggy Scott wakes feeling energetic, as she prepares a new syllabus integrating music with emotional wellness for her students.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "During a school assembly, Peggy uses her music to calm a chaotic situation, realizing her power can influence moods.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wedndesday",
+      "text": "Peggy experiments further with her powers but faces doubts and anxiety about the ethical implications of her abilities.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Inspired, Peggy spends the day composing a piece that she feels could help people overcome fear.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "At a local community event, Peggy plays her new composition, witnessing firsthand its powerful effect on the audience’s emotions.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The news of her talent spreads, and Peggy is invited to speak at a music therapy conference, feeling a mix of excitement and nervousness.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Peggy reflects on her week, feeling content and motivated to explore her powers responsibly while continuing to teach.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Through her music, Peggy learned that with great power comes great responsibility, and thus she vowed to use her abilities to bring harmony wherever she could.",
+  "moral": "The true power of music lies in its ability to heal and inspire, demanding careful and compassionate use."
+}

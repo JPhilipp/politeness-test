@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Judy Morris: The Counselor Hero",
+  "summary": "Judy Morris, a 61-year-old counselor by profession and a passionate cook, discovers her ability to heal emotional wounds through her cooking. Throughout one week, she helps her community overcome various emotional struggles, using her kitchen as her base of operations.",
+  "summaryGerman": "Judy Morris, eine 61-jährige Beraterin von Beruf und leidenschaftliche Köchin, entdeckt ihre Fähigkeit, emotionale Wunden durch ihr Kochen zu heilen. Über eine Woche hinweg hilft sie ihrer Gemeinde, verschiedene emotionale Kämpfe zu überwinden, wobei ihre Küche ihre Operationsbasis ist.",
+  "summaryDutch": "Judy Morris, een 61-jarige counselor van beroep en een gepassioneerde kok, ontdekt haar vermogen om emotionele wonden te genezen door haar koken. Gedurende een week helpt ze haar gemeenschap om verschillende emotionele strijden te overwinnen, met haar keuken als haar uitvalsbasis.",
+  "summaryFrench": "Judy Morris, conseillère de profession âgée de 61 ans et cuisinière passionnée, découvre sa capacité à guérir les blessures émotionnelles à travers sa cuisine. Tout au long d'une semaine, elle aide sa communauté à surmonter diverses luttes émotionnelles, utilisant sa cuisine comme base d'opérations.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy helps a young couple discover the joy of cooking together, strengthening their relationship.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Feeling overwhelmed by the impact she's made, Judy reflects on her own past, realizing how much she has grown.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thurssday",
+      "text": "After noticing sadness in her neighbor’s eyes, Judy invites her over and cooks her favorite meal, brightening her day.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Judy hosts a group therapy session in her dining room, using home-cooked meals to facilitate honest conversations.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Inspired by the community's feedback, Judy plans a large gathering to extend her healing support through her cooking.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The event is a success, bringing together various people from the community who share stories and recipes.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Judy feels content at having turned her passions into powerful tools for healing.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Judy continued to ignite change, one meal and one heart at a time.",
+  "moral": "Passions, when harnessed selflessly, can serve as powerful catalysts for healing and community unity."
+}

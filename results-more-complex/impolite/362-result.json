@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Hubert Coleman: Counselor Extraordinaire",
+  "summary": "Over a week, Hubert Coleman, an experienced counselor, discovers his unexpected telepathic abilities and uses them to resolve community conflicts, culminating in a grand resolution that brings peace to his neighborhood.",
+  "summaryGerman": "Über eine Woche entdeckt Hubert Coleman, ein erfahrener Berater, seine unerwarteten telepathischen Fähigkeiten und verwendet sie, um Gemeinschaftskonflikte zu lösen, was in einer großen Lösung gipfelt, die Frieden in seiner Nachbarschaft bringt.",
+  "summaryDutch": "Gedurende een week ontdekt Hubert Coleman, een ervaren counselor, zijn onverwachte telepathische vaardigheden en gebruikt ze om gemeenschapsconflicten op te lossen, wat uitmondt in een grote resolutie die vrede brengt in zijn buurt.",
+  "summaryFrench": "Pendant une semaine, Hubert Coleman, un conseiller expérimenté, découvre ses capacités télépathiques inattendues et les utilise pour résoudre des conflits communautaires, aboutissant à une grande résolution qui apporte la paix dans son quartier.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Hubert Coleman, a seasoned counselor, starts his week feeling peaceful as he prepares for his community consultation session. However, he begins to notice he can unusually sense the emotional states of others in the room.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "During a session, Hubert unexpectedly helps resolve a long-standing dispute between two community groups by communicating thoughts directly from one leader's mind to another. The day feels triumphant as he hones this new skill.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wedesday",
+      "text": "Hubert feels eerie unease as his newly revealed power attracts the curiosity of unknown people who seem overly interested in his abilities.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Choosing to confront his fears, Hubert uses counseling as a guise to learn more about these mysterious individuals, discovering they mean no harm and are in fact protectors of people with special abilities.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Empowered with the truth, Hubert feels happy as he joins a network of individuals with abilities. They counsel each other, sharing techniques to manage and enhance their skills.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Testing his limits, Hubert successfully defuses a potential riot at a local gathering, broadcasting calming thoughts widely. The day ends with an epic sense of accomplishment.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Hubert, now fully embraced by his community and fellow gifted individuals, spends a peaceful and romantic day with his partner, reflecting on the changes the week has brought into his life.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "As the sun sets on Sunday, Hubert Coleman smiles, ready to embrace whatever challenges the next week might hold with his newfound powers.",
+  "moral": "Embrace your unique talents; they may be just what your community needs."
+}

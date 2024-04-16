@@ -1,0 +1,46 @@
+{
+  "title": "The Sculpted Silence of Sue Henderson",
+  "summary": "Sue Henderson, a 34-year-old programmer with a passion for sculpting, uncovers her supernatural gift to control sound, which she uses to confront and ultimately defeat a malevolent tech tycoon.",
+  "summaryGerman": "Sue Henderson, eine 34-jährige Programmiererin mit einer Leidenschaft für Bildhauerei, entdeckt ihre übernatürlichen Fähigkeiten, Sound zu kontrollieren, die sie nutzt, um einen bösartigen Technologie-Tycoon zu konfrontieren und letztendlich zu besiegen.",
+  "summaryDutch": "Sue Henderson, een 34-jarige programmeur met een passie voor beeldhouwen, ontdekt haar bovennatuurlijke gave om geluid te beheersen, die ze gebruikt om een kwaadaardige tech-tycoon te confronteren en uiteindelijk te verslaan.",
+  "summaryFrench": "Sue Henderson, une programmeuse de 34 ans passionnée de sculpture, découvre son don surnaturel de contrôler le son, qu'elle utilise pour affronter et finalement vaincre un tyran technologique malveillant.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Sue discovers her unique power while sculpting in her studio, noticing that her movements silence the bustling city sounds outside her window.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tueaday",
+      "text": "Inspired by her newfound abilities, Sue begins experimenting with controlling sound waves, using her programming skills to enhance her control.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Sue prevents an accident by silencing an out-of-control car alarm that was distracting drivers nearby.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "At work, Sue uses her powers to secretly help her colleagues focus by dampening disruptive office noise, which improves overall productivity.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Sue's actions catch the attention of a corrupt tech tycoon, who seeks to exploit her powers for his personal gain.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Sue confronts the tycoon at a tech expo, revealing his malicious intentions to the public using her powers to hijack the sound system.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "As the city cheers her on, Sue returns to her studio, humbled and more determined than ever to use her powers for good.",
+      "mood": "triumphant"
+    }
+  ],
+  "moral": "Use your unique talents to make a positive difference in the world, no matter how small.",
+  "ending": "With a new purpose, Sue sculpts a statue of silence, forever marking the week she became a hero."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Nancy Green: Tutor by Day, Guardian by Night",
+  "summary": "Nancy Green, a 71-year-old who spends her day tutoring and worshiping, unexpectedly gains powers and helps her community deal with a series of unexpected events, learning about her new abilities each day.",
+  "summaryGerman": "Nancy Green, eine 71-Jährige, die ihre Tage mit Nachhilfeunterricht und Anbetung verbringt, erlangt unerwartet Kräfte und hilft ihrer Gemeinschaft, eine Reihe unerwarteter Ereignisse zu bewältigen, und lernt täglich über ihre neuen Fähigkeiten.",
+  "summaryDutch": "Nancy Green, een 71-jarige die haar dagen spendeert aan het geven van bijles en aanbidding, krijgt onverwachts krachten en helpt haar gemeenschap om te gaan met een reeks onverwachte gebeurtenissen, en leert elke dag over haar nieuwe vaardigheden.",
+  "summaryFrench": "Nancy Green, âgée de 71 ans, qui passe ses journées à donner des cours particuliers et à adorer, acquiert soudainement des pouvoirs et aide sa communauté à faire face à une série d'événements inattendus, apprenant chaque jour ses nouvelles capacités.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Nancy was tutoring when a mystical aura enveloped her. She felt a surge of energy and discovered she could understand and speak any language.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Using her new skills, Nancy helped a lost tourist find their way, communicating flawlessly in a foreign language, feeling a mix of excitement and responsibility.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wensday",
+      "text": "At her weekly worship service, Nancy sensed someone's distress. Using her powers, she comforted them, realizing her powers could bring peace.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News of her deeds spread, and Nancy was asked to mediate a community dispute. Her words healed old wounds, reinforcing her role as a guardian.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Nancy's powers attracted mysterious figures who questioned her abilities. She stood firm, showcasing bravery and protecting her community.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a community clean-up, Nancy used her abilities to rejuvenate nature, making the park vibrant again. Neighbors joined, inspired by her vigor.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Nancy realized the extent of her impact. As she prepared for another week, she promised to use her powers for good.",
+      "mood": "reflective"
+    }
+  ],
+  "ending": "Nancy proved that heroes come in all ages, teaching us that the power to change the world can emerge at any moment in life.",
+  "moral": "It's never too late to make a difference in the world."
+}

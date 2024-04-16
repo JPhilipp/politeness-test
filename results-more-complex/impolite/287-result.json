@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Frank Yang: The Drawing Rescuer",
+  "summary": "The story follows Frank Yang, a 51-year-old who discovers his superpowers of bringing drawings to life to solve real-life problems over the span of one week.",
+  "summaryGerman": "Die Geschichte folgt Frank Yang, einem 51-jährigen, der seine Superkräfte entdeckt, Zeichnungen zum Leben zu erwecken, um reale Probleme im Verlauf einer Woche zu lösen.",
+  "summaryDutch": "Het verhaal volgt Frank Yang, een 51-jarige die zijn superkrachten ontdekt om tekeningen tot leven te brengen om echte problemen op te lossen over de periode van een week.",
+  "summaryFrench": "L'histoire suit Frank Yang, un homme de 51 ans qui découvre ses super-pouvoirs de donner vie à des dessins pour résoudre des problèmes réels sur une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank Yang starts his week feeling unusually energetic. While consulting for a local business, he sketches a small device that cleans the air more efficiently. To his amazement, his drawing comes to life and begins to purify the office air!",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Feeling triumphant from his discovery, Frank experiments further. He draws a lost cat poster for a neighbor and the cat in the drawing leads them directly to the real missing cat.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednssday",
+      "text": "Nightmares of his drawings becoming dangerous wake him in an eerie mood. Frank contemplates the ethics of his newfound power.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Trying to ignore the unsettling dreams, Frank decides to use his powers for good. He sketches a series of safety improvements for the local park, which manifest overnight, making the park safer and more enjoyable.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Inspired, Frank holds a community event where he invites children to draw their 'dream playground.' By evening, their creations come to life, much to the delight and amazement of the community.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Energy levels rise as Frank is approached by city officials. They request his help in designing affordable housing. Frank spends the day drawing up innovative, eco-friendly houses that start appearing around the city.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Frank sits peacefully and sketches a self-portrait, wondering what adventures next week will bring. His drawing smiles back at him in a comforting gesture.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As Frank closed his sketchbook, the city buzzed with life and gratitude, a testament to the magic of art and kindness.",
+  "moral": "The power of creativity lies not just in imagination, but in bringing ideas to life that better the world around us."
+}

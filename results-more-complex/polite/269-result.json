@@ -1,0 +1,46 @@
+{
+  "title": "The Energetic Week of Ivan Cooper, The Educator Hero",
+  "summary": "Ivan Cooper discovers his unique ability to inspire super learning powers, spends a week balancing his life between teaching and saving the city, and finally confronts the villainous Dr. Dull, culminating in an epic showdown.",
+  "summaryGerman": "Ivan Cooper entdeckt seine einzigartige Fähigkeit, super Lernkräfte zu inspirieren, verbringt eine Woche damit, sein Leben zwischen Lehren und Retten der Stadt zu balancieren, und stellt sich schließlich dem bösen Dr. Dull in einem epischen Showdown.",
+  "summaryDutch": "Ivan Cooper ontdekt zijn unieke vermogen om superleerkrachten te inspireren, brengt een week door met het balanceren van zijn leven tussen lesgeven en het redden van de stad, en confronteert uiteindelijk de slechterik Dr. Dull in een episch gevecht.",
+  "summaryFrench": "Ivan Cooper découvre sa capacité unique à inspirer des super pouvoirs d'apprentissage, passe une semaine à équilibrer sa vie entre enseigner et sauver la ville, et affronte finalement le vilain Dr. Dull lors d'un affrontement épique.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "In an ordinary classroom, Ivan Cooper discovers he can inspire actual superpowers in his students through his passionate teaching methods.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "His morning routine is disrupted when he helps a lost child harness her newfound powers to find her way home.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wadnesday",
+      "text": "Ivan encounters Dr. Dull, who aims to suppress creativity and learning in children. Ivan vows to stop him.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "While preparing for his classes, Ivan practices his new role as a hero, balancing it with his teaching responsibilities.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A sense of confidence builds in Ivan as he begins to understand the extent of his abilities, both in and out of the classroom.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Ivan leads his first open seminar, empowering kids city-wide and disrupting Dr. Dull's plans.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The final battle occurs on the school grounds with a dramatic showdown between Ivan and Dr. Dull, concluding with Ivan's victory.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "With Dr. Dull defeated, Ivan's city now embraces a brighter future, where every child has the potential to be super.",
+  "moral": "Embrace your unique talents, and use them to make a positive impact on the world."
+}

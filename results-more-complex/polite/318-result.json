@@ -1,0 +1,45 @@
+{
+  "title": "The Heroic Week of Eve Carter: Speaking Power",
+  "summary": "At 76 years old, retired professor Eve Carter discovers her superpower of influencing others with her voice, uses it to thwart a bank robbery, and spends the rest of the week learning to control her newfound abilities.",
+  "summaryGerman": "Mit 76 Jahren entdeckt die pensionierte Professorin Eve Carter ihre Superkraft, andere mit ihrer Stimme zu beeinflussen, verwendet sie, um einen Bankraub zu vereiteln, und verbringt den Rest der Woche damit, ihre neu entdeckten Fähigkeiten zu kontrollieren.",
+  "summaryDutch": "Op 76-jarige leeftijd ontdekt de gepensioneerde professor Eve Carter haar superkracht om anderen te beïnvloeden met haar stem, gebruikt deze om een bankoverval te verijdelen, en spendeert de rest van de week aan het leren beheersen van haar pas ontdekte vaardigheden.",
+  "summaryFrench": "À l'âge de 76 ans, la professeure retraitée Eve Carter découvre son super pouvoir d'influencer les autres avec sa voix, l'utilise pour déjouer un braquage de banque, et passe le reste de la semaine à apprendre à contrôler ses nouvelles capacités.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "mood": "energetic",
+      "text": "Eve Carter begins her week normally, attending a local debate. She passionately discusses societal changes, but suddenly her words cause the listeners to help a nearby charity spontaneously, showcasing a form of influence she had never experienced."
+    },
+    {
+      "weekday": "Tuesday",
+      "mood": "eerie",
+      "text": "While practicing her speech, Eve feels a strange sensation. Every word she utters seems to echo around her room. She begins to suspect her voice now carries more than just words."
+    },
+    {
+      "weekday": "Wednesdat",
+      "mood": "sad",
+      "text": "Eve tries to use her voice deliberately to help her neighbor calm a noisy dispute. However, the power seems uncontrollable, and her attempt only escalates the situation, leaving her distraught and unsure about her newfound ability."
+    },
+    {
+      "weekday": "Thursday",
+      "mood": "triumphant",
+      "text": "During a visit to the bank, a robbery unfolds. Quick thinking, Eve uses her commanding voice to incapacitate the robbers verbal commands, ensuring everyone's safety. The police thank her, amazed by her heroism."
+    },
+    {
+      "weekday": "Friday",
+      "mood": "epic",
+      "text": "News of her heroism spreads. Eve receives an invitation to speak at a major event. On stage, she cautiously uses her power to inspire positivity and community action, receiving standing ovations for her powerful impact."
+    },
+    {
+      "weekday": "Saturday",
+      "mood": "peaceful",
+      "text": "After a whirlwind week, Eve spends a quiet Saturday with her family, who are supportive but worried about the effects of her new power. They reassure her of their unwavering support."
+    },
+    {
+      "weekday": "Sunday",
+      "mood": "happy",
+      "text": "Eve reflects on her week and decides to dedicate her new power to speaking for those who can't. She starts planning to establish a foundation aimed at social justice and community support."
+    }
+  ],
+  "moral": "With great power comes great responsibility."
+}

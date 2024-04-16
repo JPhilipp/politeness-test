@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Hero: The Adventures of Walter Clark",
+  "summary": "Walter Clark, a 54-year-old who enjoys crocheting and consulting, discovers his hidden powers and stops a crime spree, making his city safer.",
+  "summaryGerman": "Walter Clark, ein 54-jähriger Mann, der sich gerne mit Häkeln und Beratung beschäftigt, entdeckt seine verborgenen Kräfte und stoppt eine Verbrechensserie, wodurch seine Stadt sicherer wird.",
+  "summaryDutch": "Walter Clark, een 54-jarige man die van haken en adviseren houdt, ontdekt zijn verborgen krachten en stopt een misdaadgolf, waardoor zijn stad veiliger wordt.",
+  "summaryFrench": "Walter Clark, un homme de 54 ans qui aime le crochet et le conseil, découvre ses pouvoirs cachés et arrête une vague de criminalité, rendant sa ville plus sûre.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Walter Clark, while crocheting a complex pattern, discovers his ability to manipulate time when his stitches start reversing themselves. Surprised but intrigued, he feels both happy and eerie.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Energized by his newfound powers, Walter decides to test them further. He accidentally stops time in a meeting, finding it the perfect chance to offer unnoticed advice that subtly improves the team's project outcomes.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wendsday",
+      "text": "During his routine city walk, Walter witnesses a robbery. Using his time manipulation, he intervenes, preventing the crime. This act of bravery leaves him feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News of the mysterious 'Time Stopper' spreads. Walter, feeling a sense of purpose, crochets a costume for his alter ego. The creativity involved makes his evening peaceful and fulfilling.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Walter, now known as 'Time Keeper', consciously uses his power to aid the police in foiling a planned bank heist. His actions thrill and energize the city, and he feels epic in his role.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With the city buzzing about Time Keeper’s deeds, Walter receives anonymous thank-you notes. Touched by the community's response, he feels an unexpected romantic connection to the city he protects.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Walter continues his crochet, now embedding tiny symbols of time in his designs. Proud and confident, he is prepared for whatever the future holds, feeling an overarching sense of happiness.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And thus, with yarn and time on his side, Walter knitted not just scarves, but the very fabric of safety around his city.",
+  "moral": "Discover your unique strengths and you can weave positive change in unexpected ways."
+}

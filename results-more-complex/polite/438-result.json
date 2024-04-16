@@ -1,0 +1,46 @@
+{
+  "title": "The Embroidering Avenger: The Tale of Grace Wood",
+  "summary": "Grace Wood, a 24-year-old influencer and embroidery enthusiast, discovers magical threads that grant her powers. Over one week, she learns to control these powers, faces a villain, and saves her city, finding purpose beyond her social media fame.",
+  "summaryGerman": "Grace Wood, eine 24-jährige Influencerin und Stickerei-Enthusiastin, entdeckt magische Fäden, die ihr Kräfte verleihen. Über eine Woche lernt sie, diese Kräfte zu kontrollieren, stellt sich einem Bösewicht und rettet ihre Stadt, und findet einen Zweck über ihren Ruhm in den sozialen Medien hinaus.",
+  "summaryDutch": "Grace Wood, een 24-jarige influencer en borduurliefhebber, ontdekt magische draden die haar krachten geven. Gedurende een week leert ze deze krachten te beheersen, confronteert ze een schurk, en redt ze haar stad, een doel vindend voorbij haar roem op sociale media.",
+  "summaryFrench": "Grace Wood, une influenceuse et passionnée de broderie âgée de 24 ans, découvre des fils magiques qui lui confèrent des pouvoirs. En une semaine, elle apprend à maîtriser ces pouvoirs, affronte un méchant et sauve sa ville, trouvant un but au-delà de sa renommée sur les réseaux sociaux.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Grace stumbled upon a mysterious embroidery kit at a local market. As she began to stitch, she felt an unusual surge of energy.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Experimenting with her new skills, Grace accidentally created a sparkling shield with her needle, inspired to use her powers for good.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedneday",
+      "text": "Grace created a costume with her enchanted thread, embroidering symbols of strength and hope. She felt ready to face whatever challenges came.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A local news alert reported a nearby robbery. Wearing her embroidered costume, Grace intervened, and her threads wove a net capturing the thieves.",
+      "mood": "heroic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Word about the 'Embroidering Avenger' spread. Grace felt overwhelmed by her newfound fame but remained determined to help her community.",
+      "mood": "mixed emotions"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Grace honed her skills, finding new ways her threads could protect and assist. Her influencer followers skyrocketed, intrigued by her heroics.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Facing a sudden crisis, a villain harnessing dark powers threatened the city. Grace, weaving light from darkness, defeated him with a magnificent tapestry trap.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Grace realized that true influence comes not from social fame, but from the courage to make a difference.",
+  "moral": "The true measure of influence is the ability to positively impact others."
+}

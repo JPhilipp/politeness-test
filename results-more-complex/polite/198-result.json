@@ -1,0 +1,46 @@
+{
+  "title": "The Extraordinary Week of Sue Washington, Super-Publicist",
+  "summary": "At the age of 79, Sue Washington discovers her unique ability to inspire and heal communities through her words and meals, facing multiple challenges and ultimately bringing her neighborhood together.",
+  "summaryGerman": "Im Alter von 79 Jahren entdeckt Sue Washington ihre einzigartige Fähigkeit, Gemeinschaften durch ihre Worte und Mahlzeiten zu inspirieren und zu heilen, stellt sich mehreren Herausforderungen und bringt letztendlich ihre Nachbarschaft zusammen.",
+  "summaryDutch": "Op 79-jarige leeftijd ontdekt Sue Washington haar unieke vermogen om gemeenschappen te inspireren en te genezen met haar woorden en maaltijden, gaat ze meerdere uitdagingen aan en brengt uiteindelijk haar buurt samen.",
+  "summaryFrench": "À l'âge de 79 ans, Sue Washington découvre sa capacité unique à inspirer et guérir les communautés avec ses mots et ses repas, fait face à plusieurs défis et finit par rassembler son quartier.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "The week starts off energetically as Sue prepares for the local community meeting by baking her famous cookies and writing an inspiring speech about unity and support.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Sue becomes the talk of the town after her cookies and speech spark a renewed sense of community at the meeting. Her heartfelt words heal old disputes among neighbors.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wedsneday",
+      "text": "Mysteriously, the local park's trees begin to wither. Sue, feeling a deep connection to the park, decides to hold a fundraiser dinner to gather support for reviving the landscape.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Sue spends the day publicizing the fundraiser and cooking. The town is abuzz with expectations for another miraculous gathering orchestrated by Sue.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The fundraiser is a huge success. People from all around come to enjoy Sue's meals and donate generously, filling the evening with an epic atmosphere.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With the funds raised, Sue helps plant new trees in the park. The community works together, turning the day into a celebration of nature and new beginnings.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Sue feels overwhelmingly fulfilled knowing she's made a lasting impact in her community through her unique powers of persuasion and passion for cooking.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Sue Washington, at 79, proves that heroes come in all forms, and community spirit can indeed flourish under the wings of compassion and dedication.",
+  "moral": "No matter the age, you can always make a significant difference in your community with passion and effort."
+}

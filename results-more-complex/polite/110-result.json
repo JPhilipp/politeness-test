@@ -1,0 +1,46 @@
+{
+  "title": "Eve Collins: The Curtain Call Hero",
+  "summary": "Eve Collins, a 61-year-old director, discovers her ability to manipulate emotions through her voice. Over a week, she stops a thief, prevents a disaster at a theater, and transforms her community theater into a sanctuary of hope.",
+  "summaryGerman": "Eve Collins, eine 61-jährige Regisseurin, entdeckt ihre Fähigkeit, Emotionen durch ihre Stimme zu manipulieren. Innerhalb einer Woche hält sie einen Dieb auf, verhindert eine Katastrophe im Theater und verwandelt ihr Gemeindetheater in eine Zuflucht der Hoffnung.",
+  "summaryDutch": "Eve Collins, een 61-jarige regisseur, ontdekt haar vermogen om emoties te manipuleren met haar stem. In een week tijd stopt ze een dief, voorkomt een ramp in een theater en transformeert haar gemeenschapstheater in een toevluchtsoord van hoop.",
+  "summaryFrench": "Eve Collins, une réalisatrice de 61 ans, découvre sa capacité à manipuler les émotions par sa voix. En une semaine, elle arrête un voleur, prévient une catastrophe au théâtre et transforme son théâtre communautaire en un sanctuaire d'espoir.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Eve directs a rehearsal at her local community theater. She unknowingly uses her newfound power to inspire unparalleled performances.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While walking home, Eve encounters a petty thief. She calms him with soothing words, turning his intentions around completely.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Weednesday",
+      "text": "Eve experiments more with her ability, realizing she can also evoke sadness. She uses this to better understand complex characters in her directing.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A sudden blackout creates chaos during a theater performance. Eve uses her voice to maintain calm and guides everyone safely outside.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Inspired by her actions, the community starts volunteering at the theater. Eve gathers everyone, leading a workshop on expressing emotions.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The mayor visits to commend Eve for her leadership in crisis. The theater receives a grant to become a cultural center.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Eve reflects on her week's adventure, realizing her lifelong skills can serve a greater purpose than she ever imagined.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "In the wings of the stage, Eve smiles, knowing her director's voice can now direct more than just plays.",
+  "moral": "Every skill, no matter how mundane it may seem, has the potential to bring profound change when directed towards the good of others."
+}

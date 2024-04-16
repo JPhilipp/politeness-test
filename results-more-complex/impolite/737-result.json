@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Oscar Bryant: Stock Adviser by Day, Hero by Night",
+  "summary": "Oscar Bryant spends an action-packed week balancing his day job in trading with his secret life helping the citizens of his city, culminating in a dramatic rescue from a burning building.",
+  "summaryGerman": "Oscar Bryant verbringt eine aktionsreiche Woche damit, seinen Tagesjob im Handel mit seinem geheimen Leben zu balancieren, um den Bürgern seiner Stadt zu helfen, und gipfelt in einer dramatischen Rettung aus einem brennenden Gebäude.",
+  "summaryDutch": "Oscar Bryant brengt een actievolle week door met het balanceren van zijn dagelijkse baan in de handel met zijn geheime leven bij het helpen van de burgers van zijn stad, wat uitmondt in een dramatische redding uit een brandend gebouw.",
+  "summaryFrench": "Oscar Bryant passe une semaine pleine d'action à équilibrer son travail de jour dans le trading avec sa vie secrète aidant les citoyens de sa ville, culminant par un sauvetage dramatique d'un immeuble en feu.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar Bryant starts his week reviewing stock market trends, feeling energetic after a weekend of rest. Unbeknownst to his colleagues, he also saves a cat stuck in a tree using his stealthy agility.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While trading, Oscar gets a tip about an illegal operation downtown. That evening, he shifts from advising clients to advising pedestrians to stay clear of danger, thwarting a theft with his quick thinking.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "At midweek, Oscar feels an eerie calm in the city. He has a brief romantic encounter that evening with a fellow volunteer in the neighborhood watch program, finding peace amidst the chaos.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "An urgent call beckons Oscar to a public hacking incident which he defuses with the help of his cyber skills, ensuring financial safety for thousands. The city breathes easy, unaware of their silent guardian.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Feeling happy about yesterday’s success, Oscar organizes a workshop on financial literacy for local students, embodying the hero's belief in empowerment through education.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A peaceful morning at the farmer's market turns into a chase as Oscar spies a notorious hacker. Using his adroitness, he apprehends the hacker, ending his week on an energetic and successful note.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Oscar feels a serene satisfaction knowing his dual life serves a greater purpose, maintaining peace in both his professional and heroic endeavors.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Oscar closed his eyes that Sunday night, knowing his city was a bit safer thanks to his efforts.",
+  "moral": "True heroism lies in balancing the call of duty with the call of the heart."
+}

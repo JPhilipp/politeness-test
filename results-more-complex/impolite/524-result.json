@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Jin Peterson: A Superhero at 67",
+  "summary": "Jin Peterson, a 67-year-old with a passion for helping, discovers his ability to see people's needs before they express them, using his powers to assist his community throughout a peculiar week.",
+  "summaryGerman": "Jin Peterson, ein 67-jähriger, der leidenschaftlich gerne hilft, entdeckt seine Fähigkeit, die Bedürfnisse der Menschen zu erkennen, bevor sie sie äußern, und nutzt seine Kräfte, um seiner Gemeinde während einer eigenartigen Woche zu helfen.",
+  "summaryDutch": "Jin Peterson, een 67-jarige met een passie voor helpen, ontdekt zijn vermogen om de behoeften van mensen te zien voordat ze deze uiten, en gebruikt zijn krachten om zijn gemeenschap te helpen gedurende een bijzondere week.",
+  "summaryFrench": "Jin Peterson, un homme de 67 ans passionné par l'aide aux autres, découvre sa capacité à percevoir les besoins des gens avant qu'ils ne les expriment, et utilise ses pouvoirs pour aider sa communauté tout au long d'une semaine particulière.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Jin discovers his newfound powers after a vivid dream where he helped countless people without moving a step. This day, he tries his abilities by quietly aiding his neighbors, predicting small needs like retrieving mail for them, and feeling quite triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Emboldened, Jin visits a local shelter where he senses the unspoken needs of the residents. He organizes a donation drive, finding clothes and items exactly as needed. The joy in their eyes is his reward.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wensday",
+      "text": "Jin feels an eerie chill as he wakes up. Today, he senses a looming disaster. He spends the day preparing, gathering supplies and rallying the community. By evening, they avert a minor flood with his forewarned plans.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "After yesterday's scare, the community feels closer and more connected. Jin, feeling energetic, organizes a community park clean-up. His spirits and physical energy seem inexhaustible.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "At the local cafe, Jin unexpectedly aids a couple by reigniting their lost conversation. He subtly guides them to rediscover their shared dreams, leaving the scene with a hidden smile.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Jin spends a peaceful day at home, reflecting on the impact of his actions. He realizes the power of silent help, the strength in gentle gestures of kindness.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Jin’s story becomes known throughout the town. The local newspaper brands him a superhero, a title he humbly accepts. He promises to continue his quiet assistance, feeling an epic sense of purpose.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And so, Jin Peterson, at the age of 67, became a hero not in capes, but in whispers of help and deeds of silent kindness.",
+  "moral": "True heroism lies not only in grand gestures but also in the quiet helping of those in need."
+}

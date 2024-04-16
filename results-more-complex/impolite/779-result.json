@@ -1,0 +1,46 @@
+{
+  "title": "The Quilting Counselor: The Adventures of Jin Wood",
+  "summary": "A 73-year-old superhero, Jin Wood, uses her quilting skills and wisdom from counseling to save her neighborhood from various troubles over the course of a week.",
+  "summaryGerman": "Eine 73-jährige Superheldin, Jin Wood, nutzt ihre Fähigkeiten im Quilten und ihre Weisheit aus der Beratung, um ihre Nachbarschaft im Laufe einer Woche vor verschiedenen Problemen zu retten.",
+  "summaryDutch": "Een 73-jarige superheldin, Jin Wood, gebruikt haar vaardigheden in het quilten en wijsheid uit counseling om haar buurt te redden van verschillende problemen gedurende een week.",
+  "summaryFrench": "Une super-héroïne de 73 ans, Jin Wood, utilise ses compétences en matelassage et sa sagesse en conseil pour sauver son quartier de divers problèmes au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "The week begins with Jin Wood discovering that the local community center, where she often holds quilting workshops, has been vandalized. She uses her counseling skills to calm the panicked community and her quilting talents to organise a fundraising event for repairs.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuseday",
+      "text": "Jin spends the day counseling troubled youth, using stories woven into her quilts to teach lessons about life and resilience. Her unique approach helps a particularly closed-off teenager open up about his struggles.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Midweek, a mysterious figure triggers turmoil by stirring conflicts in the neighborhood. Jin uses quilts depicting historical conflicts and resolutions to counsel and remind her neighbors about the strength of unity.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "During her daily walk, Jin notices suspicious activities at the park. She cleverly uses a quilt as a trap to catch a petty thief, proving that no quilt nor effort is too small to make a difference.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Jin spends a peaceful day at a local nursing home, sharing her quilting skills and spreading joy. Her compassionate presence is a testament to the power of engaging activities in enhancing the well-being of the elderly.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Community members rally behind Jin, hosting a surprise 'Quilt Show' in her honor. The show features all the quilts she's made and the stories behind them, showcasing the love and wisdom she has stitched into her community.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The week closes with Jin being honored by the local mayor for her contributions to the community. She feels humbled and blessed, promising to continue her work, spreading love and warmth, one quilt at a time.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus, Jin Wood sewed not just fabrics, but also hope and harmony into the fabric of her community.",
+  "moral": "Every skill, no matter how simple, has the power to change lives."
+}

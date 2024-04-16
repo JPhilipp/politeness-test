@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Walter Smith",
+  "summary": "Walter Smith, a 22-year-old with a passion for tutoring and encouraging, discovers his superpowers and transforms into a superhero, protecting his city from disaster over the span of a week.",
+  "summaryGerman": "Walter Smith, ein 22-Jähriger mit einer Leidenschaft für das Unterrichten und Ermutigen, entdeckt seine Superkräfte und verwandelt sich in einen Superhelden, der seine Stadt eine Woche lang vor Katastrophen schützt.",
+  "summaryDutch": "Walter Smith, een 22-jarige met een passie voor tutoring en aanmoedigen, ontdekt zijn superkrachten en transformeert in een superheld, die zijn stad een week lang beschermt tegen rampen.",
+  "summaryFrench": "Walter Smith, un jeune homme de 22 ans passionné par le tutorat et l'encouragement, découvre ses superpouvoirs et se transforme en super-héros, protégeant sa ville des désastres pendant une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Walter Smith wakes up feeling strangely energetic. On his way to the university, he accidentally stops a traffic accident with a surprising new strength.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Testing his newfound abilities, Walter saves a cat stuck in a tree, feeling proud and happy to help.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wensday",
+      "text": "Walter runs into a mysterious figure who warns him about the misuse of powers, leaving him feeling eerie.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Despite the warning, Walter helps a struggling student find her confidence, providing encouragement just when needed.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A villain threatens the city’s power grid. Walter’s tutoring session is cut short as he dashes out to confront the threat, an epic battle ensues.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After his triumphant victory, Walter spends a quiet day at home, reflecting on the responsibilities of his new role.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Feeling romantic, Walter plans an evening walk with his close friend, sharing his secret identity and enjoying a new depth to his life.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "As the sun set on Sunday, Walter realized his week had transformed him not just into a superhero, but into a better version of himself.",
+  "moral": "With great power comes great responsibility, and the true heroism lies in the simple acts of kindness."
+}

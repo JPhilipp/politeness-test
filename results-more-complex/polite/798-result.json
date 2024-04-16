@@ -1,0 +1,46 @@
+{
+  "title": "The Adventurous Week of Victor Peterson: Marketer by Day, Tutor by Night",
+  "summary": "Victor Peterson, a 24-year-old with a passion for marketing and tutoring, discovers his superpowers unexpectedly. Throughout a week, he combats a mysterious cyber threat targeting his city, learning the ropes of his powers while balancing his daily life.",
+  "summaryGerman": "Victor Peterson, ein 24-Jähriger mit einer Leidenschaft für Marketing und Nachhilfe, entdeckt unerwartet seine Superkräfte. Während einer Woche bekämpft er eine mysteriöse Cyber-Bedrohung, die seine Stadt ins Visier nimmt, erlernt die Kontrolle seiner Kräfte und versucht gleichzeitig, sein tägliches Leben zu balancieren.",
+  "summaryDutch": "Victor Peterson, een 24-jarige met een passie voor marketing en bijles, ontdekt onverwacht zijn superkrachten. Gedurende een week bestrijdt hij een mysterieuze cyberdreiging die zijn stad target, leert hij de kneepjes van zijn krachten terwijl hij zijn dagelijks leven balanceert.",
+  "summaryFrench": "Victor Peterson, un jeune homme de 24 ans passionné par le marketing et le tutorat, découvre par hasard ses superpouvoirs. Tout au long d'une semaine, il lutte contre une menace cybernétique mystérieuse qui cible sa ville, apprend à maîtriser ses pouvoirs tout en équilibrant sa vie quotidienne.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "As Victor juggles a marketing campaign, he starts noticing odd patterns in city traffic signals. Curiosity piqued, he investigates after tutoring, feeling uneasy yet energetic.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tueesday",
+      "text": "Discovering abnormalities are cyber-attacks, Victor feels an electric surge as he touches his computer to research more. This newfound power boosts his resolve.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Victor experiments with his abilities, learning to manipulate digital devices. Although this drains him, he manages to trace the cyber-attacks' origins, feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "With power comes responsibility. Balancing work, tutor lessons, and hero duties tests Victor's will, but he remains steadfast and romantic about saving his city's integrity.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The Villain behind the cyber-attacks confronts Victor. An epic showdown ensues, destroying part of Victor's workplace. Despite the chaos, he's driven by a peaceful resolution.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Repairing the damage, physically and digitally, Victor feels somewhat sad knowing his dual life may have consequences but reassured by the community's support.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Victor feels happy about his accomplishments and closer connections to those he tutored. His secret identity remains intact.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Victor, embracing the unexpected journey, looks forward to his new life with both excitement and a bit of trepidation.",
+  "moral": "Embrace the unexpected. Even everyday skills can reveal extraordinary capabilities when challenged."
+}

@@ -1,0 +1,45 @@
+{
+  "title": "The Adventures of Ling Lewis: The Counselor of Valor",
+  "summary": "Over the course of a week, Ling Lewis, a 54-year-old instructor and counselor, discovers her latent superhero abilities and uses them to protect her community while balancing her everyday life.",
+  "summaryGerman": "Im Laufe einer Woche entdeckt Ling Lewis, eine 54-jährige Lehrerin und Beraterin, ihre verborgenen Superheldenfähigkeiten und nutzt sie, um ihre Gemeinde zu schützen, während sie ihr alltägliches Leben balanciert.",
+  "summaryDutch": "Gedurende een week ontdekt Ling Lewis, een 54-jarige instructeur en counselor, haar latente superheldenkrachten en gebruikt ze om haar gemeenschap te beschermen terwijl ze haar dagelijks leven in evenwicht houdt.",
+  "summaryFrench": "Au cours d'une semaine, Ling Lewis, une enseignante et conseillère de 54 ans, découvre ses capacités de super-héros latentes et les utilise pour protéger sa communauté tout en équilibrant sa vie quotidienne.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Lewis starts her week feeling energized and unexpectedly discovers she can sense when someone is in distress. At work, she subtly uses her newfound ability to provide exceptional advice.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tueday",
+      "text": "While walking through the city, Ling witnesses a mugging and, driven by her instincts, she manages to intervene and safely diffuse the situation. Her actions although risky, leave her feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Overwhelmed by the events, Ling confides in a close friend about her abilities. The mood is peaceful as they sit in the quiet of a secluded park, discussing the possibilities of her powers.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News of a mysterious 'guardian angel' begins to spread around town. People feel safer, yet the atmosphere is filled with eerie whispers about who this hero could be.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Ling decides to start wearing a disguise when she helps others, which allows her freedom to express a new, bolder side of herself. Her actions are marked by romantic notions of heroism and secrecy.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A major crisis at a community event puts Ling's powers to the test. She acts swiftly and effectively, saving many lives. The day ends on an epic note as the community starts to hold hope for this unknown hero.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Ling feels satisfied yet sad, questioning the personal cost of her double life. However, she resolves to continue her mission, inspired by the love and support she feels around her.",
+      "mood": "sad"
+    }
+  ],
+  "moral": "True heroism lies in the balance between helping others and taking care of oneself."
+}

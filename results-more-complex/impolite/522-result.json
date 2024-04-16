@@ -1,0 +1,46 @@
+{
+  "title": "The Incredible Week of Grace Evans: Superhero at 74",
+  "summary": "Grace Evans, age 74, discovers her ability to absorb and redistribute emotions during a week filled with challenges and triumphs, using her powers to heal her community.",
+  "summaryGerman": "Grace Evans, 74 Jahre alt, entdeckt ihre Fähigkeit, Emotionen aufzunehmen und wieder abzugeben, während einer Woche voller Herausforderungen und Triumphe, und nutzt ihre Kräfte, um ihre Gemeinschaft zu heilen.",
+  "summaryDutch": "Grace Evans, 74 jaar oud, ontdekt haar vermogen om emoties te absorberen en opnieuw te verdelen tijdens een week vol met uitdagingen en triomfen, waarin ze haar krachten gebruikt om haar gemeenschap te genezen.",
+  "summaryFrench": "Grace Evans, âgée de 74 ans, découvre sa capacité à absorber et redistribuer les émotions au cours d'une semaine remplie de défis et de triomphes, utilisant ses pouvoirs pour soigner sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Grace Evans wakes up feeling strangely vibrant, her morning walk in the park leaving her feeling almost eerie as she absorbs the collective calm and occasional anxieties of passersby.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Ouesday",
+      "text": "A troubling call from a distressed friend leads Grace to discover her ability to absorb her friend's sadness and replace it with peace. She spends the afternoon counseling her, both feeling strangely uplifted.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Testing her newfound powers at a local school, Grace absorbs the hyper energy of children during recess, transforming it into a peaceful atmosphere that helps teachers and students alike.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The local community center experiences a conflict among members. Grace steps in, using her ability to absorb the angry emotions and exude a calming influence, leading to a peaceful resolution.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Grace holds a meeting with local officials to discuss public welfare initiatives, using her powers to build consensus and inspire action. The meeting is vibrant and productive.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Grace spends a calm day reflecting on her role in the community, realizing the importance of each person's emotions in the fabric of society. She feels a deep connection to her town.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "In an impromptu community gathering, people whom Grace has helped throughout the week come together to show their gratitude. Grace feels profoundly happy and realized.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As the week closed, Grace Evans stood as a beacon of healing, showing that every emotion has its place and time, and that sometimes, the greatest superheroes are the ones walking quietly among us.",
+  "moral": "Even in our later years, each of us has the ability to impact our community positively; sometimes, our greatest strengths lie hidden within our most innate traits."
+}

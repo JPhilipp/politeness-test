@@ -1,0 +1,46 @@
+{
+  "title": "The Unyielding Spirit of Jin Perry",
+  "summary": "Jin Perry, a 70-year-old superhero with a talent for consulting and public speaking, discovers his superpowers and saves his city from disaster over the span of a week.",
+  "summaryGerman": "Jin Perry, ein 70-jähriger Superheld mit Talent für Beratung und öffentliches Sprechen, entdeckt seine Superkräfte und rettet seine Stadt innerhalb einer Woche vor einer Katastrophe.",
+  "summaryDutch": "Jin Perry, een 70-jarige superheld met een talent voor consulting en publiek spreken, ontdekt zijn superkrachten en redt zijn stad van een ramp in de loop van een week.",
+  "summaryFrench": "Jin Perry, un super-héros de 70 ans doué pour le conseil et la prise de parole en public, découvre ses superpouvoirs et sauve sa ville d'une catastrophe en l'espace d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Jin Perry, while consulting at a local business, accidentally discovers his ability to manipulate time after touching a mysterious artifact. Extremely startled but curious, he decides to explore his newfound power.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesdey",
+      "text": "After practicing privately, Jin successfully reverses a minor event that could have led to a traffic accident. Heartened by his success, he feels a surge of responsibility to use his power for good.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Jin speaks at a public event, subtly using his power to alleviate people's personal regrets by letting them 'redo' moments from their day. His indirect approach keeps his ability a secret while still helping the community.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Word of 'miracles' around town begin to spread. Jin keeps a low profile, focusing on mastering his skills. He struggles with the ethical implications of his actions but remains committed.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A crisis emerges when a local dam begins to crack. Jin uses his time manipulation to coordinate a perfect rescue operation, preventing a catastrophic flood.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After the rescue, the community gathers to thank the mysterious hero. Jin, hidden among them, feels a bond with his townfolk like never before.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Jin decides to use his powers quietly to aid his community, believing in the importance of small, unseen acts of heroism.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Jin Perry continued to be a silent guardian, a hidden protector, proving that heroes come in all ages and forms.",
+  "moral": "True heroism comes not from the acclaim it receives, but from the lives it quietly saves."
+}

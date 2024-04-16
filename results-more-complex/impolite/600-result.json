@@ -1,0 +1,46 @@
+{
+  "title": "Ling Mitchell: The Green Guardian",
+  "summary": "Ling Mitchell, a 42-year-old instructor and gardening enthusiast, discovers his ability to control plants and uses his newfound powers to combat a mysterious pollution affecting his city over the course of a week.",
+  "summaryGerman": "Ling Mitchell, ein 42-jähriger Lehrer und Gartenliebhaber, entdeckt seine Fähigkeit, Pflanzen zu kontrollieren und nutzt seine neu gefundenen Kräfte, um eine mysteriöse Verschmutzung zu bekämpfen, die seine Stadt im Laufe einer Woche beeinträchtigt.",
+  "summaryDutch": "Ling Mitchell, een 42-jarige instructeur en tuinierliefhebber, ontdekt zijn vermogen om planten te beheersen en gebruikt zijn nieuw gevonden krachten om een mysterieuze vervuiling te bestrijden die zijn stad gedurende een week treft.",
+  "summaryFrench": "Ling Mitchell, un instructeur de 42 ans et passionné de jardinage, découvre sa capacité à contrôler les plantes et utilise ses nouveaux pouvoirs pour combattre une pollution mystérieuse affectant sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "A typical morning of instructing at the local community center takes a turn for the eerie when Ling Mitchell notices his plants leaning towards him as if listening.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Excited by the strange events, Ling experiments in his garden and astoundingly manages to bend a vine with his mind alone. He spends the day feeling energetic and testing his abilities.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesdsay",
+      "text": "Slightly overwhelmed by his powers, Ling seeks solace in his plants, finding the peaceful connection reassuring and grounding.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Reports of the city's rivers turning black with pollution galvanize Ling into action. He uses his powers to clear a small stream, feeling triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "As news of his deeds spread, Ling feels a mix of joy and responsibility. He teaches a class on sustainable gardening, injecting romance into his lectures about the earth.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Determined, Ling organizes a large clearing effort, rallying volunteers from his classes. Together, they tackle the city's most affected areas.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Ling feels a profound peace in his garden, realizing he has made a difference. The city is cleaner, and his connection to nature is stronger than ever.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As Ling looked over his lush, vibrant garden, he knew that inside every one of us is the power to change the world.",
+  "moral": "Never underestimate the power of one individual to make a difference, particularly when united with nature."
+}

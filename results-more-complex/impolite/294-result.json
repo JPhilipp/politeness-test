@@ -1,0 +1,46 @@
+{
+  "title": "The Incredible Journey of Pit Allen",
+  "summary": "Pit Allen, a young tutor with a secret superpower, discovers his ability to manipulate time over the course of a week, using it to avert a crisis and transform his community.",
+  "summaryGerman": "Pit Allen, ein junger Tutor mit einer geheimen Superkraft, entdeckt im Laufe einer Woche seine Fähigkeit, die Zeit zu manipulieren, um eine Krise abzuwenden und seine Gemeinde zu verändern.",
+  "summaryDutch": "Pit Allen, een jonge tutor met een geheime superkracht, ontdekt gedurende een week zijn vermogen om tijd te manipuleren, waarmee hij een crisis afwendt en zijn gemeenschap transformeert.",
+  "summaryFrench": "Pit Allen, un jeune tuteur doté d'un super pouvoir secret, découvre sa capacité à manipuler le temps au cours d'une semaine, l'utilisant pour éviter une crise et transformer sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Pit Allen starts his week feeling energetic as he tutors local students in mathematics. Unbeknownst to him, it's during a particularly challenging problem that he first stops time briefly without realizing.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Pit feels eerie when he notices the clock frozen during a tutoring session. Confused but curious, he experiments, finding he can change the duration of these stops.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Excited by his newfound powers, Pit uses them to extend a tutoring session to help a struggling student master algebra, surprisingly embracing his mysterious abilities.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Pit’s attempts to balance his life and his secret start to take a toll. He's sad as he realizes the responsibilities that come with such power.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "When a school bus breaks down near a precarious cliff, Pit triumphantly manipulates time to save the children on board. His heroic act goes unseen, but he feels fulfilled.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Pit spends a peaceful day reflecting on his actions and the potential of his powers. He decides to use his abilities discreetly to positively impact his world.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "An epic culmination: Pit organizes a community event where he subtly speeds up time to ensure everything runs smoothly, earning the heartfelt gratitude of the neighborhood.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Thus, Pit Allen forged his path as an unseen hero, quietly shaping a better future with each tick of the clock.",
+  "moral": "With great power comes great responsibility, and the truest heroes are often unsung."
+}

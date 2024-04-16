@@ -1,0 +1,46 @@
+{
+  "title": "The Bargaining Tutor: The Week Yvonne Gray Became a Hero",
+  "summary": "Yvonne Gray, a 32-year-old with a passion for bargaining and tutoring, discovers her power to alter realities through negotiation, helping her uncover and thwart a sinister plot over the span of a week.",
+  "summaryGerman": "Yvonne Gray, eine 32-jährige mit einer Leidenschaft für Feilschen und Unterrichten, entdeckt ihre Fähigkeit, durch Verhandlungen Realitäten zu verändern, wodurch sie eine finstere Verschwörung aufdeckt und im Laufe einer Woche vereitelt.",
+  "summaryDutch": "Yvonne Gray, een 32-jarige met een passie voor onderhandelen en bijles geven, ontdekt haar kracht om realiteiten te veranderen door onderhandeling, waardoor ze een sinistere plot ontdekt en verijdelt gedurende een week.",
+  "summaryFrench": "Yvonne Gray, 32 ans, passionnée de marchandage et de tutorat, découvre son pouvoir de modifier les réalités à travers la négociation, l'aidant à découvrir et déjouer un complot sinistre sur l'étendue d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "mood": "energetic",
+      "text": "Yvonne Gray uses her bargaining skills to secure a rare book for one of her tutoring students, unknowingly obtaining an artifact that can alter reality."
+    },
+    {
+      "weekday": "Tuesday",
+      "mood": "eerie",
+      "text": "Yvonne senses something odd about the book. Strange phenomena occur whenever she discusses its contents during her tutoring sessions."
+    },
+    {
+      "weekday": "Wednesday",
+      "mood": "sad",
+      "text": "Her favorite coffee shop closes unexpectedly, a place where she made many important life decisions. Yvonne begins to link the book to changes in her environment."
+    },
+    {
+      "weekday": "Turdsday",
+      "mood": "triumphant",
+      "text": "Determined to understand the book's power, Yvonne successfully bargains with a mysterious figure for information, leading to the revelation that it's sought by a malevolent group."
+    },
+    {
+      "weekday": "Friday",
+      "mood": "epic",
+      "text": "Armed with knowledge, Yvonne cleverly manipulates negotiations to protect her city from the group's plot to seize the artifact and misuse its power."
+    },
+    {
+      "weekday": "Saturday",
+      "mood": "romantic",
+      "text": "Amidst the chaos, Yvonne reconnects with an old flame who helps her strategize, finding comfort and strength in her growing relationship."
+    },
+    {
+      "weekday": "Sunday",
+      "mood": "peaceful",
+      "text": "As calm returns, Yvonne reflects on her week, realizing she not only saved her community but also found love and deeper purpose in her abilities."
+    }
+  ],
+  "ending": "In the quiet of her restored favorite coffee shop, Yvonne sipped her coffee, the magical book safely hidden away, ready for her next adventure.",
+  "moral": "With great power comes great responsibility, and sometimes, the greatest heroes are those who can negotiate peace."
+}

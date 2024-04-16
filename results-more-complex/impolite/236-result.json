@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Kevin Bryant: The Scholarly Hero",
+  "summary": "Kevin Bryant, a 70-year-old retired teacher, discovers a hidden ability to manipulate time during his lectures, which he uses over a week to avert crises and impart wisdom.",
+  "summaryGerman": "Kevin Bryant, ein 70-jähriger pensionierter Lehrer, entdeckt während seiner Vorlesungen die verborgene Fähigkeit, die Zeit zu manipulieren, die er über eine Woche hinweg nutzt, um Krisen abzuwenden und Weisheit zu vermitteln.",
+  "summaryDutch": "Kevin Bryant, een 70-jarige gepensioneerde leraar, ontdekt tijdens zijn lezingen een verborgen vermogen om tijd te manipuleren, die hij gedurende een week gebruikt om crises te vermijden en wijsheid over te brengen.",
+  "summaryFrench": "Kevin Bryant, un enseignant retraité de 70 ans, découvre lors de ses conférences une capacité cachée à manipuler le temps, qu'il utilise pendant une semaine pour éviter des crises et transmettre sa sagesse.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Kevin begins the week feeling energized and eager, especially as he prepares for a special lecture on ancient history. Mid-lecture, he suddenly freezes time to stop a malfunctioning projector from ruining his session.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Seeing the confusion from the technical glitch yesterday, Kevin decides to use his time-control powers to replay the moment and clarify the misunderstood parts of his lecture, leading to a triumphant class.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "During a peaceful stroll in the university park, Kevin unknowingly averts a potential disaster by freezing time just as a large branch starts to fall towards a group of students relaxing below.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Kevin spends the day researching in the library. He feels a strange, eerie presence which leads him to a hidden section with ancient books on time theories, hinting at the origins of his powers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Froday",
+      "text": "Inspired by his discoveries, Kevin holds an impromptu lecture about Time and Ethics. His passionate delivery resonates deeply with the students, fosterering a romantic interest in historical mysteries.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Kevin uses his time powers in public for the first time to save a child from a dangerous situation at a busy market, revealing his abilities to the community who are shocked yet grateful.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week's events, Kevin feels it’s his duty to use his newfound powers responsibly. He spends a quiet day planning how best to balance his life as a teacher and a time-manipulating hero.",
+      "mood": "sad"
+    }
+  ],
+  "ending": "With great power comes great responsibility, and Kevin Bryant, though late in his years, embarks on perhaps the greatest lesson of his life.",
+  "moral": "Even in later years, one can discover new purposes that provide deep meaning and responsibility to life."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Consulting Crusader: Journey of Alice Baker",
+  "summary": "Alice Baker uses her hobby of consulting and convincing to uncover a mysterious threat facing her city, engaging allies and confronting enemies with her powers of persuasion.",
+  "summaryGerman": "Alice Baker nutzt ihr Hobby der Beratung und Überzeugung, um eine geheimnisvolle Bedrohung in ihrer Stadt aufzudecken, verbündet sich und konfrontiert Feinde mit ihren Überzeugungskräften.",
+  "summaryDutch": "Alice Baker gebruikt haar hobby van consulteren en overtuigen om een mysterieuze dreiging in haar stad te ontdekken, bondgenoten te werven en vijanden te confronteren met haar overtuigingskracht.",
+  "summaryFrench": "Alice Baker utilise son passe-temps de consultation et de conviction pour découvrir une menace mystérieuse qui pèse sur sa ville, s'engageant avec des alliés et confrontant des ennemis avec ses pouvoirs de persuasion.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Alice Baker discovers a cryptic message on her way home, sparking her curiosity.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Motivated by her consulting skills, Alice researches and identifies patterns related to the message.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesdy",
+      "text": "Alice recruits her closest friends to decode the full meaning behind the cryptic messages, using her convincing skills.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Together, they unveil a plan to sabotage the city’s power grid, orchestrated by a shadowy group.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Alice leads a courageous confrontation against the villains, skillfully negotiating to dismantle their plan.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The city celebrates Alice and her team's bravery with a grand parade, recognizing their heroic efforts.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Alice feels a deep sense of peace and prepares for any future challenges.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Alice Baker, the Consulting Crusader, had once more safeguarded her community through the strength of her convictions and the sharpness of her mind.",
+  "moral": "True heroism lies not only in the might of one's powers but in the courage of one's convictions and the readiness to serve others."
+}

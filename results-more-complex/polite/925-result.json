@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Heroism of Frank Howard",
+  "summary": "Frank Howard, a 42-year-old with a passion for advising and photography, accidentally gains superpowers and uses them to save his city from a series of mysterious disturbances.",
+  "summaryGerman": "Frank Howard, ein 42-jähriger mit einer Leidenschaft für Beratung und Fotografie, erhält unerwartet Superkräfte und benutzt sie, um seine Stadt vor einer Serie mysteriöser Störungen zu retten.",
+  "summaryDutch": "Frank Howard, een 42-jarige met een passie voor advies en fotografie, krijgt per ongeluk superkrachten en gebruikt deze om zijn stad te redden van een reeks mysterieuze verstoringen.",
+  "summaryFrench": "Frank Howard, un homme de 42 ans passionné de conseils et de photographie, obtient accidentellement des super-pouvoirs et les utilise pour sauver sa ville d'une série de perturbations mystérieuses.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "As Frank Howard adjusted his camera to capture the city skyline, a strange meteorite struck nearby, giving him the power of invisibility. Unaware of his new abilities, he ended his day intrigued but peaceful.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuewsday",
+      "text": "Frank discovered his invisibility when he accidentally avoided a morning collision. Amazed, he spent the day experimenting with his powers, feeling both eerie and energetic.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Using his powers, Frank prevented a bank robbery by secretly alerting the police while invisible. His actions saved many, filling him with a triumphant sense of duty.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Frank started advising local authorities secretly as 'The Invisible Counselor,' suggesting proactive safety measures. His love for advising finally meshed with his new identity, leaving him quite happy.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "News spread about an invisible hero. While capturing photos from unseen angles, Frank became more comfortable with his dual life. His day was busy yet epic.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A peaceful day spent training his abilities and exploring photography techniques from invisible perspectives, Frank felt a profound connection between his two passions, feeling romantic and inspired.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Faced with a natural disaster, Frank coordinated rescue efforts unseen, saving countless lives. His courage and dedication proved him a true hero, concluding his week with an energetic and victorious spirit.",
+      "mood": "energetic"
+    }
+  ],
+  "ending": "As the sun set on Sunday, Frank Howard stood quietly, his camera in hand, a silent guardian whose unseen presence was felt throughout the city.",
+  "moral": "Sometimes, the greatest heroes are the ones we never see."
+}

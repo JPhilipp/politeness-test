@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Pit Sanders: Bargains and Bravery",
+  "summary": "Pit Sanders, a 38-year-old publicist with a knack for bargaining, discovers his super abilities and uses them to thwart a looming disaster in his city over the course of a week.",
+  "summaryGerman": "Pit Sanders, ein 38 Jahre alter Publizist mit einem Talent für Verhandlungen, entdeckt seine Superkräfte und setzt sie ein, um eine drohende Katastrophe in seiner Stadt über den Verlauf einer Woche zu vereiteln.",
+  "summaryDutch": "Pit Sanders, een 38-jarige publicist met een talent voor onderhandelen, ontdekt zijn superkrachten en gebruikt ze om een dreigende ramp in zijn stad gedurende een week af te wenden.",
+  "summaryFrench": "Pit Sanders, un publiciste de 38 ans doué pour la négociation, découvre ses super pouvoirs et les utilise pour déjouer une catastrophe imminente dans sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Pit Sanders unwittingly absorbs cosmic energy while bargaining for rare comic books, feeling peculiar but energized as he exits the store.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Pit experiences his first known use of superpower when he teleports home, avoiding a traffic jam, leaving him with a mix of shock and excitement.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wodnesday",
+      "text": "Harnessing his newfound abilities, Pit saves a local cafe from a robbery, negotiating with the thief till the police arrive. The event increases his confidence.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News spreads about the mysterious hero. Pit secretly uses his influence to boost positive media coverage, enjoying his dual life.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A villain named 'The Negotiator' aims to exploit the city's economy. Pit outsmarts him using superior bargaining techniques combined with his powers.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Pit gets to know other superheroes, receiving a romantic interest from a fellow hero named 'The Visionary', adding a new layer to his life.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Pit orchestrates a peaceful community gathering, uniting people through public relations and his inspiring activities as a hero, ending on a serene note.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "In merging his talents and his powers, Pit Sanders proved that the pen could be mightier than the sword, especially when backed by superpowers.",
+  "moral": "Each person's unique skills can be powerful, especially when used for the greater good."
+}

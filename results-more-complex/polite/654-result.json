@@ -1,0 +1,46 @@
+{
+  "title": "The Triumph of Victor Yang: The Sculpting Advisor",
+  "summary": "Over a week, Victor Yang discovers his power to shape reality with his sculpting skills, helping his community, fighting a villain, and learning the value of wise advice.",
+  "summaryGerman": "Über eine Woche entdeckt Victor Yang seine Fähigkeit, die Realität mit seinen Bildhauerfähigkeiten zu formen, hilft seiner Gemeinde, bekämpft einen Schurken und lernt den Wert kluger Ratschläge.",
+  "summaryDutch": "Gedurende een week ontdekt Victor Yang zijn kracht om de realiteit te vormen met zijn beeldhouwvaardigheden, helpt hij zijn gemeenschap, bestrijdt hij een schurk en leert hij de waarde van wijs advies.",
+  "summaryFrench": "Au cours d'une semaine, Victor Yang découvre son pouvoir de façonner la réalité avec ses compétences en sculpture, aide sa communauté, combat un méchant et apprend la valeur des bons conseils.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Victor Yang, in his small studio, sculpts a figure of a lion, feeling peaceful and unaware of the power his hands possess.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While advising his friend on career choices, Victor feels the statue come to life briefly; an energetic surge fills him as he realizes his potential.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Victor experiments with his newfound ability. He sculpts a bird, and it flies off, leaving him both triumphant and slightly eerie.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Facing doubts, Victor meets a villain harnessing similar powers for chaos. The mood is eerie as Victor contemplates his next move.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The clash of power occurs at the town square. Victor sculpts warriors from stone, feeling an epic surge as he battles the menacing force.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After his victory, the community gathers, celebrating Victor's heroism with a romantic evening under the stars, recognizing his contributions.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Victor sculpts a lasting monument to commemorate his journey, imparting his sage advice on its base, encapsulating a happy and reflective mood.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And thus, Victor Yang not only shaped sculptures, but also the destiny of his town and his own life.",
+  "moral": "With great power comes the responsibility to use it wisely."
+}

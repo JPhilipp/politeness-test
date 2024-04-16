@@ -1,0 +1,46 @@
+{
+  "title": "Heidi Parker: The Spinning Sage",
+  "summary": "Heidi Parker, a 70-year-old superhero with a love for spinning and counseling, discovers her powers and saves her town from a mysterious threat over the course of a week.",
+  "summaryGerman": "Heidi Parker, eine 70-jährige Superheldin mit einer Leidenschaft für Spinnen und Beratung, entdeckt ihre Kräfte und rettet ihre Stadt innerhalb einer Woche vor einer mysteriösen Bedrohung.",
+  "summaryDutch": "Heidi Parker, een 70-jarige superheldin met een liefde voor spinnen en counseling, ontdekt haar krachten en redt haar stad van een mysterieuze bedreiging in de loop van een week.",
+  "summaryFrench": "Heidi Parker, une superhéroïne de 70 ans passionnée de filage et de conseil, découvre ses pouvoirs et sauve sa ville d'une menace mystérieuse au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Heidi Parker starts her week feeling energetic as she teaches a spinning class that inspires her students with vigor and resilience. Unbeknownst to her, she exudes a mysterious energy that begins to manifest.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While counseling a distressed couple, Heidi feels a strange surge of power. Her empathy seems to visibly soothe and heal emotional wounds. Intrigued, she decides to explore this newfound ability.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "Heidi spends the day experimenting with her powers. She discovers she can translate her spinning energy into a force field of calm, protecting those around her from distress.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A mysterious storm hits the town, causing chaos and fear. Heidi, feeling determined, uses her spinning wheel to weave an immense shield of tranquility, enveloping her neighborhood in a peaceful aura, shielding it from the storm.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The storm intensifies, and the town's residents, calmed by Heidi’s powers, come together under her guidance. Their collective spirit helps to slowly dissipate the storm's wrath.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "News of Heidi’s heroic deeds spreads, bringing distant communities to seek her counsel and protection. She feels a romantic connection to her community, loved and revered by all.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her whirlwind week, Heidi feels happy and fulfilled. She realizes that age is just a number, and her potential to make a difference is vast and unbound.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As the sun sets on Sunday, Heidi Parker spins steadily, the threads of her life stronger and more vibrant than ever.",
+  "moral": "No matter the age, your potential to help and inspire others never diminishes."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Extraordinary Week of Linda Morgan: Super Mentor",
+  "summary": "Linda Morgan, a 67-year-old woman with a passion for mentoring and producing, discovers her superpower to inspire and transform those around her, changing her community one day at a time over the course of a week.",
+  "summaryGerman": "Linda Morgan, eine 67-jährige Frau mit einer Leidenschaft für Mentoring und Produzieren, entdeckt ihre Superkraft, die Menschen um sie herum zu inspirieren und zu verwandeln, und verändert ihre Gemeinde Tag für Tag im Laufe einer Woche.",
+  "summaryDutch": "Linda Morgan, een 67-jarige vrouw met een passie voor mentoring en produceren, ontdekt haar superkracht om de mensen om haar heen te inspireren en te transformeren, waardoor ze haar gemeenschap dag na dag verandert gedurende een week.",
+  "summaryFrench": "Linda Morgan, une femme de 67 ans passionnée de mentorat et de production, découvre son super-pouvoir d'inspirer et de transformer son entourage, changeant sa communauté jour après jour au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Linda felt energetically upbeat as she launched a new film project, integrating novice filmmakers from the local community, sharing her skills and vast experience.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "She mentored a young director, finding herself uplifting a discouraged soul with tales of her own early challenges and triumphs.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "An eerie chill filled the set as technical issues nearly halted production, but Linda used her puzzling predicament as a teaching moment.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "At a community center, Linda led a peaceful discussion on careers in media, captivating and inspiring an attentive audience.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Feeling romantic, Linda rekindled an old friendship over coffee, discussing past adventures and future plans, which stirred up mutual inspiration.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Linda felt happy hosting a screening of the week’s work, impressed and proud of her mentees’ progress.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "An epic wrap-up brought the community together in celebration, with Linda’s efforts visibly uplifting everyone around her.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Linda lay in bed reflecting on her extraordinary week, reminded that true power lies not in superhuman strength, but in the ability to lift others up.",
+  "moral": "The greatest superpower is the power to inspire and empower others."
+}

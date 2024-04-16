@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Walter Bryant: The Tutoring Hero",
+  "summary": "Walter Bryant, a dedicated tutor by day, discovers his superpowers of empathy and communication, using them to counsel and save his community from a growing threat of misunderstanding and discord over a week.",
+  "summaryGerman": "Walter Bryant, tagsüber ein engagierter Tutor, entdeckt seine Superkräfte der Empathie und Kommunikation, die er nutzt, um seine Gemeinde vor einer wachsenden Bedrohung durch Missverständnisse und Zwietracht über eine Woche hinweg zu beraten und zu retten.",
+  "summaryDutch": "Walter Bryant, overdag een toegewijde tutor, ontdekt zijn superkrachten van empathie en communicatie, die hij gebruikt om zijn gemeenschap te adviseren en te redden van een groeiende dreiging van misverstanden en onenigheid gedurende een week.",
+  "summaryFrench": "Walter Bryant, un tuteur dévoué le jour, découvre ses superpouvoirs d'empathie et de communication, qu'il utilise pour conseiller et sauver sa communauté d'une menace croissante d'incompréhension et de discorde sur une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Walter discovers he can sense people's emotional needs with great precision while tutoring a struggling student, leading to a breakthrough that makes both Walter and the student very happy.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuewsday",
+      "text": "His newfound abilities lead him to counsel a couple facing marital strife, using his insights to help them understand each other better, filling his evening with a sense of triumph.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Sensing a growing unease in his neighborhood, Walter uses his power to mediate a community meeting, which resolves peacefully, spreading calm.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Rumors of his abilities spread, causing some skepticism and fear among the populace, creating an eerie atmosphere around him.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Determined to prove his intentions, Walter organizes a large counseling session in the park, energizing and uniting his community.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "His actions catch the attention of a local journalist, who writes a romanticized feature about Walter's week, drawing much positive attention.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The week culminates in a community celebration, recognizing Walter as a hero, making him feel both epic and humble.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "And so, Walter Bryant became not just a tutor, but a true hero of the heart, teaching us all the power of understanding and unity.",
+  "moral": "True heroism lies not just in the grand feats, but in the everyday acts of understanding and kindness."
+}

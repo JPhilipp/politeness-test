@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Guardian: The Story of Charlie Lee",
+  "summary": "Over the course of a week, Charlie Lee, a 74-year-old former consultant and counselor, discovers he has superpowers that allow him to influence people's emotions, using his abilities to resolve community crises.",
+  "summaryGerman": "Im Laufe einer Woche entdeckt Charlie Lee, ein 74-jähriger ehemaliger Berater und Therapeut, dass er Superkräfte besitzt, mit denen er die Emotionen von Menschen beeinflussen kann, und nutzt seine Fähigkeiten, um Gemeinschaftskrisen zu lösen.",
+  "summaryDutch": "In de loop van een week ontdekt Charlie Lee, een 74-jarige voormalige consultant en counselor, dat hij superkrachten heeft die hem in staat stellen de emoties van mensen te beïnvloeden, en gebruikt hij zijn vaardigheden om gemeenschapscrises op te lossen.",
+  "summaryFrench": "Au cours d'une semaine, Charlie Lee, un ancien consultant et conseiller de 74 ans, découvre qu'il a des superpouvoirs qui lui permettent d'influencer les émotions des gens, utilisant ses capacités pour résoudre des crises communautaires.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Charlie Lee wakes up feeling uncharacteristically energetic for his age. He feels a new zest for life and decides to visit the local park, where he inadvertently calms a heated argument between two joggers.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While having coffee at a local cafe, Charlie overhears a couple considering separation. Without knowing how, he offers them advice that seems to miraculously resurrect their feelings for each other.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Charlie feels a profound sense of peace. He spends the day at the community center, unknowingly easing the worries of seniors as they share stories of their youths. The atmosphere becomes surprisingly tranquil.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thurday",
+      "text": "A local newspaper runs a story about a mysterious 'Peace Bringer.' Charlie reads it, intrigued but unaware that he is the subject of the news. The city feels slightly more serene and connected.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Charlie helps resolve a potential strike at a grocery store simply by talking to the disgruntled employees. They suddenly seem to comprehend each other’s points of view better.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Enjoying a rare feeling of youthfulness, Charlie joins a community clean-up program. He feels inexplicably strong and energetic as he works alongside volunteers half his age.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Charlie realizes his week has been extraordinary. He reflects on how his mere presence seems to have healed emotional rifts. As the sun sets, he smiles, knowing he’s found his calling.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "At 74, Charlie Lee had discovered a new purpose, becoming a real-life superhero in his own quiet, profound way.",
+  "moral": "No matter the stage of life, one can always find new ways to contribute to the happiness and well-being of others."
+}

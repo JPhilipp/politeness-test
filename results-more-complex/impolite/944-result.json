@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Guardian: The Week of Oscar Lewis",
+  "summary": "Over the course of a week, 61-year-old Oscar Lewis, a retired director with a fondness for advising, discovers he can become invisible, and uses his new gift to subtly guide and protect his community.",
+  "summaryGerman": "Im Laufe einer Woche entdeckt der 61-jährige Oscar Lewis, ein pensionierter Regisseur mit einer Vorliebe für Beratung, dass er unsichtbar werden kann, und verwendet seine neue Gabe, um seine Gemeinschaft subtil zu führen und zu schützen.",
+  "summaryDutch": "In de loop van een week ontdekt Oscar Lewis, 61 jaar oud, een gepensioneerde regisseur met een voorliefde voor adviseren, dat hij onzichtbaar kan worden en gebruikt zijn nieuwe gave om zijn gemeenschap subtiel te leiden en te beschermen.",
+  "summaryFrench": "Au cours d'une semaine, Oscar Lewis, 61 ans, un réalisateur à la retraite qui aime conseiller, découvre qu'il peut devenir invisible et utilise son nouveau don pour guider et protéger subtilement sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Upon discovering his new ability to become invisible while experimenting with old stage props, Oscar is both shocked and intrigued. He spends the day mastering control over his invisibility.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Excited by the potential of his powers, Oscar decides to use them to anonymously assist his neighbors, guiding lost pets back to their homes and picking up litter unseen.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Oscar notices a group of troubled teens vandalizing a local playground. Invisible, he dissuades them subtly by staging eerie sounds and movements, encouraging them to leave.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tursday",
+      "text": "Struggling with the loneliness that the invisible world brings, Oscar visits an old friend for advice, never revealing his secret. His friend unknowingly gives him the affirmation he needed.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Rejuvenated by his friend’s words, Oscar spends the day creatively using his invisibility to set up a beautiful scene in the park with floating lights, surprising and delighting evening strollers.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a local theater play, a fire breaks out backstage. Invisibly, Oscar manages to guide everyone to safety, direct the fire squad to crucial spots, all unnoticed yet pivotal.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Oscar feels a deep sense of fulfillment and peace knowing he can protect and inspire his community while keeping his own counsel.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "In the quiet twilight, Oscar smiled, the invisible hero who directed the unseen.",
+  "moral": "One does not need recognition to make a profound impact."
+}

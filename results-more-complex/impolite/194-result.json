@@ -1,0 +1,46 @@
+{
+  "title": "The Bargain Blaze of Sue Brown",
+  "summary": "Sue Brown, a 37-year-old with a penchant for bargaining and tutoring, becomes a superhero, using her negotiating skills to tackle a mysterious surge in prices and scarcity in her town.",
+  "summaryGerman": "Sue Brown, eine 37-Jährige mit einer Vorliebe fürs Feilschen und Nachhilfe geben, wird zur Superheldin, die ihre Verhandlungsfähigkeiten nutzt, um einen mysteriösen Anstieg der Preise und Knappheit in ihrer Stadt zu bekämpfen.",
+  "summaryDutch": "Sue Brown, een 37-jarige met een voorliefde voor onderhandelen en bijles geven, wordt een superheldin, die haar onderhandelingsvaardigheden gebruikt om een mysterieuze stijging van de prijzen en schaarste in haar stad aan te pakken.",
+  "summaryFrench": "Sue Brown, 37 ans, passionnée de marchandage et de tutorat, devient une super-héroïne, utilisant ses compétences en négociation pour s'attaquer à une mystérieuse hausse des prix et à une pénurie dans sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Sue Brown enjoyed a peaceful day tutoring students, unaware of the adventure that awaited her.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While bargaining at a local store, Sue discovered unusual price hikes, sparking her curiosity and concern.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wenesday",
+      "text": "Investigating the town's markets, Sue used her bargaining skills to gather information from vendors, who seemed unusually anxious.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Sue uncovered a conspiracy to artificially create scarcities and inflate prices; her resolve strengthened.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Creating a plan that involved the community, Sue organized a town hall meeting to expose the culprits and restore fairness.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Utilizing her knowledge and community support, Sue negotiated a beneficial resolution that thwarted the scarcity scheme.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The community celebrated their victory with Sue as the hero, feeling blessed for the justice and restored harmony.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "In a single week, Sue Brown went from a tutor to a hero, proving that everyday skills can indeed make a mighty change.",
+  "moral": "Never underestimate the power of ordinary skills in extraordinary situations."
+}

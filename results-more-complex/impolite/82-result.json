@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Heroics of Linda Campbell",
+  "summary": "Linda Campbell, a 56-year-old instructor and crochet enthusiast, uncovers her supernatural ability to manipulate time during a week full of surprising revelations and heroic deeds.",
+  "summaryGerman": "Linda Campbell, eine 56-jährige Instruktorin und Häkelbegeisterte, entdeckt ihre übernatürliche Fähigkeit, die Zeit zu manipulieren, in einer Woche voller überraschender Enthüllungen und heldenhafter Taten.",
+  "summaryDutch": "Linda Campbell, een 56-jarige instructrice en haakliefhebber, ontdekt haar bovennatuurlijke vermogen om de tijd te manipuleren in een week vol verrassende onthullingen en heldendaden.",
+  "summaryFrench": "Linda Campbell, une instructrice de 56 ans passionnée de crochet, découvre son pouvoir surnaturel de manipuler le temps au cours d'une semaine remplie de révélations surprenantes et d'actes héroïques.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Linda discovered her ability to pause and rewind time when she accidentally dropped a precious heirloom and reversed the event to catch it.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Using her newfound power, she prevented a minor accident at the senior center, subtly adjusting events while remaining unnoticed.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Weeeknesday",
+      "text": "Eager to explore her powers, Linda practised controlling time duration, making a crochet session last moments instead of hours.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Linda helped find a lost child in the park by rewinding the moments to trace the child's steps back to his worried parents.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Realizing the potential risks of her powers, she cautiously spent the day experimenting with minimal changes, managing her abilities responsibly.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Word of her deeds had begun to spread among those she had helped; Linda embraced her role and subtly assisted her community.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "During a local crafting fair, she used her powers to avert a disaster, solidifying her secret identity as a guardian of her town.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "In the threads of time, Linda crocheted her own legacy, quietly but confidently safeguarding her community.",
+  "moral": "The quietest forms of help can sometimes be the mightiest."
+}

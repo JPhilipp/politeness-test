@@ -1,0 +1,46 @@
+{
+  "title": "The Harmonic Hero: The Tale of Ling Rogers",
+  "summary": "Ling Rogers, a 20-year-old music composer and advisor, discovers her ability to control emotions with her music, leading her to battle against a techno-villain plotting to drain the city's creativity over the course of a week.",
+  "summaryGerman": "Ling Rogers, eine 20-jährige Musikkomponistin und Beraterin, entdeckt ihre Fähigkeit, mit ihrer Musik Emotionen zu steuern. Sie führt einen Kampf gegen einen Techno-Bösewicht, der plant, die Kreativität der Stadt im Laufe einer Woche zu drainieren.",
+  "summaryDutch": "Ling Rogers, een 20-jarige muziekcomponiste en adviseur, ontdekt haar vermogen om emoties te beheersen met haar muziek, waardoor ze het opneemt tegen een techno-schurk die van plan is de creativiteit van de stad in de loop van een week te draineren.",
+  "summaryFrench": "Ling Rogers, une compositrice et conseillère de 20 ans, découvre sa capacité à contrôler les émotions avec sa musique, ce qui la mène à lutter contre un techno-vilain qui planifie de drainer la créativité de la ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Rogers spends her morning composing a new piece that unknowingly emits a wave of peacefulness across her neighborhood.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Noticing the effects of her music, Ling grows curious and tests different melodies which cause various emotional responses in her listeners.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "A mysterious figure stops by Ling's performance at a local cafe, warning her of the power she holds and the danger it brings.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Determined to understand more, Ling researches her family history and discovers she is descended from a long line of musical mystics.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "She encounters the techno-villain, who uses sonic technology to steal creative energy. Ling uses her melodies to battle the villain's dissonance.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Exhausted but victorious, Ling establishes a harmony ripple that thaws the stolen creativity back into her city.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her adventures, Ling decides to mentor other young talents, using her knowledge and powers to foster a new generation of musical heroes.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "And so, Ling Rogers continued her journey, her melodies a beacon of hope in the symphony of life.",
+  "moral": "The power of creativity can overcome any darkness, turning discord into harmony."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "David Carter: The Counselor of Shadows",
+  "summary": "David Carter discovers his ability to absorb people's fears and uses it to help his community face their darkest moments. Over a week, he confronts various challenges and ultimately inspires his town.",
+  "summaryGerman": "David Carter entdeckt seine Fähigkeit, die Ängste der Menschen zu absorbieren und verwendet sie, um seiner Gemeinde zu helfen, ihre dunkelsten Momente zu bewältigen. Über eine Woche hinweg stellt er sich verschiedenen Herausforderungen und inspiriert letztendlich seine Stadt.",
+  "summaryDutch": "David Carter ontdekt zijn vermogen om de angsten van mensen te absorberen en gebruikt dit om zijn gemeenschap te helpen hun donkerste momenten onder ogen te zien. Gedurende een week gaat hij verschillende uitdagingen aan en inspireert uiteindelijk zijn stad.",
+  "summaryFrench": "David Carter découvre sa capacité à absorber les peurs des gens et l'utilise pour aider sa communauté à affronter ses moments les plus sombres. Au cours d'une semaine, il relève divers défis et inspire finalement sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "David Carter realized he could sense the unspoken fears of those around him during a simple-minded in the local community center.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuedsay",
+      "text": "Using his new-found powers, David consoled a young man terrified of failing his college entrance exams, and instilled courage in him to persevere.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "When a local bakery caught fire, David absorbed the panic from the crowd, allowing firefighters to work without chaos around.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "David spent the day counseling people affected by the recent events, realizing his role might be more exhausting but also vital.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "An eerie calm presided over the town, as David learned to control his power better—the city felt unusually peaceful under his watchful presence.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A festival brought the community together, and David's role was celebrated as he subtly used his power to enhance the festive mood.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, David felt the weight and the joy of his duties, knowing he had changed lives for the better.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "In the quiet moments of the night, David Carter realized that true heroism lies not only in grand gestures but in the silent conquests of fear.",
+  "moral": "The true measure of heroism is how one handles the fears of others with compassion and strength."
+}

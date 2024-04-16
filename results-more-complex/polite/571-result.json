@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Linda Harris: The Green-Thumb Editor",
+  "summary": "Linda Harris, a retired editor with a passion for gardening, discovers her ability to communicate with plants and uses her newfound powers to save her neighborhood.",
+  "summaryGerman": "Linda Harris, eine pensionierte Lektorin mit einer Leidenschaft für Gartenarbeit, entdeckt ihre Fähigkeit, mit Pflanzen zu kommunizieren, und nutzt ihre neu gefundenen Kräfte, um ihre Nachbarschaft zu retten.",
+  "summaryDutch": "Linda Harris, een gepensioneerde redactrice met een passie voor tuinieren, ontdekt haar vermogen om met planten te communiceren en gebruikt haar nieuwgevonden krachten om haar buurt te redden.",
+  "summaryFrench": "Linda Harris, une éditrice à la retraite passionnée de jardinage, découvre sa capacité à communiquer avec les plantes et utilise ses nouveaux pouvoirs pour sauver son quartier.",
+  "story": [
+    {
+      "weekday": "Monnday",
+      "text": "Linda Harris wakes up to a typical morning but feels an unusual connection to her garden. As she tends her beloved plants, she realizes she can understand their needs without touching them.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Testing her newfound abilities, Linda speaks to her plants, asking them how to optimize their growth. The results are stunningly quick and effective, creating an inexplicable boost in her garden’s vibrancy.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Word spreads about her lush garden, and Linda receives a visit from neighborhood kids curious about her gardening secrets. She teaches them basic gardening, enjoying the youthful energy around her.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A local developer plans to cut down a nearby park’s trees. Linda feels a deep sadness which she realizes is echoed by the trees themselves. She decides to take action.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Linda organizes a neighborhood rally to save the park. Using her editing skills, she crafts powerful speeches and impactful posters. The community gathers, driven by her passion and the emotive pleas of the trees.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The rally makes headlines, and the developer agrees to a meeting. Linda and the community present a case for preserving the park that includes a green initiative proposal, showing how it could benefit the city.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Victorious, the park is saved, and the developer commits to the green initiative. Linda’s connection with nature has brought her community together and preserved the local environment.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "Through the whispers of leaves and the bloom of flowers, Linda Harris found strength in unity and the magic of natural dialogue.",
+  "moral": "Even the smallest voices, like those of plants, can teach us valuable lessons when we listen."
+}

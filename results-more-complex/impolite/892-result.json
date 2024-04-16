@@ -1,0 +1,46 @@
+{
+  "title": "The Epic Week of Ling Campbell: From Sculptor to Hero",
+  "summary": "Ling Campbell, a 74-year-old retired sculptor and teacher, discovers her ability to control clay and stone, which she uses to thwart a robbery and inspire her town.",
+  "summaryGerman": "Ling Campbell, eine 74-jährige pensionierte Bildhauerin und Lehrerin, entdeckt ihre Fähigkeit, Ton und Stein zu kontrollieren, die sie verwendet, um einen Raub zu vereiteln und ihre Stadt zu inspirieren.",
+  "summaryDutch": "Ling Campbell, een 74-jarige gepensioneerde beeldhouwster en lerares, ontdekt haar vermogen om klei en steen te beheersen, wat ze gebruikt om een overval te verijdelen en haar stad te inspireren.",
+  "summaryFrench": "Ling Campbell, une sculptrice et enseignante retraitée de 74 ans, découvre sa capacité à contrôler l'argile et la pierre, qu'elle utilise pour déjouer un vol et inspirer sa ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "On a peaceful morning, Ling Campbell discovers she can manipulate clay with her mind while sculpting in her workshop.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuensday",
+      "text": "Feeling energetic, Ling uses her newfound powers to create intricate and lifelike sculptures, amazing her students.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Ling feels a sense of purpose, deciding to secretly use her powers to repair broken public sculptures around town at night.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News spreads of the miraculous repairs. The town buzzes with theories, giving Ling a quiet satisfaction as she teaches her class.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "An attempted robbery at a local museum sees Ling turning the getaway car into stone, stopping the thieves in their tracks, under an eerie moonlit sky.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Ling becomes a local legend as tales of a mysterious 'Stone Guardian' go viral. She feels a mix of pride and concern for her privacy.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "In an epic display, Ling unveils a new public sculpture at the park, dedicated to the town, symbolizing unity and resilience.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "As Ling Campbell looked over her town from her studio, she smiled, knowing she had not only changed the landscape but also the hearts of its people.",
+  "moral": "You are never too old to discover new gifts or change the community for the better."
+}

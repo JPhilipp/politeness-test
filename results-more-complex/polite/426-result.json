@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Mallory Wright: The Influential Protector",
+  "summary": "Mallory Wright, a 26-year-old consultant and influencer, discovers supernatural powers that allow her to protect and influence her community for better. Over the span of one week, she learns to embrace her role as a superhero, battling an increasing threat to her city while maintaining her day job.",
+  "summaryGerman": "Mallory Wright, eine 26-jährige Beraterin und Influencerin, entdeckt übernatürliche Kräfte, die es ihr ermöglichen, ihre Gemeinschaft zu schützen und positiv zu beeinflussen. Innerhalb einer Woche lernt sie, ihre Rolle als Superheldin zu akzeptieren, während sie einer zunehmenden Bedrohung ihrer Stadt entgegentritt und gleichzeitig ihren Alltagsjob beibehält.",
+  "summaryDutch": "Mallory Wright, een 26-jarige consultant en influencer, ontdekt bovennatuurlijke krachten waarmee ze haar gemeenschap kan beschermen en positief beïnvloeden. Gedurende een week leert ze haar rol als superheld te omarmen, terwijl ze een toenemende dreiging voor haar stad bestrijdt en haar dagelijkse baan behoudt.",
+  "summaryFrench": "Mallory Wright, une consultante et influenceuse de 26 ans, découvre des pouvoirs surnaturels qui lui permettent de protéger et d'influencer positivement sa communauté. En l'espace d'une semaine, elle apprend à assumer son rôle de superhéroïne, combattant une menace croissante pour sa ville tout en conservant son emploi quotidien.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Mallory discovers her ability to influence people’s actions subtly which she initially uses to calm a heated office dispute.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Following a sudden street accident, Mallory instinctively saves a child using a mysterious force field, leaving her puzzled but curious.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Mallory experiments with her powers, helping locals avoid minor accidents and mishaps, feeling a surge of responsibility and energy.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thirsday",
+      "text": "Her heroic deeds start attracting attention; a local news blog writes about a mysterious guardian angel, which makes her both nervous and excited.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The city faces a serious threat from a newly emerged villain. Mallory decides it’s time to step up publicly, revealing her identity to confront him.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After a tough battle, Mallory manages to thwart the villain's plot with the help of her newly found ally, a tech-savvy teenager who admires her.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Mallory realizes the importance of her role and vows to protect her city, balancing her life as an influencer and hero.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the sun set on Sunday, Mallory Wright felt a profound sense of duty, ready to face whatever challenges came next.",
+  "moral": "With great power comes great responsibility, and finding balance is key to fulfillment."
+}

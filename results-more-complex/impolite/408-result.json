@@ -1,0 +1,46 @@
+{
+  "title": "The Green Guardian: The Adventures of Charlie Morgan",
+  "summary": "Over the course of one week, 18-year-old Charlie Morgan discovers his supernatural ability to control plants, helping his community by averting a disaster and becoming a local hero.",
+  "summaryGerman": "Im Laufe einer Woche entdeckt der 18-jährige Charlie Morgan seine übernatürlichen Fähigkeiten, Pflanzen zu kontrollieren, hilft seiner Gemeinde, indem er eine Katastrophe abwendet, und wird ein lokaler Held.",
+  "summaryDutch": "In de loop van een week ontdekt de 18-jarige Charlie Morgan zijn bovennatuurlijke vermogen om planten te beheersen, helpt hij zijn gemeenschap door een ramp te voorkomen en wordt hij een lokale held.",
+  "summaryFrench": "Au cours d'une semaine, Charlie Morgan, 18 ans, découvre sa capacité surnaturelle à contrôler les plantes, aide sa communauté en évitant un désastre et devient un héros local.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Charlie, while tending to his garden, accidentally discovers his ability to accelerate plant growth. Feeling bewildered but curious.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Charlie experiments with his powers. He revives a wilting community park, making it lush and vibrant overnight.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesda",
+      "text": "News of the miraculous transformation of the park spreads, drawing crowds and reporters. Charlie stays anonymous, feeling overwhelmed.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Charlie confides in his best friend, who encourages him to use his powers for good. Together, they plan to secretly help the city.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "A sudden storm threatens the local dam. Charlie, in a daring move, uses his power to reinforce the dam with roots and vine structures, preventing a flood.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "The city, saved from disaster, celebrates their unknown hero. Charlie feels a profound sense of responsibility and pride.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Charlie decides to embrace his role as the Green Guardian, promising to protect his city and nurture its green spaces secretly.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "As the sun sets on a peaceful Sunday, Charlie plants a new tree in his garden, symbolizing the beginning of his journey as a superhero.",
+  "moral": "Embrace your unique abilities; they can make a significant difference in the world."
+}

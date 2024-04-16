@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Jin Thomas: The Guiding Light",
+  "summary": "Jin Thomas, a young superhero with powers linked to influencing people's decisions, uses his abilities in marketing during the day and fighting crime at night over the course of a week.",
+  "summaryGerman": "Jin Thomas, ein junger Superheld, dessen Fähigkeiten darin bestehen, die Entscheidungen der Menschen zu beeinflussen, nutzt seine Kräfte tagsüber im Marketing und bekämpft nachts das Verbrechen über den Verlauf einer Woche.",
+  "summaryDutch": "Jin Thomas, een jonge superheld wiens krachten zijn verbonden met het beïnvloeden van mensen hun beslissingen, gebruikt zijn vaardigheden overdag in marketing en 's nachts bestrijdt hij misdaad gedurende een week.",
+  "summaryFrench": "Jin Thomas, un jeune superhéros dont les pouvoirs sont liés à influencer les décisions des gens, utilise ses capacités dans le marketing pendant la journée et lutte contre le crime la nuit au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Jin Thomas starts his week energetically, launching a new social media campaign for a local business, using his power to ensure its success.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "At night, Jin transforms into his superhero persona and prevents a robbery, feeling triumphant as the community praises his heroic act.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wenesday",
+      "text": "Sensing a dark energy within the city, Jin explores eerie back alleys, uncovering a plot to corrupt the city's officials.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Using his daytime connections, Jin discreetly derails the corruption plan with strategic information leaks, feeling epic as the cabal is arrested.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Recovering from the intense week, Jin spends a peaceful day hiking, realigning with nature and preparing for any new challenges.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Jin attends a local charity event, using his charm to boost donations. The event turns slightly romantic as he connects with a fellow philanthropist.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ending his week on a happy note, Jin reflects on his successes both as a marketer and a hero, feeling content with his double life.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, Jin Thomas masterfully balanced his dual existence, guarding his city with skill and compassion.",
+  "moral": "True heroes harness their innate talents not just for personal gain, but for the greater good."
+}

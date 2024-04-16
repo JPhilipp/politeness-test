@@ -1,0 +1,46 @@
+{
+  "title": "The Serene Strength of Linda Sanchez",
+  "summary": "74-year-old Linda Sanchez uses her powers of persuasion and counseling to thwart a corporate takeover, saving her community's beloved park.",
+  "summaryGerman": "Die 74-jährige Linda Sanchez nutzt ihre Überzeugungs- und Beratungskräfte, um eine Unternehmensübernahme zu vereiteln und den geliebten Park ihrer Gemeinde zu retten.",
+  "summaryDutch": "De 74-jarige Linda Sanchez gebruikt haar overtuigings- en adviesvaardigheden om een bedrijfsovername te dwarsbomen en redt het geliefde park van haar gemeenschap.",
+  "summaryFrench": "Linda Sanchez, 74 ans, utilise ses pouvoirs de persuasion et de conseil pour contrecarrer une prise de contrôle d'entreprise, sauvant ainsi le parc bien-aimé de sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Linda discovers that a corporation plans to build a shopping complex on the site of her community's park, where she often counsels young mothers and troubled teens. She vows to stop it.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Armed with pamphlets and petitions, Linda visits her neighbors to persuade them to join her cause. Her enthusiasm is contagious and many pledge their support.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "Linda attends a town hall meeting. With her wise and persuasive speech, she sways the community leaders to reconsider the construction plans.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The corporation sends representatives to negotiate with Linda. She remains firm and eloquent in her opposition, protecting the park's future.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Linda and her growing group of supporters stage a peaceful demonstration in the park. The local media covers the event, spreading their message further.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During another negotiation, Linda successfully persuades the CEO of the corporation to visit the park. Moved by its beauty and community spirit, he reconsiders the plans.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Victory! The corporation publicly withdraws their development plans. The park is saved, and the community throws a celebration in Linda’s honor.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Even at 74, Linda proved that calm determination and a caring heart can make a real difference.",
+  "moral": "Age is just a number when it comes to protecting what we love."
+}

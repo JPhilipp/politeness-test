@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Zelda Cooper: Urban Planner and Hero",
+  "summary": "Zelda Cooper, a 47-year-old urban planner, uses her strategic planning skills and a newfound power to control time to save her city from a mysterious threat over a week.",
+  "summaryGerman": "Zelda Cooper, eine 47-jährige Stadtplanerin, nutzt ihre strategischen Planungsfähigkeiten und eine neu entdeckte Fähigkeit, die Zeit zu kontrollieren, um ihre Stadt innerhalb einer Woche vor einer mysteriösen Bedrohung zu retten.",
+  "summaryDutch": "Zelda Cooper, een 47-jarige stedenbouwkundige, gebruikt haar strategische planningsvaardigheden en een nieuw gevonden kracht om de tijd te beheersen om haar stad te redden van een mysterieuze dreiging over een week.",
+  "summaryFrench": "Zelda Cooper, une urbaniste de 47 ans, utilise ses compétences en planification stratégique et un nouveau pouvoir de contrôle du temps pour sauver sa ville d'une menace mystérieuse au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Zelda Cooper discovers her ability to pause and rewind time after a strange encounter with an ancient clock at a city planning exhibition.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tueesday",
+      "text": "Harnessing her new power, Zelda spends time secretly undoing small disasters around the city, perfecting her control.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Zelda meets with city officials, unknowingly planning the layout for a festival that will avert a future calamity she foresaw.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A near-miss accident at the construction site prompts Zelda to use her power publicly for the first time, saving a child.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Zelda faces a moral dilemma about the limits of her power, struggling with the question of how much she should interfere.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "An anonymous tip leads Zelda to a bomb threat at the festival. Using her strategic mind and time powers, she averts the crisis discreetly.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the events of the week, Zelda vows to use her powers for the greater good, embracing her role as a protector of the city.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus, Zelda Cooper finds her true calling not just in planning cities, but in safeguarding their future.",
+  "moral": "With great power comes great responsibility."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Mallory Harris: The Seamstress Hero",
+  "summary": "Mallory Harris, a 19-year-old with a talent for sewing and presenting, discovers her superpowers and battles an eerie villain to save her town over the course of one week.",
+  "summaryGerman": "Mallory Harris, eine 19-jährige mit einem Talent für Nähen und Präsentieren, entdeckt ihre Superkräfte und bekämpft einen unheimlichen Schurken, um ihre Stadt im Laufe einer Woche zu retten.",
+  "summaryDutch": "Mallory Harris, een 19-jarige met talent voor naaien en presenteren, ontdekt haar superkrachten en vecht tegen een griezelige schurk om haar stad te redden in de loop van een week.",
+  "summaryFrench": "Mallory Harris, 19 ans, douée pour la couture et la présentation, découvre ses superpouvoirs et lutte contre un vilain étrange pour sauver sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Mallory Harris, a 19-year-old with a love for sewing and presenting, discovers she can manipulate textile materials with her mind. Thrilled, she spends her day experimenting and creating costumes.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Inspired by her newfound powers, Mallory sews a suit that enhances her abilities. She tests it by making real-time alterations to her outfit while helping at a local fashion show.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wedbesday",
+      "text": "Mallory feels an eerie presence in her town. Using her powers, she traces it to a villain called 'The Shredder', who is tearing fabrics of reality apart. She decides to confront him.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "As she faces off against The Shredder, Mallory uses her presentation skills to distract and confuse him with illusions made from cloth, buying time as she formulates a plan.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The battle continues; Mallory dodges attacks using costumes that react to danger. She finds that speaking confidently can also intimidate her foe.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a crucial moment, Mallory crafts a gigantic quilt from nearby materials to trap The Shredder. This nonviolent approach disorients him long enough for the authorities to arrive.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The town celebrates Mallory’s heroism with a parade, where she presents various costumes she designed. Realizing her powers' potential, she vows to protect her town, creating a bridge between her hobbies and her heroics.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "Weaving her destiny one stitch at a time, Mallory Harris embraced her role as the protector of fabric and fairness in her town.",
+  "moral": "Harness your passions; they may just be your greatest power."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Chronicles of Hubert Gonzalez: From Shutter to Hero",
+  "summary": "A week in the life of Hubert Gonzalez, where his photography hobby leads him to uncover a hidden world and save his city from an eerie threat.",
+  "summaryGerman": "Eine Woche im Leben von Hubert Gonzalez, bei der sein Hobby, die Fotografie, ihn dazu führt, eine verborgene Welt zu entdecken und seine Stadt vor einer unheimlichen Bedrohung zu retten.",
+  "summaryDutch": "Een week in het leven van Hubert Gonzalez, waar zijn hobby fotografie hem leidt naar een verborgen wereld en hij zijn stad redt van een griezelige bedreiging.",
+  "summaryFrench": "Une semaine dans la vie de Hubert Gonzalez, où son passe-temps de la photographie le conduit à découvrir un monde caché et à sauver sa ville d'une menace étrange.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Hubert Gonzalez starts his week with his usual routine of mentoring young photographers at the community center, feeling energetic and hopeful.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While exploring the city for unique shots early morning, Hubert accidentally captures what appears to be a ghostly image. He's intrigued.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Hubert spends the day researching the history of the building in the ghostly photo and discovers it was a headquarters for unscrupulous experiments in the 1920s.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Determined to learn more, Hubert revisits the site to take more photos and encounters a mysterious figure who warns him of danger.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Ignoring the warnings, Hubert returns at night and witnesses a spectral meeting. He realizes he must expose these spirits to protect his city.",
+      "mood": "triupmphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Using his camera as his 'weapon,' Hubert snaps photos that reveal the specters and their sinister plots to the public, causing a city-wide awakening.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "As the city comes to terms with its haunted past, Hubert is celebrated as a hero, feeling triumphant and satisfied with his peaceful Sunday.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus, Hubert Gonzalez, with his lens and courage, captured more than just images; he captured the spirit of a hero.",
+  "moral": "Courage and curiosity can sometimes lead to heroic discoveries."
+}

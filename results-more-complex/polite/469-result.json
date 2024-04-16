@@ -1,0 +1,46 @@
+{
+  "title": "The Late Bloom: The Adventures of Frank Bell",
+  "summary": "Frank Bell, 75, becomes a hero in his retirement by mentoring young minds and solving a series of mysterious happenings in his neighborhood.",
+  "summaryGerman": "Frank Bell, 75, wird im Ruhestand ein Held, indem er junge Menschen betreut und eine Reihe mysteriöser Vorfälle in seiner Nachbarschaft löst.",
+  "summaryDutch": "Frank Bell, 75, wordt een held in zijn pensioen door jonge geesten te begeleiden en een reeks mysterieuze gebeurtenissen in zijn buurt op te lossen.",
+  "summaryFrench": "Frank Bell, 75 ans, devient un héros à sa retraite en encadrant de jeunes esprits et en résolvant une série d'incidents mystérieux dans son quartier.",
+  "moral": "Age is just a number; never stop making a difference.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank Bell begins his week with a mentoring session at the local community center, sharing his career secrets with eager young publicists.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuespday",
+      "text": "Frank is approached by his neighbors about strange thefts. He promises to help and uses his publicity skills to gather community awareness.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Using his old detective novels for inspiration, Frank starts investigating the thefts, making slow yet intriguing progress.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "He organizes a neighborhood watch. During the meeting, several youth express admiration for Frank’s dedication.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Frank catches the culprits in the act! They are local teenagers who had fallen in with a bad crowd. He decides to mentor them rather than reporting them to the police.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With a newfound respect in his community, Frank spends a peaceful day at home, reflecting on the week and planning his next mentoring session.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Frank is featured in a local magazine as a 'Community Hero’, highlighting his efforts in mentoring and solving the thefts, giving him a feeling of fulfillment.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Even at 75, Frank Bell taught that it's never too late to contribute to your community, mentor the next generation, and become a superhero in your own story."
+}

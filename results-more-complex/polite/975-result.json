@@ -1,0 +1,46 @@
+{
+  "title": "The Energetic Adventures of Sue Scott: Guiding Light",
+  "summary": "Sue Scott, a 34-year-old with a passion for guiding and directing, discovers her superpowers following a mysterious event. Over the course of a week, she learns to control her abilities, ultimately using them to save her city from a looming threat.",
+  "summaryGerman": "Sue Scott, eine 34-jährige mit einer Leidenschaft für Führung und Regie, entdeckt ihre Superkräfte nach einem mysteriösen Ereignis. Im Laufe einer Woche lernt sie, ihre Fähigkeiten zu kontrollieren, und verwendet sie schließlich, um ihre Stadt vor einer drohenden Gefahr zu retten.",
+  "summaryDutch": "Sue Scott, een 34-jarige met een passie voor leiding geven en regisseren, ontdekt haar superkrachten na een mysterieuze gebeurtenis. Gedurende een week leert ze haar vaardigheden te beheersen, om uiteindelijk haar stad te redden van een dreigend gevaar.",
+  "summaryFrench": "Sue Scott, une femme de 34 ans passionnée par le guidage et la direction, découvre ses superpouvoirs suite à un événement mystérieux. Au fil d'une semaine, elle apprend à contrôler ses capacités, pour finalement les utiliser afin de sauver sa ville d'une menace imminente.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Sue Scott starts her week normally until a strange gem she finds on her way to work begins to glow, granting her the power to influence people's actions with her words.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Confused but determined, Sue spends her day experimenting with her new abilities, gently guiding her neighbors away from minor dangers, such as avoiding a falling tree branch.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "With her confidence growing, Sue prevents a bank robbery by persuasively talking the robbers into waiting for the police, saving dozens of hostages.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Sue helps redirect traffic around an unexpected road collapse, using both her directing skills and superpower to manage the crisis seamlessly.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Word of Sue's deeds reaches a villain who sees her as a threat. They confront her, leading to a high-stakes showdown in the heart of the city.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Using her wit and powers, Sue outsmarts the villain, leading them directly into a trap set by the police. The city starts to celebrate her as a new hero.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Sue takes a well-earned peaceful moment, reflecting on her new role in society, determined to guide her city towards safety and justice.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Sue Scott dedicated herself to being the guardian her city never knew it desperately needed.",
+  "moral": "With great power comes the great responsibility to guide and protect."
+}

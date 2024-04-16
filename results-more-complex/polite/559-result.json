@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Hubert Collins: The Cooking Tutor's Secret",
+  "summary": "Over one week, Hubert Collins, a seemingly ordinary 67-year-old who enjoys tutoring and cooking, discovers that his culinary skills have magical properties, leading him to become the city's unlikely hero.",
+  "summaryGerman": "Über eine Woche hinweg entdeckt Hubert Collins, ein scheinbar gewöhnlicher 67-jähriger Mann, der sich für Nachhilfe und Kochen begeistert, dass seine Kochkünste magische Eigenschaften haben, was ihn zum unerwarteten Helden der Stadt macht.",
+  "summaryDutch": "Gedurende een week ontdekt Hubert Collins, een ogenschijnlijk gewone 67-jarige man die van bijles geven en koken houdt, dat zijn kookkunsten magische eigenschappen hebben, waardoor hij de onwaarschijnlijke held van de stad wordt.",
+  "summaryFrench": "Au cours d'une semaine, Hubert Collins, un homme de 67 ans apparemment ordinaire qui aime le tutorat et la cuisine, découvre que ses compétences culinaires ont des propriétés magiques, le conduisant à devenir le héros improbable de la ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Hubert discovered his stew caused his friend to recover from illness at an alarming rate.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Tuesdya",
+      "text": "Curious about his powers, Hubert experimented with different recipes, each producing miraculous effects.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "The news of his 'healing meals' began to spread, ushering curious onlookers to his doorstep.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "His new status brought unwelcome scrutiny; Hubert worried about the safety of his newfound gift.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Hubert’s kitchen became a haven for those in need. He felt overwhelmed but fulfilled.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Hubert taught a cooking class revealing his secret to loyal students, solidifying his role as a mentor.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his journey, Hubert understood his true calling and became content with his life's unexpected turn.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus, Hubert Collins, the cooking tutor, continued to pass on the legacy of his supernatural recipes, ensuring that when help was needed, it was just a meal away.",
+  "moral": "Your unique gifts, no matter how small or mundane they appear, can create ripples of change."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Triumph: The Story of Trent Ross, The Mentor of Might",
+  "summary": "Trent Ross, a retired tutor, discovers his superpowers unwittingly and uses them to combat the rising wave of crime in his town, helping his community while learning more about his new abilities.",
+  "summaryGerman": "Trent Ross, ein pensionierter Tutor, entdeckt unwissentlich seine Superkräfte und nutzt sie, um die steigende Verbrechenswelle in seiner Stadt zu bekämpfen, wodurch er seiner Gemeinde hilft und mehr über seine neuen Fähigkeiten lernt.",
+  "summaryDutch": "Trent Ross, een gepensioneerde tutor, ontdekt onbewust zijn superkrachten en gebruikt ze om de opkomende golf van criminaliteit in zijn stad te bestrijden, terwijl hij zijn gemeenschap helpt en meer over zijn nieuwe vaardigheden leert.",
+  "summaryFrench": "Trent Ross, un tuteur à la retraite, découvre par inadvertance ses superpouvoirs et les utilise pour combattre la vague montante de criminalité dans sa ville, aidant sa communauté tout en en apprenant davantage sur ses nouvelles capacités.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Trent Ross was in the middle of a tutoring session when he suddenly lifted a heavy table with one hand without intending to. Shocked and intrigued, he decided to explore these newfound abilities. The day was filled with a sense of eerie discovery.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Encouraged by yesterday's events, Trent decided to experiment further. By concentrating, he found he could manipulate small objects at a distance. At sunset, he helped a lost child find her parents using his powers, ending the day feeling peaceful and useful.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wdnesday",
+      "text": "Trent saved a local bookstore from a robbery, manifesting a protective shield instinctively. The news started covering the mysterious 'Mentor of Might.' The city buzzed with rumors and gratitude, leaving Trent in a triumphant mood.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "With the town’s curiosity piqued, Trent used the day to train secretly. His powers strengthened, and he discovered he could also communicate with animals, making him feel even more connected to all living things around him.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Public demand for the 'Mentor' to reveal himself grew. Trent anonymously planned a community meetup to discuss safety and unity in confronting crime, establishing a tighter bond with the locals. The day was hopeful and energetic.",
+      "mood": "hopeful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During the meeting, a crisis erupted as a nearby building caught fire. Trent calmly evacuated everyone and extinguished the blaze with a massive gust of wind. His heroism, witnessed by all, was epic and word of his true identity began to spread.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Trent finally embraced his role as a community protector, publicly accepting his powers and responsibilities. He committed to using his abilities for good, offering both protection and education. The town celebrated; Trent felt truly triumphant and happy.",
+      "mood": "triumphant, happy"
+    }
+  ],
+  "ending": "And so, Trent Ross not only found his superpowers but also his place as a true hero in the hearts of his community.",
+  "moral": "Great power not only comes with great responsibility, but also with a great chance to make a difference."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Heroism of Ivan Thompson",
+  "summary": "Ivan Thompson, a 70-year-old retiree with a love for reading and coaching, discovers he has the power to manipulate time after a mysterious storm. Throughout a week, he learns to control his abilities, ultimately using them to save his community from a disaster.",
+  "summaryGerman": "Ivan Thompson, ein 70-jähriger Rentner mit einer Leidenschaft fürs Lesen und Coaching, entdeckt, dass er die Zeit manipulieren kann, nachdem ein geheimnisvoller Sturm aufzieht. Innerhalb einer Woche lernt er, seine Fähigkeiten zu kontrollieren und benutzt sie letztlich, um seine Gemeinde vor einer Katastrophe zu retten.",
+  "summaryDutch": "Ivan Thompson, een 70-jarige gepensioneerde met een liefde voor lezen en coaching, ontdekt dat hij de tijd kan manipuleren na een mysterieuze storm. Gedurende een week leert hij zijn vermogens te beheersen, uiteindelijk gebruikt hij ze om zijn gemeenschap te redden van een ramp.",
+  "summaryFrench": "Ivan Thompson, un retraité de 70 ans passionné de lecture et de coaching, découvre qu'il peut manipuler le temps après une tempête mystérieuse. Tout au long d'une semaine, il apprend à contrôler ses capacités, les utilisant finalement pour sauver sa communauté d'une catastrophe.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "After reading at his local library, Ivan Thompson is caught in a mysterious storm. Lightning strikes nearby, giving him a strange sensation.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Thesday",
+      "text": "Ivan notices time slow down around him as he avoids a falling tree during his morning walk. He's confused but intrigued by his newfound ability.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Testing his powers, Ivan pauses time to help a child retrieve a ball from the street safely. He feels responsible yet unsure of the extent of his abilities.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Ivan spends the day experimenting with his powers, helping anonymously in small, yet impactful ways around his neighborhood.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "During coaching, Ivan uses his abilities discreetly to improve his athletes' performance, solving problems before they happen.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A gas leak threatens the local community center. Ivan uses his powers to evacuate everyone safely and averts a potential disaster in secret.",
+      "mood": "heroic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on his week, Ivan feels fulfilled, embracing his role as a silent guardian of his community, ready to aid whenever needed.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "In the twilight years of his life, Ivan Thompson became the guardian his city never knew it needed, but always had.",
+  "moral": "Age is not a barrier to becoming a hero; it's the spirit that counts."
+}

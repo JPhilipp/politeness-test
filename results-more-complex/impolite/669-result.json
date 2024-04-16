@@ -1,0 +1,46 @@
+{
+  "title": "The Amazing Week of Hubert Wang: A Superhero Tale at 77",
+  "summary": "Hubert Wang, a 77-year-old superhero, focuses his powers of mentoring and coaching to guide young heroes throughout a week, facing both challenges and triumphs.",
+  "summaryGerman": "Hubert Wang, ein 77-jähriger Superheld, nutzt seine Kräfte des Mentorings und Coachings, um junge Helden während einer Woche zu führen, wobei er sowohl Herausforderungen als auch Triumphe erlebt.",
+  "summaryDutch": "Hubert Wang, een 77-jarige superheld, gebruikt zijn krachten van mentoring en coaching om jonge helden gedurende een week te begeleiden, geconfronteerd met zowel uitdagingen als triomfen.",
+  "summaryFrench": "Hubert Wang, un super-héros de 77 ans, concentre ses pouvoirs de mentorat et de coaching pour guider de jeunes héros tout au long d'une semaine, faisant face à des défis et des triomphes.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Hubert Wang begins his week by mentoring a group of budding young superheroes at the local community center, instilling in them the values of courage and resilience.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tueaday",
+      "text": "An eerie silence settles over the city, and Hubert uses his wisdom to detect and thwart a covert villainous plot, protecting countless lives.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Hubert meets with old friends, reminiscing about past adventures and recharging his spirits with tales of yore.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "An unexpected challenge strikes as a nearby dam begins to fail; Hubert coaches a young hero on how to apply their powers to avert disaster.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "At the end of an exhausting yet fulfilling week, Hubert holds a coaching session that turns into a celebration of success and community.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Hubert spends a peaceful day gardening, his other passion, reflecting on the lives he has touched and influenced throughout his superhero career.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Hubert prepares for the week ahead, planning new strategies for his mentoring and coaching, ever ready to nurture the next generation of heroes.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "In every thread of time, Hubert Wang wove lessons of heroism that would echo through generations.",
+  "moral": "True heroism lies not just in the grand gestures, but also in the quiet acts of guidance and support."
+}

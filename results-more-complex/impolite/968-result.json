@@ -1,0 +1,46 @@
+{
+  "title": "The Energetic Adventures of Nancy Perry",
+  "summary": "Nancy Perry, a 43-year-old with hobbies in leadership and obedience, discovers her superpower of influencing people's emotions and uses it to save her town from a villainous scheme over a week.",
+  "summaryGerman": "Nancy Perry, eine 43-jährige mit Hobbys in Führung und Gehorsam, entdeckt ihre Superkraft, die Emotionen der Menschen zu beeinflussen, und nutzt sie, um ihre Stadt innerhalb einer Woche vor einem schurkischen Plan zu retten.",
+  "summaryDutch": "Nancy Perry, een 43-jarige met hobby's in leiderschap en gehoorzaamheid, ontdekt haar superkracht om de emoties van mensen te beïnvloeden en gebruikt deze om haar stad te redden van een schurkenachtig plan in een week tijd.",
+  "summaryFrench": "Nancy Perry, âgée de 43 ans, ayant pour hobbies le leadership et l'obéissance, découvre son super pouvoir d'influencer les émotions des gens et l'utilise pour sauver sa ville d'un complot maléfique en une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Nancy felt an unusual surge of energy as she coordinated a local volunteer event, unknowingly transferring her zeal to the participants.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tusday",
+      "text": "Her powers became apparent when she calmed an escalating conflict at work with just a few words, leaving everyone feeling inexplicably peaceful.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Nancy experimented with her ability, boosting morale at a friend's failing restaurant, which mysteriously turned the night triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A dark figure observed her from afar, intrigued by her powers, setting the stage for an eerie mystery.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The figure revealed himself as a disgruntled ex-businessman bent on sapping the town's happiness, launching an epic confrontation.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Using her power, Nancy turned the emotional tide against the villain, casting a wave of joy that neutralized his negative energies.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The town celebrated their unexpected hero with a peaceful gathering in the park, where Nancy felt truly fulfilled.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Thus, Nancy Perry learned that true power lies in uplifting others, a lesson she carried forward with pride.",
+  "moral": "The greatest strength is found in the ability to positively influence those around us."
+}

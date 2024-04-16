@@ -1,0 +1,46 @@
+{
+  "title": "The Melodic Triumphs of Alice Young",
+  "summary": "Alice Young, a 62-year-old music arranger and chef, discovers her superpowers of manipulating emotions through melodies, which she uses to combat a mysterious malaise affecting her town over the course of one week.",
+  "summaryGerman": "Alice Young, eine 62-jährige Musikarrangeurin und Köchin, entdeckt ihre Superkräfte, Emotionen durch Melodien zu manipulieren, die sie verwendet, um eine mysteriöse Malaise zu bekämpfen, die ihre Stadt im Laufe einer Woche betrifft.",
+  "summaryDutch": "Alice Young, een 62-jarige muziekarrangeur en chef, ontdekt haar superkrachten om emoties te manipuleren door middel van melodieën, die ze gebruikt om een mysterieuze malaise te bestrijden die haar stad gedurende een week treft.",
+  "summaryFrench": "Alice Young, une arrangeuse de musique et chef de 62 ans, découvre ses superpouvoirs de manipulation des émotions à travers des mélodies, qu'elle utilise pour combattre un mal mystérieux affectant sa ville au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Alice discovers her ability to evoke emotions through her music inadvertently during a neighborhood gathering.",
+      "mood": "surprised"
+    },
+    {
+      "weekday": "Tuseday",
+      "text": "While practicing her newfound powers at home, she senses a widespread melancholy in her community.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Alice decides to host a cooking class, infusing her dishes with uplifting tunes, lifting the spirits of the attendees.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "She performs at a local cafe, turning it into an impromptu healing session where patrons leave smiling and rejuvenated.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Noticing the positive changes, Alice plans a large-scale concert for the weekend to heal the town.",
+      "mood": "planning"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During her concert, she pairs her melodies with visual effects creating a magical, almost otherworldly experience.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The town's mood shifts drastically to happiness and contentment, Alice feels fulfilled knowing her dual passions brought harmony.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Alice Young realized that her melodies could heal more than just the heart; they could rejuvenate a community.",
+  "mood": "Age is just a number when it comes to making a change."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Journey of Linda Simmons, Consulting Heroine",
+  "summary": "Linda Simmons, a 56-year-old consultant and instructor, discovers her telepathic abilities and uses them to solve local mysteries and crimes, transforming into a local superhero over the course of a week.",
+  "summaryGerman": "Linda Simmons, eine 56-jährige Beraterin und Lehrerin, entdeckt ihre telepathischen Fähigkeiten und nutzt sie, um lokale Geheimnisse und Verbrechen zu lösen, und verwandelt sich im Laufe einer Woche in eine lokale Superheldin.",
+  "summaryDutch": "Linda Simmons, een 56-jarige consultant en instructeur, ontdekt haar telepathische vaardigheden en gebruikt deze om lokale mysteries en misdaden op te lossen, en verandert in de loop van een week in een lokale superheld.",
+  "summaryFrench": "Linda Simmons, consultante et instructrice âgée de 56 ans, découvre ses capacités télépathiques et les utilise pour résoudre des mystères et des crimes locaux, se transformant en super-héroïne locale au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "mood": "energetic",
+      "text": "After feeling unusually alert during a consulting seminar, Linda unexpectedly reads the thoughts of a participant, revealing hidden secrets of a mysterious local case."
+    },
+    {
+      "weekday": "Tuesday",
+      "mood": "eerie",
+      "text": "Disturbed by her new abilities, Linda visits the park to clear her mind but overhears thoughts of a planned robbery near her neighborhood. She secretly alerts the police."
+    },
+    {
+      "weekday": "Wedbesday",
+      "mood": "triumphant",
+      "text": "The police successfully prevent the robbery using Linda's tip. Amazed by her impact, Linda starts embracing her telepathic powers, pondering how to further use them for good."
+    },
+    {
+      "weekday": "Thursday",
+      "mood": "romantic",
+      "text": "During a chance encounter at a coffee shop, Linda meets an old friend and feels a spark, finding comfort in sharing her recent turbulent emotions and newfound purpose."
+    },
+    {
+      "weekday": "Friday",
+      "mood": "sad",
+      "text": "Linda suffers a setback when she tries to solve a personal issue for a friend using her abilities and fails, learning that not all problems can be fixed telepathically."
+    },
+    {
+      "weekday": "Saturday",
+      "mood": "epic",
+      "text": "A dangerous threat emerges as a criminal gang plots a major heist. Linda successfully averts disaster by directing the police just in time, fully stepping into her role as a hero."
+    },
+    {
+      "weekday": "Sunday",
+      "mood": "peaceful",
+      "text": "Reflecting on a week of immense change, Linda spends a quiet day at home, journaling about her experiences and how she could improve her community with her extraordinary skills."
+    }
+  ],
+  "ending": "And so, the quiet streets of her town felt a little safer, all thanks to the unassuming heroics of Linda Simmons.",
+  "moral": "True heroism lies not in the extraordinary, but in doing what one can with what they have."
+}

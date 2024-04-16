@@ -1,0 +1,46 @@
+{
+  "title": "The Unseen Hero: Grace Adams",
+  "summary": "The story of Grace Adams, a 59-year-old who discovers her unique power to manipulate reality through her hobbies, protecting her town from a hidden threat over the course of a week.",
+  "summaryGerman": "Die Geschichte von Grace Adams, einer 59-Jährigen, die ihre einzigartige Fähigkeit entdeckt, durch ihre Hobbys die Realität zu manipulieren und ihre Stadt im Laufe einer Woche vor einer verborgenen Bedrohung zu schützen.",
+  "summaryDutch": "Het verhaal van Grace Adams, een 59-jarige die haar unieke kracht ontdekt om via haar hobby's de realiteit te manipuleren en haar stad te beschermen tegen een verborgen dreiging gedurende een week.",
+  "summaryFrench": "L'histoire de Grace Adams, 59 ans, qui découvre son pouvoir unique de manipuler la réalité à travers ses passe-temps, protégeant sa ville d'une menace cachée au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Grace Adams begins her week like any other, embroidering a vibrant tapestry in her serene garden. Little did she know, each stitch subtly altered the fabric of reality around her.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While cooking a family recipe, Grace accidentally conjures an image from thin air, revealing her latent abilities. Shocked and curious, she resolves to explore this newfound power.",
+      "mood": "surprised"
+    },
+    {
+      "weekday": "Wedensday",
+      "text": "Grace practices her powers, managing to manipulate small objects around her house. She grows more confident, sensing she can use her abilities for something greater.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News of a mysterious menace spreads through town. Feeling a sense of duty, Grace secretly uses her powers to avert minor accidents, slowly mastering her control.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "An eerie shadow looms over the town. Grace, feeling the tension, stitches an esoteric symbol into her tapestry which glows, warding off the creeping darkness.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With her town at stake, Grace devises a plan. Cooking a large feast, she invitingly brings the town's folk together, subtly weaving protective charms into the fabric of the gathering.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "As the town celebrates, they unknowingly reinforce Grace's charms, amplifying the power. The shadow is vanquished, and peace is restored, though none but Grace understands how.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "While Grace Adams continues her unassuming life, the tranquility of her town stands as a testament to the unseen battles she gracefully weathers.",
+  "moral": "Great powers come in the most unassuming forms, and a small stitch can hold together the very fabric of a community."
+}

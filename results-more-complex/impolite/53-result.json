@@ -1,0 +1,46 @@
+{
+  "title": "The Harmonic Hero: The Week of Ivan King",
+  "summary": "Ivan King, a young tutor and conductor, discovers his ability to control emotions through music, facing challenges and adversaries while learning about his new powers and ultimately using them to save his community from turmoil.",
+  "summaryGerman": "Ivan King, ein junger Tutor und Dirigent, entdeckt seine Fähigkeit, Emotionen durch Musik zu steuern. Er steht vor Herausforderungen und Gegnern, während er mehr über seine neuen Kräfte lernt und sie letztendlich einsetzt, um seine Gemeinschaft vor Unruhen zu retten.",
+  "summaryDutch": "Ivan King, een jonge tutor en dirigent, ontdekt zijn vermogen om emoties te beheersen via muziek, geconfronteerd met uitdagingen en tegenstanders terwijl hij leert over zijn nieuwe krachten en ze uiteindelijk gebruikt om zijn gemeenschap te redden van onrust.",
+  "summaryFrench": "Ivan King, un jeune tuteur et chef d'orchestre, découvre sa capacité à contrôler les émotions par la musique, faisant face à des défis et des adversaires tout en apprenant sur ses nouveaux pouvoirs et en les utilisant finalement pour sauver sa communauté du tumulte.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ivan King begins his week as usual, tutoring local students in mathematics and practicing his conducting with the community orchestra. Little does he know, a mysterious energy surge during rehearsal grants him the power to evoke emotions through music.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesdday",
+      "text": "Feeling peculiar, Ivan experiments privately, playing various tunes and observing the emotional reactions of his neighbors. Amazed, he realizes he can induce feelings like joy or calm, confirming his new abilities.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Ivan cautiously shares his discovery with his closest friend, who is skeptical at first but soon becomes supportive after witnessing Ivan's powers firsthand during a stressful situation.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "News spreads in the community about a 'Musical Magician.' Ivan is invited to address a local disturbance where his music successfully calms a heated protest, making him a local hero.",
+      "mood": "heroic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Challenged by a mysterious figure who wishes to exploit Ivan's abilities for personal gain, Ivan faces his first true adversary. A tense musical battle ensues, with Ivan using his skills to outmaneuver his foe.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "After the confrontation, Ivan reflects on the potential of his powers. He decides to use them responsibly, planning community events focused on healing and unity.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "As the week closes, Ivan performs at a large community gathering, his music soothing and uplifting the spirits of all attendees, solidifying his role as a force for good in his community.",
+      "mood": "romantic"
+    }
+  ],
+  "ending": "And thus, Ivan King learned that true power lies not just in what we can do, but in how we choose to use it for the good of others.",
+  "moral": "With great power comes great responsibility."
+}

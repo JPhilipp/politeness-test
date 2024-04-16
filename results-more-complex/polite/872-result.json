@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Heidi Edwards: Painter and Advisor",
+  "summary": "Heidi Edwards, a 63-year-old with a love for painting and advising, discovers her unique powers to bring her artworks to life and uses them to solve problems in her community.",
+  "summaryGerman": "Heidi Edwards, eine 63-jährige Liebhaberin der Malerei und Beratung, entdeckt ihre einzigartige Fähigkeit, ihre Kunstwerke zum Leben zu erwecken und verwendet sie, um Probleme in ihrer Gemeinde zu lösen.",
+  "summaryDutch": "Heidi Edwards, een 63-jarige liefhebber van schilderen en adviseren, ontdekt haar unieke krachten om haar kunstwerken tot leven te brengen en gebruikt ze om problemen in haar gemeenschap op te lossen.",
+  "summaryFrench": "Heidi Edwards, âgée de 63 ans et passionnée de peinture et de conseil, découvre ses pouvoirs uniques pour donner vie à ses œuvres d'art et les utilise pour résoudre les problèmes de sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Heidi stumbled upon her powers when one of her painted birds flew off the canvas. Astounded, she spent the day experimenting, bringing more paintings to life.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Inspired, Heidi decided to use her powers for good. She painted soothing scenes to help calm her neighbors' disputes.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "News spread of her talents, and Heidi was asked to paint a mural at the local school, which she animated to teach children about nature.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A crisis arose when a local dam showed signs of breaking. Heidi painted a giant seal over the crack, which came to life and patched the dam.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Heidi held a gallery show where her animated paintings raised funds for community projects. People were enchanted by the moving art.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Feeling a bit overwhelmed by her new role as a local hero, Heidi took a day to relax and paint just for herself, rediscovering the joy in her art.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ending the week, Heidi felt fulfilled, knowing she used her gift to bring joy and help to her community, promising to continue her new journey.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "With her brush in hand and a heart full of courage, Heidi Edwards painted a brighter future for her community.",
+  "moral": "Use your unique gifts to make a positive difference in the world around you."
+}

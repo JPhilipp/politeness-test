@@ -1,0 +1,46 @@
+{
+  "title": "The Courageous Chronicles of Romeo Yang",
+  "summary": "Romeo Yang, a retired guide and consultant, uses his old skills in a new role when his town faces a mysterious threat. Throughout a week, he unearths his latent powers and guides his community to safety.",
+  "summaryGerman": "Romeo Yang, ein pensionierter Führer und Berater, setzt seine alten Fähigkeiten in einer neuen Rolle ein, als seine Stadt einer mysteriösen Bedrohung gegenübersteht. Innerhalb einer Woche entdeckt er seine verborgenen Kräfte und führt seine Gemeinde in Sicherheit.",
+  "summaryDutch": "Romeo Yang, een gepensioneerde gids en adviseur, gebruikt zijn oude vaardigheden in een nieuwe rol als zijn stad een mysterieuze bedreiging tegenkomt. Gedurende een week ontdekt hij zijn verborgen krachten en leidt hij zijn gemeenschap naar veiligheid.",
+  "summaryFrench": "Romeo Yang, un guide et consultant à la retraite, utilise ses anciennes compétences dans un nouveau rôle lorsque sa ville est confrontée à une menace mystérieuse. Tout au long d'une semaine, il découvre ses pouvoirs latents et guide sa communauté vers la sécurité.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "At 76, Romeo Yang walks through his small town, feeling energetic despite his age, greeting neighbors and enjoying his retirement. Little does he know, his town is about to need him more than ever.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Romeo hears of strange occurrences—people's pets behaving oddly, electronics malfunctioning. Pulling from his decades of experience, he starts consulting with locals, looking for patterns.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednseday",
+      "text": "Romeo discovers a common link: disturbances centered around the old factory. With a mix of old-school wisdom and newfound resolve, he decides to investigate further.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Inside the factory, Romeo encounters a device emitting strange signals. Using his old tools, he manages to disable it, stopping the chaos. He feels both happy and heroic, having protected his town.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Friday",
+      "text": "News spreads of Romeo’s bravery. The community gathers to celebrate his courage and ingenuity, feeling romantic vibes as people recall his leadership and calmness during the crisis.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Feeling peaceful, Romeo spends a quiet day reflecting on his actions. He realizes that his years of guidance were a prelude to this heroic moment.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Inspired by recent events, Romeo starts a small group to teach young residents about safety, technology, and leadership. His week ends on an epic note as he looks forward to imparting wisdom to the next generation.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Romeo Yang may have aged, but his courage and wisdom remain timeless, proving that heroes come in all ages.",
+  "moral": "Age is just a number; true heroism lies in the willingness to act and guide when needed most."
+}

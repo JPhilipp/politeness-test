@@ -1,0 +1,46 @@
+{
+  "title": "The Quilting Counselor: The Adventures of Peggy Thomas",
+  "summary": "Peggy Thomas, a 45-year-old quilting enthusiast who loves advising, discovers her abilities to weave protection and wisdom into her quilts. Over the course of a week, she uses her powers to save her neighborhood, facing challenges and embracing her new identity as a superhero.",
+  "summaryGerman": "Peggy Thomas, eine 45-jährige Quilt-Enthusiastin, die gerne berät, entdeckt ihre Fähigkeiten, Schutz und Weisheit in ihre Quilts zu weben. Im Laufe einer Woche nutzt sie ihre Kräfte, um ihre Nachbarschaft zu retten, stellt sich Herausforderungen und nimmt ihre neue Identität als Superheldin an.",
+  "summaryDutch": "Peggy Thomas, een 45-jarige quiltliefhebber die graag advies geeft, ontdekt haar vermogen om bescherming en wijsheid in haar quilts te weven. Gedurende een week gebruikt ze haar krachten om haar buurt te redden, confronteert ze uitdagingen en omarmt ze haar nieuwe identiteit als superheldin.",
+  "summaryFrench": "Peggy Thomas, une passionnée de quilting de 45 ans qui aime conseiller, découvre ses capacités à tisser la protection et la sagesse dans ses quilts. Au cours d'une semaine, elle utilise ses pouvoirs pour sauver son quartier, fait face à des défis et embrasse sa nouvelle identité de super-héroïne.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Peggy discovers her quilts can shield her neighbors from harm when a sudden storm causes minor chaos in the town. Feeling curious and energetic, she decides to explore this newfound ability.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "With a newfound sense of responsibility, Peggy spends the day advising local community members under the safety of her enchanted quilts, protecting them from a mysterious cold snap.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Wodnesday",
+      "text": "Peggy encounters a skeptic who questions the effectiveness of her quilts. She demonstrates their power, weaving warmth and safety, leading to a triumphant validation.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Feeling the weight of her duties, Peggy becomes slightly overwhelmed but receives help from a fellow quilter who shares her powers. Together, they stitch a massive quilt to cover the local park.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Under the massive quilt, the local park becomes a haven for those needing shelter and warmth. Peggy feels a romantic connection with her fellow quilter, finding joy in their shared mission.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "An unexpected villain threatens to unravel her work. Peggy, energized by her quilting comrade, crafts an epic quilt that traps the villain, saving the town.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "As the town celebrates, Peggy reflects on her journey and the lives she has touched. She vows to continue her mission, feeling both heroic and humbled.",
+      "mood": "triumphant"
+    }
+  ],
+  "ending": "And so, Peggy Thomas, the Quilting Counselor, stitched her name into the fabric of her town's history.",
+  "moral": "Even the softest threads can weave the strongest bonds and the mightiest shields."
+}

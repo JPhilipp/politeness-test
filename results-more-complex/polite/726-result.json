@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Zelda Robinson: A Week of Heroic Acts",
+  "summary": "Over the course of a week, Zelda Robinson, a 44-year-old tutor and trainer by day, becomes the superhero who saves her city from a mysterious menace, using her intellect, strength, and heart.",
+  "summaryGerman": "Im Laufe einer Woche wird Zelda Robinson, eine 44-jährige Tutorin und Trainerin tagsüber, zur Superheldin, die ihre Stadt vor einer geheimnisvollen Bedrohung rettet, indem sie ihren Verstand, ihre Stärke und ihr Herz einsetzt.",
+  "summaryDutch": "Gedurende een week wordt Zelda Robinson, overdag een 44-jarige tutor en trainer, de superheld die haar stad redt van een mysterieuze dreiging, door haar intellect, kracht en hart te gebruiken.",
+  "summaryFrench": "Au cours d'une semaine, Zelda Robinson, une tutrice et entraîneuse de 44 ans le jour, devient la superhéroïne qui sauve sa ville d'une menace mystérieuse, en utilisant son intellect, sa force et son cœur.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "At the local library, Zelda tutors children in math and sciences. Unbeknownst to her, a strange artifact in the lost-and-found begins to glow ominously.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Zelda investigates the glowing object and discovers it's an ancient amulet. That night, she dreams of a past hero summoning her to protect the city.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Wendesday",
+      "text": "While training for her upcoming marathon, Zelda feels a surge of unexpected energy. She uses her newfound speed to thwart a robbery in progress.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Empowered by the amulet, Zelda carefully balances her day, tutoring students and patrolling the city, sensing disturbances with uncanny accuracy.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The source of the town’s troubles reveals itself: a spectral entity feeding on negative emotions. Zelda plans her confrontation.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Zelda confronts the entity at the city park, using the amulet to channel positive energy and dispel the darkness, restoring peace.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The city celebrates its unknown protector. Zelda smiles as she walks among the crowd, her secret safe, her city secure.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As the sun sets on a week filled with unexpected challenges and heroic deeds, Zelda Robinson hung the mystical amulet back in her closet, ready should her city ever need her again.",
+  "moral": "With great power comes great responsibility, and the truest heroism lies in the strength to carry this burden with grace."
+}

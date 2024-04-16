@@ -1,0 +1,45 @@
+{
+  "title": "The Superb Saga of Sue Wang: Guardian of Advice and Athleticism",
+  "summary": "Sue Wang, a 41-year-old advisor with a passion for sports, discovers her superhero powers and saves her city from chaos over the course of a week.",
+  "summaryGerman": "Sue Wang, eine 41-jährige Beraterin mit einer Leidenschaft für Sport, entdeckt ihre Superheldenkräfte und rettet ihre Stadt im Laufe einer Woche vor dem Chaos.",
+  "summaryDutch": "Sue Wang, een 41-jarige adviseur met een passie voor sport, ontdekt haar superheldenkrachten en redt haar stad van chaos gedurende een week.",
+  "summaryFrench": "Sue Wang, une conseillère de 41 ans passionnée de sport, découvre ses pouvoirs de super-héros et sauve sa ville du chaos au cours d'une semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Sue Wang feels an unusual surge of energy as she leads a workshop on leadership. The day ends with her body glowing faintly under the moonlight.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tueday",
+      "text": "When key equipment at the local gym malfunctions while Sue is playing her favorite sport, she inexplicably fixes it with a mere touch, attracting curious glances.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Sue uses her new-found powers to advise struggling community members, providing solutions that work mysteriously well. People start talking about the 'Miracle Advisor.'",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "While jogging, Sue rescues a child stuck in a tree. Her actions go viral on social media, leading many to feel thankful and secure knowing she's around.",
+      "mood": "heroic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Sue feels overwhelmed by her newfound celebrity. She seeks solitude at a park, where she contemplates her future role. A mysterious stranger offers guidance.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Fully embracing her role, Sue organizes a community sports event that doubles as a free advice booth, becoming a beacon of hope and joy for the attendees.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "As calmness settles over the city, Sue reflects on her extraordinary week, realizing that her powers are best used in the service of others.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "And so, Sue Wang continued to be a source of protection and wisdom, her legend only growing with each advising session and sports game."
+}

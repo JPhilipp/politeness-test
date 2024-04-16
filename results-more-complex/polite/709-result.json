@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Sue Adams: A Superhero Emerges",
+  "summary": "Over the course of one week, 18-year-old Sue Adams discovers her ability to emotionally empower those around her, developing her powers through her daily interactions and ultimately saving her neighborhood from despair.",
+  "summaryGerman": "Im Laufe einer Woche entdeckt die 18-jährige Sue Adams ihre Fähigkeit, die Menschen um sich herum emotional zu stärken, entwickelt ihre Kräfte durch ihre täglichen Interaktionen und rettet letztendlich ihr Viertel vor Verzweiflung.",
+  "summaryDutch": "Gedurende één week ontdekt de 18-jarige Sue Adams haar vermogen om emotioneel de mensen om haar heen te versterken, ontwikkelt ze haar krachten door haar dagelijkse interacties en redt uiteindelijk haar buurt van wanhoop.",
+  "summaryFrench": "Au cours d'une semaine, Sue Adams, 18 ans, découvre sa capacité à renforcer émotionnellement les personnes autour d'elle, développe ses pouvoirs à travers ses interactions quotidiennes et sauve finalement son quartier du désespoir.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Sue feels a curious energy as she counsels her peers at the youth center, noticing her words significantly uplift their spirits.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Her powers grow clearer when a saddened classmate smiles genuinely for the first time in months after talking to Sue.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wensday",
+      "text": "During a challenging session, Sue discovers she can project a sense of hope that palpably changes the room's atmosphere.",
+      "mood": "triumpant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A confrontation with skeptics tests her resolve, but she turns doubt into belief, observing the transformation in their behavior.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The local news catches wind of her abilities, bringing uneasy attention, but she remains steadfast, using her influence for good.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A major crisis strikes as despair threatens the neighborhood; Sue steps in, her powers peaking in an epic showdown of emotions.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Peace returns, and the community gathers to celebrate 'Hero Sue', whose actions have restored hope and joy to many.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "In a world often clouded by darkness, Sue Adams shines as a beacon of hope, proving that real power lies in the gift of lifting others.",
+  "moral": "The truest strength is found not in physical power, but in the ability to positively influence and uplift those around us."
+}

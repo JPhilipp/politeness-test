@@ -1,0 +1,46 @@
+{
+  "title": "The Knitting Preacher: The Week Charlie Morgan Became a Hero",
+  "summary": "Charlie Morgan, a 63-year-old preacher who loves knitting, unexpectedly gains the power to heal with his knitting creations, sparking a week of miraculous events in his small town.",
+  "summaryGerman": "Charlie Morgan, ein 63-jähriger Prediger, der gerne strickt, erhält unerwartet die Fähigkeit, mit seinen Strickkreationen zu heilen, was eine Woche voller wundersamer Ereignisse in seiner kleinen Stadt auslöst.",
+  "summaryDutch": "Charlie Morgan, een 63-jarige prediker die van breien houdt, krijgt onverwachts de kracht om te genezen met zijn breisels, wat een week van wonderbaarlijke gebeurtenissen in zijn kleine stad teweegbrengt.",
+  "summaryFrench": "Charlie Morgan, un prédicateur de 63 ans qui aime tricoter, acquiert soudainement le pouvoir de guérir avec ses créations tricotées, déclenchant une semaine d'événements miraculeux dans sa petite ville.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Charlie Morgan discovers that the blanket he knitted during his weekend sermon has miraculously healed his friend's sprained ankle.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tueesday",
+      "text": "Excited by the possibilities, Charlie knits a scarf for another friend suffering from arthritis. By evening, her pain vanishes.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "News of Charlie’s healing knits spread across town, bringing a crowd to his doorstep seeking help with various ailments.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Charlie feels overwhelmed but decides to preach about kindness and support, knitting a large tapestry with the community.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The tapestry, hung in the local park, begins to radiate a warm glow, reportedly easing the town’s collective anxiety.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Charlie spends a quiet day at home, reflecting on his new responsibilities and knitting personalized gifts for his neighbors.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "After a week of miracles, the town gathers for a special service where Charlie speaks about compassion and community healing.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "As winter approached, the knitted gifts of Charlie Morgan wrapped the town not only in wool but in a blanket of hope.",
+  "moral": "Even the simplest acts of kindness can weave a tapestry of profound impact."
+}

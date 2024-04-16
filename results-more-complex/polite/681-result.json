@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Pit Kelly: Editor by Day, Tutor by Night",
+  "summary": "Pit Kelly discovers hidden abilities while balancing his life as an editor and tutor, helping him to overcome mysterious challenges throughout the week.",
+  "summaryGerman": "Pit Kelly entdeckt verborgene Fähigkeiten, während er sein Leben als Herausgeber und Tutor ausbalanciert, was ihm hilft, mysteriöse Herausforderungen während der Woche zu überwinden.",
+  "summaryDutch": "Pit Kelly ontdekt verborgen vaardigheden terwijl hij zijn leven als redacteur en tutor in evenwicht brengt, waardoor hij in staat is mysterieuze uitdagingen gedurende de week te overwinnen.",
+  "summaryFrench": "Pit Kelly découvre des capacités cachées tout en équilibrant sa vie d'éditeur et de tuteur, ce qui l'aide à surmonter des défis mystérieux tout au long de la semaine.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Pit Kelly started his week with a smile, editing articles at his desk when he inadvertently saved his building from a fire due to his strange new ability to sense danger. Amid the chaos, he guided everyone to safety.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "While tutoring a young student, Pit felt an eerie connection when he solved a complex math problem, which mysteriously repaired a broken watch. This phenomenon sparked both curiosity and fear.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Pit's curiosity led him to a quiet library search on historical heroes, fantasizing about his newfound powers. He spent the day lost in books, seeking answers but finding peace in the stories of yore.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thusday",
+      "text": "With ambitions to hone his skills, Pit accidentally teleported himself to a crime scene where he helped thwart a burglary. His adrenaline surged as he realized the potential of his powers.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Feeling romantic, Pit met with former classmate who always admired his intellect. Sharing tales of his mysterious week, he felt his heart flutter as they reconnected under the stars.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a community event, Pit used his powers to create a magnificent firework display with a flick of his hand, leaving the crowd in awe and wonder, feeling utterly epic.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "After a surreal week, Pit reflected on his adventures and decided to embrace his role as a guardian of his neighborhood. At sunset, he felt happy, knowing he could balance both his passions and new responsibilities.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As the sun set that Sunday evening, Pit Kelly knew he had found his true calling - defending the innocent and teaching the future, one day at a time.",
+  "moral": "Embrace your unique abilities; you never know how they might change the world."
+}

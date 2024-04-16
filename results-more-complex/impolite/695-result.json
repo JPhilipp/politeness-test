@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Victor Ross: Mentor by Day, Hero by Night",
+  "summary": "Over one week, Victor Ross balances his passion for tutoring with his secret life as a superhero, facing a new challenge that tests both his mentoring and hero skills.",
+  "summaryGerman": "Über eine Woche hinweg balanciert Victor Ross seine Leidenschaft für das Tutoring mit seinem geheimen Leben als Superheld, wobei er einer neuen Herausforderung gegenübersteht, die sowohl seine Mentoring- als auch seine Heldenskills auf die Probe stellt.",
+  "summaryDutch": "Gedurende één week balanceert Victor Ross zijn passie voor tutoring met zijn geheime leven als superheld, waarbij hij een nieuwe uitdaging aangaat die zowel zijn begeleidingsvaardigheden als zijn heldenskills op de proef stelt.",
+  "summaryFrench": "Pendant une semaine, Victor Ross équilibre sa passion pour le tutorat avec sa vie secrète de superhéros, faisant face à un nouveau défi qui met à l'épreuve ses compétences de mentor et de héros.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Victor Ross, a 42-year-old tutor, spends his day mentoring high school students in science and math. As the sun sets, he transforms into his alter ego to patrol the city, keeping an eye out for any trouble.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuuesday",
+      "text": "Victor discovers that one of his mentees is being bullied. Determined, he uses both his mentoring talents and hero persona to subtly empower the student and deter the bullies.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "After a night of less rest due to his double life, Victor feels the strain but remains determined. He organizes a neighborhood watch program, engaging others to help ensure local safety.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A mysterious figure seems to be observing Victor’s actions. Throughout his tutoring sessions, he senses an eerie presence but remains focused on helping his students excel.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The observer reveals himself as a former villain seeking redemption. He asks Victor for guidance, recognizing his dual role as a beacon of positive change.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Victor hosts a community event integrating education and safety workshops. It’s a huge success, reinforcing his belief in the power of community.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Victor feels a sense of fulfillment and balance between his two lives. He promises to continue his dual path of mentoring and defending as long as he is needed.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "As the stars shone brightly above, Victor Ross knew he was exactly where he needed to be, ready to face whatever came next.",
+  "moral": "Balancing personal passion and greater duty can lead to a profound sense of fulfillment."
+}

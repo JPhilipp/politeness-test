@@ -1,0 +1,46 @@
+{
+  "title": "The Heroic Week of Oscar Ross: The Enlightened Protector",
+  "summary": "Oscar Ross, a retired teacher, unveils his hidden power of insight to protect his community from a looming threat, balancing his usual activities of tutoring and counseling while evolving into a neighborhood hero over the span of one week.",
+  "summaryGerman": "Oscar Ross, ein pensionierter Lehrer, enthüllt seine verborgene Einsichtsfähigkeit, um seine Gemeinschaft vor einer drohenden Gefahr zu schützen und dabei seine üblichen Aktivitäten wie Nachhilfe und Beratung auszubalancieren, während er sich im Laufe einer Woche zu einem Helden der Nachbarschaft entwickelt.",
+  "summaryDutch": "Oscar Ross, een gepensioneerde leraar, onthult zijn verborgen kracht van inzicht om zijn gemeenschap te beschermen tegen een dreigend gevaar, waarbij hij zijn gebruikelijke activiteiten van bijles geven en counseling in evenwicht brengt, terwijl hij in de loop van een week uitgroeit tot een buurt-held.",
+  "summaryFrench": "Oscar Ross, un enseignant retraité, révèle son pouvoir caché de clairvoyance pour protéger sa communauté d'une menace imminente, tout en équilibrant ses activités habituelles de tutorat et de conseil, évoluant en un héros de quartier au fil d'une semaine.",
+  "moral": "No matter the age, one can always rise to become a hero in their community.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Oscar Ross started his week as usual, tutoring at the local community center, feeling rather peaceful amidst the keen minds of his students.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Puesday",
+      "text": "While walking home, Oscar felt an eerie chill as he witnessed a shady transaction. His long-developed intuition sensed something was amiss.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Oscar used his morning for counseling sessions, providing solace and guidance, but the images from Tuesday night haunted him, making him feel sad.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Determined to not stand idle, Oscar started investigating. His inquiries around the neighborhood sparked an energetic response from the community.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "While confronting the perpetrators, Oscar's stern and wise presence surprised them, leading to a triumphant moment as they retracted from their plans.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Oscar resumed his tutoring, now even more respected. The community felt safer and showed their gratitude, enhancing the peaceful ambiance.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week, Oscar felt happy knowing he made a difference, proving that courage and wisdom can coalesce into heroic deeds.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, Oscar Ross not only educated minds but also safeguarded hearts, embodying the true spirit of a hero."
+}

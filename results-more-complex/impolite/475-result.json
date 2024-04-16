@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Ivan Henderson: The Consulting Crusader",
+  "summary": "Ivan Henderson, a consultant by day, becomes a hero by night, using his skills to thwart an evil plot threatening his city. Over a week, he balances his normal life with heroic deeds, ultimately saving the city and delivering justice.",
+  "summaryGerman": "Ivan Henderson, tagsüber Berater, wird nachts zum Helden und setzt seine Fähigkeiten ein, um einen bösen Plan zu vereiteln, der seine Stadt bedroht. Über eine Woche hinweg balanciert er sein normales Leben mit Heldentaten aus, rettet letztendlich die Stadt und sorgt für Gerechtigkeit.",
+  "summaryDutch": "Ivan Henderson, overdag consultant, wordt 's nachts een held die zijn vaardigheden gebruikt om een kwaadaardig plan dat zijn stad bedreigt te dwarsbomen. Gedurende een week balanceert hij zijn normale leven met heldendaden, redt uiteindelijk de stad en zorgt voor gerechtigheid.",
+  "summaryFrench": "Ivan Henderson, consultant le jour, devient un héros la nuit, utilisant ses compétences pour déjouer un complot maléfique menaçant sa ville. Tout au long d'une semaine, il équilibre sa vie normale avec des actes héroïques, sauve finalement la ville et rend justice.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ivan Henderson begins his week at his consulting firm, unaware that his skills will soon be put to the ultimate test. After hours, he stumbles upon a cryptic message pointing to a nefarious plot in the city.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Using his analytical prowess, Ivan deciphers the message and realises it reveals a plan to sabotage the city's power grid. Balancing work commitments and his secret investigation feels increasingly challenging.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Ivan spends his day educating young professionals on ethics in technology, subtly weaving in insights on safeguarding information—a skill he would later need to protect his own double life.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thurday",
+      "text": "After a distressing call, Ivan races against time to stop the initial phase of the evil plan. His heroic intervention prevents a massive blackout, earning him an anonymous accolade in the local news.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Ivan uncovers more evidence, linking a high-profile businessman to the conspiracy. Using a mix of charm and stealth, he gathers crucial information at a social gala hosted by the suspect.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Armed with undeniable proof, Ivan collaborates with the authorities to plan a decisive raid. The day is spent in intense preparation, as he hones his strategy and readies himself for the confrontation.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The raid is a success. The villains are apprehended, and the city is safe once more. Ivan, content, spends a peaceful evening reflecting on the whirlwind week, knowing his dual life remains a secret.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "In a world full of dangers, hidden heroes like Ivan make all the difference.",
+  "moral": "True heroism lies in the balance between everyday duties and extraordinary actions."
+}

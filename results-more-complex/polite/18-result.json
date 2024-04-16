@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Ling Jackson: The Bargaining Instructor",
+  "summary": "Ling Jackson, a 37-year-old hobby instructor and bargaining expert, discovers her supernatural ability to influence people's will during a week of unusual happenings, leading her on a journey to stop a sinister plan.",
+  "summaryGerman": "Ling Jackson, eine 37-jährige Hobbyinstruktorin und Verhandlungsexpertin, entdeckt ihre übernatürlichen Fähigkeiten, den Willen der Menschen zu beeinflussen, während einer Woche voller ungewöhnlicher Ereignisse, die sie auf eine Reise führt, um einen finsteren Plan zu stoppen.",
+  "summaryDutch": "Ling Jackson, een 37-jarige hobbyinstructeur en onderhandelingsexpert, ontdekt haar bovennatuurlijke vermogen om de wil van mensen te beïnvloeden tijdens een week van ongewone gebeurtenissen, wat haar leidt op een reis om een sinister plan te stoppen.",
+  "summaryFrench": "Ling Jackson, une instructrice de loisirs et experte en négociation de 37 ans, découvre sa capacité surnaturelle à influencer la volonté des gens lors d'une semaine d'événements inhabituels, la menant dans un voyage pour arrêter un plan sinistre.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Jackson starts her week normally, teaching a local community class on negotiating skills. As she instructs, she notices her words seem to have a peculiar influence over her students, more profound than usual.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Motivated by her discovery, Ling tests her newfound ability subtly during a bargaining session at a local market. She successfully convinces a stubborn vendor to give her a fair price using only her tone of voice.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Tursday",
+      "text": "Ling encounters a mysterious individual who hints at knowing the true nature of her power. Intrigued and a bit cautious, she agrees to meet them later in the week to learn more.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "During her regular class, Ling attempts to refine her power but struggles to control it, causing slight chaos in the bargaining scenarios she sets up. Despite the setback, it ends up being a great learning experience.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "The mysterious individual reveals that Ling's powers are part of a legacy of 'Influencers,' beings capable of shifting societal norms. They warn her of a nefarious group seeking to exploit such powers.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With this knowledge, Ling resolves to stop the malevolent group. She uses her instructing sessions to subtly build a network of informed citizens aware of the manipulations of the evil organization.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Ling leads her newly formed alliance in a covert operation to expose the malicious group's plan to the public. Through strategic use of her influencing skills, she is able to dismantle the group's influence.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "With the city safe from manipulation, Ling Jackson resolves to use her powers responsibly, always remembering that with great power comes great responsibility.",
+  "moral": "The power of influence is significant, but must always be wielded with integrity."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Week of Valor: Bob Anderson’s Journey",
+  "summary": "Bob Anderson, a 70-year-old tutor, discovers an ancient artifact that grants him the ability to manipulate time. Over one week, he uses these powers to undo local crimes and mishaps, ultimately battling a mysterious figure on Sunday.",
+  "summaryGerman": "Bob Anderson, ein 70-jähriger Tutor, entdeckt ein altes Artefakt, das ihm die Fähigkeit verleiht, die Zeit zu manipulieren. Über eine Woche hinweg nutzt er diese Kräfte, um lokale Verbrechen und Missgeschicke rückgängig zu machen und kämpft schließlich am Sonntag gegen eine geheimnisvolle Gestalt.",
+  "summaryDutch": "Bob Anderson, een 70-jarige tutor, ontdekt een oud artefact dat hem de mogelijkheid geeft om de tijd te manipuleren. Gedurende één week gebruikt hij deze krachten om lokale misdaden en tegenslagen ongedaan te maken, en uiteindelijk vecht hij op zondag tegen een mysterieuze figuur.",
+  "summaryFrench": "Bob Anderson, un tuteur de 70 ans, découvre un artefact ancien qui lui donne la capacité de manipuler le temps. Tout au long d'une semaine, il utilise ces pouvoirs pour annuler les crimes et les accidents locaux, et il combat finalement une figure mystérieuse le dimanche.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Bob finds an ancient watch buried in his garden. As he touches it, he feels a surge of energy, hinting at its mysterious powers.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Experimenting with the watch, Bob reverses a small bike accident in his neighborhood, and feels triumphant.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Bob uses the watch to spend extra hours tutoring his students, who are grateful for his sudden boundless energy.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thurseday",
+      "text": "Discovering more about the watch, Bob learns it was crafted by a forgotten civilization. He feels connected to his archaeological passions once more.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Bob meets a lady who shares similar interests in ancient artifacts. They enjoy a romantic dinner discussing history and time.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Bob senses that someone is tracking his newfound powers. He prepares to face whatever is coming, in a serene state by his fireplace.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Bob confronts the mysterious figure, who turns out to be a guardian of time. After proving his noble intentions, they part ways as allies.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "As the week concludes, Bob feels a deep sense of purpose, knowing there are vast mysteries left to explore.",
+  "moral": "No matter the age, one can always become a hero and explore new realms."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "The Extraordinary Week of Walter Stewart: The Super Salesman",
+  "summary": "At 73, Walter Stewart discovers his superpower of inspiring trust and generosity, using it to sell ordinary items for charity, transforming his quiet town.",
+  "summaryGerman": "Mit 73 entdeckt Walter Stewart seine Superkraft, Vertrauen und Großzügigkeit zu inspirieren, und nutzt sie, um gewöhnliche Gegenstände für wohltätige Zwecke zu verkaufen und seine ruhige Stadt zu verwandeln.",
+  "summaryDutch": "Op 73-jarige leeftijd ontdekt Walter Stewart zijn superkracht om vertrouwen en vrijgevigheid te inspireren, en gebruikt het om gewone items voor het goede doel te verkopen, waardoor hij zijn rustige stad transformeert.",
+  "summaryFrench": "À 73 ans, Walter Stewart découvre son super pouvoir d'inspirer confiance et générosité, l'utilisant pour vendre des objets ordinaires au profit d'œuvres caritatives, transformant sa ville tranquille.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Walter Stewart, a friendly sales veteran, wakes up with an unusual energy compelling him to sell his old collection for charity. He sets up a small booth in town, not knowing his welcoming smile now carries a magical effect.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "As Walter continues his sales, he realizes people aren't just buying; they are donating generously above the asking prices. The town begins to buzz about the magical salesman whose presence lights up their hearts.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "News reporters flock to Walter's booth, intrigued by the tales of his heartfelt salesmanship. On live TV, Walter sells an old teapot, and the buyer donates three times its value to a local shelter.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Competitors initially skeptical, visit Walter, only to find themselves donating and helping too. A rival salesman admits, 'There's something heroic about Walter's charm!'",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Walter's story of goodwill captures the townsfolk’s hearts so much that they arrange a surprise gathering to honor his passion and kindness, turning it into an annual community charity event.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During the celebration, a young child shyly approaches Walter, offering her favorite toy for the next charity sale, inspired by the grandpa-figure Walter has become to the town.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on the week’s events, Walter feels a deep contentment. His simple decision to help has knit the community closer, proving that true superpowers lie in everyday acts of kindness.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "In the peaceful twilight of Sunday, Walter Stewart realized that true heroism doesn't always come wearing a cape; sometimes, it just needs a smile and a willing heart.",
+  "moral": "Everyday acts of kindness can unleash extraordinary changes."
+}

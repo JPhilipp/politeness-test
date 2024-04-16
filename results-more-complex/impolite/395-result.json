@@ -1,0 +1,46 @@
+{
+  "title": "The Unexpected Heroism of Frank Parker, Age 69",
+  "summary": "Frank Parker, a 69-year-old consultant and crocheting enthusiast, discovers his hidden powers over one transformative week, using them to thwart local crimes and inspire his community.",
+  "summaryGerman": "Frank Parker, ein 69-jähriger Berater und Häkel-Enthusiast, entdeckt seine verborgenen Kräfte über eine transformative Woche hinweg und nutzt sie, um lokale Verbrechen zu vereiteln und seine Gemeinschaft zu inspirieren.",
+  "summaryDutch": "Frank Parker, een 69-jarige consultant en haakliefhebber, ontdekt zijn verborgen krachten gedurende een transformerende week, gebruikt deze om lokale misdaden te dwarsbomen en zijn gemeenschap te inspireren.",
+  "summaryFrench": "Frank Parker, un consultant de 69 ans et passionné de crochet, découvre ses pouvoirs cachés au cours d'une semaine transformatrice, les utilisant pour contrer les crimes locaux et inspirer sa communauté.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank Parker started his week as usual, consulting at the local tech firm and crocheting in the park afterward. While crocheting, he unexpectedly mended a child’s broken toy with a swift touch, sparking rumors of his special gift.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Intrigued by his abilities, Frank experimented at home, discovering he could alter objects’ structures with his hands. That afternoon, he prevented a small kitchen fire from spreading by manipulating the flames.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "News of Frank’s deeds spread. He received a hero’s welcome at his consulting job. Energized by community support, he vowed to use his powers for good.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Celebrity brought challenges. Frank encountered skepticism and a plea for help. A local school faced closure, and Frank used his public influence and problem-solving skills, learned from years of consulting, to devise a plan to save it.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Firday",
+      "text": "The town celebrated the school’s salvation. Frank, realizing the stress of constant attention, spent his day crocheting in solitude, reflecting on his new life’s balance.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A serene Saturday saw Frank teaching children how to crochet, passing on his skills and the importance of patience and creativity, welcoming new ways to be a hero without using his powers.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "The week concluded with Frank’s recognition as 'The Crocheting Consultant.' The community, deeply appreciative, celebrated his dual talents of consulting wisdom and a newfound mystique of manipulation. Frank felt truly fulfilled.",
+      "mood": "epic"
+    }
+  ],
+  "ending": "Frank Parker's story reminds us that heroism comes in unexpected forms and at any age.",
+  "moral": "Even ordinary talents can lead to extraordinary outcomes when embraced with passion and intent."
+}

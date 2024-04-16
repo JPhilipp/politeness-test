@@ -1,0 +1,46 @@
+{
+  "title": "The Editorial Avenger: The Tale of Ivan Russell",
+  "summary": "A consulting editor, Ivan Russell, gains the power to rewrite reality and uses it to rectify injustices and reconfigure his town, emerging triumphant over a sinister plot by the end of one transformative week.",
+  "summaryGerman": "Ein beratender Redakteur, Ivan Russell, erlangt die Fähigkeit, die Realität umzuschreiben, und nutzt sie, um Ungerechtigkeiten zu beheben und seine Stadt umzugestalten, wobei er am Ende einer transformativen Woche triumphierend über eine finstere Verschwörung siegt.",
+  "summaryDutch": "Een adviserende redacteur, Ivan Russell, krijgt de macht om de realiteit te herschrijven en gebruikt deze om onrecht te corrigeren en zijn stad te herconfigureren, triomferend over een sinister complot aan het einde van een transformatieve week.",
+  "summaryFrench": "Un éditeur consultant, Ivan Russell, acquiert le pouvoir de réécrire la réalité et l'utilise pour corriger les injustices et reconfigurer sa ville, émergeant triomphant d'un complot sinistre à la fin d'une semaine transformatrice.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ivan Russell discovers a mysterious old typewriter in a quaint antique shop. As a passionate editor, he is drawn to it immediately, unaware of its magical properties. He buys it and takes it home, feeling curiously energetic.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "The typewriter reveals its powers when Ivan accidentally types 'Silent City Park' instead of 'Silent Hill Park', and the city's most famous park changes names overnight. Ivan is intrigued but also a little sad, realizing the scope of his new power.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Wensday",
+      "text": "Ivan decides to use his newfound powers for good. He starts by rewriting small wrongs in his neighborhood, like unfair parking tickets and disruptive construction. The community begins noticing, feelings of happiness spread.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Thursday",
+      "text": "A dark figure observes Ivan from the shadows, plotting to steal the magical typewriter for nefarious purposes. Ivan senses the eerie presence but remains unsure of its intentions, escalating tension throughout the town.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Friday",
+      "text": "The sinister figure confronts Ivan, demanding the typewriter. An epic showdown ensues in the heart of the city. Using his wits and editorial prowess, Ivan rewrites a scenario where the villain is trapped in a fictional narrative.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "With the antagonist neutralized, Ivan uses the typewriter to repair the chaos caused throughout the week. He restructures the city’s layout to be more efficient and environmentally friendly, feeling triumphant as he watches his community flourish.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Ivan, realizing the dangers of his power, decides to hide the typewriter, ensuring that no one could misuse it again. The town praises him as a hero, and Ivan feels peaceful knowing he has secured a better future for all.",
+      "mood": "peaceful"
+    }
+  ],
+  "ending": "Ivan learned that with great power comes great responsibility, and chose to safeguard his powers for the good of his community.",
+  "moral": "Everyone has the power to change their world, but responsible use of that power is what truly makes a hero."
+}

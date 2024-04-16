@@ -1,0 +1,46 @@
+{
+  "title": "The Adventures of Judy Scott: A Week as Virtue Guardian",
+  "summary": "Judy Scott, a mild-mannered tutor by day, discovers her superpowers and uses them to confront and overcome various challenges, finding personal growth and acceptance of her new identity throughout a week filled with unexpected trials and revelations.",
+  "summaryGerman": "Judy Scott, tagsüber eine bescheidene Tutorin, entdeckt ihre Superkräfte und nutzt sie, um sich verschiedenen Herausforderungen zu stellen und sie zu überwinden. Sie findet persönliches Wachstum und akzeptiert ihre neue Identität während einer Woche voller unerwarteter Prüfungen und Offenbarungen.",
+  "summaryDutch": "Judy Scott, overdag een bescheiden tutor, ontdekt haar superkrachten en gebruikt deze om verschillende uitdagingen aan te gaan en te overwinnen, en vindt persoonlijke groei en acceptatie van haar nieuwe identiteit gedurende een week vol onverwachte beproevingen en onthullingen.",
+  "summaryFrench": "Judy Scott, une tutrice modeste de jour, découvre ses superpouvoirs et les utilise pour affronter et surmonter divers défis, trouvant une croissance personnelle et l'acceptation de sa nouvelle identité tout au long d'une semaine remplie de défis et de révélations inattendus.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Judy Scott woke to her usual routine, unaware that later that day, she would be endowed with incredible powers after encountering an alien artifact during a tutoring session at the local library. The day ended in a mix of excitement and disbelief.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "After a night of poor sleep, Judy attempted to use her newfound abilities to manipulate light and sound for advertising a charity event. She successfully drew a large crowd, feeling a surge of energy and purpose.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Challenged by the responsibility of her powers, Judy faced a moral dilemma when asked to use her abilities for monetary gain. By day's end, she chose to reserve her powers for altruistic purposes, feeling peaceful and content with her decision.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Thirsday",
+      "text": "Judy’s abilities became known to the public when she averted a potential disaster at a major outdoor event, using her powers to calm a panicked crowd. The media hailed her as a hero, capturing an epic moment in her journey.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "Despite her rising fame, Judy felt sadness as she struggled with maintaining her personal life and the increasing demands of her hero responsibilities. This day, she began to question if the sacrifices were worth the acclaim.",
+      "mood": "sad"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Rejuvenated after receiving heartfelt thanks from those she had helped, Judy spent a more romantic evening with a close friend who supported her unconditionally, accepting her new life and identity.",
+      "mood": "romantic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Judy felt deeply happy and prepared for any forthcoming challenges, recognizing her role as more than a superhero but a beacon of hope and inspiration.",
+      "mood": "happy"
+    }
+  ],
+  "ending": "Thus, Judy Scott found her true calling, not just as a tutor, but as a guardian of virtue in her community.",
+  "moral": "Embrace the challenges that come with change; they guide us to our true potential."
+}

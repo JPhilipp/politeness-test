@@ -1,0 +1,45 @@
+{
+  "title": "The Unexpected Adventures of Ling Moore",
+  "summary": "Ling Moore, a 78-year-old retired superhero, rediscovers her powers through the act of kindness and caring, ultimately saving her community from a hidden danger.",
+  "summaryGerman": "Ling Moore, eine 78-jährige pensionierte Superheldin, entdeckt ihre Kräfte durch die Tat der Freundlichkeit und Fürsorge neu und rettet letztendlich ihre Gemeinschaft vor einer verborgenen Gefahr.",
+  "summaryDutch": "Ling Moore, een 78-jarige gepensioneerde superheld, herontdekt haar krachten door de daad van vriendelijkheid en zorg, en redt uiteindelijk haar gemeenschap van een verborgen gevaar.",
+  "summaryFrench": "Ling Moore, une super-héroïne retraitée de 78 ans, redécouvre ses pouvoirs par l'acte de gentillesse et de soin, sauvant finalement sa communauté d'un danger caché.",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Ling Moore starts her week with a routine visit to the local community center where she engages in her hobby of advising. Unbeknownst to her, a mysterious energy source begins affecting the town's electronics.",
+      "mood": "peaceful"
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "She senses something amiss when her old superhero instincts kick in as she helps a young couple navigate their financial troubles. The electronics in the area flicker strangely as she speaks.",
+      "mood": "eerie"
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Investigating the electronic disturbances, Ling stumbles upon a hidden device in the community center's basement. Her advising session is interrupted by a mild earthquake.",
+      "mood": "energetic"
+    },
+    {
+      "weekday": "Thurday",
+      "text": "Ling uses her forgotten tech skills to dismantle the device, discovering it's a bomb set by a forgotten enemy from her past. She feels a rush of youthful vigor.",
+      "mood": "triumphant"
+    },
+    {
+      "weekday": "Friday",
+      "text": "With the bomb disarmed, Ling informs the authorities and spends the day recounting her adventure to amazed townsfolk, inspiring others with her courage and sharp mind.",
+      "mood": "happy"
+    },
+    {
+      "weekday": "Saturday",
+      "text": "During a celebratory community gathering in her honor, Ling advices young heroes on the importance of vigilance and kindness, sharing her wisdom.",
+      "mood": "epic"
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Reflecting on her week, Ling feels a profound sense of fulfillment. She realizes that, regardless of age, her hero’s journey continues as long as she chooses to engage with the world around her.",
+      "mood": "romantic"
+    }
+  ],
+  "moral": "You're never too old to make a difference; heroes come in all ages and forms."
+}
