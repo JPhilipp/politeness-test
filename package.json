@@ -1,0 +1,19 @@
+{
+  "name": "politeness-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@imgly/background-removal-node": "^1.4.5",
+    "dotenv": "^16.4.5",
+    "openai": "^4.35.0",
+    "sharp": "^0.33.3"
+  }
+}

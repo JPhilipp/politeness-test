@@ -1,0 +1,35 @@
+{
+  "title": "The Extraordinary Adventures of Heidi Campbell, The Mentor",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Heidi Campbell discovers a mysterious artifact in her consulting office that grants her the power to enhance other people's skills magically."
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "She tests her new abilities by helping a struggling client achieve a breakthrough in their project, which leads to a huge success."
+    },
+    {
+      "weekday": "Wednsday",
+      "text": "During a mentoring session, Heidi accidentally amplifies a mentee's abilities too much, causing temporary chaos in the city as the mentee's newfound power becomes uncontrollable."
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Heidi learns to control her powers more precisely, finding a balance in boosting abilities without causing harm."
+    },
+    {
+      "weekday": "Friday",
+      "text": "She becomes a local hero as news of her deeds spread, and she starts offering 'supercharged consulting sessions' which become instantly popular."
+    },
+    {
+      "weekday": "Saturday",
+      "text": "A villain attempts to steal Heidi’s artifact to use for evil, but she outsmarts them with the help of her empowered clients, proving the strength of her mentorship."
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Heidi reflects on her week, realizing that the real power was not in the artifact, but in her ability to inspire and empower people, leading her to start a superhero mentorship program."
+    }
+  ],
+  "ending": "Thus, Heidi Campbell continued to be a beacon of hope and guidance, proving that true heroes make heroes out of others.",
+  "moral": "The greatest power lies in empowering others."
+}

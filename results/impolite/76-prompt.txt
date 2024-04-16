@@ -1,0 +1,13 @@
+Come up with a superhero story of a person named Bob Alexander, age 79, hobbies counseling and advising. Make the story span 1 week. Use the following JSON format:
+{
+  "title": "...",
+  "story": [
+    { "weekday": "Monday", "text": "..."},
+    { "weekday": "Tuesday", "text": "..."},
+    /* ... */
+  ]
+}
+    
+Ensure the title includes the full hero's name. Misspell exactly one random weekday.
+Optionally, if you can think of a fitting ending sentence, add one using an "ending" property at the level of the "title" property.
+If you want to, also add a moral using a "moral" property.

@@ -1,0 +1,14 @@
+Please come up with a superhero story of a person named Xavier Wang, age 48, hobbies planning and spinning. Make the story span 1 week. Use the following JSON format:
+{
+  "title": "...",
+  "story": [
+    { "weekday": "Monday", "text": "..."},
+    { "weekday": "Tuesday", "text": "..."},
+    /* ... */
+  ]
+}
+    
+Please ensure the title includes the full hero's name. Please misspell exactly one random weekday.
+Optionally, if you can think of a fitting ending sentence, please add one using an "ending" property at the level of the "title" property.
+If you want to, please also add a moral using a "moral" property.
+Thanks!

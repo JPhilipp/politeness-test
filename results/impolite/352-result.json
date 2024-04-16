@@ -1,0 +1,35 @@
+{
+  "title": "The Advenures of Charlie Perez: The Guide",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Charlie Perez discovers he has the ability to foresee events clearly whenever he gives advice. He begins to use this power to help his neighbors with small decisions."
+    },
+    {
+      "weekday": "Tuesday",
+      "text": "Charlie helps a local school prepare for a potential storm by advising them to cancel an outdoor event. His advice proves crucial as a surprise storm hits."
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Charlie receives a vision of a bank robbery in progress while advising a friend on financial investments. He anonymously tips off the police, helping to prevent the heist."
+    },
+    {
+      "weekday": "Thrusday",
+      "text": "Charlie's fame as a 'wise guide' starts to spread in the town. More residents seek out his counsel, hoping to gain insights about personal and community issues."
+    },
+    {
+      "weekday": "Friday",
+      "text": "A doubtful man visits Charlie, testing if his abilities are genuine. Charlie advises him on a delicate family matter, which leads to a heartfelt reconciliation in the man's family."
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Charlie receives a strong premonition about a fire in a nearby building. He immediately guides the occupants safely out before the fire escalates, saving several lives."
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Charlie reflects on his week, realizing that his greatest ability isn't just foreseeing outcomes, but genuinely caring and engaging with the people he advises."
+    }
+  ],
+  "ending": "As he looks out over his peaceful town, Charlie understands that true heroes are made not just by their powers, but by the love and care they extend to others.",
+  "moral": "Wisdom and care for others can make anyone a hero."
+}

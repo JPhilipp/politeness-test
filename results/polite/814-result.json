@@ -1,0 +1,35 @@
+{
+  "title": "The Marvelous Adventures of Frank Gonzales, the Baking Guide",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank Gonzales discovers an ancient recipe book hidden in his late wife's baking supplies, containing mysterious symbols alongside traditional recipes."
+    },
+    {
+      "weekday": "Tuedsay",
+      "text": "While baking a mysterious pie from the recipe book, Frank accidentally activates its magical properties, granting him the power to navigate through time."
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Frank uses his newfound power to travel back to Tuesday and rescues a neighbourhood kid stuck in a tree, before anyone notices the child's plight."
+    },
+    {
+      "weekday": "Thursday",
+      "text": "Using his knowledge of the local history from his guiding days, Frank safeguards historical artefacts that are about to be stolen, guiding them to safety unseen."
+    },
+    {
+      "weekday": "Friday",
+      "text": "Frank teaches a group of troubled local teenagers the art of baking, subtly imparting wisdom and guidance, fostering a sense of accomplishment and community."
+    },
+    {
+      "weekday": "Saturday",
+      "text": "Frank travels back a few days to tweak his actions—perfecting the safety and impact of both his recipes and his interventions during the week."
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Satisfied with his week's adventures, Frank hosts a big bake sale, using his magical and historical insights to produce enchanting pastries that hint at his secret life."
+    }
+  ],
+  "ending": "As the sun sets, Frank sits back with a pie, content that he has kneaded goodness into the fabric of time itself.",
+  "moral": "No matter the age, one can always mix a bit of magic into their daily life and share the sweetness with the world."
+}

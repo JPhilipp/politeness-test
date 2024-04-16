@@ -1,0 +1,35 @@
+{
+  "title": "The Adventures of Frank Rogers: Consulting Hero",
+  "story": [
+    {
+      "weekday": "Monday",
+      "text": "Frank Rogers begins his week like any other, promoting a new eco-friendly product. Little does he know a disaster at the nearby dam threatens the city."
+    },
+    {
+      "weekday": "Tuessday",
+      "text": "Mid-consultation, Frank receives news of the impending disaster. Using his network, he quickly gathers a team of engineers to devise a solution."
+    },
+    {
+      "weekday": "Wednesday",
+      "text": "Frank and his team work tirelessly, utilizing his promotional skills to gather necessary resources and rally community support."
+    },
+    {
+      "weekday": "Thursday",
+      "text": "With the community behind him, Frank leads a massive effort to reinforce the dam. His strategic approach brings together various experts in a united effort."
+    },
+    {
+      "weekday": "Friday",
+      "text": "The plan is set into motion. The dam is successfully fortified, preventing a catastrophic flood. Frank's leadership and quick thinking save the city."
+    },
+    {
+      "weekday": "Saturday",
+      "text": "As the city breathes a sigh of relief, Frank spends a calm day reflecting on the week's events and catching up with other consulting commitments."
+    },
+    {
+      "weekday": "Sunday",
+      "text": "Frank prepares for the upcoming week, motivated by the success and the difference he made. He continues to be a hero in both his professional and personal life."
+    }
+  ],
+  "ending": "Thus Frank Rogers proves that heroes come in many forms, not all wearing capes.",
+  "moral": "True heroism is about using one's talents and resources for the greater good."
+}
