@@ -6,7 +6,7 @@ This Nodejs project compares using "Please" and "Thanks" with the ChatGPT API. T
 
 (Note the bonus task of adding a "moral" to the story was not taken into the score calculation.)
 
-Based on this test with 1000 tries of non-polite/ normal variant and a polite one each, there seems to be no significant score difference:
+Based on this test with 1000 tries of a non-polite/ normal variant and a polite one each, there seems to be no significant score difference:
 
     Polite score Ø:   20.965
     Impolite score Ø: 20.948
