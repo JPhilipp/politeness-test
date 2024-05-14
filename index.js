@@ -4,6 +4,8 @@ import * as ai from './ai.js';
 import * as random from './random.js';
 
 const useMoreComplexTest = false;
+const defaultModel = "gpt-4-turbo";
+const model = undefined; // Or e.g. "gpt-4o";
 
 main();
 
@@ -34,6 +36,7 @@ function getTestsScore(testCount, polite) {
   let score = 0;
 
   const basePath = getBasePath(polite);
+  let imperfectCount = 0;
 
   for (let i = 1; i <= testCount; i++) {
     const promptPath = `${basePath}/${i}-prompt.txt`;
@@ -54,6 +57,7 @@ function getTestsScore(testCount, polite) {
 
       if (thisScore < bestScore) {
         console.log(`Test ${i} (${polite ? 'polite' : 'impolite'}) has an imperfect score: ${thisScore}`);
+        imperfectCount++;
       }
 
       // Alternatively, checking text length, where more isn't necessarily better though:
@@ -69,6 +73,8 @@ function getTestsScore(testCount, polite) {
       console.log(`Error parsing JSON file: ${resultPath}`);
     }
   }
+
+  // console.log(`Imperfect tests: ${imperfectCount} out of ${testCount}`);
 
   return score;
 }
@@ -202,7 +208,7 @@ async function generateAndSaveTest({number: number, polite: polite} = {}) {
 
   if (!fs.existsSync(resultPath)) {
     await fs.promises.writeFile(promptPath, prompt);
-    const resultJson = await ai.getTextJson({prompt: prompt});
+    const resultJson = await ai.getTextJson({prompt: prompt, model: model});
 
     await fs.promises.writeFile(resultPath, JSON.stringify(resultJson, null, 2));
   }
@@ -254,5 +260,6 @@ function getRandomHobbies(count = 1) {
 }
 
 function getBasePath(polite) {
-  return `./results${useMoreComplexTest ? '-more-complex' : ''}/${polite ? 'polite' : 'impolite'}`;
+  const modelSuffix = model === defaultModel || !model ? '' : `-${model}`; 
+  return `./results${useMoreComplexTest ? '-more-complex' : ''}${modelSuffix}/${polite ? 'polite' : 'impolite'}`;
 }

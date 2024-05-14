@@ -9,3 +9,6 @@ desktop.ini
 *.lnk
 
 temp/*
+
+results-gpt-4o/*
+results-more-complex-gpt-4o/*
